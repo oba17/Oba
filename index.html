@@ -6,12 +6,17 @@
     <title>Senior Salesforce Administrator Portfolio</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Google Fonts: Playfair Display for Serif headings, Inter for Sans-serif body text -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Inter', sans-serif;
-            background-color: #f8fafc; /* Light blue-gray background */
-            color: #1e293b; /* Dark slate text */
+            font-family: 'Inter', sans-serif; /* Sans-serif for body text */
+            /* Light, warm off-white background similar to Etsy link */
+            background-color: #FDF8F0; /* Custom very light beige */
+            color: #4A4A4A; /* Darker, soft grey-brown for general text */
+        }
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif; /* Serif for all headers */
         }
         .container {
             max-width: 1200px; /* Max width for content */
@@ -30,7 +35,8 @@
             transform: translateX(-50%);
             width: 80px; /* Shorter underline */
             height: 4px;
-            background-color: #3b82f6; /* Blue underline */
+            /* Muted green accent */
+            background-color: #7AA874; /* Soft green from theme */
             border-radius: 9999px;
         }
         .skill-bubble {
@@ -39,7 +45,7 @@
             align-items: center;
             justify-content: center;
             padding: 1.5rem;
-            background-color: #ffffff;
+            background-color: #ffffff; /* Keeping inner elements white for contrast */
             border-radius: 1.5rem; /* More rounded */
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
             transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
@@ -50,7 +56,7 @@
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
         }
         .project-card-v2 {
-            background-color: #ffffff;
+            background-color: #ffffff; /* Keeping inner elements white for contrast */
             border-radius: 1rem; /* rounded-xl */
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
             overflow: hidden;
@@ -60,40 +66,56 @@
             transform: translateY(-8px);
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
         }
-        .certification-item {
+        /* Styles for certification bubbles - small size */
+        .certification-bubble {
             display: flex;
+            flex-direction: column;
             align-items: center;
-            gap: 1rem;
-            background-color: #f0f9ff; /* Lightest blue */
-            padding: 1rem;
-            border-radius: 0.75rem;
-            border: 1px solid #bfdbfe; /* Light blue border */
-            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+            justify-content: center;
+            padding: 0.75rem; /* Reduced padding further */
+            background-color: #ffffff; /* Keeping inner elements white for contrast */
+            border-radius: 1.5rem; /* More rounded */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
         }
-        .certification-item img {
-            width: 60px; /* Adjust badge size */
-            height: 60px;
+        .certification-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .certification-bubble img {
+            width: 20px; /* Reduced badge size to half */
+            height: 20px;
             object-fit: contain;
+            margin-bottom: 0.25rem; /* Reduced space between image and text */
+        }
+        .certification-bubble p {
+            font-size: 0.875rem; /* Reduced font size for better fit */
+            color: #4A4A4A; /* Text color consistent with body */
         }
     </style>
 </head>
 <body class="antialiased">
     <!-- Header/Navigation -->
-    <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white p-6 shadow-xl">
+    <header class="bg-gradient-to-r from-[#7AA874] to-[#E1C4B5] text-white p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
             <div class="text-center md:text-left mb-4 md:mb-0">
-                <h1 class="4xl font-extrabold tracking-tight">
+                <h1 class="text-4xl font-extrabold tracking-tight" style="color: #4A4A4A;">
+                    <!-- Adjusted header text color for readability on lighter gradient -->
                     Oba Adeleke
                 </h1>
-                <p class="text-xl font-medium opacity-90 mt-1">Senior Salesforce Administrator | Automation & Optimization Expert</p>
+                <p class="text-xl font-medium opacity-90 mt-1" style="color: #6C7A89;">
+                    <!-- Adjusted sub-text color -->
+                    Senior Salesforce Administrator | Automation & Optimization Expert
+                </p>
             </div>
             <nav>
                 <ul class="flex flex-wrap justify-center space-x-6 text-lg font-medium">
-                    <li><a href="#about" class="hover:text-blue-200 transition duration-300">About</a></li>
-                    <li><a href="#skills" class="hover:text-blue-200 transition duration-300">Skills</a></li>
-                    <li><a href="#certifications" class="hover:text-blue-200 transition duration-300">Certifications</a></li>
-                    <li><a href="#portfolio" class="hover:text-blue-200 transition duration-300">Portfolio</a></li>
-                    <li><a href="#contact" class="hover:text-blue-200 transition duration-300">Contact</a></li>
+                    <li><a href="#about" class="hover:text-gray-700 transition duration-300" style="color: #4A4A4A;">About</a></li>
+                    <li><a href="#skills" class="hover:text-gray-700 transition duration-300" style="color: #4A4A4A;">Skills</a></li>
+                    <li><a href="#certifications" class="hover:text-gray-700 transition duration-300" style="color: #4A4A4A;">Certifications</a></li>
+                    <li><a href="#portfolio" class="hover:text-gray-700 transition duration-300" style="color: #4A4A4A;">Portfolio</a></li>
+                    <li><a href="#contact" class="hover:text-gray-700 transition duration-300" style="color: #4A4A4A;">Contact</a></li>
                 </ul>
             </nav>
         </div>
@@ -102,11 +124,11 @@
     <main class="container mx-auto px-4 py-12 md:py-16">
 
         <!-- About Section -->
-        <section id="about" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-blue-100">
+        <section id="about" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">About Me</h2>
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #7AA874;">About Me</h2>
             </div>
-            <div class="text-lg leading-relaxed space-y-5 text-gray-700">
+            <div class="text-lg leading-relaxed space-y-5" style="color: #4A4A4A;">
                 <p>I’m a dedicated Senior Salesforce Administrator with a passion for transforming complex business challenges into efficient, scalable solutions. With broad experience across multiple industries, I specialize in maximizing platform utility to drive operational excellence, improve user experience, and ensure robust data governance. My approach blends technical proficiency with strategic thinking, always prioritizing stakeholder collaboration and intelligent automation.</p>
                 <p>I began my career as a lawyer, called to the Nigerian Bar in 2012, advocating in courts up to the Supreme Court. While leading business development at a law firm, I discovered Salesforce—and never looked back. Since then, I’ve built impactful, user-focused systems that deliver lasting value.</p>
             </div>
@@ -115,113 +137,109 @@
         <!-- Skills Section -->
         <section id="skills" class="mb-16 md:mb-24">
             <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">My Core Capabilities</h2>
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #7AA874;">My Core Capabilities</h2>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 <!-- Skill 1: Automation & Process Optimization -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Automation & Process Optimization</h3>
-                    <p class="text-gray-600 text-sm mt-2">Expert in Flow, Process Builder, and Workflow Rules to streamline complex business processes.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Automation & Process Optimization</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Designing and implementing Flows, Process Builders, and Workflow Rules to streamline operations and enhance efficiency.</p>
                 </div>
 
                 <!-- Skill 2: Data Management & Analytics -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 5h18a2 2 0 012 2v10a2 2 0 01-2 2H3a2 2 0 01-2-2V7a2 2 0 012-2z"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Data Management & Analytics</h3>
-                    <p class="text-gray-600 text-sm mt-2">Ensuring data integrity, quality, and leveraging data for strategic insights through advanced reporting.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 5h18a2 2 0 012 2v10a2 2 0 01-2 2H3a2 2 0 01-2-2V7a2 2 0 012-2z"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Data Management & Analytics</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Ensuring data integrity, quality, and developing actionable insights through robust reporting and dashboards.</p>
                 </div>
 
                 <!-- Skill 3: Integration -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Integration</h3>
-                    <p class="text-gray-600 text-sm mt-2">Connecting Salesforce with external systems using APIs, middleware, and AppExchange solutions for seamless data flow.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Integration</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Connecting Salesforce with external systems using APIs, Middleware (e.g., MuleSoft), and AppExchange solutions.</p>
                 </div>
 
                 <!-- Skill 4: Change Management & User Adoption -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-6-10l2 2m0 0l2 2m-2-2L6 9m2-2L6 5m14 6v2a9 9 0 01-18 0v-2"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Change Management & User Adoption</h3>
-                    <p class="text-gray-600 text-sm mt-2">Driving successful user adoption through comprehensive training, documentation, and communication strategies.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-6-10l2 2m0 0l2 2m-2-2L6 9m2-2L6 5m14 6v2a9 9 0 01-18 0v-2"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Change Management & User Adoption</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Leading training, documentation, and communication strategies for smooth transitions and high user engagement.</p>
                 </div>
 
                 <!-- Skill 5: Security & Compliance -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.003 12.003 0 002.924 12c0 3.072 1.887 5.817 4.717 7.039v-5.262m9.414 0l-4.707 4.707M12 21c-3.072 0-5.817-1.887-7.039-4.717h5.262m9.414 0A11.955 11.955 0 0121.056 12c0-3.072-1.887-5.817-4.717-7.039"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Security & Compliance</h3>
-                    <p class="text-gray-600 text-sm mt-2">Implementing robust security models and ensuring adherence to data governance and compliance policies.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.003 12.003 0 002.924 12c0 3.072 1.887 5.817 4.717 7.039v-5.262m9.414 0l-4.707 4.707M12 21c-3.072 0-5.817-1.887-7.039-4.717h5.262m9.414 0A11.955 11.955 0 0121.056 12c0-3.072-1.887-5.817-4.717-7.039"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Security & Compliance</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Implementing robust security models (OWD, Profiles, Permission Sets) and ensuring adherence to data governance policies.</p>
                 </div>
 
                 <!-- Skill 6: Reports & Dashboards -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c1.657 0 3 .895 3 2s-1.343 2-3 2c-1.657 0-3-.895-3-2s1.343-2 3-2z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8V5m0 3v8m0-8h3m-3 0H9"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17l-4 4-4-4"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Reports & Dashboards</h3>
-                    <p class="text-gray-600 text-sm mt-2">Designing and building insightful reports and dynamic dashboards for real-time performance tracking.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c1.657 0 3 .895 3 2s-1.343 2-3 2c-1.657 0-3-.895-3-2s1.343-2 3-2z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8V5m0 3v8m0-8h3m-3 0H9"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17l-4 4-4-4"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Reports & Dashboards</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Creating insightful reports and dynamic dashboards to provide real-time visibility into key business metrics.</p>
                 </div>
 
                  <!-- Skill 7: Testing & Deployment -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Testing & Deployment</h3>
-                    <p class="text-gray-600 text-sm mt-2">Managing sandbox strategies, conducting thorough UAT, and executing seamless deployments.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Testing & Deployment</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Managing Sandbox strategies, conducting thorough UAT, and executing seamless metadata deployments.</p>
                 </div>
 
                 <!-- Skill 8: Troubleshooting -->
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37a1.724 1.724 0 002.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                    <h3 class="text-xl font-semibold text-gray-800">Troubleshooting</h3>
-                    <p class="text-gray-600 text-sm mt-2">Efficiently diagnosing and resolving complex Salesforce issues to ensure business continuity.</p>
+                    <svg class="w-12 h-12 mb-4" style="color: #7AA874;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37a1.724 1.724 0 002.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                    <h3 class="text-xl font-semibold" style="color: #4A4A4A;">Troubleshooting</h3>
+                    <p class="text-sm mt-2" style="color: #6C7A89;">Efficiently diagnosing and resolving complex Salesforce issues efficiently, ensuring minimal disruption to business operations.</p>
                 </div>
             </div>
         </section>
 
-      
-
- 
         <!-- Certifications & Education Section -->
-        <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-blue-100">
+        <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">Certifications & Education</h2>
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #7AA874;">Certifications & Education</h2>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
-                <div>
-                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Professional Certifications</h3>
-                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
-                       <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
-                            <p class="text-md text-gray-700 font-medium">Salesforce Certified Advanced Administrator</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=App+Bld';" title="Salesforce Certified Platform App Builder">
-                            <p class="text-md text-gray-700 font-medium">Salesforce Certified Platform App Builder</p>
+                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/B6D7A8/4A4A4A?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
+                            <p>Salesforce Certified Advanced Administrator</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
-                            <p class="text-md text-gray-700 font-medium">Salesforce Sales Cloud Consultant</p>
+                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/B6D7A8/4A4A4A?text=App+Bld';" title="Salesforce Certified Platform App Builder">
+                            <p>Salesforce Certified Platform App Builder</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
-                            <p class="text-md text-gray-700 font-medium">Salesforce Service Cloud Consultant</p>
-                        </div>
-                         <div class="certification-bubble">
-                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=BA';" title="Salesforce Certified Business Analyst">
-                            <p class="text-md text-gray-700 font-medium">Salesforce Certified Business Analyst</p>
+                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/B6D7A8/4A4A4A?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
+                            <p>Salesforce Sales Cloud Consultant</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/BFDBFE/1D4ED8?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
-                            <p class="text-md text-gray-700 font-medium">(CBAP®) – Certified Business Analysis Professional, IIBA</p>
+                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/B6D7A8/4A4A4A?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
+                            <p>Salesforce Service Cloud Consultant</p>
+                        <div>
+                    <h3 class="text-2xl font-bold" style="color: #4A4A4A; ">Professional Certifications</h3>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
+                        <div class="certification-bubble">
+                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/B6D7A8/4A4A4A?text=BA';" title="Salesforce Certified Business Analyst">
+                            <p>Salesforce Certified Business Analyst</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1C4B5/4A4A4A?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
+                            <p>(CBAP®) – Certified Business Analysis Professional, IIBA</p>
                         </div>
                         <div class="certification-bubble">
                             <img src="PSM 1.jpg" alt="Professional Scrum Master Badge" title="Professional Scrum Master – Scrum.Org">
-                            <p class="text-md text-gray-700 font-medium">Professional Scrum Master – Scrum.Org</p>
-
+                            <p>Professional Scrum Master – Scrum.Org</p>
                         </div>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Education</h3>
-                    <div class="space-y-4 text-lg text-gray-700">
+                    <h3 class="text-2xl font-bold" style="color: #4A4A4A;">Education</h3>
+                    <div class="space-y-4 text-lg" style="color: #4A4A4A;">
                         <p><span class="font-semibold">LL.B (Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
                         <p><span class="font-semibold">B.L</span>, Council of Legal Education – (2011)</p>
                         <p><span class="font-semibold">Called to the Nigerian Bar</span> – (2012)</p>
@@ -233,51 +251,51 @@
         <!-- Portfolio Projects Section -->
         <section id="portfolio" class="mb-16 md:mb-24">
             <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">My Salesforce Projects</h2>
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #7AA874;">My Salesforce Projects</h2>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Project Card 1 (Template) -->
                 <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/E0F2FE/1E40AF?text=Sales+Automation" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <img src="https://placehold.co/600x400/D4E7D0/7AA874?text=Sales+Automation" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
-                        <h3 class="text-2xl font-bold text-gray-800 mb-2">Automated Sales Process Revamp</h3>
-                        <p class="text-gray-700 mb-4 text-base">Designed and implemented a comprehensive sales automation flow, reducing manual data entry by 30% and improving sales rep productivity.</p>
+                        <h3 class="text-2xl font-bold" style="color: #4A4A4A;">Automated Sales Process Revamp</h3>
+                        <p class="mb-4 text-base" style="color: #6C7A89;">Designed and implemented a comprehensive sales automation flow, reducing manual data entry by 30% and improving sales rep productivity.</p>
                         <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">Sales Cloud</li>
-                            <li class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">Flow Automation</li>
-                            <li class="bg-blue-100 text-blue-800 text-sm font-medium px-3 py-1 rounded-full">Reporting</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">Sales Cloud</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">Flow Automation</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">Reporting</li>
                         </ul>
-                        <a href="#" class="inline-block bg-blue-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-blue-700 transition duration-300 shadow-md">View Case Study</a>
+                        <a href="#" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #7AA874; hover:background-color: #6C9467;">View Case Study</a>
                     </div>
                 </div>
 
                 <!-- Project Card 2 (Template) -->
                 <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/F0F9FF/0C4A6E?text=Data+Migration" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <img src="https://placehold.co/600x400/F0D9D5/E1C4B5?text=Data+Migration" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
-                        <h3 class="text-2xl font-bold text-gray-800 mb-2">Large-Scale Data Migration & Cleansing</h3>
-                        <p class="text-gray-700 mb-4 text-base">Led a critical data migration project from legacy systems to Salesforce, ensuring data accuracy and integrity for 500K+ records.</p>
+                        <h3 class="text-2xl font-bold" style="color: #4A4A4A;">Large-Scale Data Migration & Cleansing</h3>
+                        <p class="mb-4 text-base" style="color: #6C7A89;">Led a critical data migration project from legacy systems to Salesforce, ensuring data accuracy and integrity for 500K+ records.</p>
                         <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-sky-100 text-sky-800 text-sm font-medium px-3 py-1 rounded-full">Data Loader</li>
-                            <li class="bg-sky-100 text-sky-800 text-sm font-medium px-3 py-1 rounded-full">Data Governance</li>
-                            <li class="bg-sky-100 text-sky-800 text-sm font-medium px-3 py-1 rounded-full">Validation Rules</li>
+                            <li class="bg-[#F0D9D5] text-[#E1C4B5] text-sm font-medium px-3 py-1 rounded-full">Data Loader</li>
+                            <li class="bg-[#F0D9D5] text-[#E1C4B5] text-sm font-medium px-3 py-1 rounded-full">Data Governance</li>
+                            <li class="bg-[#F0D9D5] text-[#E1C4B5] text-sm font-medium px-3 py-1 rounded-full">Validation Rules</li>
                         </ul>
-                        <a href="#" class="inline-block bg-sky-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-sky-700 transition duration-300 shadow-md">Project Details</a>
+                        <a href="#" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #E1C4B5; hover:background-color: #CBA89C;">Project Details</a>
                     </div>
                 </div>
 
                 <!-- Project Card 3 (Template) -->
                 <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/F0FDF4/15803D?text=User+Adoption" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <img src="https://placehold.co/600x400/D4E7D0/7AA874?text=User+Adoption" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
-                        <h3 class="text-2xl font-bold text-gray-800 mb-2">Enhanced User Training & Adoption Program</h3>
-                        <p class="text-gray-700 mb-4 text-base">Developed and delivered tailored training programs resulting in a 20% increase in Salesforce user engagement within 3 months.</p>
+                        <h3 class="text-2xl font-bold" style="color: #4A4A4A;">Enhanced User Training & Adoption Program</h3>
+                        <p class="mb-4 text-base" style="color: #6C7A89;">Developed and delivered tailored training programs resulting in a 20% increase in Salesforce user engagement within 3 months.</p>
                         <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">Change Management</li>
-                            <li class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">User Enablement</li>
-                            <li class="bg-green-100 text-green-800 text-sm font-medium px-3 py-1 rounded-full">Documentation</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">Change Management</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">User Enablement</li>
+                            <li class="bg-[#D4E7D0] text-[#7AA874] text-sm font-medium px-3 py-1 rounded-full">Documentation</li>
                         </ul>
-                        <a href="#" class="inline-block bg-green-600 text-white font-semibold py-2 px-6 rounded-lg hover:bg-green-700 transition duration-300 shadow-md">Learn More</a>
+                        <a href="#" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #7AA874; hover:background-color: #6C9467;">Learn More</a>
                     </div>
                 </div>
 
@@ -285,35 +303,35 @@
 
             </div>
             <div class="text-center mt-12">
-                <p class="text-lg text-gray-600">Stay tuned for more impactful projects!</p>
+                <p class="text-lg" style="color: #6C7A89;">Stay tuned for more impactful projects!</p>
             </div>
         </section>
 
         <!-- Contact Section -->
-        <section id="contact" class="bg-blue-50 p-8 md:p-12 rounded-2xl shadow-xl border border-blue-100">
+        <section id="contact" class="bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">Let's Connect</h2>
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #7AA874;">Let's Connect</h2>
             </div>
             <div class="max-w-xl mx-auto">
-                <p class="text-lg text-gray-700 text-center mb-6">I'm always open to discussing new opportunities or collaborations. Feel free to send a message!</p>
+                <p class="text-lg text-center mb-6" style="color: #6C7A89;">I'm always open to discussing new opportunities or collaborations. Feel free to send a message!</p>
                 <form class="space-y-5">
                     <div>
-                        <label for="name" class="block text-gray-700 text-lg font-medium mb-2">Your Name</label>
-                        <input type="text" id="name" name="name" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="John Doe" required>
+                        <label for="name" class="block text-lg font-medium mb-2" style="color: #4A4A4A;">Your Name</label>
+                        <input type="text" id="name" name="name" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-[#7AA874] focus:border-[#7AA874] transition duration-200" placeholder="John Doe" required style="color: #4A4A4A;">
                     </div>
                     <div>
-                        <label for="email" class="block text-gray-700 text-lg font-medium mb-2">Your Email</label>
-                        <input type="email" id="email" name="email" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="john.doe@example.com" required>
+                        <label for="email" class="block text-lg font-medium mb-2" style="color: #4A4A4A;">Your Email</label>
+                        <input type="email" id="email" name="email" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-[#7AA874] focus:border-[#7AA874] transition duration-200" placeholder="john.doe@example.com" required style="color: #4A4A4A;">
                     </div>
                     <div>
-                        <label for="message" class="block text-gray-700 text-lg font-medium mb-2">Your Message</label>
-                        <textarea id="message" name="message" rows="6" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 transition duration-200" placeholder="Tell me about your project or inquiry..." required></textarea>
+                        <label for="message" class="block text-lg font-medium mb-2" style="color: #4A4A4A;">Your Message</label>
+                        <textarea id="message" name="message" rows="6" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-[#7AA874] focus:border-[#7AA874] transition duration-200" placeholder="Tell me about your project or inquiry..." required style="color: #4A4A4A;"></textarea>
                     </div>
-                    <button type="submit" class="w-full bg-blue-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-700 transition duration-300 text-xl shadow-lg transform hover:scale-105">Send Message</button>
+                    <button type="submit" class="w-full text-white font-bold py-3 px-6 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #E1C4B5; hover:background-color: #CBA89C; color: #4A4A4A;">Send Message</button>
                 </form>
-                <div class="mt-10 text-center text-gray-600 text-lg space-y-2">
-                    <p>Email: <a href="mailto:your.email@example.com" class="text-blue-600 hover:underline">your.email@example.com</a></p>
-                    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="text-blue-600 hover:underline">linkedin.com/in/yourprofile</a></p>
+                <div class="mt-10 text-center text-lg space-y-2" style="color: #6C7A89;">
+                    <p>Email: <a href="mailto:your.email@example.com" class="hover:underline" style="color: #7AA874;">your.email@example.com</a></p>
+                    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="hover:underline" style="color: #7AA874;">linkedin.com/in/yourprofile</a></p>
                 </div>
             </div>
         </section>
@@ -321,7 +339,7 @@
     </main>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 text-gray-300 p-6 text-center mt-12">
+    <footer class="p-6 text-center mt-12" style="background-color: #4A4A4A; color: #FDF8F0;">
         <div class="container mx-auto">
             <p>&copy; 2025 [Your Name]. All rights reserved.</p>
         </div>
