@@ -60,6 +60,21 @@
             transform: translateY(-8px);
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
         }
+        .certification-item {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            background-color: #f0f9ff; /* Lightest blue */
+            padding: 1rem;
+            border-radius: 0.75rem;
+            border: 1px solid #bfdbfe; /* Light blue border */
+            box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+        }
+        .certification-item img {
+            width: 60px; /* Adjust badge size */
+            height: 60px;
+            object-fit: contain;
+        }
     </style>
 </head>
 <body class="antialiased">
@@ -68,7 +83,7 @@
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
             <div class="text-center md:text-left mb-4 md:mb-0">
                 <h1 class="text-4xl font-extrabold tracking-tight">
-                    Oba Adeleke
+                    [Your Name]
                 </h1>
                 <p class="text-xl font-medium opacity-90 mt-1">Senior Salesforce Administrator</p>
             </div>
@@ -76,6 +91,7 @@
                 <ul class="flex flex-wrap justify-center space-x-6 text-lg font-medium">
                     <li><a href="#about" class="hover:text-blue-200 transition duration-300">About</a></li>
                     <li><a href="#skills" class="hover:text-blue-200 transition duration-300">Skills</a></li>
+                    <li><a href="#certifications" class="hover:text-blue-200 transition duration-300">Certifications</a></li>
                     <li><a href="#portfolio" class="hover:text-blue-200 transition duration-300">Portfolio</a></li>
                     <li><a href="#contact" class="hover:text-blue-200 transition duration-300">Contact</a></li>
                 </ul>
@@ -156,6 +172,56 @@
                     <svg class="w-12 h-12 text-blue-500 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37a1.724 1.724 0 002.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                     <h3 class="text-xl font-semibold text-gray-800">Troubleshooting</h3>
                     <p class="text-gray-600 text-sm mt-2">Efficiently diagnosing and resolving complex Salesforce issues to ensure business continuity.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Certifications & Education Section -->
+        <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-blue-100">
+            <div class="section-header">
+                <h2 class="text-3xl md:text-4xl font-extrabold text-blue-700">Certifications & Education</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+                <div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Professional Certifications</h3>
+                    <div class="space-y-4">
+                        <div class="certification-item">
+                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png-bf16d98c-58fc-4f3b-9237-f2a8ca5f7a95" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=BA';" title="Salesforce Certified Business Analyst">
+                            <p class="text-lg text-gray-700 font-medium">Salesforce Certified Business Analyst</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png-e8710175-cbe5-4907-a761-3bba978b6b73" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
+                            <p class="text-lg text-gray-700 font-medium">Salesforce Certified Advanced Administrator</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png-b0a3b1ca-cf6e-41e8-9b6a-f080b1bda613" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=App+Bld';" title="Salesforce Certified Platform App Builder">
+                            <p class="text-lg text-gray-700 font-medium">Salesforce Certified Platform App Builder</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png-d6864090-d1e3-4ca2-bfb0-02a9a5bc421b" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
+                            <p class="text-lg text-gray-700 font-medium">Salesforce Sales Cloud Consultant</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png-4f31fcce-3aca-4f58-ae7a-adcf97d0a99e" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
+                            <p class="text-lg text-gray-700 font-medium">Salesforce Service Cloud Consultant</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png-5c1e1905-807b-4563-bf50-355a4a9a4dd5" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/60x60/BFDBFE/1D4ED8?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
+                            <p class="text-lg text-gray-700 font-medium">(CBAP®) – Certified Business Analysis Professional, IIBA</p>
+                        </div>
+                        <div class="certification-item">
+                            <img src="https://placehold.co/60x60/BFDBFE/1D4ED8?text=PSM" alt="Professional Scrum Master Badge" title="Professional Scrum Master – Scrum.Org">
+                            <p class="text-lg text-gray-700 font-medium">Professional Scrum Master – Scrum.Org</p>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-2xl font-bold text-gray-800 mb-4">Education</h3>
+                    <div class="space-y-4 text-lg text-gray-700">
+                        <p><span class="font-semibold">LL.B (Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
+                        <p><span class="font-semibold">B.L</span>, Council of Legal Education – (2011)</p>
+                        <p><span class="font-semibold">Called to the Nigerian Bar</span> – (2012)</p>
+                    </div>
                 </div>
             </div>
         </section>
