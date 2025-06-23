@@ -70,7 +70,7 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            padding: 1rem; /* Adjusted padding */
+            padding: 1rem; /* Adjusted padding, keeping bubble size similar */
             background-color: #ffffff;
             border-radius: 1.5rem;
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
@@ -82,13 +82,13 @@
             box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
         }
         .certification-bubble img {
-            width: 30px; /* Increased badge size by half */
-            height: 30px;
+            width: 77px; /* Increased badge size by 60% (from original 48px in previous step) */
+            height: 77px;
             object-fit: contain;
             margin-bottom: 0.5rem; /* Adjusted space between image and text */
         }
         .certification-bubble p {
-            font-size: 0.9375rem; /* Slightly larger font for better fit */
+            font-size: 0.5625rem; /* Retained previous 40% reduction for readability */
             color: #222222; /* Text color consistent with body */
         }
         .testimonial-card {
@@ -137,7 +137,7 @@
 
         <section class="flex flex-col md:flex-row justify-center items-center gap-6 mb-16 md:mb-24">
             <a href="#portfolio" class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #8D7B68; hover:background-color: #666666;">View Projects</a>
-            <a href="Obaloluwa Adeleke Resume.docx.pdf" download class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #222222; hover:background-color: #444444;">Download Resume</a>
+            <a href="Obaloluwa Adeleke Resume.pdf" download class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #222222; hover:background-color: #444444;">Download Resume</a>
         </section>
 
         <section id="skills" class="mb-16 md:mb-24">
@@ -195,7 +195,7 @@
             </div>
         </section>
 
-       <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+        <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">Certifications & Education</h2>
             </div>
@@ -204,27 +204,27 @@
                     <h3 class="text-2xl font-bold" style="color: #222222; ">Professional Certifications</h3>
                     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
+                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
                             <p>Salesforce Certified Advanced Administrator</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=App+Bld';" title="Salesforce Certified Platform App Builder">
+                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=App+Bld';" title="Salesforce Certified Platform App Builder">
                             <p>Salesforce Certified Platform App Builder</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
+                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
                             <p>Salesforce Sales Cloud Consultant</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
+                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
                             <p>Salesforce Service Cloud Consultant</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=BA';" title="Salesforce Certified Business Analyst">
+                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=BA';" title="Salesforce Certified Business Analyst">
                             <p>Salesforce Certified Business Analyst</p>
                         </div>
                         <div class="certification-bubble">
-                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/40x40/E1D8CE/8D7B68?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
+                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/E1D8CE/8D7B68?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
                             <p>(CBAP®) – Certified Business Analysis Professional, IIBA</p>
                         </div>
                         <div class="certification-bubble">
@@ -236,9 +236,9 @@
                 <div>
                     <h3 class="text-2xl font-bold" style="color: #222222;">Education</h3>
                     <div class="space-y-4 text-lg" style="color: #222222;">
-                        <p><span class="font-semibold">Bachelor of Law (LL.B, Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
-                        <p><span class="font-semibold">Barrister at Law (B.L)</span>, Council of Legal Education – (2011)</p>
-                        <p><span class="font-semibold">Call to the Nigerian Bar</span>, Body of Benchers – (2012)</p>
+                        <p><span class="font-semibold">LL.B (Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
+                        <p><span class="font-semibold">B.L</span>, Council of Legal Education – (2011)</p>
+                        <p><span class="font-semibold">Called to the Nigerian Bar</span> – (2012)</p>
                     </div>
                 </div>
             </div>
