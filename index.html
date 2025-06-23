@@ -91,10 +91,15 @@
             font-size: 0.9375rem; /* Slightly larger font for better fit */
             color: #222222; /* Text color consistent with body */
         }
+        .testimonial-card {
+            background-color: #ffffff;
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
     </style>
 </head>
 <body class="antialiased">
-    <!-- Header/Navigation -->
     <header class="bg-gradient-to-r from-[#FDF8F0] to-[#E1D8CE] p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
             <div class="text-center md:text-left mb-4 md:mb-0">
@@ -111,6 +116,7 @@
                     <li><a href="#skills" class="hover:text-gray-700 transition duration-300" style="color: #222222;">Skills</a></li>
                     <li><a href="#certifications" class="hover:text-gray-700 transition duration-300" style="color: #222222;">Certifications</a></li>
                     <li><a href="#portfolio" class="hover:text-gray-700 transition duration-300" style="color: #222222;">Portfolio</a></li>
+                    <li><a href="#feedback" class="hover:text-gray-700 transition duration-300" style="color: #222222;">Feedback</a></li>
                     <li><a href="#contact" class="hover:text-gray-700 transition duration-300" style="color: #222222;">Contact</a></li>
                 </ul>
             </nav>
@@ -119,8 +125,7 @@
 
     <main class="container mx-auto px-4 py-12 md:py-16">
 
-        <!-- About Section -->
-        <section id="about" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+        <section id="about" class="mb-8 md:mb-12 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">About Me</h2>
             </div>
@@ -130,62 +135,58 @@
             </div>
         </section>
 
-        <!-- Skills Section -->
+        <section class="flex flex-col md:flex-row justify-center items-center gap-6 mb-16 md:mb-24">
+            <a href="#portfolio" class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #8D7B68; hover:background-color: #666666;">View Projects</a>
+            <a href="Obaloluwa Adeleke Resume.pdf" download class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #222222; hover:background-color: #444444;">Download Resume</a>
+        </section>
+
         <section id="skills" class="mb-16 md:mb-24">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">My Core Capabilities</h2>
             </div>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
-                <!-- Skill 1: Automation & Process Optimization -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Automation & Process Optimization</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Designing and implementing Flows, Process Builders, and Workflow Rules to streamline operations and enhance efficiency.</p>
                 </div>
 
-                <!-- Skill 2: Data Management & Analytics -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 5h18a2 2 0 012 2v10a2 2 0 01-2 2H3a2 2 0 01-2-2V7a2 2 0 012-2z"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Data Management & Analytics</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Ensuring data integrity, quality, and developing actionable insights through robust reporting and dashboards.</p>
                 </div>
 
-                <!-- Skill 3: Integration -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7h12m0 0l-4-4m4 4l-4 4m0 6H4m0 0l4 4m-4-4l4-4"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Integration</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Connecting Salesforce with external systems using APIs, Middleware (e.g., MuleSoft), and AppExchange solutions.</p>
                 </div>
 
-                <!-- Skill 4: Change Management & User Adoption -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M18 9v3m0 0v3m0-3h3m-3 0h-3m-6-10l2 2m0 0l2 2m-2-2L6 9m2-2L6 5m14 6v2a9 9 0 01-18 0v-2"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Change Management & User Adoption</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Leading training, documentation, and communication strategies for smooth transitions and high user engagement.</p>
                 </div>
 
-                <!-- Skill 5: Security & Compliance -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.003 12.003 0 002.924 12c0 3.072 1.887 5.817 4.717 7.039v-5.262m9.414 0l-4.707 4.707M12 21c-3.072 0-5.817-1.887-7.039-4.717h5.262m9.414 0A11.955 11.955 0 0121.056 12c0-3.072-1.887-5.817-4.717-7.039"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Security & Compliance</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Implementing robust security models (OWD, Profiles, Permission Sets) and ensuring adherence to data governance policies.</p>
                 </div>
 
-                <!-- Skill 6: Reports & Dashboards -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c1.657 0 3 .895 3 2s-1.343 2-3 2c-1.657 0-3-.895-3-2s1.343-2 3-2z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8V5m0 3v8m0-8h3m-3 0H9"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 17l-4 4-4-4"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Reports & Dashboards</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Creating insightful reports and dynamic dashboards to provide real-time visibility into key business metrics.</p>
                 </div>
 
-                 <!-- Skill 7: Testing & Deployment -->
-                <div class="skill-bubble">
+                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Testing & Deployment</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Managing Sandbox strategies, conducting thorough UAT, and executing seamless metadata deployments.</p>
                 </div>
 
-                <!-- Skill 8: Troubleshooting -->
                 <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37a1.724 1.724 0 002.572-1.065z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Troubleshooting</h3>
@@ -194,7 +195,6 @@
             </div>
         </section>
 
-        <!-- Certifications & Education Section -->
         <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">Certifications & Education</h2>
@@ -244,18 +244,16 @@
             </div>
         </section>
 
-        <!-- Portfolio Projects Section -->
         <section id="portfolio" class="mb-16 md:mb-24">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">My Salesforce Projects</h2>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <!-- Project Card: Process Automation -->
                 <div class="project-card-v2">
                     <img src="https://placehold.co/600x400/E1D8CE/8D7B68?text=Process+Automation" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
                         <h3 class="text-2xl font-bold" style="color: #222222;">Invoicing Process Automation</h3>
-                        <p class="mb-4 text-base" style="color: #666666;">Led redesign of invoicing processes using Approval Processes, Screen Flows, and Apex, improving workflow efficiency by 37% and data accuracy by 42%.</p>
+                        <p class="mb-4 text-base" style="color: #666666;">Led redesign of invoicing processes utilizing Approval Processes, Screen Flows, and Apex, improving workflow efficiency by 37% and data accuracy by 42%, delivering measurable operational ROI.</p>
                         <ul class="flex flex-wrap gap-2 mb-4">
                             <li class="bg-[#E1D8CE] text-[#8D7B68] text-sm font-medium px-3 py-1 rounded-full">Process Automation</li>
                             <li class="bg-[#E1D8CE] text-[#8D7B68] text-sm font-medium px-3 py-1 rounded-full">Salesforce Flows</li>
@@ -265,7 +263,6 @@
                     </div>
                 </div>
 
-                <!-- Project Card: Data Migration -->
                 <div class="project-card-v2">
                     <img src="https://placehold.co/600x400/D4C9BD/8D7B68?text=Data+Integration" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
@@ -280,7 +277,6 @@
                     </div>
                 </div>
 
-                <!-- Project Card: User Adoption -->
                 <div class="project-card-v2">
                     <img src="https://placehold.co/600x400/E1D8CE/8D7B68?text=User+Adoption" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
                     <div class="p-6">
@@ -301,7 +297,41 @@
             </div>
         </section>
 
-        <!-- Contact Section -->
+        <section id="feedback" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+            <div class="section-header">
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">Client Review/Feedback</h2>
+            </div>
+            <h3 class="text-2xl font-bold mb-6" style="color: #222222;">⭐ Testimonials</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-10">
+                <div class="testimonial-card">
+                    <p class="text-lg italic mb-4" style="color: #222222;">“Appreciate his thoughtfulness and thoroughness when it comes to taking on and problem solving tasks. I enjoy working with him. I think his skills and efforts have been instrumental in the success we have realized to date and will continue to play a key role going forward.”</p>
+                    <p class="font-semibold text-right" style="color: #666666;">– Kevin, CEO Prospect Human Services</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="text-lg italic mb-4" style="color: #222222;">“Oba is fast to respond and resolve issues, knowledgeable with respect to Salesforce content. He is thoughtful and thorough in each assignment he is tasked with.”</p>
+                    <p class="font-semibold text-right" style="color: #666666;">– Danielle L, Data Analytics and Salesforce Administrator. Prospect Human Services</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="text-lg italic mb-4" style="color: #222222;">“Oba is incredibly helpful, timely, and never leaves me hanging. He is proactive, and able to anticipate needs and bring solutions—I’ve enjoyed working with him.”</p>
+                    <p class="font-semibold text-right" style="color: #666666;">– Tracey J, Employer Services Manager, Prospect Human Services</p>
+                </div>
+                <div class="testimonial-card">
+                    <p class="text-lg italic mb-4" style="color: #222222;">“Oba really knows his stuff! He’s clearly very smart, and I think problem solving is a big strength.”</p>
+                    <p class="font-semibold text-right" style="color: #666666;">– David B, Senior Manager, Prospect Human Services.</p>
+                </div>
+            </div>
+
+            <h3 class="text-2xl font-bold mb-6" style="color: #222222;">📈 Leadership Feedback</h3>
+            <div class="testimonial-card">
+                <p class="text-lg leading-relaxed mb-4" style="color: #222222;">
+                    Oba worked above and beyond the role he was hired into. Oba received a title change and significant salary adjustment in Oct 2023 to better reflect his work and role with the organization. Over this last year, I would say he is absolutely Meeting Expectations of quality of work and detail needed.
+                    Oba is very independent in his role. He creates his work schedule and manages his priorities, which are reviewed with Director of Programs weekly or so. There is a high expectation of Oba's ability to manage multiple shifting priorities and timelines. He is effective in this area and subsequently has the benefit of a lot of independence and autonomy in his work.
+                    CEO and Director of Programs identify an appreciation in Oba's continuing willingness to learn and increase his competency and capacities in Salesforce, Tableau, and our systems. Snowflake is another example Oba had to dive into to try and understand data export through systems and problem solve. Oba is open to learning, and always willing to research new tools and processes.
+                </p>
+                <p class="font-semibold text-right" style="color: #666666;">– Alexi Davies, Director of Programs, Prospect Human Services (direct manager).</p>
+            </div>
+        </section>
+
         <section id="contact" class="bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #8D7B68;">Let's Connect</h2>
@@ -332,7 +362,6 @@
 
     </main>
 
-    <!-- Footer -->
     <footer class="p-6 text-center mt-12" style="background-color: #222222; color: #FDF8F0;">
         <div class="container mx-auto">
             <p>&copy; 2025 Oba Adeleke. All rights reserved.</p>
