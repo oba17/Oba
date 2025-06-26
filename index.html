@@ -97,21 +97,28 @@
             padding: 1.5rem;
             box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
         }
+        /* Custom styles for the phone icon to ensure proper sizing and color */
+        .phone-icon {
+            width: 28px; /* w-7 h-7 */
+            height: 28px;
+            filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(270deg) brightness(200%); /* Make it white */
+        }
     </style>
 </head>
 <body class="antialiased">
     <header class="bg-gradient-to-r from-[#FDF8F0] to-[#E1D8CE] p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
-            <div class="text-center md:text-left mb-4 md:mb-0">
-               <!-- Profile Picture -->
+            <div class="text-center md:text-left mb-4 md:mb-0 flex items-center">
+                <!-- Profile Picture -->
                 <img src="picsmalll.jpg" alt="Obaloluwa Adeleke Profile Picture" class="w-24 h-24 rounded-full object-cover mr-4 shadow-md border-2 border-white" onerror="this.onerror=null;this.src='https://placehold.co/96x96/E1D8CE/8D7B68?text=OA';">
                 <div>
                     <h1 class="text-4xl font-extrabold tracking-tight" style="color: #222222;">
-                    Oba Adeleke
-                </h1>
-                <p class="text-xl font-medium opacity-90 mt-1" style="color: #666666;">
-                    Senior Salesforce Administrator | Automation & Optimization Expert
-                </p>
+                        Oba Adeleke
+                    </h1>
+                    <p class="text-xl font-medium opacity-90 mt-1" style="color: #666666;">
+                        Senior Salesforce Administrator | Automation & Optimization Expert
+                    </p>
+                </div>
             </div>
             <nav>
                 <ul class="flex flex-wrap justify-center space-x-6 text-lg font-medium">
@@ -156,7 +163,7 @@
                 </div>
 
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 5h18a2 2 0 012 2v10a2 2 0 01-2 2H3a2 2 0 01-2-2V7a2 2 0 012-2z"></path></svg>
+                    <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 5h18a2 2 0 012 2v10a2 2 0 01-2 2H3a2 2 0 01-2-2V7a2 2 0 012-2z"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Data Management & Analytics</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Ensuring data integrity, quality, and developing actionable insights through robust reporting and dashboards.</p>
                 </div>
@@ -174,7 +181,7 @@
                 </div>
 
                 <div class="skill-bubble">
-                    <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.003 12.003 0 002.924 12c0 3.072 1.887 5.817 4.717 7.039v-5.262m9.414 0l-4.707 4.707M12 21c-3.072 0-5.817-1.887-7.039-4.717h5.262m9.414 0A11.955 11.955 0 0121.056 12c0-3.072-1.887-5.817-4.717-7.039"></path></svg>
+                    <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.003 12.003 0 002.924 12c0 3.072 1.887 5.817 4.717 7.039v-5.262m9.414 0l-4.707 4.707M12 21c-3.072 0-5.817-1.887-7.039-4.717h5.262m9.414 0A11.955 11.955 0 0121.056 12c0-3.072-1.887-5.817-4.717-7.039"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Security & Compliance</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Implementing robust security models (OWD, Profiles, Permission Sets) and ensuring adherence to data governance policies.</p>
                 </div>
@@ -185,7 +192,7 @@
                     <p class="text-sm mt-2" style="color: #666666;">Creating insightful reports and dynamic dashboards to provide real-time visibility into key business metrics.</p>
                 </div>
 
-                 <div class="skill-bubble">
+                <div class="skill-bubble">
                     <svg class="w-12 h-12 mb-4" style="color: #8D7B68;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4"></path></svg>
                     <h3 class="text-xl font-semibold" style="color: #222222;">Testing & Deployment</h3>
                     <p class="text-sm mt-2" style="color: #666666;">Managing Sandbox strategies, conducting thorough UAT, and executing seamless metadata deployments.</p>
@@ -358,17 +365,19 @@
                     <button type="submit" class="w-full text-white font-bold py-3 px-6 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #222222; hover:background-color: #666666; color: #FFFFFF;">Send Message</button>
                 </form>
                 <div class="mt-10 text-center text-lg space-y-2" style="color: #666666;">
-                    <p>Email: <a href="mailto:obaloluwa.adeleke@gmail.com" class="hover:underline" style="color: #8D7B68;">obaloluwa.adeleke@gmail.com</a></p>
-                    <p><a href="https://www.linkedin.com/in/obaloluwa-adeleke-senior-salesforce-administrator-automation-and-optimization-expert/" target="_blank" class="inline-block p-2 rounded-full bg-[#0A66C2] text-white hover:bg-[#004182] transition duration-300 transform hover:scale-110" title="LinkedIn Profile">
-                        <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M16 0H8C3.58 0 0 3.58 0 8v8c0 4.42 3.58 8 8 8h8c4.42 0 8-3.58 8-8V8c0-4.42-3.58-8-8-8zM7.002 18H4V9h3.002v9zM5.501 7.25C4.673 7.25 4 6.577 4 5.75S4.673 4.25 5.501 4.25c.828 0 1.499.723 1.499 1.5S6.329 7.25 5.501 7.25zM20 18h-2.998v-4.821c0-1.29-.46-1.785-1.376-1.785-.92 0-1.464.693-1.464 1.785V18H11V9h2.998v1.27c.4-.64 1.144-1.27 2.65-1.27 1.9 0 3.352 1.346 3.352 4.288V18z"/>
-                        </svg>
-                    </a>
-                   <a href="tel:+15878379470" class="inline-block p-2 rounded-full bg-[#8D7B68] text-white hover:bg-[#666666] transition duration-300 transform hover:scale-110" title="Call Me">
+                    <p class="mb-2">Email: <a href="mailto:obaloluwa.adeleke@gmail.com" class="hover:underline" style="color: #8D7B68;">obaloluwa.adeleke@gmail.com</a></p>
+                    <div class="flex justify-center items-center gap-4">
+                        <a href="https://www.linkedin.com/in/obaloluwa-adeleke-senior-salesforce-administrator-automation-and-optimization-expert/" target="_blank" class="inline-block p-1 rounded-full bg-[#0A66C2] text-white hover:bg-[#004182] transition duration-300 transform hover:scale-110" title="LinkedIn Profile">
+                            <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16 0H8C3.58 0 0 3.58 0 8v8c0 4.42 3.58 8 8 8h8c4.42 0 8-3.58 8-8V8c0-4.42-3.58-8-8-8zM7.002 18H4V9h3.002v9zM5.501 7.25C4.673 7.25 4 6.577 4 5.75S4.673 4.25 5.501 4.25c.828 0 1.499.723 1.499 1.5S6.329 7.25 5.501 7.25zM20 18h-2.998v-4.821c0-1.29-.46-1.785-1.376-1.785-.92 0-1.464.693-1.464 1.785V18H11V9h2.998v1.27c.4-.64 1.144-1.27 2.65-1.27 1.9 0 3.352 1.346 3.352 4.288V18z"/>
+                            </svg>
+                        </a>
+                        <a href="tel:+15878379470" class="inline-block p-2 rounded-full bg-[#8D7B68] text-white hover:bg-[#666666] transition duration-300 transform hover:scale-110" title="Call Me">
                             <svg class="w-7 h-7" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                                 <path d="M20 15.586l-3.24-3.24a1 1 0 00-1.416 0l-1.58 1.58a1 1 0 01-1.414 0l-2.76-2.76a1 1 0 010-1.414l1.58-1.58a1 1 0 000-1.416L8.414 4A1 1 0 007 2.586v-.002A1.002 1.002 0 006 3.586C6 11.524 12.476 18 20.414 18A1.002 1.002 0 0021.414 17h-.002A1 1 0 0020 15.586zM18 10.414l-2 2-1.58-1.58a3 3 0 00-4.242 0l-2.76 2.76a3 3 0 000 4.242L12 18l2-2h4V10.414z"/>
                             </svg>
-                        </a></p>
+                        </a>
+                    </div>
                 </div>
             </div>
         </section>
