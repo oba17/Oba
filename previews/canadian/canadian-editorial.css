@@ -623,3 +623,22 @@ body:has(main.page-shell > .ca-hero) .site-header nav a[aria-current="page"]{
   display: none !important;
   visibility: hidden !important;
 }
+
+
+/* Homepage professional metrics: primary navy background with accessible contrast. */
+main.page-shell > section.impact-stats {
+  background:#051C2C !important;
+  border-bottom-color:#051C2C !important;
+  color:#FFFFFF !important;
+}
+main.page-shell > section.impact-stats > .impact-stat {
+  border-right-color:rgba(255,255,255,.42) !important;
+  border-bottom-color:rgba(255,255,255,.42) !important;
+}
+main.page-shell > section.impact-stats .stat-number {
+  color:#CBDFFF !important;
+}
+main.page-shell > section.impact-stats .stat-label,
+main.page-shell > section.impact-stats .stat-description {
+  color:#FFFFFF !important;
+}
