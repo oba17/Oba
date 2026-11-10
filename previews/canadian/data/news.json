@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:44:45Z",
+  "updated_at": "2026-11-10T20:46:13Z",
   "articles": [
     {
       "category": "Tech",
@@ -28,9 +28,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "summary": "Free video-streaming service Tubi lets users share curated watchlists now Ars Technica",
       "published_at": "2026-11-10T18:39:16Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
       "video_url": "",
@@ -64,12 +64,13 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -78,9 +79,10 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
       "published_at": "2026-11-10T16:43:35Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Tech",
@@ -101,9 +103,10 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWFDM0pDTmhhRFZ5VENmcXJ3SENjWk83RkN1bmdvUnRsX0tPOWhHWFFKTFptZDNsT2ZNTDdybEdYVk1HTENPdkJqVjBBZ3MtUXI1YXFxSzF2R1lvYmN1aHE5S2lzTm9SM1BMVlRqNXVwUERES2wwS2dLVks0RENSZTBWZmhBYzh0T2tWdUsxU01lS2hsVV90Um0yX3dMOEgtSHgxMnBQaw?oc=5",
       "summary": "Carbon emissions are down this year—but that probably won’t last Ars Technica",
       "published_at": "2026-11-10T16:29:27Z",
-      "image_url": "",
+      "image_url": "https://arstechnica.com/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
     },
     {
       "category": "Tech",
@@ -195,9 +198,10 @@
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
       "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
       "published_at": "2026-11-10T14:08:39Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Tech",
@@ -262,9 +266,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
       "published_at": "2026-11-10T03:29:05Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "AI",
@@ -284,9 +289,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3lJV1pSYlJhZWZOZHBvV3Vwbkw4OGVVMXo3Zm9pUTYtcDRvRU9WSmtsc01XTS13eWtNcE5XakZhRlR2cGpJSGk1LV81YzB2SnpodklVeXU3MXNPTE1VUWxmZ2VXaHBWVzlQbHV6eDJsUjZHdUVkaS14WXp0SnVpZHp4TEtSUmtMUWJCUTYzX1VKNjgtMmN4WjZrTkVFNXluVFl3dlJn?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-09T22:44:19Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "AI",
@@ -373,9 +379,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQazR1ekhNSHpHem8wa2pVdzNsS1dZdjJqYU8tV0t0NUhTUmdPX0R5OERLdG9zQW95WFBYRjhsVjJLNFpoS1lCY1VfVzV5QlpQMkJ6aXdMWVVwSWNzOWV0dmFfZnVaelUzSE01R0hFU0RVMGd5cVZlZnlheGc3WHRTVVFEa2pDUzRFdzJQODFIZUVqUUJPRndwTkM0TGdJNWdBd2NFV2JwQ1lORk1MRndMYklnNW9zdlZYcDUyUnFiWFpzOEZDMUM0?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
       "published_at": "2026-11-09T01:25:11Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -453,9 +460,10 @@
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TZ2cxUkNqaG5CUy1fZ2dwUWJfTWJ5NXMxNlI1alNLNno0Um5KbU9EMElxRVVBZEpmRzRYUWVVQTVKZWhNcjNaS1RoS3haMFU4VEE2UFBOV3RVR25WZVJvNFFuZw?oc=5",
       "summary": "Why Most AI in CX Fails Before It Even Launches Zoom",
       "published_at": "2026-11-06T16:23:32Z",
-      "image_url": "",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -476,9 +484,10 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0QzbkxNVENLNlVhVHNiUkRabUhudnJXY25XWkk1LVFicGd6bFY1ZTlaMENXNnluNlowZjlEaENLVmdocEFCZ19qYWJ3Ukdkb25WOWE1alFnMzZzX2dJcko3NVdCSVhVZnZXblNVSnlRb19ScnRKdDkwaXBQRUk3V2l0dkhVb2xtMmZRVGx3?oc=5",
       "summary": "IIBA Global Business Analysis Day 2026 IIBA Vancouver Chapter",
       "published_at": "2026-11-06T08:00:00Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -498,9 +507,10 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
       "summary": "Three Perspectives From BA Digest Q4 IIBA",
       "published_at": "2026-11-05T21:30:33Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Microsoft",
@@ -599,9 +609,10 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
       "summary": "The Requirement No One Asked For IIBA",
       "published_at": "2026-11-03T18:00:54Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Microsoft",
@@ -700,9 +711,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
       "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
       "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -722,9 +734,22 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
       "published_at": "2026-10-29T21:20:03Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
+      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
+      "published_at": "2026-10-29T11:34:27Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -733,9 +758,10 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
       "published_at": "2026-10-28T11:06:36Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Microsoft",
@@ -755,9 +781,10 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZxVmptT0lDXy1pdVBDVlJsR250X1doV0JIUWVNbk5JVWZqYkFxdGMxSnVaLUdkQnN1YVhFZ01fMTJfNFZjdmh0MnhHVXdQUTEtem9ZVUlZd2FROUpfemppODdfQ1p4YWJJNlJvVHRaZDktOGFvY3JJeExsejJEbnN2U09IclVxLUdF?oc=5",
       "summary": "IIBA Sydney (In-Person) - EoY Networking Event IIBA Australia",
       "published_at": "2026-10-22T16:06:32Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -766,20 +793,10 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
-      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
-      "published_at": "2026-10-18T18:10:11Z",
-      "image_url": "",
-      "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -800,9 +817,10 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWpzZ1VabTJVVGMybERYQkFneFVtX2VvamlxRXl5cFpGRlBhYXhDOUJfT0MxZHl0N3k5YnB5VkgyeDRYa0FrQThYdjMwU1g4VWd1dlRHc3ZlTmxaTG96Rm1wME5xVndsQ3NkWmgyNG0wd2dyUHJFdVYwa2Mzb0Nja0k4UW1vejV1ZVRuNmtMcFNYTTllYll1MWlGRFJxVlpCNG9jV2k0VlU4VTVUbWdRUlY2YUsxU1E?oc=5",
       "summary": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact IIBA Australia",
       "published_at": "2026-10-01T07:00:00Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -811,9 +829,10 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnAyWk4tUmtVT0dVaXBVQ3I4eF9MajF0LTRUZktsOVY4ejdlZGlNem1lSzBfMmZMN01CLXU4SUt1cG1WMDMzNHdPd1R1ZFN3UGNwWURwRGltX0xsbnNuYThLV0xhSFVUVHdjaFVucXI4elFyZUhOWlN4a3ppN3JSNVllc3ZMN1M5Z2tUd2RfdFZuY3VNV2c?oc=5",
       "summary": "Business Analysis in Agile: A Skill and a Role IIBA",
       "published_at": "2026-09-24T07:00:00Z",
-      "image_url": "",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
