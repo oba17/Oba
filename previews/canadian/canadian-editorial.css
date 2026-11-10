@@ -286,7 +286,7 @@ body:has(main.page-shell > .ca-hero) .site-header nav a[aria-current="page"]{
  margin-bottom:15px
 }
 .industry-news h2{font:400 clamp(2.05rem,3.3vw,3.2rem)/1.25 var(--display)!important;letter-spacing:-.045em;color:#051C2C!important}
-.industry-news .news-heading>div>p:last-child{font:400 1rem/1.75 var(--sans);color:#344A59!important;max-width:670px;margin-top:15px}
+.industry-news .news-heading>div>p:last-child{font:400 1rem/1.75 var(--sans);color:#344A59!important;max-width:none;white-space:nowrap;margin-top:15px}
 .industry-news .news-meta{display:flex;flex-direction:column;align-items:flex-end;gap:5px;min-width:185px}
 .industry-news .news-meta span{font:500 .76rem/1.4 var(--sans);color:#586E7B}
 .industry-news .news-filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
