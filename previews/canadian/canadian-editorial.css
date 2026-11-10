@@ -1,642 +1,119 @@
-
-/* =====================================================
-   CANADIAN EDITORIAL — BLUE & WHITE DESIGN UPDATE
-   ===================================================== */
-
-:root {
-  --primary-blue: #164385;
-  --light-blue: #CBDFFF;
-  --light-gray: #F0F0F0;
-  --white: #FFFFFF;
-  --black: #111111;
-  --border: #D5D5D5;
-
-  --deep: #164385;
-  --ocean: #164385;
-  --ink: #111111;
-  --blue: #164385;
-  --accent: #CBDFFF;
-  --mist: #F0F0F0;
-  --line: #D5D5D5;
-  --muted: #333333;
-}
-
-/* =====================================================
-   1. GENERAL PAGE COLOURS
-   ===================================================== */
-
-body {
-  background: var(--white) !important;
-  color: var(--black) !important;
-}
-
-h1, h2, h3,
-.section-header h2,
-#certifications h3,
-#feedback h3 {
-  color: var(--primary-blue) !important;
-}
-
-p, li {
-  color: var(--black);
-}
-
-/* =====================================================
-   2. LIGHT BLUE TO WHITE HOMEPAGE HEADER
-   ===================================================== */
-
-header.site-header {
-  background: linear-gradient(
-    115deg,
-    #CBDFFF 0%,
-    #DDEAFF 42%,
-    #EEF5FF 72%,
-    #FFFFFF 100%
-  ) !important;
-
-  border-bottom: 1px solid #CBDFFF !important;
-  box-shadow: none !important;
-}
-
-/* Header name */
-
-.site-header h1 {
-  color: var(--primary-blue) !important;
-}
-
-/* Header professional subtitle */
-
-.site-header p {
-  color: var(--black) !important;
-  opacity: 1 !important;
-}
-
-/* Profile photo */
-
-.site-header img {
-  border: 2px solid var(--primary-blue) !important;
-}
-
-/* Navigation text */
-
-.site-header nav a {
-  color: var(--black) !important;
-  font-weight: 600 !important;
-}
-
-.site-header nav a:hover,
-.site-header nav a[aria-current="page"] {
-  color: var(--primary-blue) !important;
-  border-bottom-color: var(--primary-blue) !important;
-}
-
-/* =====================================================
-   3. HOMEPAGE HERO BANNER — BLUE TO WHITE GRADIENT
-   ===================================================== */
-
-.ca-hero {
-  background: linear-gradient(
-    112deg,
-    #CBDFFF 0%,
-    #DCE9FF 38%,
-    #EFF5FF 72%,
-    #FFFFFF 100%
-  ) !important;
-
-  color: var(--black) !important;
-  border-bottom: 1px solid var(--light-blue);
-}
-
-/* Large hero heading */
-
-.ca-hero h2 {
-  color: var(--primary-blue) !important;
-  font-weight: 400 !important;
-}
-
-/* Hero body copy */
-
-.ca-hero p,
-.ca-hero p:not(.ca-eyebrow) {
-  color: var(--black) !important;
-}
-
-/* Small uppercase introductory text */
-
-.ca-eyebrow,
-.ca-hero .ca-eyebrow {
-  color: var(--primary-blue) !important;
-  font-weight: 700 !important;
-}
-
-/* Hero divider */
-
-.ca-hero::after {
-  border-left: 1px solid rgba(22, 67, 133, 0.25);
-}
-
-/* Hero right-side statement */
-
-.ca-hero-aside {
-  border-top: 4px solid var(--primary-blue) !important;
-}
-
-.ca-hero-aside .aside-label {
-  color: var(--primary-blue) !important;
-}
-
-.ca-hero-aside blockquote {
-  color: var(--primary-blue) !important;
-}
-
-.ca-hero-aside p {
-  color: var(--black) !important;
-}
-
-/* Hero action buttons */
-
-.ca-actions a {
-  background: var(--primary-blue) !important;
-  color: var(--white) !important;
-  border: 1px solid var(--primary-blue);
-}
-
-.ca-actions a + a {
-  background: transparent !important;
-  color: var(--primary-blue) !important;
-}
-
-.ca-actions a:hover,
-.ca-actions a + a:hover {
-  background: #CBDFFF !important;
-  color: var(--primary-blue) !important;
-}
-
-/* =====================================================
-   4. INNER PAGE BANNERS
-   PROJECTS / CERTIFICATIONS / CONTACT
-   ===================================================== */
-
-.ca-page-intro {
-  background: linear-gradient(
-    110deg,
-    #164385 0%,
-    #23589F 65%,
-    #5484C7 100%
-  ) !important;
-
-  border-bottom: 6px solid var(--light-blue) !important;
-}
-
-.ca-page-intro h2 {
-  color: var(--white) !important;
-}
-
-.ca-page-intro p,
-.ca-page-intro p:not(.ca-eyebrow) {
-  color: var(--white) !important;
-}
-
-.ca-page-intro .ca-eyebrow {
-  color: #E6F0FF !important;
-}
-
-/* =====================================================
-   5. LIGHT CONTENT SECTIONS
-   ===================================================== */
-
-#about,
-#certifications,
-#feedback,
-#contact {
-  background: var(--light-gray) !important;
-  color: var(--black) !important;
-
-  border-radius: 0 !important;
-  border-top: 1px solid var(--border) !important;
-  box-shadow: none !important;
-}
-
-#about p,
-#certifications p,
-#feedback p,
-#contact p {
-  color: var(--black) !important;
-}
-
-.section-header::after {
-  background: var(--primary-blue) !important;
-}
-
-/* =====================================================
-   6. SKILLS / PROJECTS / CERTIFICATION CARDS
-   ===================================================== */
-
-.skill-bubble,
-.project-card-v2,
-.certification-bubble,
-.testimonial-card {
-  background: var(--white) !important;
-  border: 1px solid var(--border) !important;
-
-  border-radius: 0 !important;
-  box-shadow: none !important;
-}
-
-.skill-bubble:hover,
-.project-card-v2:hover,
-.certification-bubble:hover,
-.testimonial-card:hover {
-  background: #F7FAFF !important;
-  border-color: var(--primary-blue) !important;
-}
-
-.skill-bubble h3,
-.project-card-v2 h3 {
-  color: var(--primary-blue) !important;
-}
-
-.skill-bubble p,
-.project-card-v2 p,
-.certification-bubble p,
-.testimonial-card p {
-  color: var(--black) !important;
-}
-
-.skill-bubble svg {
-  color: var(--primary-blue) !important;
-}
-
-.project-card-v2 li {
-  background: var(--light-blue) !important;
-  color: var(--primary-blue) !important;
-}
-
-.project-card-v2 a {
-  background: var(--primary-blue) !important;
-  color: var(--white) !important;
-}
-
-/* =====================================================
-   7. HOMEPAGE IMPACT STATISTICS
-   Position: immediately after About Me
-   Inspired by the supplied three-column reference
-   ===================================================== */
-
-.impact-stats {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-
-  width: 100%;
-  background: var(--white);
-
-  padding: 35px 0 65px;
-  margin: 10px 0 90px;
-
-  border-bottom: 1px solid var(--black);
-}
-
-.impact-stat {
-  min-height: 245px;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-
-  text-align: center;
-
-  padding: 15px 30px 35px;
-
-  border-right: 1px solid #888888;
-}
-
-.impact-stat:last-child {
-  border-right: none;
-}
-
-/* Large blue numbers */
-
-.impact-stat .stat-number {
-  font-family: Georgia, 'Times New Roman', serif;
-
-  font-size: clamp(3.5rem, 6vw, 5.5rem);
-  font-weight: 400;
-  line-height: 1.15;
-  letter-spacing: -0.045em;
-
-  color: #2851FF !important;
-
-  margin: 0 0 7px;
-}
-
-/* Years / Hours / Solutions */
-
-.impact-stat .stat-label {
-  font-family: 'Inter', Arial, sans-serif;
-
-  font-size: clamp(1.25rem, 2vw, 1.7rem);
-  font-weight: 400;
-  line-height: 1.4;
-
-  color: var(--black) !important;
-
-  margin: 0 0 14px;
-}
-
-/* Descriptive caption */
-
-.impact-stat .stat-description {
-  font-family: 'Inter', Arial, sans-serif;
-
-  font-size: 1rem;
-  font-weight: 400;
-  line-height: 1.6;
-
-  color: var(--black) !important;
-
-  max-width: 280px;
-  margin: 0;
-}
-
-/* =====================================================
-   8. CONTACT PAGE — THREE-LOCATION MAP SELECTOR
-   Calgary / Toronto / British Columbia
-   ===================================================== */
-
-.location-maps {
-  width: 100%;
-  margin: 75px auto 30px;
-  padding: 45px 0;
-
-  background: var(--white);
-}
-
-.location-maps h2 {
-  font-family: 'Libre Baskerville', Georgia, serif;
-
-  color: var(--primary-blue) !important;
-  font-size: clamp(2rem, 3vw, 3rem);
-
-  text-align: center;
-  margin-bottom: 30px;
-}
-
-/* Map tab navigation */
-
-.map-tabs {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  gap: 12px;
-  flex-wrap: wrap;
-
-  margin-bottom: 30px;
-}
-
-.map-tab,
-.map-tabs label {
-  background: var(--white);
-  color: var(--primary-blue);
-
-  border: 1px solid var(--primary-blue);
-  border-radius: 0;
-
-  font-family: 'Inter', Arial, sans-serif;
-  font-size: .92rem;
-  font-weight: 600;
-
-  padding: 13px 24px;
-  cursor: pointer;
-
-  transition: background .2s, color .2s;
-}
-
-.map-tab:hover,
-.map-tabs label:hover {
-  background: var(--light-blue);
-  color: var(--primary-blue);
-}
-
-/* Selected tab */
-
-.map-tab.active,
-.map-tabs input:checked + label {
-  background: var(--primary-blue);
-  color: var(--white);
-
-  border-color: var(--primary-blue);
-}
-
-/* Map display */
-
-.map-panels {
-  width: 100%;
-  border: 1px solid var(--border);
-  background: var(--light-gray);
-}
-
-.map-panel {
-  display: none;
-  width: 100%;
-}
-
-.map-panel iframe {
-  display: block;
-
-  width: 100%;
-  height: 430px;
-
-  border: 0;
-}
-
-/* CSS-only map switching.
-   Requires matching radio inputs and map panels
-   within the same .location-maps container. */
-
-.location-maps:has(#map-calgary:checked)
-  .map-panel[data-city="calgary"],
-
-.location-maps:has(#map-toronto:checked)
-  .map-panel[data-city="toronto"],
-
-.location-maps:has(#map-bc:checked)
-  .map-panel[data-city="british-columbia"] {
-  display: block;
-}
-
-/* Map captions */
-
-.map-caption {
-  background: var(--white);
-  border-top: 1px solid var(--border);
-
-  padding: 16px 22px;
-
-  font-size: .92rem;
-  color: var(--black);
-
-  text-align: center;
-}
-
-/* =====================================================
-   9. CONTACT DETAILS
-   ===================================================== */
-
-#contact a {
-  color: var(--primary-blue) !important;
-}
-
-#contact a[title="LinkedIn Profile"],
-#contact a[title="Call Me"] {
-  background: var(--primary-blue) !important;
-  color: var(--white) !important;
-}
-
-/* =====================================================
-   10. FOOTER
-   ===================================================== */
-
-footer {
-  background: var(--primary-blue) !important;
-  color: var(--white) !important;
-}
-
-footer p {
-  color: var(--white) !important;
-}
-
-/* =====================================================
-   11. RESPONSIVE STATISTICS AND MAPS
-   ===================================================== */
-
-@media (max-width: 850px) {
-  .impact-stats {
-    padding: 30px 0 50px;
-  }
-
-  .impact-stat {
-    padding: 20px 15px;
-  }
-
-  .impact-stat .stat-number {
-    font-size: 3.5rem;
-  }
-
-  .impact-stat .stat-description {
-    font-size: .85rem;
-  }
-
-  .map-panel iframe {
-    height: 380px;
-  }
-}
-
-@media (max-width: 600px) {
-  .impact-stats {
-    grid-template-columns: 1fr;
-    padding: 20px 0 35px;
-    margin-bottom: 60px;
-  }
-
-  .impact-stat {
-    min-height: auto;
-    padding: 26px 20px;
-
-    border-right: none;
-    border-bottom: 1px solid #CCCCCC;
-  }
-
-  .impact-stat:last-child {
-    border-bottom: none;
-  }
-
-  .impact-stat .stat-number {
-    font-size: 4rem;
-  }
-
-  .impact-stat .stat-label {
-    font-size: 1.4rem;
-  }
-
-  .impact-stat .stat-description {
-    font-size: .95rem;
-  }
-
-  .map-tabs {
-    gap: 8px;
-  }
-
-  .map-tab,
-  .map-tabs label {
-    font-size: .78rem;
-    padding: 11px 13px;
-  }
-
-  .map-panel iframe {
-    height: 310px;
-  }
-
-  .location-maps {
-    padding: 30px 0;
-  }
-}
-
-/* Interactive map display */
-
-.map-panels {
-  width: 100%;
-  overflow: hidden;
-  border: 1px solid #CBDFFF;
-}
-
-.map-panel {
-  display: none;
-}
-
-.location-maps:has(#map-calgary:checked)
-  .map-panel[data-city="calgary"],
-.location-maps:has(#map-toronto:checked)
-  .map-panel[data-city="toronto"],
-.location-maps:has(#map-bc:checked)
-  .map-panel[data-city="british-columbia"] {
-  display: block;
-}
-
-.map-panel iframe {
-  width: 100%;
-  height: 450px;
-  display: block;
-  border: 0;
-}
-
-.map-caption {
-  background: #F0F0F0;
-  padding: 22px;
-  text-align: center;
-}
-
-.map-caption strong {
-  color: #164385;
-  font-size: 1.2rem;
-}
-
-.map-caption a {
-  display: inline-block;
-  margin-top: 12px;
-  color: #164385;
-  font-weight: 600;
-  text-decoration: underline;
-}
-
-.map-tabs input:focus-visible + label {
-  outline: 3px solid #164385;
-  outline-offset: 3px;
-}
-
-@media (max-width: 600px) {
-  .map-panel iframe {
-    height: 320px;
-  }
-}
+/* Canadian Editorial — blue/white consulting-inspired design.
+   Original visual direction inspired by mckinsey.com/ca/overview, without copying brand assets.
+   Single authoritative stylesheet: no layered conflicting overrides. */
+:root{
+ --blue:#164385;--blue-dark:#103668;--blue-bright:#2851FF;
+ --light-blue:#CBDFFF;--mist:#F0F0F0;--white:#FFFFFF;
+ --ink:#111820;--muted:#4A5664;--border:#D4DCE5;
+ --deep:#164385;--ocean:#164385;--accent:#CBDFFF;--line:#D4DCE5;
+ --sans:'Inter',Arial,sans-serif;--display:'Libre Baskerville',Georgia,serif;
+}
+html{scroll-behavior:smooth}
+body{background:#FFFFFF!important;color:var(--ink)!important;font-family:var(--sans)!important;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:var(--display)!important;font-weight:400!important;letter-spacing:-.04em}
+a:focus-visible,button:focus-visible,input:focus-visible+label{outline:3px solid var(--blue)!important;outline-offset:4px}
+header.site-header{
+ background:linear-gradient(108deg,#CBDFFF 0%,#E0ECFF 46%,#F2F7FF 78%,#FFFFFF 100%)!important;
+ box-shadow:none!important;border-bottom:1px solid #B7CDED!important;
+ padding:22px max(24px,calc((100vw - 1240px)/2))!important
+}
+.site-header>.container{max-width:1240px;gap:25px}
+.site-header h1{color:var(--blue)!important;font-size:clamp(1.7rem,2.5vw,2.3rem)!important;letter-spacing:-.05em}
+.site-header p{color:#172335!important;opacity:1!important;font-size:.8rem!important;line-height:1.55;max-width:450px}
+.site-header img{width:74px!important;height:74px!important;object-fit:cover;border:2px solid var(--blue)!important;border-radius:0!important;box-shadow:none!important}
+.site-header nav ul{gap:clamp(12px,2vw,28px)!important}
+.site-header nav a{display:inline-block;color:#111820!important;font:600 .81rem/1.45 var(--sans)!important;letter-spacing:.015em;padding:12px 0;text-decoration:none;border-bottom:2px solid transparent;transition:color .2s,border-color .2s}
+.site-header nav a:hover,.site-header nav a[aria-current="page"]{color:var(--blue)!important;border-bottom-color:var(--blue)}
+main.page-shell{max-width:1240px!important;padding-top:0!important;padding-bottom:clamp(75px,8vw,110px)!important}
+main.page-shell>section{margin-bottom:clamp(66px,8vw,108px)!important}
+.ca-hero{
+ background:linear-gradient(108deg,#CBDFFF 0%,#DDEAFF 37%,#ECF3FF 70%,#FFFFFF 100%)!important;
+ color:#111820!important;min-height:500px;display:grid;grid-template-columns:minmax(0,1.28fr) minmax(250px,.72fr);
+ gap:clamp(28px,5vw,68px);align-items:center;position:relative;overflow:hidden;
+ padding:clamp(56px,7vw,100px) clamp(28px,6vw,82px)!important;
+ margin:0 calc(-1 * max(0px,(100vw - 1240px)/2)) clamp(68px,8vw,106px)!important
+}
+.ca-hero:after{content:"";position:absolute;right:37%;top:16%;height:68%;border-left:1px solid rgba(22,67,133,.25);pointer-events:none}
+.ca-eyebrow{font:700 .73rem/1.5 var(--sans);letter-spacing:.15em;text-transform:uppercase;color:var(--blue)!important;margin-bottom:23px!important}
+.ca-hero h2{color:var(--blue)!important;font:400 clamp(2.55rem,5.5vw,5.5rem)/1.14 var(--display)!important;letter-spacing:-.055em!important;max-width:850px}
+.ca-hero p:not(.ca-eyebrow){font:400 clamp(1.03rem,1.7vw,1.17rem)/1.8 var(--sans);color:#111820!important;max-width:670px;margin-top:27px}
+.ca-actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:32px}
+.ca-actions a{display:inline-block;background:var(--blue)!important;color:white!important;padding:15px 23px;font:700 .8rem/1.4 var(--sans);text-decoration:none;border:1px solid var(--blue);transition:transform .2s,background .2s}
+.ca-actions a+a{background:transparent!important;color:var(--blue)!important}
+.ca-actions a:hover{transform:translateY(-2px);background:var(--blue-dark)!important;color:#FFFFFF!important}
+.ca-actions a+a:hover{background:var(--light-blue)!important;color:var(--blue)!important}
+.ca-hero-aside{position:relative;border-top:3px solid var(--blue);padding:28px 3px 15px 0}
+.ca-hero-aside .aside-label{font:700 .74rem/1.4 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--blue)!important;margin-bottom:18px}
+.ca-hero-aside blockquote{font:400 clamp(1.5rem,2.5vw,2.45rem)/1.43 var(--display)!important;color:var(--blue)!important}
+.ca-hero-aside p{color:#111820!important;font-size:.84rem!important;line-height:1.7}
+.ca-page-intro{
+ background:linear-gradient(108deg,#CBDFFF 0%,#E2EDFF 53%,#FFFFFF 100%)!important;
+ border-bottom:3px solid var(--blue)!important;
+ padding:clamp(55px,7vw,90px) clamp(30px,6vw,85px);
+ margin:0 calc(-1 * max(0px,(100vw - 1240px)/2)) clamp(65px,7vw,95px)!important
+}
+.ca-page-intro h2{font:400 clamp(2.55rem,4.8vw,4.6rem)/1.2 var(--display)!important;color:var(--blue)!important}
+.ca-page-intro p:not(.ca-eyebrow){color:#111820!important;font-size:1.12rem;line-height:1.8;max-width:760px;margin-top:20px}
+.section-header{text-align:left!important;padding-bottom:19px!important;margin-bottom:36px!important}
+.section-header:after{left:0!important;transform:none!important;width:80px!important;height:3px!important;background:var(--blue)!important;border-radius:0!important}
+.section-header h2{font:400 clamp(1.9rem,3.35vw,3.1rem)/1.24 var(--display)!important;color:var(--blue)!important}
+#about,#certifications,#feedback,#contact{background:#F0F0F0!important;border:0!important;border-top:1px solid var(--border)!important;border-radius:0!important;box-shadow:none!important;padding:clamp(30px,4.6vw,60px) clamp(18px,3vw,42px)!important}
+#about p,#certifications p,#feedback p,#contact p{color:#111820!important;line-height:1.8!important}
+#skills .grid{gap:0!important;border-top:1px solid var(--border);border-left:1px solid var(--border)}
+.skill-bubble,.project-card-v2,.certification-bubble,.testimonial-card{
+ background:#FFFFFF!important;border:1px solid var(--border)!important;border-radius:0!important;box-shadow:none!important;transition:background .2s,border-color .2s!important
+}
+.skill-bubble:hover,.project-card-v2:hover,.certification-bubble:hover,.testimonial-card:hover{background:#F6F9FF!important;border-color:#9DBBE3!important;transform:none!important;box-shadow:none!important}
+.skill-bubble{min-height:220px;align-items:flex-start!important;text-align:left!important;padding:27px 24px!important;margin:-1px 0 0 -1px}
+.skill-bubble svg{width:35px!important;height:35px!important;color:var(--blue)!important;margin-bottom:25px!important}
+.skill-bubble h3{font:700 1rem/1.5 var(--sans)!important;color:var(--blue)!important;letter-spacing:-.015em}
+.skill-bubble p{font-size:.92rem!important;line-height:1.7!important;color:#313B47!important}
+.project-card-v2{display:flex;flex-direction:column;overflow:hidden}
+.project-card-v2 img{height:200px!important;border-radius:0!important;filter:saturate(.85);background:#E4EEFF}
+.project-card-v2>div{display:flex;flex-direction:column;flex:1;padding:28px!important}
+.project-card-v2 h3{font:400 1.53rem/1.4 var(--display)!important;color:var(--blue)!important}
+.project-card-v2 p{font-size:.97rem!important;line-height:1.75!important;color:#303B48!important}
+.project-card-v2 ul{margin-top:auto}
+.project-card-v2 li{background:#CBDFFF!important;color:var(--blue)!important;border-radius:0!important;font-size:.72rem!important}
+.project-card-v2 a,.page-shell>section.flex a{background:var(--blue)!important;color:#FFFFFF!important;border-radius:0!important;box-shadow:none!important;padding:13px 20px!important;font:700 .78rem/1.4 var(--sans)!important}
+.project-card-v2 a:hover,.page-shell>section.flex a:hover{background:var(--blue-dark)!important}
+.certification-bubble{padding:21px 12px!important;min-height:165px}
+.certification-bubble img{width:82px!important;height:82px!important}
+.certification-bubble p{font:600 .72rem/1.5 var(--sans)!important;color:#111820!important}
+#certifications h3,#feedback h3{font:400 1.65rem/1.3 var(--display)!important;color:var(--blue)!important}
+.testimonial-card{padding:28px!important;border-top:3px solid var(--blue)!important}
+.testimonial-card p{color:#111820!important}
+#contact a{color:var(--blue)!important}
+#contact a[title="LinkedIn Profile"],#contact a[title="Call Me"]{background:var(--blue)!important;color:#FFFFFF!important}
+#contact a[title="LinkedIn Profile"] svg,#contact a[title="Call Me"] svg{color:#FFFFFF!important}
+footer{background:var(--blue)!important;color:#FFFFFF!important;padding:40px 20px!important;margin-top:0!important;font:500 .8rem/1.6 var(--sans)!important}
+footer p{color:#FFFFFF!important}
+/* Three-column impact statistics; available when the section is present in Home HTML */
+.impact-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));background:#FFFFFF;border-bottom:1px solid #8B9098;padding:30px 0 60px;margin:12px 0 80px}
+.impact-stat{min-height:205px;text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:15px 25px 30px;border-right:1px solid #9DA5AE}
+.impact-stat:last-child{border-right:0}
+.impact-stat .stat-number{font:400 clamp(3.4rem,5.6vw,5.2rem)/1.18 var(--display);color:var(--blue-bright)!important;margin:0 0 10px}
+.impact-stat .stat-label{font:400 clamp(1.2rem,1.8vw,1.5rem)/1.4 var(--sans);color:#111820!important;margin:0 0 12px}
+.impact-stat .stat-description{font:400 .96rem/1.65 var(--sans);color:#111820!important;max-width:270px;margin:0}
+/* Radio-driven three-city Google map selector */
+.location-maps{background:#FFFFFF;width:100%;padding:38px 0;margin:70px auto 30px}
+.location-maps h2{font:400 clamp(2rem,3.2vw,3.2rem)/1.25 var(--display);color:var(--blue)!important;text-align:center;margin-bottom:26px}
+.location-maps>p{color:#111820!important}
+.map-tabs{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;align-items:center;margin-bottom:30px}
+.map-tabs input{position:absolute;width:1px;height:1px;opacity:0}
+.map-tabs label{font:600 .91rem/1.4 var(--sans);border:1px solid var(--blue);color:var(--blue);background:#FFFFFF;padding:13px 22px;cursor:pointer;transition:background .2s,color .2s}
+.map-tabs label:hover{background:var(--light-blue)}
+.map-tabs input:checked+label{background:var(--blue);color:#FFFFFF}
+.map-tabs input:focus-visible+label{outline:3px solid var(--blue);outline-offset:4px}
+.map-panels{width:100%;overflow:hidden;border:1px solid var(--border);background:var(--mist)}
+.map-panel{display:none;width:100%}
+.location-maps:has(#map-calgary:checked) .map-panel[data-city="calgary"],
+.location-maps:has(#map-toronto:checked) .map-panel[data-city="toronto"],
+.location-maps:has(#map-bc:checked) .map-panel[data-city="british-columbia"]{display:block}
+.map-panel iframe{display:block;width:100%;height:450px;border:0}
+.map-caption{padding:20px;background:#F0F0F0;border-top:1px solid var(--border);text-align:center;color:#111820}
+.map-caption strong{font-size:1.2rem;color:var(--blue)}
+.map-caption a{display:inline-block;margin-top:12px;color:var(--blue);font-weight:600;text-decoration:underline}
+@media(max-width:850px){.ca-hero{grid-template-columns:1fr;min-height:auto}.ca-hero:after{display:none}.ca-page-intro,.ca-hero{margin-left:-16px!important;margin-right:-16px!important}}
+@media(max-width:767px){header.site-header{padding:18px!important}.site-header>.container{align-items:flex-start!important}.site-header nav ul{justify-content:flex-start!important;gap:8px 16px!important}.site-header nav a{font-size:.72rem!important}.site-header img{width:60px!important;height:60px!important}.site-header h1{font-size:1.6rem!important}main.page-shell{padding:0 16px 56px!important}.ca-hero{padding:49px 27px!important}.ca-hero h2{font-size:2.6rem!important}.ca-page-intro{padding:45px 27px!important}#about,#certifications,#feedback,#contact{padding:28px 18px!important}.impact-stats{grid-template-columns:1fr;padding:18px 0 30px}.impact-stat{min-height:auto;border-right:0;border-bottom:1px solid var(--border);padding:24px 12px}.impact-stat:last-child{border-bottom:0}.impact-stat .stat-number{font-size:3.7rem}.map-tabs{gap:8px}.map-tabs label{font-size:.78rem;padding:11px 13px}.map-panel iframe{height:320px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
