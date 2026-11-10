@@ -1,13 +1,25 @@
 {
-  "updated_at": "2026-11-10T18:54:35Z",
+  "updated_at": "2026-11-10T19:00:48Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Introducing Businesses in ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QWl94aW1pbWMtLVFmMnN6d3NRdk5zOGFhNUNYVUJ4dkZtaG14dnpwQ1F3blgzN2hvTm5DeHV4cXV3dVdfS3JxbDVVb21MMG9sWG0tS2NYNUJTREIyYTVGNmFFdTZEdzQ?oc=5",
+      "summary": "Introducing Businesses in ChatGPT OpenAI",
+      "published_at": "2026-11-10T18:10:37Z",
+      "image_url": "",
+      "video_url": ""
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
       "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
       "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
-      "published_at": "2026-11-10T17:26:44Z"
+      "published_at": "2026-11-10T17:26:44Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -15,7 +27,9 @@
       "title": "Official Zoom Support | Help Center - Zoom",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T16:43:35Z"
+      "published_at": "2026-11-10T16:43:35Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -23,7 +37,9 @@
       "title": "High oil prices have led to a dip in global carbon emissions",
       "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
       "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-      "published_at": "2026-11-10T16:29:27Z"
+      "published_at": "2026-11-10T16:29:27Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -31,7 +47,9 @@
       "title": "Carbon emissions are down this year—but that probably won’t last - Ars Technica",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWFDM0pDTmhhRFZ5VENmcXJ3SENjWk83RkN1bmdvUnRsX0tPOWhHWFFKTFptZDNsT2ZNTDdybEdYVk1HTENPdkJqVjBBZ3MtUXI1YXFxSzF2R1lvYmN1aHE5S2lzTm9SM1BMVlRqNXVwUERES2wwS2dLVks0RENSZTBWZmhBYzh0T2tWdUsxU01lS2hsVV90Um0yX3dMOEgtSHgxMnBQaw?oc=5",
       "summary": "Carbon emissions are down this year—but that probably won’t last Ars Technica",
-      "published_at": "2026-11-10T16:29:27Z"
+      "published_at": "2026-11-10T16:29:27Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -39,7 +57,9 @@
       "title": "One space station company sues another for copying its work",
       "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
       "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "published_at": "2026-11-10T16:17:51Z"
+      "published_at": "2026-11-10T16:17:51Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -47,7 +67,9 @@
       "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
       "url": "https://www.zoom.com/en/blog/defensible-yes-cx-leaders/",
       "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
-      "published_at": "2026-11-10T15:21:17Z"
+      "published_at": "2026-11-10T15:21:17Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -55,7 +77,9 @@
       "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
       "summary": "Work at the Frontier: AI’s effect on freelance work OpenAI",
-      "published_at": "2026-11-10T15:04:04Z"
+      "published_at": "2026-11-10T15:04:04Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -63,7 +87,9 @@
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
       "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "summary": "The new model is up to twice as successful at some tasks.",
-      "published_at": "2026-11-10T15:00:39Z"
+      "published_at": "2026-11-10T15:00:39Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -71,7 +97,9 @@
       "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
       "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
       "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-      "published_at": "2026-11-10T14:53:05Z"
+      "published_at": "2026-11-10T14:53:05Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -79,7 +107,9 @@
       "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
       "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
       "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
-      "published_at": "2026-11-10T14:43:49Z"
+      "published_at": "2026-11-10T14:43:49Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -87,7 +117,9 @@
       "title": "Polestar has a new look with its Formula 2030 concept",
       "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
       "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
-      "published_at": "2026-11-10T14:22:02Z"
+      "published_at": "2026-11-10T14:22:02Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -95,7 +127,9 @@
       "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
       "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
-      "published_at": "2026-11-10T14:08:39Z"
+      "published_at": "2026-11-10T14:08:39Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -103,7 +137,9 @@
       "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
       "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "published_at": "2026-11-10T12:15:32Z"
+      "published_at": "2026-11-10T12:15:32Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -111,7 +147,9 @@
       "title": "Helping caregivers use AI in everyday life - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
       "summary": "Helping caregivers use AI in everyday life OpenAI",
-      "published_at": "2026-11-10T12:07:52Z"
+      "published_at": "2026-11-10T12:07:52Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -119,7 +157,9 @@
       "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
       "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
       "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-      "published_at": "2026-11-10T12:00:21Z"
+      "published_at": "2026-11-10T12:00:21Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -127,7 +167,9 @@
       "title": "Helping caregivers use AI in everyday life",
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "published_at": "2026-11-10T12:00:00Z"
+      "published_at": "2026-11-10T12:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -135,7 +177,9 @@
       "title": "Introducing Businesses in ChatGPT",
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "published_at": "2026-11-10T10:00:00Z"
+      "published_at": "2026-11-10T10:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -143,7 +187,9 @@
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "published_at": "2026-11-10T09:00:00Z"
+      "published_at": "2026-11-10T09:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -151,7 +197,9 @@
       "title": "Closing the AI guidance gap in education - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PY2czTVhLaWY0UXdZVW9LX2Rpai1fSlY5d2M4Vm9OeFNHR01YZGlnd3czdzQwMnRxQW5ybHpIUXJGMU1VYWc0Z2ZfcWdaYnpvOXlmQU9MRDRFNzBJRFc3cEt3aVlsenhkb2pB?oc=5",
       "summary": "Closing the AI guidance gap in education OpenAI",
-      "published_at": "2026-11-10T08:05:54Z"
+      "published_at": "2026-11-10T08:05:54Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -159,7 +207,9 @@
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "published_at": "2026-11-10T07:00:00Z"
+      "published_at": "2026-11-10T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -167,7 +217,9 @@
       "title": "Incorrect cost data in Costs API exports - OpenAI Status",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVkJVTlFQYkozOTQ3c181X0JEbUdLLUdRWGtzRjlOaEN2eFg0MGM4bi1Sc0NOVG1iSjFiX0VBOUVKanNhYzc4TTZ4WG1fODhsWnhLTThMT3VadzZ3VUFyWXl1WVNNeERNdVJZZVpySQ?oc=5",
       "summary": "Incorrect cost data in Costs API exports OpenAI Status",
-      "published_at": "2026-11-10T06:40:36Z"
+      "published_at": "2026-11-10T06:40:36Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -175,15 +227,9 @@
       "title": "Founding Full Stack Software Engineer, Consulting - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
       "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
-      "published_at": "2026-11-10T03:37:15Z"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T03:29:05Z"
+      "published_at": "2026-11-10T03:37:15Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -191,7 +237,9 @@
       "title": "Elevated Errors On API - OpenAI Status",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dUU3bFJlQkoyQXVfb1doRlVyVmtBYmtzZjVGeHREeG9WRDRDWVV2LUdNNW84RERfMG5fck5MTEFQWUE2dk45TDJBdkZnS0VhNVctdWdhV2tyclczY3Bqc1U0VmMxdXlpdHUzOXJabw?oc=5",
       "summary": "Elevated Errors On API OpenAI Status",
-      "published_at": "2026-11-09T23:24:05Z"
+      "published_at": "2026-11-09T23:24:05Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -199,7 +247,9 @@
       "title": "Community - Zoom Community",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3lJV1pSYlJhZWZOZHBvV3Vwbkw4OGVVMXo3Zm9pUTYtcDRvRU9WSmtsc01XTS13eWtNcE5XakZhRlR2cGpJSGk1LV81YzB2SnpodklVeXU3MXNPTE1VUWxmZ2VXaHBWVzlQbHV6eDJsUjZHdUVkaS14WXp0SnVpZHp4TEtSUmtMUWJCUTYzX1VKNjgtMmN4WjZrTkVFNXluVFl3dlJn?oc=5",
       "summary": "Community Zoom Community",
-      "published_at": "2026-11-09T22:44:19Z"
+      "published_at": "2026-11-09T22:44:19Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -207,7 +257,9 @@
       "title": "Control Room: A central system to track and stop model workloads across our research infrastructure - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjWGxxM05yXzBlNnVXRmxCRkluR252OUdacHlwLVdhTUdPOHFRNFl3eDFKNnlaUWEtSHJCU012R0lnR3lWUTFxd0hGR2FXQms?oc=5",
       "summary": "Control Room: A central system to track and stop model workloads across our research infrastructure OpenAI",
-      "published_at": "2026-11-09T21:56:02Z"
+      "published_at": "2026-11-09T21:56:02Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -215,15 +267,9 @@
       "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
       "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
       "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-      "published_at": "2026-11-09T21:55:35Z"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-      "published_at": "2026-11-09T21:25:05Z"
+      "published_at": "2026-11-09T21:55:35Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -231,7 +277,9 @@
       "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
       "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
       "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-      "published_at": "2026-11-09T21:13:39Z"
+      "published_at": "2026-11-09T21:13:39Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -239,7 +287,9 @@
       "title": "Durable Task extension for Microsoft Agent Framework is now Generally Available - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeTNOOWpvVU9ub2hKdUpZZzBVZmZDdV91US1VNy1lazRVZXpFelZOZkJ1NHhaZU8wVjB6cDZmNXhXaHdBY0FiMHhCcm9yOF9JczBuaXc5UnNwU0ZjYkJBS2lmRlAycjJ4enZobzV1WktCa3hYZ3djanZNdUp0WXp6WmJETURqU2pFVXBmckFUY1BudXNXQnhuc3dfQ2FubFBaSlpUaHlGSDBJVS1CcWhpdGxEUWYzZnZOTHhXZmFOOUFMX2R0Zm10S0ZEWmJPcEp2WnB2eHdyQ3k2OGh2?oc=5",
       "summary": "Durable Task extension for Microsoft Agent Framework is now Generally Available Microsoft Community Hub",
-      "published_at": "2026-11-09T17:14:12Z"
+      "published_at": "2026-11-09T17:14:12Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -247,7 +297,9 @@
       "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
       "url": "https://developer.salesforce.com/blogs/2026/11/quick-pages-beta-developer-edition-jp",
       "summary": "ベータ公開された Quick Pages を Developer Edition で試す手順です。機能の有効化と権限セットの割り当てから、自然言語でのページ作成、会話での修正、保存・共有までを画面付きで紹介します。ダミーデータを作る Anonymous Apex のスクリプトも公開しています。 The post Quick Pages (Beta) を Developer Edition で試す : 有効化からページ…",
-      "published_at": "2026-11-09T01:33:40Z"
+      "published_at": "2026-11-09T01:33:40Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261107162256/quick-pages-beta-developer-edition_1200x600.png?w=1200",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -255,7 +307,9 @@
       "title": "Official Zoom Support | Help Center - Zoom",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQazR1ekhNSHpHem8wa2pVdzNsS1dZdjJqYU8tV0t0NUhTUmdPX0R5OERLdG9zQW95WFBYRjhsVjJLNFpoS1lCY1VfVzV5QlpQMkJ6aXdMWVVwSWNzOWV0dmFfZnVaelUzSE01R0hFU0RVMGd5cVZlZnlheGc3WHRTVVFEa2pDUzRFdzJQODFIZUVqUUJPRndwTkM0TGdJNWdBd2NFV2JwQ1lORk1MRndMYklnNW9zdlZYcDUyUnFiWFpzOEZDMUM0?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-09T01:25:11Z"
+      "published_at": "2026-11-09T01:25:11Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -263,7 +317,9 @@
       "title": "Securing the Non-Human Identity Attack Surface - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5",
       "summary": "Securing the Non-Human Identity Attack Surface Microsoft Community Hub",
-      "published_at": "2026-11-08T20:19:04Z"
+      "published_at": "2026-11-08T20:19:04Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -271,7 +327,9 @@
       "title": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnNCSllJXy1kMVdvcmJUbmMzNlZlVkplRnJhczJNUjdwRklTTENmYmhJOVJ5V2FGTWx4REtvakFFNlgxWG81dENHeXNEdURSUGJnemRaNDVsR2tmSDBlSWE5WF83TkV0R0p0M3FhLWs0cUs0elRQT0tJZllndThGMWhYOWVMc0ZicVlZWExwalJudm50S3JiWnk2Y2d3QTRSdUNmNkg1ZFh6ejJEeUVsaFhuU1pYeHJsSTdxR2M2bG52NjJJLVB2RnFsVFpCQ2ZrQ1RSaEdrZFoxQU5nX1JXQmxYcw?oc=5",
       "summary": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution Microsoft Community Hub",
-      "published_at": "2026-11-07T17:40:16Z"
+      "published_at": "2026-11-07T17:40:16Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -279,7 +337,9 @@
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
       "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
       "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
-      "published_at": "2026-11-06T23:26:57Z"
+      "published_at": "2026-11-06T23:26:57Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261106171448/2026-11-07_10-11-59.jpg?w=1118",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -287,7 +347,9 @@
       "title": "Webinar marketing strategy: Zoomtopia 2026 recap",
       "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
       "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
-      "published_at": "2026-11-06T23:24:00Z"
+      "published_at": "2026-11-06T23:24:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -295,7 +357,9 @@
       "title": "What’s new in Microsoft Entra: November 2026 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
       "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-06T21:16:12Z"
+      "published_at": "2026-11-06T21:16:12Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -303,7 +367,9 @@
       "title": "How to use AI for social media content as a small business",
       "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
       "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
-      "published_at": "2026-11-06T17:28:00Z"
+      "published_at": "2026-11-06T17:28:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -311,7 +377,9 @@
       "title": "Why Most AI in CX Fails Before It Even Launches - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TZ2cxUkNqaG5CUy1fZ2dwUWJfTWJ5NXMxNlI1alNLNno0Um5KbU9EMElxRVVBZEpmRzRYUWVVQTVKZWhNcjNaS1RoS3haMFU4VEE2UFBOV3RVR25WZVJvNFFuZw?oc=5",
       "summary": "Why Most AI in CX Fails Before It Even Launches Zoom",
-      "published_at": "2026-11-06T16:23:32Z"
+      "published_at": "2026-11-06T16:23:32Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -319,7 +387,9 @@
       "title": "Zoom in on CX: Why Most AI in CX Fails Before It Even Launches",
       "url": "https://www.zoom.com/en/blog/zoom-in-on-cx-episode-3/",
       "summary": "Most AI transformations fail before they even launch — not because the technology is weak, but because no one asked the right question first. In this episode, Michelle Booth (Zoom) and Andy Kingston (Lloyds Ban…",
-      "published_at": "2026-11-06T14:00:00Z"
+      "published_at": "2026-11-06T14:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -327,7 +397,9 @@
       "title": "IIBA Global Business Analysis Day 2026 - IIBA Vancouver Chapter",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0QzbkxNVENLNlVhVHNiUkRabUhudnJXY25XWkk1LVFicGd6bFY1ZTlaMENXNnluNlowZjlEaENLVmdocEFCZ19qYWJ3Ukdkb25WOWE1alFnMzZzX2dJcko3NVdCSVhVZnZXblNVSnlRb19ScnRKdDkwaXBQRUk3V2l0dkhVb2xtMmZRVGx3?oc=5",
       "summary": "IIBA Global Business Analysis Day 2026 IIBA Vancouver Chapter",
-      "published_at": "2026-11-06T08:00:00Z"
+      "published_at": "2026-11-06T08:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -335,7 +407,9 @@
       "title": "Standard Objects | Object Reference for the Salesforce Platform - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkNYbjBfenNhZUFmZmVwM1hNbXpEaG91SGdfd1NDRGlBVFFyT3RzWmlsTDdlQ3hJUWgtR2x0NWxuRlg3UktabUtlTXN3aVhtZk1SaFoxeTNmb1NfN0trY0lKdE11SmYwZ1VTU2pIUlJiaU15S2VsVTJINGlRSVVnXzhsLV9raF9JWXBZOERrb18xS2tPQW42dFZsTGxzSFhBQTNjZFhPSTJGT0RXZ1JjbEtOeUd3eHh6TDB6T2tYdW9OTjRVdGRqYQ?oc=5",
       "summary": "Standard Objects | Object Reference for the Salesforce Platform Salesforce Developers",
-      "published_at": "2026-11-06T03:58:45Z"
+      "published_at": "2026-11-06T03:58:45Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -343,7 +417,9 @@
       "title": "Three Perspectives From BA Digest Q4 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
       "summary": "Three Perspectives From BA Digest Q4 IIBA",
-      "published_at": "2026-11-05T21:30:33Z"
+      "published_at": "2026-11-05T21:30:33Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -351,7 +427,9 @@
       "title": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF1SG9xRnhaMldQOEFhY0tfZ0NwdWd0eGxEMFRscEhTVmozS3FpLVhiQkNmWlpaWWJrbTU4RUhqWTVXUEI3b2hFcjZhUlhCWVBlMDZxV29WYlRoT0JPdDdiUDY0UmFINWo0YUZsdHYxV0pQVlV5TW42elk3WTlISUdkTE5LNUZLRUxoYjRwM0FybVB1V2RvWTBpNUxWN0p6cFVOVFZfNWIyeWlUaUVRbVFqSUFiYXhxdnNTOWxVSGpvMmdkNlBQNkdTcU1QakdnbEw0NFVzMnVWQVQwNG13Xw?oc=5",
       "summary": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more Microsoft Community Hub",
-      "published_at": "2026-11-05T21:25:40Z"
+      "published_at": "2026-11-05T21:25:40Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -359,7 +437,9 @@
       "title": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzVJR2V1cTdfaWRGNWF1Q0ExLVBUUVlZaDhwckRTdTgySTJEak9HZEFrSi1ScXNyZ0h3TEg0YnlySUZiOWRRY05WZ0FNSXV3RjdFbTk0bVAxeVNoU3hYT0RGeGZXaTNoNnVUQUlFRVdfZlFMSWgxX2pmMl9DeDBjdW5PcVFHdjM5X2FIeEZhdFN3VkI2RmQzSExONTZzVzBOV01hTF9LVmRCcU9jYlQ1YjZlUnRnTThIYnhUbC03MGc0WGtsOXZOWmpTTzhCdw?oc=5",
       "summary": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-05T19:55:20Z"
+      "published_at": "2026-11-05T19:55:20Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -367,7 +447,9 @@
       "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjktd09mM3Y3S2pXWGdEVGNTTzIzZkR6ZHBOTVV2VkpValF6bHpzZmh3d3FYZ0JRLXRiN29SZEZYQ0xQSXhSN25zRW9DUnVDQ3JlT01qeW44aF9rRmdhMVQwSHVUeC1DNWEyNU5QMzlXY05oaWRYSlp2bGFseURpQ1REeXRSZGFqUTVSc3kxZ05PTW14bElFY2JKTFl5SDJUNXRzVzJDQjZzLTFKUVp2Xy1lT0xNcHM1ZUlyT0YtajlFRG14b0JJc0lTRGozN1RqTUZzcG85d2dwbmpJeGVLYTg3dVUtQQ?oc=5",
       "summary": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-05T18:07:52Z"
+      "published_at": "2026-11-05T18:07:52Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -375,7 +457,9 @@
       "title": "New Investments to Reduce On-Premises Security Risk - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnFHejIzOU42NDhka1V4NUVHQWVvM0xUN25WSDk2MXBNclduV3hjSHVLVFhLeVdKQmN2dThSSjdVVXU3RlZiUjktSW5ULWxVNzFIeWVGYWVSUlFwa0ozdXpCS3BheGtXaFo1b0FqM2M0dGg1cHQzZm1zeXMwVkNZR2pXMG9yMUhJc3NoaDZZSncwNDZvM0VFTTZsTFQycjdZTnY0LVR6QlB4M2xENkk2cno0bzZ2T0Z6TnRrZGRZUU1EZw?oc=5",
       "summary": "New Investments to Reduce On-Premises Security Risk Microsoft Community Hub",
-      "published_at": "2026-11-05T17:11:16Z"
+      "published_at": "2026-11-05T17:11:16Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -383,7 +467,9 @@
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
       "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
       "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
-      "published_at": "2026-11-05T16:00:55Z"
+      "published_at": "2026-11-05T16:00:55Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -391,7 +477,9 @@
       "title": "Sales Agreement Product Details Input - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUhsMGwxc1RzcVVIT28wVmVfLTg0T29GMG83cllVX3l1WEFjWkxxSlBIZS1iSjlCWXRjbG1VZWdlSHZ0S2JlOXJkazdtRDN5NElvckE1TnpKbE96cGd4Z2tKMENvWmQ0b2tJTUtDOWZVUTMtY2Z6YThPRV9tN05US005ZW5WZW9JTVlKeUR5Mjlka3BrWkdRMnRGbkhTV1lTY0ItZVNneVV0UlY1UmRpQVFjM1NjdExvQl8wYmozT1hULUg2QTM5dzdvbw?oc=5",
       "summary": "Sales Agreement Product Details Input Salesforce Developers",
-      "published_at": "2026-11-05T12:17:32Z"
+      "published_at": "2026-11-05T12:17:32Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -399,7 +487,19 @@
       "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
       "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
       "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
-      "published_at": "2026-11-04T16:00:34Z"
+      "published_at": "2026-11-04T16:00:34Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
+      "video_url": ""
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Troubleshooting Video Issues - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
+      "summary": "Troubleshooting Video Issues Zoom",
+      "published_at": "2026-11-04T14:45:24Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -407,7 +507,9 @@
       "title": "Introducing SharePoint tools in Work IQ - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGhibW9GblFVbExEMm04R0hYbjVkZFVCb2RtSF9lMnJiUEtEem5neVhFN3dPWGRtTlJTVmE0SF83ZmJibllMSnNIemNPaGNpSkRQbWp5R0taUW1uMDd2SEZaN0RuSnJ0TzlpOVo1dG5WRnlrS09VVGdhNDVhejlaelo5ZGw4Ym5kZG1yZFBSd0VFbEdFckNLSmFxMA?oc=5",
       "summary": "Introducing SharePoint tools in Work IQ Microsoft Community Hub",
-      "published_at": "2026-11-03T19:18:36Z"
+      "published_at": "2026-11-03T19:18:36Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -415,7 +517,9 @@
       "title": "The Requirement No One Asked For - IIBA",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
       "summary": "The Requirement No One Asked For IIBA",
-      "published_at": "2026-11-03T18:00:54Z"
+      "published_at": "2026-11-03T18:00:54Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -423,7 +527,9 @@
       "title": "How Outlook Search is changing: ranking, resilience, and the feedback loop - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVkxVDIxTVlraV93YmJvUFIxMHd3a2IwdlVreHFXY0EwRGl3MnFKYl9jMjNBLVhkZGpEckZnSGlRWW9oRlNaUnJ3RXg4c2hHa01ScVFFQVlUTWRtTTJDQjFKSjVZOFFmbDdoLVp1d2Y4ak5TMVlaM2V1Umg2TlM1c3NYWDZIZnVEbjM0U3Jra0VjVkJad08zU1hCMWM2LWlIUEZ6Zm16czBSNVpiUjY2VTFPbTRJaHpiVFp1YWxkeWRtTTJFRi13?oc=5",
       "summary": "How Outlook Search is changing: ranking, resilience, and the feedback loop Microsoft Community Hub",
-      "published_at": "2026-11-03T16:34:35Z"
+      "published_at": "2026-11-03T16:34:35Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -431,7 +537,9 @@
       "title": "Protect Your Salesforce Commerce API (SCAPI) from Bots and AI Agents with eCDN",
       "url": "https://developer.salesforce.com/blogs/2026/11/protect-your-salesforce-commerce-api-scapi-from-bots-and-ai-agents-with-ecdn",
       "summary": "Learn how to secure your Salesforce Commerce API (SCAPI) with B2C Commerce eCDN. Explore how to restrict API access to trusted integrations, strengthen SLAS security, and manage AI crawler and shopping agent tr…",
-      "published_at": "2026-11-03T16:00:54Z"
+      "published_at": "2026-11-03T16:00:54Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029112113/Generic-D-8-e1793298086874.png?w=1000",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -439,7 +547,9 @@
       "title": "What is a quality management system?",
       "url": "https://www.zoom.com/en/blog/quality-management-system-guide/",
       "summary": "Learn what a quality management system is, how it works in contact centers, and how to choose the right QMS software for your team.",
-      "published_at": "2026-10-30T19:55:09Z"
+      "published_at": "2026-10-30T19:55:09Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -447,7 +557,9 @@
       "title": "FinancialAccountParty - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
       "summary": "FinancialAccountParty Salesforce Developers",
-      "published_at": "2026-10-30T11:26:42Z"
+      "published_at": "2026-10-30T11:26:42Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -455,7 +567,9 @@
       "title": "InsurancePolicyParticipant - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
       "summary": "InsurancePolicyParticipant Salesforce Developers",
-      "published_at": "2026-10-30T11:21:16Z"
+      "published_at": "2026-10-30T11:21:16Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -463,7 +577,9 @@
       "title": "InsurancePolicyTransaction - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5oOEx5RGltVXMwVFZtcVdobXRKRkF3UlptemlIbmV2b0laUHNiRkdKcWV4aXlqQkdsSW1wSGlLQVhNU0JudGlGVV9WTTlDZi05Mi0tYWRfXzRhbHBncUZXOFhoZmplcWxSdGpLZDNnQVdkNUMxSTZ5TW85LUhwNlhYZm9JYmcxQXN2ZEE1RU5EbUt4OGF2cjF4ZjJRLW13cktmVHJqdm1LdnhfSk5yM080SlQ0bU5nenRR?oc=5",
       "summary": "InsurancePolicyTransaction Salesforce Developers",
-      "published_at": "2026-10-30T11:06:56Z"
+      "published_at": "2026-10-30T11:06:56Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -471,7 +587,9 @@
       "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
       "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
-      "published_at": "2026-10-30T07:00:00Z"
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -479,7 +597,9 @@
       "title": "GenAiPromptTemplate - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
       "summary": "GenAiPromptTemplate Salesforce Developers",
-      "published_at": "2026-10-30T07:00:00Z"
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -487,7 +607,9 @@
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
       "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
-      "published_at": "2026-10-30T07:00:00Z"
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Salesforce",
@@ -495,7 +617,9 @@
       "title": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWhwZFVJMkptc1c2S0NWVVBpTGlYUDEtbTFFWDh6N2cyMk50N1BlaG9RQURRZnRVWkRVOEV4djNqQ3Q4NjQ3Z1ctMm56ZURCaFE2TUlXNTJkNjhFcnRyMmdqOWgtelZybjRvckkzT0FjTWIycEtTMnZkTUJsVTBsSWVWY1hmUkYwQUFMR2ZhcnhwTnZCSlAyTTd5NVVZcG1sTWV5dGdaR3c0cXZodk9Ydi15b3Nwb0FObWJLbEQ0bi1xeHNEMEVR?oc=5",
       "summary": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide Salesforce Developers",
-      "published_at": "2026-10-30T06:54:03Z"
+      "published_at": "2026-10-30T06:54:03Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -503,7 +627,9 @@
       "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
-      "published_at": "2026-10-29T21:20:03Z"
+      "published_at": "2026-10-29T21:20:03Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -511,7 +637,9 @@
       "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
       "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
-      "published_at": "2026-10-29T11:34:27Z"
+      "published_at": "2026-10-29T11:34:27Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -519,7 +647,9 @@
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
-      "published_at": "2026-10-28T11:06:36Z"
+      "published_at": "2026-10-28T11:06:36Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -527,7 +657,9 @@
       "title": "The context layer every enterprise AI deployment is missing",
       "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
       "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
-      "published_at": "2026-10-27T16:03:25Z"
+      "published_at": "2026-10-27T16:03:25Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Microsoft",
@@ -535,7 +667,9 @@
       "title": "Windows CLAT is Now Generally Available - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVhELVV1Q19xOWprY1ZWcGZrOVJkcVhRWWFCRG5GdWRLcU5NNGFMa0VWZmRGNjB2cjJwZ1lHa0tyTDFwSkNTZHdXTlg1WEM2b0lISVdwT3hOa3JFdzNsU2d1b2IxTWdsalAwNjVaVnhLUjlleGRsSGFKMjRSUDVjTEpLVDJYMW9wajJXRV9NNzVhX1N0aGM2N2NxcXdHRkx3UGRNTFhR?oc=5",
       "summary": "Windows CLAT is Now Generally Available Microsoft Community Hub",
-      "published_at": "2026-10-27T07:00:00Z"
+      "published_at": "2026-10-27T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -543,7 +677,9 @@
       "title": "IIBA Sydney (In-Person) - EoY Networking Event - IIBA Australia",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZxVmptT0lDXy1pdVBDVlJsR250X1doV0JIUWVNbk5JVWZqYkFxdGMxSnVaLUdkQnN1YVhFZ01fMTJfNFZjdmh0MnhHVXdQUTEtem9ZVUlZd2FROUpfemppODdfQ1p4YWJJNlJvVHRaZDktOGFvY3JJeExsejJEbnN2U09IclVxLUdF?oc=5",
       "summary": "IIBA Sydney (In-Person) - EoY Networking Event IIBA Australia",
-      "published_at": "2026-10-22T16:06:32Z"
+      "published_at": "2026-10-22T16:06:32Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -551,7 +687,9 @@
       "title": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech - IIBA Raleigh",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
-      "published_at": "2026-10-20T10:04:57Z"
+      "published_at": "2026-10-20T10:04:57Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -559,7 +697,9 @@
       "title": "How to Use AI Prototyping to Accelerate User Interface Modeling",
       "url": "https://www.bridging-the-gap.com/user-interface-modeling/",
       "summary": "User interface models, particularly with AI prototyping, are one of the quickest way to gain buy in, to get stakeholder feedback and to help business stakeholders engage in the requirements process. I’ve been u…",
-      "published_at": "2026-10-13T12:16:32Z"
+      "published_at": "2026-10-13T12:16:32Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -567,7 +707,9 @@
       "title": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact - IIBA Australia",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWpzZ1VabTJVVGMybERYQkFneFVtX2VvamlxRXl5cFpGRlBhYXhDOUJfT0MxZHl0N3k5YnB5VkgyeDRYa0FrQThYdjMwU1g4VWd1dlRHc3ZlTmxaTG96Rm1wME5xVndsQ3NkWmgyNG0wd2dyUHJFdVYwa2Mzb0Nja0k4UW1vejV1ZVRuNmtMcFNYTTllYll1MWlGRFJxVlpCNG9jV2k0VlU4VTVUbWdRUlY2YUsxU1E?oc=5",
       "summary": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact IIBA Australia",
-      "published_at": "2026-10-01T07:00:00Z"
+      "published_at": "2026-10-01T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Business Analysis",
@@ -575,7 +717,9 @@
       "title": "Business Analysis in Agile: A Skill and a Role - IIBA",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnAyWk4tUmtVT0dVaXBVQ3I4eF9MajF0LTRUZktsOVY4ejdlZGlNem1lSzBfMmZMN01CLXU4SUt1cG1WMDMzNHdPd1R1ZFN3UGNwWURwRGltX0xsbnNuYThLV0xhSFVUVHdjaFVucXI4elFyZUhOWlN4a3ppN3JSNVllc3ZMN1M5Z2tUd2RfdFZuY3VNV2c?oc=5",
       "summary": "Business Analysis in Agile: A Skill and a Role IIBA",
-      "published_at": "2026-09-24T07:00:00Z"
+      "published_at": "2026-09-24T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
     }
   ],
   "sources_ok": [
