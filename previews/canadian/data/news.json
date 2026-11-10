@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:17:03Z",
+  "updated_at": "2026-11-10T19:31:01Z",
   "articles": [
     {
       "category": "AI",
@@ -19,6 +19,17 @@
       "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
       "published_at": "2026-11-10T17:26:44Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b160047cbeef5235.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Community - Zoom Community",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
+      "summary": "Community Zoom Community",
+      "published_at": "2026-11-10T17:26:36Z",
+      "image_url": "",
       "video_url": ""
     },
     {
@@ -39,7 +50,8 @@
       "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
       "published_at": "2026-11-10T16:29:27Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/70f1195408e03efa.jpg"
     },
     {
       "category": "Tech",
@@ -59,7 +71,19 @@
       "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
       "published_at": "2026-11-10T16:17:51Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/462a26ce1d097a27.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
+      "url": "https://developer.salesforce.com/blogs/2026/11/accelerate-agent-driven-development-with-the-headless-toolkit",
+      "summary": "Learn how to accelerate agent-driven Salesforce development with the Headless Toolkit. Explore a seven-stage lifecycle using Salesforce skills, MCP servers, and developer tools to build, test, review, and deplo…",
+      "published_at": "2026-11-10T16:00:07Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261105105231/SingleHeadshot-13-e1793904767965.png?w=1000",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
     },
     {
       "category": "Zoom",
@@ -69,7 +93,8 @@
       "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
       "published_at": "2026-11-10T15:21:17Z",
       "image_url": "https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
       "category": "AI",
@@ -89,7 +114,8 @@
       "summary": "The new model is up to twice as successful at some tasks.",
       "published_at": "2026-11-10T15:00:39Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b9b2cbe828bb1d61.jpg"
     },
     {
       "category": "Tech",
@@ -99,7 +125,8 @@
       "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
       "published_at": "2026-11-10T14:53:05Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/97b296287b83a851.jpg"
     },
     {
       "category": "Tech",
@@ -109,7 +136,8 @@
       "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
       "published_at": "2026-11-10T14:43:49Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b8f5c5719f14d5d6.jpg"
     },
     {
       "category": "Tech",
@@ -119,7 +147,8 @@
       "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
       "published_at": "2026-11-10T14:22:02Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/52c592459206ee73.jpg"
     },
     {
       "category": "Zoom",
@@ -139,7 +168,8 @@
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "published_at": "2026-11-10T12:15:32Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/7cb7420098e692d5.jpg"
     },
     {
       "category": "AI",
@@ -232,16 +262,6 @@
       "video_url": ""
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T03:29:05Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Elevated Errors On API - OpenAI Status",
@@ -309,7 +329,8 @@
       "summary": "ベータ公開された Quick Pages を Developer Edition で試す手順です。機能の有効化と権限セットの割り当てから、自然言語でのページ作成、会話での修正、保存・共有までを画面付きで紹介します。ダミーデータを作る Anonymous Apex のスクリプトも公開しています。 The post Quick Pages (Beta) を Developer Edition で試す : 有効化からページ…",
       "published_at": "2026-11-09T01:33:40Z",
       "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261107162256/quick-pages-beta-developer-edition_1200x600.png?w=1200",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
     },
     {
       "category": "Zoom",
@@ -349,7 +370,8 @@
       "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
       "published_at": "2026-11-06T23:26:57Z",
       "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261106171448/2026-11-07_10-11-59.jpg?w=1118",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
       "category": "Zoom",
@@ -359,7 +381,8 @@
       "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
       "published_at": "2026-11-06T23:24:00Z",
       "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Microsoft",
@@ -379,7 +402,8 @@
       "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
       "published_at": "2026-11-06T17:28:00Z",
       "image_url": "https://media.zoom.com/images/assets/Solopreneurflorist.jpg/Zz04ZTk5MjU1NmQ5ODUxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8ae970d92e4224b0.jpg"
     },
     {
       "category": "Zoom",
@@ -399,7 +423,8 @@
       "summary": "Most AI transformations fail before they even launch — not because the technology is weak, but because no one asked the right question first. In this episode, Michelle Booth (Zoom) and Andy Kingston (Lloyds Ban…",
       "published_at": "2026-11-06T14:00:00Z",
       "image_url": "https://media.zoom.com/images/assets/EP3+Andy+Kingston+_+LP.webp/Zz0wYjRhYmJiMmQ5ZTcxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/d1bdb13a4787cc13.jpg"
     },
     {
       "category": "Business Analysis",
@@ -479,7 +504,8 @@
       "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
       "published_at": "2026-11-05T16:00:55Z",
       "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
     },
     {
       "category": "Salesforce",
@@ -499,6 +525,17 @@
       "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
       "published_at": "2026-11-04T16:00:34Z",
       "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Troubleshooting Video Issues - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
+      "summary": "Troubleshooting Video Issues Zoom",
+      "published_at": "2026-11-04T14:45:24Z",
+      "image_url": "",
       "video_url": ""
     },
     {
@@ -539,7 +576,8 @@
       "summary": "Learn how to secure your Salesforce Commerce API (SCAPI) with B2C Commerce eCDN. Explore how to restrict API access to trusted integrations, strengthen SLAS security, and manage AI crawler and shopping agent tr…",
       "published_at": "2026-11-03T16:00:54Z",
       "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029112113/Generic-D-8-e1793298086874.png?w=1000",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
     },
     {
       "category": "Zoom",
@@ -549,7 +587,8 @@
       "summary": "Learn what a quality management system is, how it works in contact centers, and how to choose the right QMS software for your team.",
       "published_at": "2026-10-30T19:55:09Z",
       "image_url": "https://media.zoom.com/images/assets/quality-management-system-guide.webp/Zz04NzU5ZGYzYWQ0OWMxMWYxOWIwYzFlZTYwODA2YmZlNg==",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6f96d4a5b108c146.jpg"
     },
     {
       "category": "Salesforce",
@@ -582,21 +621,21 @@
       "video_url": ""
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
-      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "GenAiPromptTemplate - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
       "summary": "GenAiPromptTemplate Salesforce Developers",
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
+      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
       "published_at": "2026-10-30T07:00:00Z",
       "image_url": "",
       "video_url": ""
@@ -608,16 +647,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
       "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
       "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWhwZFVJMkptc1c2S0NWVVBpTGlYUDEtbTFFWDh6N2cyMk50N1BlaG9RQURRZnRVWkRVOEV4djNqQ3Q4NjQ3Z1ctMm56ZURCaFE2TUlXNTJkNjhFcnRyMmdqOWgtelZybjRvckkzT0FjTWIycEtTMnZkTUJsVTBsSWVWY1hmUkYwQUFMR2ZhcnhwTnZCSlAyTTd5NVVZcG1sTWV5dGdaR3c0cXZodk9Ydi15b3Nwb0FObWJLbEQ0bi1xeHNEMEVR?oc=5",
-      "summary": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide Salesforce Developers",
-      "published_at": "2026-10-30T06:54:03Z",
       "image_url": "",
       "video_url": ""
     },
@@ -639,16 +668,6 @@
       "summary": "BA Connect Georgia 2026 IIBA",
       "published_at": "2026-10-28T11:06:36Z",
       "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "The context layer every enterprise AI deployment is missing",
-      "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
-      "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
-      "published_at": "2026-10-27T16:03:25Z",
-      "image_url": "https://media.zoom.com/images/assets/The+context+layer+every+enterprise+AI+deployment+is+missing/Zz1iZWI5OTE2YWQyZTgxMWYxYmFkMmNhMDZjM2JjZWUyOA==",
       "video_url": ""
     },
     {
@@ -699,7 +718,8 @@
       "summary": "User interface models, particularly with AI prototyping, are one of the quickest way to gain buy in, to get stakeholder feedback and to help business stakeholders engage in the requirements process. I’ve been u…",
       "published_at": "2026-10-13T12:16:32Z",
       "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
-      "video_url": ""
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
     },
     {
       "category": "Business Analysis",
