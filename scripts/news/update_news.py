@@ -86,7 +86,7 @@ def extract_media(item, raw_description, article_link):
 def normalize_headline(title):
     """Match a Google News headline with the corresponding official publisher item."""
     title = (title or "").lower()
-    title = re.sub(r"\\s+[-|–]\\s+(?:openai|salesforce|microsoft|zoom|ars technica|iiba)(?:\\s+.*)?$", "", title)
+    title = re.sub(r"\s+[-|–]\s+(?:openai|salesforce|microsoft|zoom|ars technica|iiba)(?:\s+.*)?$", "", title)
     return re.sub(r"[^a-z0-9]+", " ", title).strip()
 
 def prefer_publisher_links(items):
@@ -314,7 +314,7 @@ def cache_publisher_media(articles):
     # Also keep previously saved thumbnails when the image was already present.
     for item in articles:
         link = item.get("local_image_url", "")
-        if link.startswith(LOCAL_PREFIX) and re.fullmatch(r"[a-f0-9]{16}\\.jpg", link.split("/")[-1]):
+        if link.startswith(LOCAL_PREFIX) and re.fullmatch(r"[a-f0-9]{16}\.jpg", link.split("/")[-1]):
             if not (IMAGE_DIR / link.split("/")[-1]).is_file():
                 item.pop("local_image_url", None)
     logging.info("Cached %d verified publisher thumbnails",
