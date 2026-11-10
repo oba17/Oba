@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:40:03Z",
+  "updated_at": "2026-11-10T20:41:31Z",
   "articles": [
     {
       "category": "Tech",
@@ -33,6 +33,16 @@
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
       "video_url": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/fa53df689c842881.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Google News · arstechnica.com",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUtHRTlrclJiNkx1dGlWdGNadWs4eFA3OElkOWpzUGFaYThxZ2ZneTY0ZnlaZ2U0cVI2X2JMOUpUc3kwZFprLTBIT0tOOEZhbS0yMi12NzlLc0ZYSmZuMGhZZVQ3QmlsTmFMOU01dVF3ejV1Q2NpY0RXREVOUkQ4R1FXRXJONmxONHV6anBHbENNRUpreExkcktMLUkxR0dOLV9ON0VYS3lucFFPWXVSSzBCV0c?oc=5",
+      "summary": "Free video-streaming service Tubi lets users share curated watchlists now Ars Technica",
+      "published_at": "2026-11-10T18:39:16Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "AI",
@@ -178,16 +188,6 @@
       "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
       "published_at": "2026-11-10T14:08:39Z",
       "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "published_at": "2026-11-10T12:15:32Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
       "video_url": ""
     },
     {
@@ -426,32 +426,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/d1bdb13a4787cc13.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Global Business Analysis Day 2026 - IIBA Vancouver Chapter",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0QzbkxNVENLNlVhVHNiUkRabUhudnJXY25XWkk1LVFicGd6bFY1ZTlaMENXNnluNlowZjlEaENLVmdocEFCZ19qYWJ3Ukdkb25WOWE1alFnMzZzX2dJcko3NVdCSVhVZnZXblNVSnlRb19ScnRKdDkwaXBQRUk3V2l0dkhVb2xtMmZRVGx3?oc=5",
-      "summary": "IIBA Global Business Analysis Day 2026 IIBA Vancouver Chapter",
-      "published_at": "2026-11-06T08:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "Standard Objects | Object Reference for the Salesforce Platform - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkNYbjBfenNhZUFmZmVwM1hNbXpEaG91SGdfd1NDRGlBVFFyT3RzWmlsTDdlQ3hJUWgtR2x0NWxuRlg3UktabUtlTXN3aVhtZk1SaFoxeTNmb1NfN0trY0lKdE11SmYwZ1VTU2pIUlJiaU15S2VsVTJINGlRSVVnXzhsLV9raF9JWXBZOERrb18xS2tPQW42dFZsTGxzSFhBQTNjZFhPSTJGT0RXZ1JjbEtOeUd3eHh6TDB6T2tYdW9OTjRVdGRqYQ?oc=5",
       "summary": "Standard Objects | Object Reference for the Salesforce Platform Salesforce Developers",
       "published_at": "2026-11-06T03:58:45Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Three Perspectives From BA Digest Q4 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
-      "summary": "Three Perspectives From BA Digest Q4 IIBA",
-      "published_at": "2026-11-05T21:30:33Z",
       "image_url": "",
       "video_url": ""
     },
@@ -538,16 +518,6 @@
       "video_url": ""
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "The Requirement No One Asked For - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
-      "summary": "The Requirement No One Asked For IIBA",
-      "published_at": "2026-11-03T18:00:54Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "How Outlook Search is changing: ranking, resilience, and the feedback loop - Microsoft Community Hub",
@@ -630,42 +600,12 @@
       "video_url": ""
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
-      "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWhwZFVJMkptc1c2S0NWVVBpTGlYUDEtbTFFWDh6N2cyMk50N1BlaG9RQURRZnRVWkRVOEV4djNqQ3Q4NjQ3Z1ctMm56ZURCaFE2TUlXNTJkNjhFcnRyMmdqOWgtelZybjRvckkzT0FjTWIycEtTMnZkTUJsVTBsSWVWY1hmUkYwQUFMR2ZhcnhwTnZCSlAyTTd5NVVZcG1sTWV5dGdaR3c0cXZodk9Ydi15b3Nwb0FObWJLbEQ0bi1xeHNEMEVR?oc=5",
       "summary": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide Salesforce Developers",
       "published_at": "2026-10-30T06:54:03Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
-      "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
-      "published_at": "2026-10-29T21:20:03Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "BA Connect Georgia 2026 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
-      "summary": "BA Connect Georgia 2026 IIBA",
-      "published_at": "2026-10-28T11:06:36Z",
       "image_url": "",
       "video_url": ""
     },
@@ -686,26 +626,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZxVmptT0lDXy1pdVBDVlJsR250X1doV0JIUWVNbk5JVWZqYkFxdGMxSnVaLUdkQnN1YVhFZ01fMTJfNFZjdmh0MnhHVXdQUTEtem9ZVUlZd2FROUpfemppODdfQ1p4YWJJNlJvVHRaZDktOGFvY3JJeExsejJEbnN2U09IclVxLUdF?oc=5",
       "summary": "IIBA Sydney (In-Person) - EoY Networking Event IIBA Australia",
       "published_at": "2026-10-22T16:06:32Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech - IIBA Raleigh",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
-      "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
-      "published_at": "2026-10-20T10:04:57Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
-      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
-      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "",
       "video_url": ""
     },
@@ -732,11 +652,95 @@
     },
     {
       "category": "Business Analysis",
+      "source": "Bridging the Gap",
+      "title": "Software Requirements: Get Business and Technology on the Same Page",
+      "url": "https://www.bridging-the-gap.com/software-requirements/",
+      "summary": "One of the major issues plaguing information technology projects is that the solution that gets built does not actually solve the business problem or opportunity. This is often because the software requirements…",
+      "published_at": "2026-09-08T12:08:39Z",
+      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Bridging the Gap",
+      "title": "Tutorial: How to Clarify Business Objectives",
+      "url": "https://www.bridging-the-gap.com/business-objectives/",
+      "summary": "Business objectives define what value means in the context of whatever work it is that you’re doing. It could be a change, an initiative, a product backlog item, or an individual user story. And they […] The po…",
+      "published_at": "2026-08-04T12:00:09Z",
+      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Bridging the Gap",
+      "title": "A Business Analyst’s Approach to a System Migration Project",
+      "url": "https://www.bridging-the-gap.com/system-migration-project/",
+      "summary": "System migration projects are one of the most common and most complex project types a business analyst will encounter. Whether your organization is consolidating tools, upgrading to a more robust platform, or f…",
+      "published_at": "2026-05-26T12:29:42Z",
+      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Bridging the Gap",
+      "title": "Top 10 New Business Analysis Videos for 2025",
+      "url": "https://www.bridging-the-gap.com/business-analysis-videos-2025/",
+      "summary": "2025 was a year of shorter, high-impact videos – all specifically for business analysts of course! My goal was to continue to go for depth, just in shorter increments. I started with a series of […] The post To…",
+      "published_at": "2025-12-22T15:08:31Z",
+      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
+    },
+    {
+      "category": "Business Analysis",
       "source": "Google News · iiba.org",
-      "title": "Business Analysis in Agile: A Skill and a Role - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnAyWk4tUmtVT0dVaXBVQ3I4eF9MajF0LTRUZktsOVY4ejdlZGlNem1lSzBfMmZMN01CLXU4SUt1cG1WMDMzNHdPd1R1ZFN3UGNwWURwRGltX0xsbnNuYThLV0xhSFVUVHdjaFVucXI4elFyZUhOWlN4a3ppN3JSNVllc3ZMN1M5Z2tUd2RfdFZuY3VNV2c?oc=5",
-      "summary": "Business Analysis in Agile: A Skill and a Role IIBA",
-      "published_at": "2026-09-24T07:00:00Z",
+      "title": "Home Page | DC Metro - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE10eU1xVFBWcVRsT2Y5T3JHLXg1b0c0Wmp2aTZaeERoQ2R5UjE5ZHVrYWJEWHpjcWRzZmNaS0Vn?oc=5",
+      "summary": "Home Page | DC Metro IIBA",
+      "published_at": "2025-02-10T16:47:16Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Home Page | Toronto - IIBA Toronto Chapter",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFAxbG1vUXY4RmhWd21QRVVtWU1oUl8yazZZRTkzLVFfWFFfNDhKVzBoSFJ2Z1ZQemlVaWgtWDZ3?oc=5",
+      "summary": "Home Page | Toronto IIBA Toronto Chapter",
+      "published_at": "2025-02-02T20:47:51Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Calendar - IIBA UK",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQb2dKTE1WcUFxa01tU0RJVFpJblpYY3BDdXdKY0hNMFk1LUdzVnFHVklUaHJWTFM1RFRaR3VlVFpWN2pNd3JmMm5Jaw?oc=5",
+      "summary": "Calendar IIBA UK",
+      "published_at": "2024-03-15T22:17:24Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Home Page | Colombo - IIBA Colombo Chapter",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE10aVR0ZFJpQ3VXTkpPdE81RGpaWjlrQ2tmNThUMTF0VEJQOERkWmh1YkxkTF8xbmRNcU0wNjl3?oc=5",
+      "summary": "Home Page | Colombo IIBA Colombo Chapter",
+      "published_at": "2024-01-27T23:27:28Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "CBAP® Step-by-Step Application Process Guide - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR2VaYVJsTDhRWEdZS3Rac3dmMFdDd0NDNjFsMFJwMmxna1EwdlVuSTBtM3BTQ3Zsdnc1enl3Nm1zTHNpNkhVbWJwQkRidXMtSkpwaU1RMHBraVl5dGI5Mmp6dkx0SjlITkV6Y0E5dHVjbVRESzZrRHZsY19kdDJIZW5aTFpUYVZsd2dPXzdmMjFaRHE2QWNfZkVUd3d5dE13MTZJbURmTklKdw?oc=5",
+      "summary": "CBAP® Step-by-Step Application Process Guide IIBA",
+      "published_at": "2023-05-04T19:49:14Z",
       "image_url": "",
       "video_url": ""
     }
