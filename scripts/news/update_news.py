@@ -12,7 +12,7 @@ import pathlib
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from urllib.parse import urlsplit, quote
+from urllib.parse import urlsplit, quote, urlparse, parse_qs
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEST = ROOT / "previews/canadian/data/news.json"
@@ -40,6 +40,43 @@ for _category, _domain in [
     _query = quote(f"site:{_domain} when:60d")
     SOURCES.append((_category, f"Google News · {_domain}",
                     f"https://news.google.com/rss/search?q={_query}&hl=en-CA&gl=CA&ceid=CA%3Aen"))
+
+MEDIA = "{http://search.yahoo.com/mrss/}"
+IMAGE_TAG = re.compile(r'<img[^>]+src=["\\\']([^"\\\']+)', re.I)
+
+def image_url(url):
+    url = html.unescape(url or "").strip()
+    parts = urlsplit(url)
+    if parts.scheme == "https" and parts.netloc and not parts.username and not parts.password:
+        return url
+    return ""
+
+def extract_media(item, raw_description, article_link):
+    """Use publisher-provided media only; never fabricate thumbnails."""
+    image, video = "", ""
+    for node in item.iter():
+        tag = node.tag.rsplit("}", 1)[-1].lower()
+        medium = (node.attrib.get("medium", "") or node.attrib.get("type", "")).lower()
+        link = image_url(node.attrib.get("url", "") or node.attrib.get("href", ""))
+        if tag in ("thumbnail", "image") and link and not image:
+            image = link
+        elif tag in ("content", "enclosure") and link:
+            if medium.startswith("image/") or medium == "image":
+                image = image or link
+            elif medium.startswith("video/") or medium == "video":
+                video = video or link
+    if not image and raw_description:
+        match = IMAGE_TAG.search(raw_description)
+        if match:
+            image = image_url(match.group(1))
+    # Public video share links may provide thumbnails without an embed.
+    youtube = urlparse(article_link)
+    if not image and youtube.hostname in ("www.youtube.com", "youtube.com", "youtu.be"):
+        video_id = (parse_qs(youtube.query).get("v") or [""])[0] if youtube.hostname != "youtu.be" else youtube.path.strip("/")
+        if re.fullmatch(r"[A-Za-z0-9_-]{11}", video_id):
+            image = f"https://i.ytimg.com/vi/{video_id}/hqdefault.jpg"
+            video = article_link
+    return image, video
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
@@ -89,13 +126,16 @@ def fetch(category, publisher, url):
                 if node.attrib.get("rel", "alternate") == "alternate":
                     link = node.attrib.get("href", "")
                     break
-        description = clean(get_text(item, "description", ATOM + "summary", ATOM + "content"), 210)
+        raw_description = get_text(item, "description", ATOM + "summary", ATOM + "content")
+        description = clean(raw_description, 210)
+        image, video = extract_media(item, raw_description, link)
         date = date_iso(get_text(item, "pubDate", DC + "date", ATOM + "published", ATOM + "updated"))
         parsed = urlsplit(link)
         if not title or parsed.scheme != "https" or not parsed.netloc or not date:
             continue
         results.append({"category":category, "source":publisher, "title":title,
-                        "url":link, "summary":description, "published_at":date})
+                        "url":link, "summary":description, "published_at":date,
+                        "image_url":image, "video_url":video})
     return results
 
 def main():
