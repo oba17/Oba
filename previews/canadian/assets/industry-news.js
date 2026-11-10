@@ -1,203 +1,179 @@
-/* Canadian Editorial: three editorial news widgets with clickable publisher media. */
+/* Compact three-panel industry news carousel; sourced from generated publisher data. */
 (() => {
   "use strict";
-  const root = document.getElementById("industry-news");
+  const root=document.getElementById("industry-news");
   if (!root) return;
-  const filters = root.querySelector("[data-news-filters]");
-  const outlet = root.querySelector("[data-news-cards]");
-  const status = root.querySelector("[data-news-status]");
-  const updated = root.querySelector("[data-news-updated]");
-  const count = root.querySelector("[data-news-count]");
-  const more = root.querySelector("[data-news-more]");
-  const categories = ["All", "Salesforce", "Microsoft", "AI", "Zoom", "Tech", "Business Analysis"];
-  const groups = [
-    {title:"Enterprise Platforms",subtitle:"Salesforce & Microsoft",categories:["Salesforce","Microsoft"],symbol:"◈"},
-    {title:"AI & Emerging Tech",subtitle:"AI, innovation & technology",categories:["AI","Tech"],symbol:"✳"},
-    {title:"Workplace & Analysis",subtitle:"Zoom & business analysis",categories:["Zoom","Business Analysis"],symbol:"◎"}
+  const filterBar=root.querySelector("[data-news-filters]");
+  const deck=root.querySelector("[data-news-cards]");
+  const status=root.querySelector("[data-news-status]");
+  const updated=root.querySelector("[data-news-updated]");
+  const count=root.querySelector("[data-news-count]");
+  const more=root.querySelector("[data-news-more]");
+  if (more) more.hidden=true;
+  const categories=["All","Salesforce","Microsoft","AI","Zoom","Tech","Business Analysis"];
+  const groups=[
+    {title:"Enterprise Platforms",description:"Salesforce & Microsoft",categories:["Salesforce","Microsoft"],mark:"◈"},
+    {title:"AI & Emerging Tech",description:"AI & technology",categories:["AI","Tech"],mark:"✳"},
+    {title:"Workplace & Analysis",description:"Zoom & business analysis",categories:["Zoom","Business Analysis"],mark:"◎"}
   ];
-  const sources = {
+  const sources={
     Salesforce:"https://developer.salesforce.com/blogs/",
     Microsoft:"https://techcommunity.microsoft.com/",
     AI:"https://openai.com/news/",
-    Tech:"https://arstechnica.com/",
     Zoom:"https://www.zoom.com/en/blog/",
-    "Business Analysis":"https://www.iiba.org/business-analysis-blogs/"
+    Tech:"https://arstechnica.com/",
+    "Business Analysis":"https://www.iiba.org/"
   };
-  let articles = [];
-  let current = "All";
-  let expanded = false;
-
-  const element = (tag, css, text) => {
-    const n = document.createElement(tag);
-    if (css) n.className = css;
-    if (text !== undefined) n.textContent = text;
+  const reduced=window.matchMedia("(prefers-reduced-motion: reduce)");
+  let current="All",articles=[],controllers=[];
+  const el=(tag,cls="",label)=>{
+    const n=document.createElement(tag);
+    if(cls)n.className=cls;
+    if(label!==undefined)n.textContent=label;
     return n;
   };
-  const safeUrl = (s) => {
-    if (typeof s !== "string") return "";
-    try {
-      const u = new URL(s);
-      return u.protocol === "https:" && !u.username && !u.password ? u.href : "";
-    } catch { return ""; }
+  const safe=(value)=>{
+    if(typeof value!=="string")return "";
+    try{const url=new URL(value);return url.protocol==="https:" && !url.username && !url.password?url.href:"";}catch{return "";}
   };
-  const dateLabel = s => {
-    const d = new Date(s);
-    return Number.isNaN(+d) ? "" : new Intl.DateTimeFormat("en-CA",
-      {month:"short",day:"numeric",timeZone:"UTC"}).format(d);
+  const external=(url,label,cls="")=>{
+    const a=el("a",cls,label);a.href=safe(url)||"#";a.target="_blank";a.rel="noopener noreferrer";return a;
   };
-  const external = (url, label, className="") => {
-    const a = element("a",className,label);
-    a.href = url;
-    a.target="_blank";
-    a.rel="noopener noreferrer";
-    return a;
+  const date=(value)=>{
+    const d=new Date(value);
+    return Number.isNaN(+d)?"":new Intl.DateTimeFormat("en-CA",{month:"short",day:"numeric",timeZone:"UTC"}).format(d);
   };
-  const openMedia = item => {
-    const media = external(item.url,"","news-widget-media");
-    const src = safeUrl(item.image_url);
-    if (src) {
-      const image = element("img","news-widget-image");
-      image.src=src;
-      image.alt="";
-      image.loading="lazy";
-      image.decoding="async";
-      image.referrerPolicy="no-referrer";
-      image.addEventListener("error",()=> {
-        image.remove();
-        media.classList.add("news-media-fallback");
-        if (!media.querySelector(".news-media-symbol")) {
-          media.prepend(element("span","news-media-symbol",item.category === "AI" ? "✳" : "◈"));
-        }
+  function card(item){
+    const slide=el("article","news-rotator-slide");
+    const thumb=external(item.url,"","news-rotator-media");
+    thumb.setAttribute("aria-label","Open "+item.title);
+    const imgUrl=safe(item.image_url);
+    if(imgUrl){
+      const img=el("img","news-rotator-image");
+      img.src=imgUrl;img.alt="";img.loading="lazy";img.decoding="async";img.referrerPolicy="no-referrer";
+      img.addEventListener("error",()=>{
+        img.remove();thumb.classList.add("news-rotator-fallback");
+        thumb.prepend(el("span","news-rotator-symbol",item.category==="AI"?"✳":"◈"));
       },{once:true});
-      media.append(image);
-    } else {
-      media.classList.add("news-media-fallback");
-      media.append(element("span","news-media-symbol",item.category === "Zoom" ? "◎" : item.category === "AI" ? "✳" : "◈"));
-    }
-    media.append(element("span","news-media-label",item.category));
-    if (safeUrl(item.video_url) || /(?:youtube\.com|youtu\.be|vimeo\.com)/i.test(item.url)) {
-      media.append(element("span","news-media-play","▶"));
-      media.setAttribute("aria-label","Open video: "+item.title);
-    } else {
-      media.setAttribute("aria-label","Read article: "+item.title);
-    }
-    return media;
-  };
-  function leadCard(item) {
-    const card = element("article","news-widget-lead");
-    card.append(openMedia(item));
-    const body = element("div","news-widget-lead-body");
-    const meta = element("div","news-widget-article-meta");
-    meta.append(element("span","",item.source),element("time","",dateLabel(item.published_at)));
-    const h = element("h4","news-widget-title");
-    h.append(external(item.url,item.title));
-    const summary=element("p","news-widget-summary",item.summary || "Explore the latest update from the publisher.");
-    body.append(meta,h,summary);
-    card.append(body);
-    return card;
-  }
-  function smallCard(item) {
-    const article=element("article","news-widget-small");
-    const thumb=external(item.url,"","news-widget-small-thumb");
-    const imageUrl=safeUrl(item.image_url);
-    if (imageUrl) {
-      const img=element("img","");
-      img.src=imageUrl;img.alt="";img.loading="lazy";img.referrerPolicy="no-referrer";
-      img.addEventListener("error",()=>{img.remove();thumb.textContent="↗";},{once:true});
       thumb.append(img);
-    } else thumb.textContent="↗";
-    const content=element("div","news-widget-small-copy");
-    content.append(element("span","news-widget-small-meta",item.category+" · "+dateLabel(item.published_at)));
-    const h=element("h4","");
-    h.append(external(item.url,item.title));
-    content.append(h);
-    article.append(thumb,content);
-    return article;
-  }
-  function noStories(box, group) {
-    const empty=element("div","news-widget-empty");
-    empty.append(element("p","","No recent stories in this category yet."));
-    const links=element("div","news-widget-source-links");
-    for (const category of group.categories) {
-      if (current === "All" || current === category) {
-        links.append(external(sources[category],"Visit "+category+" updates ↗"));
-      }
+    }else{
+      thumb.classList.add("news-rotator-fallback");
+      thumb.append(el("span","news-rotator-symbol",item.category==="Zoom"?"◎":item.category==="AI"?"✳":"◈"));
     }
-    empty.append(links);
-    box.append(empty);
+    thumb.append(el("span","news-rotator-category",item.category));
+    if(safe(item.video_url)||/(?:youtube\.com|youtu\.be|vimeo\.com)/i.test(item.url)){
+      thumb.append(el("span","news-rotator-play","▶"));
+    }
+    const body=el("div","news-rotator-copy");
+    const meta=el("p","news-rotator-meta",item.source+" · "+date(item.published_at));
+    const heading=el("h4","news-rotator-title");
+    heading.append(external(item.url,item.title));
+    body.append(meta,heading);
+    slide.append(thumb,body);
+    return slide;
   }
-  function render() {
-    filters.querySelectorAll("button").forEach(button=>{
-      const selected=button.dataset.category===current;
-      button.classList.toggle("is-active",selected);
-      button.setAttribute("aria-pressed",String(selected));
+  function reset(){controllers.forEach(c=>c.stop());controllers=[];}
+  function panel(group,matching){
+    const shell=el("section","news-rotator");
+    shell.setAttribute("aria-label",group.title);
+    const header=el("div","news-rotator-header");
+    const left=el("div","");
+    left.append(el("h3","news-rotator-heading",group.title),el("p","news-rotator-description",group.description));
+    header.append(left,el("span","news-rotator-mark",group.mark));
+    const viewport=el("div","news-rotator-viewport");
+    const foot=el("div","news-rotator-controls");
+    const indexLabel=el("span","news-rotator-count","");
+    const navigation=el("div","news-rotator-buttons");
+    const prev=el("button","news-rotator-arrow","‹");
+    const next=el("button","news-rotator-arrow","›");
+    prev.type=next.type="button";
+    prev.setAttribute("aria-label","Previous "+group.title+" article");
+    next.setAttribute("aria-label","Next "+group.title+" article");
+    navigation.append(prev,next);
+    foot.append(indexLabel,navigation);
+    shell.append(header,viewport,foot);
+    if(!matching.length){
+      viewport.append(el("p","news-rotator-empty","No recent headlines available."));
+      for(const cat of group.categories){
+        if(current==="All"||current===cat)
+          viewport.append(external(sources[cat],"Browse "+cat+" updates ↗","news-rotator-source"));
+      }
+      indexLabel.textContent="0 articles";navigation.hidden=true;
+      return shell;
+    }
+    let index=0;
+    let timer=null;
+    let paused=false;
+    const show=()=>{
+      viewport.replaceChildren(card(matching[index]));
+      indexLabel.textContent=(index+1)+" / "+matching.length;
+    };
+    const move=(step)=>{index=(index+step+matching.length)%matching.length;show();};
+    const stop=()=>{if(timer!==null){clearInterval(timer);timer=null;}};
+    const start=()=>{
+      stop();
+      if(matching.length>1&&!paused&&!reduced.matches&&!document.hidden){
+        timer=setInterval(()=>move(1),5000);
+      }
+    };
+    prev.addEventListener("click",()=>{move(-1);start();});
+    next.addEventListener("click",()=>{move(1);start();});
+    shell.addEventListener("mouseenter",()=>{paused=true;stop();});
+    shell.addEventListener("mouseleave",()=>{paused=false;start();});
+    shell.addEventListener("focusin",()=>{paused=true;stop();});
+    shell.addEventListener("focusout",event=>{
+      if(!shell.contains(event.relatedTarget)){paused=false;start();}
     });
-    const visible=articles.filter(item=> current==="All" || current===item.category);
-    count.textContent=visible.length?visible.length+" available stories":"";
-    outlet.replaceChildren();
-    const relevant=groups.filter(group=>current==="All" || group.categories.includes(current));
-    for (const group of relevant) {
-      const panel=element("section","news-widget");
-      panel.setAttribute("aria-label",group.title);
-      const header=element("div","news-widget-header");
-      const headerLeft=element("div","");
-      headerLeft.append(element("span","news-widget-kicker","INDUSTRY / INSIGHTS"));
-      headerLeft.append(element("h3","news-widget-heading",group.title));
-      headerLeft.append(element("p","news-widget-subheading",group.subtitle));
-      header.append(headerLeft,element("span","news-widget-mark",group.symbol));
-      panel.append(header);
-      const scroll=element("div","news-widget-scroll");
-      const matched=visible.filter(item=>group.categories.includes(item.category));
-      if (!matched.length) noStories(scroll,group);
-      else {
-        const limit=expanded?7:4;
-        const selection=matched.slice(0,limit);
-        // Give the lead position to a genuine publisher image/video when available.
-        const mediaIndex=selection.findIndex(item=>safeUrl(item.image_url) || safeUrl(item.video_url));
-        if (mediaIndex>0) selection.unshift(selection.splice(mediaIndex,1)[0]);
-        selection.forEach((item,index)=>scroll.append(index===0?leadCard(item):smallCard(item)));
+    const onVisibility=()=>start();
+    document.addEventListener("visibilitychange",onVisibility);
+    const onMotion=()=>start();
+    reduced.addEventListener?.("change",onMotion);
+    shell.addEventListener("keydown",event=>{
+      if(event.target.matches("button")&&(event.key==="ArrowRight"||event.key==="ArrowLeft")){
+        event.preventDefault();move(event.key==="ArrowRight"?1:-1);start();
       }
-      panel.append(scroll);
-      const footer=element("div","news-widget-footer");
-      footer.append(element("span","",matched.length+" stories"));
-      if (matched.length) footer.append(element("span","","Scroll for more ↓"));
-      panel.append(footer);
-      outlet.append(panel);
-    }
-    if (more) {
-      more.hidden = !relevant.some(group=>visible.filter(item=>group.categories.includes(item.category)).length>4);
-      more.textContent=expanded?"Show fewer stories":"Show more stories per widget";
+    });
+    show();start();
+    controllers.push({stop:()=>{stop();document.removeEventListener("visibilitychange",onVisibility);
+      reduced.removeEventListener?.("change",onMotion);}});
+    return shell;
+  }
+  function render(){
+    reset();deck.replaceChildren();
+    filterBar.querySelectorAll("button").forEach(b=>{
+      const active=b.dataset.topic===current;
+      b.classList.toggle("is-active",active);
+      b.setAttribute("aria-pressed",String(active));
+    });
+    const matching=articles.filter(a=>current==="All"||a.category===current);
+    if(count)count.textContent=matching.length+" available articles";
+    // Always keep exactly three equal-width boxes, even while a topic filter is selected.
+    for(const group of groups){
+      const source=matching.filter(a=>group.categories.includes(a.category));
+      deck.append(panel(group,source));
     }
   }
-  filters.replaceChildren();
-  for (const category of categories) {
-    const b=element("button","news-filter",category);
-    b.type="button";b.dataset.category=category;
-    b.addEventListener("click",()=>{current=category;expanded=false;render();});
-    filters.append(b);
+  for(const category of categories){
+    const b=el("button","news-filter",category);
+    b.type="button";b.dataset.topic=category;
+    b.addEventListener("click",()=>{current=category;render();});
+    filterBar.append(b);
   }
-  more?.addEventListener("click",()=>{expanded=!expanded;render();});
   render();
-  status.textContent="Loading the latest stories…";
-
+  status.textContent="Loading news…";
   fetch("/Oba/previews/canadian/data/news.json?v="+Math.floor(Date.now()/300000),{cache:"no-store"})
-    .then(response=>{if(!response.ok)throw Error("Feed unavailable");return response.json();})
+    .then(r=>{if(!r.ok)throw new Error("Feed unavailable");return r.json();})
     .then(data=>{
       articles=(Array.isArray(data.articles)?data.articles:[])
-        .filter(item=>item && categories.includes(item.category) && item.category!=="All" &&
-          typeof item.title==="string" && safeUrl(item.url) && item.published_at)
+        .filter(a=>a && categories.includes(a.category) && safe(a.url) && typeof a.title==="string" && a.published_at)
         .sort((a,b)=>new Date(b.published_at)-new Date(a.published_at));
-      if (data.updated_at && updated) {
+      if(data.updated_at && updated){
         const d=new Date(data.updated_at);
-        if (!Number.isNaN(+d)) updated.textContent="Updated "+new Intl.DateTimeFormat("en-CA",
+        if(!Number.isNaN(+d))updated.textContent="Updated "+new Intl.DateTimeFormat("en-CA",
           {month:"short",day:"numeric",year:"numeric",hour:"numeric",minute:"2-digit"}).format(d);
       }
-      status.textContent=articles.length?"Headlines and previews link directly to their publishers.":
-        "Live headlines are being collected. You can browse the publishers below.";
+      status.textContent="News rotates automatically every 5 seconds. Hover or focus to pause.";
       render();
     })
-    .catch(()=>{
-      status.textContent="Live news is temporarily unavailable. Publisher links remain accessible.";
-      render();
-    });
+    .catch(()=>{status.textContent="News is temporarily unavailable. Publisher links remain accessible.";render();});
 })();
