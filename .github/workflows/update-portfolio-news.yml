@@ -1,0 +1,56 @@
+name: Update portfolio industry news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: portfolio-news-pages
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect latest RSS articles
+        run: python scripts/news/update_news.py
+      - name: Commit refreshed articles
+        shell: bash
+        run: |
+          if ! git diff --quiet -- previews/canadian/data/news.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add previews/canadian/data/news.json
+            git commit -m "Refresh portfolio industry headlines"
+            git push
+          fi
+      # The following steps deploy from Actions, avoiding the GitHub restriction
+      # that GITHUB_TOKEN commits do not initiate a separate Pages build.
+      # Repository Settings > Pages > Build and deployment > Source must
+      # be set to "GitHub Actions" to use these steps.
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
