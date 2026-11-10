@@ -42,7 +42,7 @@ for _category, _domain in [
                     f"https://news.google.com/rss/search?q={_query}&hl=en-CA&gl=CA&ceid=CA%3Aen"))
 
 MEDIA = "{http://search.yahoo.com/mrss/}"
-IMAGE_TAG = re.compile(r'<img[^>]+src=["\\\']([^"\\\']+)', re.I)
+IMAGE_TAG = re.compile(r"""<img[^>]+src=["']([^"']+)""", re.I)
 
 def image_url(url):
     url = html.unescape(url or "").strip()
