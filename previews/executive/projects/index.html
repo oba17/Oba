@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects | Oba Adeleke</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Playfair Display for Serif headings, Inter for Sans-serif body text -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif; /* Sans-serif for body text */
+            background-color: #FFFFFF; /* New: White - Page background */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) - Primary text */
+        }
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif; /* Serif for all headers */
+        }
+        .container {
+            max-width: 1200px; /* Max width for content */
+        }
+        .section-header {
+            position: relative;
+            padding-bottom: 0.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .section-header::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 80px; /* Shorter underline */
+            height: 4px;
+            background-color: #63B3ED; /* New: Soft Cyan Accent */
+            border-radius: 9999px;
+        }
+        .skill-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem;
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem; /* More rounded */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .skill-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .project-card-v2 {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem; /* rounded-xl */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .project-card-v2:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        /* Styles for certification bubbles - adjusted size and spacing */
+        .certification-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem; /* Adjusted padding, keeping bubble size similar */
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .certification-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .certification-bubble img {
+            width: 77px; /* Increased badge size by 60% (from original 48px in previous step) */
+            height: 77px;
+            object-fit: contain;
+            margin-bottom: 0.5rem; /* Adjusted space between image and text */
+        }
+        .certification-bubble p {
+            font-size: 0.5625rem; /* Retained previous 40% reduction for readability */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) */
+        }
+        .testimonial-card {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        /* Custom styles for the phone icon to ensure proper sizing and color */
+        .phone-icon {
+            width: 28px; /* w-7 h-7 */
+            height: 28px;
+            /* Invert and recolor to white for visibility on blue background */
+            filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(270deg) brightness(200%); 
+        }
+    </style>
+    <base href="/Oba/previews/executive/">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Oba/previews/executive/editorial.css">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<body class="antialiased">
+    <header class="site-header bg-[#2D3748] p-6 shadow-xl">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="text-center md:text-left mb-4 md:mb-0 flex items-center">
+                <!-- Profile Picture -->
+                <img src="Thumbnail Pic.jpeg" alt="Obaloluwa Adeleke Profile Picture" class="w-24 h-24 rounded-full object-cover mr-4 shadow-md border-2 border-white" onerror="this.onerror=null;this.src='https://placehold.co/96x96/F5F5F7/63B3ED?text=OA';">
+                <div>
+                    <h1 class="text-4xl font-extrabold tracking-tight" style="color: #FFFFFF;">
+                        Oba Adeleke
+                    </h1>
+                    <p class="text-xl font-medium opacity-90 mt-1" style="color: #A0AEC0;">
+                        Senior Salesforce Administrator | Automation, RevOps & Optimization Expert
+                    </p>
+                </div>
+            </div>
+            <nav aria-label="Main navigation"><ul class="flex flex-wrap justify-center gap-6 text-lg font-medium">
+<li><a href="/Oba/previews/executive/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
+<li><a href="/Oba/previews/executive/projects/" aria-current="page" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Projects</a></li>
+<li><a href="/Oba/previews/executive/certifications/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
+<li><a href="/Oba/previews/executive/contact/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
+</ul></nav>
+        </div>
+    </header>
+
+        <main class="page-shell container mx-auto px-4 py-12 md:py-16">
+        
+    <div class="page-intro" aria-label="Salesforce Projects introduction">
+      <p class="eyebrow">SELECTED WORK / SOLUTION DELIVERY</p>
+      <h2>Salesforce Projects</h2>
+      <p>Enterprise automation, integration, data governance, and service transformation initiatives.</p>
+    </div>
+
+<section id="portfolio" class="mb-16 md:mb-24">
+            <div class="section-header">
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">My Salesforce Projects</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="project-card-v2">
+                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Process+Automation" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Invoicing Process Automation</h3>
+                        <p class="mb-4 text-base" style="color: #6E6E73;">Led redesign of invoicing processes utilizing Approval Processes, Screen Flows, and Apex, improving workflow efficiency by 37% and data accuracy by 42%, delivering measurable operational ROI.</p>
+                        <ul class="flex flex-wrap gap-2 mb-4">
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Process Automation     </li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Salesforce Flows       </li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Apex Development       </li>
+                        </ul>
+                        <a href="https://oba17.github.io/Invoice-Automation_Project/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
+                    </div>
+                </div>
+
+                <div class="project-card-v2">
+                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Process+Optimization+&+Data+Governance" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Client Placement Optimization Project</h3>
+                        <p class="mb-4 text-base" style="color: #6E6E73;">Enhancing client job target tracking and service impact reporting by standardizing data capture, improving placement alignment, and enabling accurate, funder-ready employment outcome reporting.</p>
+                        <ul class="flex flex-wrap gap-2 mb-4">
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Integration        </li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Synchronization     </li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Quality              </li>
+                        </ul>
+                        <a href="https://oba17.github.io/Client-Placement-Optimization-Project/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
+                    </div>
+                </div>
+
+                <div class="project-card-v2">
+                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Solution+Delivery" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
+                    <div class="p-6">
+                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Salesforce Case Management Redesign</h3>
+                        <p class="mb-4 text-base" style="color: #6E6E73;">This Salesforce Service Cloud implementation transformed internal support from a fragmented, email-driven bottleneck into a centralized, automated, and measurable solution.</p>
+                        <ul class="flex flex-wrap gap-2 mb-4">
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">End-to-End System Redesign</li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Technical Architecture</li>
+                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Record Lifecycle Strategy</li>
+                        </ul>
+                        <a href="https://oba17.github.io/Salesforce-Case-Management-Redesign/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
+                    </div>
+                </div>
+
+            </div>
+            <div class="text-center mt-12">
+                <p class="text-lg" style="color: #6E6E73;">Stay tuned for more impactful projects!</p>
+            </div>
+        </section>
+    </main>
+    <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
+        <div class="container mx-auto">
+            <p>&copy; 2025 Oba Adeleke. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
