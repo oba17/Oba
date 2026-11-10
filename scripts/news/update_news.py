@@ -217,36 +217,44 @@ class MetaImages(HTMLParser):
 
 
 def publisher_preview(item):
-    """Read a public article page only when the feed lacks a useful image.
-    Does not download photos, bypass access controls, or copy video contents.
+    """Read the public publisher page for hero art, video poster, or publisher icon.
+    Return the media type so a site icon isn't mistaken for article photography.
     """
     link = item.get("url", "")
     domain = urlsplit(link).hostname or ""
     if domain == "news.google.com" or not link.startswith("https://"):
-        return ("", "")
+        return ("", "", "")
     try:
-        req = urllib.request.Request(link, headers={"User-Agent": UA, "Accept": "text/html"})
-        with urllib.request.urlopen(req, timeout=7) as response:
+        req = urllib.request.Request(link, headers={
+            "User-Agent": UA,
+            "Accept": "text/html",
+            "Accept-Language": "en-CA,en;q=0.9"
+        })
+        with urllib.request.urlopen(req, timeout=8) as response:
             final = urlsplit(response.geturl())
             if final.scheme != "https" or not final.hostname:
-                return ("", "")
-            mime = response.headers.get("Content-Type", "")
-            if "text/html" not in mime:
-                return ("", "")
-            sample = response.read(350_000).decode("utf-8", "replace")
-        parser = MetaImages(response.geturl())
+                return ("", "", "")
+            if "text/html" not in response.headers.get("Content-Type", "").lower():
+                return ("", "", "")
+            sample = response.read(450_000).decode("utf-8", "replace")
+            base_url = response.geturl()
+        parser = MetaImages(base_url)
         parser.feed(sample)
-        return (parser.structured_images(), parser.video or "")
-    except (OSError, UnicodeError, ValueError, Exception) as exc:
+        article_media = parser.structured_images()
+        if article_media:
+            return (article_media, parser.video or "", "article")
+        return (parser.page_icon or "", parser.video or "",
+                "publisher_logo" if parser.page_icon else "")
+    except (OSError, UnicodeError, ValueError) as exc:
         logging.debug("Preview unavailable for %s: %s", link[:80], exc)
-        return ("", "")
+        return ("", "", "")
 
 def enrich_previews(articles, old_items):
     # Preserve working media from earlier runs so network failures don't remove pictures.
     past = {x.get("url"): x for x in old_items}
     for article in articles:
         old = past.get(article.get("url"), {})
-        for field in ("image_url", "video_url"):
+        for field in ("image_url", "video_url", "image_kind"):
             article[field] = article.get(field) or old.get(field, "")
     # Inspect all unique direct publisher stories; source media should not be restricted to 5 per topic.
     candidates = []
@@ -262,9 +270,10 @@ def enrich_previews(articles, old_items):
     with ThreadPoolExecutor(max_workers=8) as pool:
         pending = {pool.submit(publisher_preview, item): item for item in candidates[:72]}
         for future in as_completed(pending):
-            image, video = future.result()
+            image, video, kind = future.result()
             if image:
                 pending[future]["image_url"] = image
+                pending[future]["image_kind"] = kind
             if video:
                 pending[future]["video_url"] = video
 
@@ -299,11 +308,19 @@ def cache_thumbnail(item):
             return ""
         with Image.open(io.BytesIO(data)) as im:
             im.load()
-            if im.width < 120 or im.height < 80:
+            if im.width < 32 or im.height < 32:
                 return ""
-            im.thumbnail((700, 450), Image.Resampling.LANCZOS)
             if im.mode != "RGB":
                 im = im.convert("RGB")
+            if item.get("image_kind") == "publisher_logo":
+                im.thumbnail((220, 220), Image.Resampling.LANCZOS)
+                canvas = Image.new("RGB", (700, 450), "#103A54")
+                canvas.paste(im, ((700-im.width)//2, (450-im.height)//2))
+                im = canvas
+            else:
+                if im.width < 120 or im.height < 80:
+                    return ""
+                im.thumbnail((700, 450), Image.Resampling.LANCZOS)
             IMAGE_DIR.mkdir(parents=True, exist_ok=True)
             im.save(target, format="JPEG", quality=75, optimize=True)
         return LOCAL_PREFIX + name
@@ -317,7 +334,7 @@ def cache_publisher_media(articles):
     per_category = {}
     for item in articles:
         category = item["category"]
-        if not item.get("image_url") or per_category.get(category, 0) >= 8:
+        if not item.get("image_url") or per_category.get(category, 0) >= 12:
             continue
         per_category[category] = per_category.get(category, 0) + 1
         selected.append(item)
