@@ -313,7 +313,12 @@ def cache_thumbnail(item):
             if im.mode != "RGB":
                 im = im.convert("RGB")
             if item.get("image_kind") == "publisher_logo":
-                im.thumbnail((220, 220), Image.Resampling.LANCZOS)
+                scale = min(220 / im.width, 220 / im.height)
+                if scale > 1:
+                    im = im.resize((max(1, round(im.width * scale)),
+                                    max(1, round(im.height * scale))), Image.Resampling.LANCZOS)
+                else:
+                    im.thumbnail((220, 220), Image.Resampling.LANCZOS)
                 canvas = Image.new("RGB", (700, 450), "#103A54")
                 canvas.paste(im, ((700-im.width)//2, (450-im.height)//2))
                 im = canvas
@@ -349,8 +354,10 @@ def cache_official_brand_fallbacks(articles):
         host = fallback_domain(item)
         if host and host not in logos:
             logo = ("", "")
-            for icon_name in ("apple-touch-icon.png", "favicon.ico"):
-                source_url = f"https://{host}/{icon_name}"
+            icon_candidates = [f"https://{host}/apple-touch-icon.png",
+                               f"https://{host}/favicon.ico",
+                               f"https://www.google.com/s2/favicons?domain={quote(host)}&sz=256"]
+            for source_url in icon_candidates:
                 trial = {"image_url":source_url, "image_kind":"publisher_logo",
                          "url":item.get("url", "")}
                 cached = cache_thumbnail(trial)
