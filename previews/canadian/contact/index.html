@@ -160,149 +160,73 @@
                 </div>
             </div>
         </section>
-<!-- ==========================================
-     INTERACTIVE GOOGLE MAPS — LOCATIONS
-     ========================================== -->
-
-<section class="location-maps"
-         aria-labelledby="location-heading">
-
-  <h2 id="location-heading">
-    Explore Locations
-  </h2>
-
-  <p class="text-center mb-8">
-    Explore our featured Canadian cities.
-  </p>
-
-  <!-- CITY SELECTOR -->
-
-  <div class="map-tabs">
-
-    <input type="radio"
-           name="city-map"
-           id="map-calgary"
-           class="sr-only"
-           checked>
-
-    <label for="map-calgary">Calgary</label>
-
-    <input type="radio"
-           name="city-map"
-           id="map-toronto"
-           class="sr-only">
-
-    <label for="map-toronto">Toronto</label>
-
-    <input type="radio"
-           name="city-map"
-           id="map-bc"
-           class="sr-only">
-
-    <label for="map-bc">British Columbia</label>
-
+<!-- Interactive Canadian locations: one map visible at a time. -->
+<section class="location-maps" aria-labelledby="location-heading">
+  <div class="location-heading">
+    <h2 id="location-heading">Explore Locations</h2>
+    <p>Explore downtown locations across Canada.</p>
   </div>
 
-  <!-- INTERACTIVE MAPS -->
+  <!-- One radio group controls the three map panels without JavaScript. -->
+  <div class="map-tabs" role="group" aria-label="Choose a city">
+    <input type="radio" name="city-map" id="map-calgary" class="sr-only" checked>
+    <label for="map-calgary">Calgary</label>
+    <input type="radio" name="city-map" id="map-bc" class="sr-only">
+    <label for="map-bc">British Columbia</label>
+    <input type="radio" name="city-map" id="map-toronto" class="sr-only">
+    <label for="map-toronto">Toronto</label>
+  </div>
 
   <div class="map-panels">
-
-    <!-- CALGARY -->
-
     <div class="map-panel" data-city="calgary">
-
-      <iframe
-        title="Interactive Google Map — Downtown Calgary"
-        src="https://maps.google.com/maps?q=Downtown%2C%20Calgary%2C%20AB%2C%20Canada&amp;z=14&amp;output=embed"
-        width="100%"
-        height="450"
-        style="border:0;"
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
-        allowfullscreen>
-      </iframe>
-
-      <div class="map-caption">
-
-        <strong>Calgary, Alberta</strong>
-
-        <p>Downtown Calgary, Canada</p>
-
-        <a
-          href="https://www.google.com/maps/place/Downtown,+Calgary,+AB/data=!4m2!3m1!1s0x53716ffb86200597:0x10c42af1e7df241e"
-          target="_blank"
-          rel="noopener noreferrer">
-          View Larger Map ↗
-        </a>
-
+      <div class="map-details">
+        <h3>Calgary</h3>
+        <p>Downtown Calgary, Alberta</p>
+        <p>Canada</p>
+        <a class="map-external" href="https://www.google.com/maps/place/Downtown,+Calgary,+AB/data=!4m2!3m1!1s0x53716ffb86200597:0x10c42af1e7df241e" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="map-canvas">
+        <iframe
+          title="Google map of Downtown Calgary, Alberta"
+          src="https://maps.google.com/maps?q=Downtown%2C%20Calgary%2C%20AB%2C%20Canada&amp;z=14&amp;output=embed"
+          width="100%" height="480"
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen></iframe>
       </div>
     </div>
-
-    <!-- TORONTO -->
-
+    <div class="map-panel" data-city="british-columbia">
+      <div class="map-details">
+        <h3>British Columbia</h3>
+        <p>Downtown Vancouver, British Columbia</p>
+        <p>Canada</p>
+        <a class="map-external" href="https://www.google.com/maps/place/Downtown+Vancouver,+Vancouver,+BC/data=!4m2!3m1!1s0x5486717f41ba2fb1:0xc6952794560a44aa" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="map-canvas">
+        <iframe
+          title="Google map of Downtown Vancouver, British Columbia"
+          src="https://maps.google.com/maps?q=Downtown%20Vancouver%2C%20Vancouver%2C%20BC%2C%20Canada&amp;z=14&amp;output=embed"
+          width="100%" height="480"
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen></iframe>
+      </div>
+    </div>
     <div class="map-panel" data-city="toronto">
-
-      <iframe
-        title="Interactive Google Map — Downtown Toronto"
-        src="https://maps.google.com/maps?q=Downtown%20Toronto%2C%20Toronto%2C%20ON%2C%20Canada&amp;z=14&amp;output=embed"
-        width="100%"
-        height="450"
-        style="border:0;"
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
-        allowfullscreen>
-      </iframe>
-
-      <div class="map-caption">
-
-        <strong>Toronto, Ontario</strong>
-
-        <p>Downtown Toronto, Canada</p>
-
-        <a
-          href="https://www.google.com/maps/place/Downtown+Toronto,+Toronto,+ON/data=!4m2!3m1!1s0x89d4cb34d27310bd:0xba15d20622070393"
-          target="_blank"
-          rel="noopener noreferrer">
-          View Larger Map ↗
-        </a>
-
+      <div class="map-details">
+        <h3>Toronto</h3>
+        <p>Downtown Toronto, Ontario</p>
+        <p>Canada</p>
+        <a class="map-external" href="https://www.google.com/maps/place/Downtown+Toronto,+Toronto,+ON/data=!4m2!3m1!1s0x89d4cb34d27310bd:0xba15d20622070393" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
+      </div>
+      <div class="map-canvas">
+        <iframe
+          title="Google map of Downtown Toronto, Ontario"
+          src="https://maps.google.com/maps?q=Downtown%20Toronto%2C%20Toronto%2C%20ON%2C%20Canada&amp;z=14&amp;output=embed"
+          width="100%" height="480"
+          loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+          allowfullscreen></iframe>
       </div>
     </div>
-
-    <!-- BRITISH COLUMBIA / VANCOUVER -->
-
-    <div class="map-panel"
-         data-city="british-columbia">
-
-      <iframe
-        title="Interactive Google Map — Downtown Vancouver"
-        src="https://maps.google.com/maps?q=Downtown%20Vancouver%2C%20Vancouver%2C%20BC%2C%20Canada&amp;z=14&amp;output=embed"
-        width="100%"
-        height="450"
-        style="border:0;"
-        loading="lazy"
-        referrerpolicy="no-referrer-when-downgrade"
-        allowfullscreen>
-      </iframe>
-
-      <div class="map-caption">
-
-        <strong>British Columbia</strong>
-
-        <p>Downtown Vancouver, Canada</p>
-
-        <a
-          href="https://www.google.com/maps/place/Downtown+Vancouver,+Vancouver,+BC/data=!4m2!3m1!1s0x5486717f41ba2fb1:0xc6952794560a44aa"
-          target="_blank"
-          rel="noopener noreferrer">
-          View Larger Map ↗
-        </a>
-
-      </div>
-    </div>
-
   </div>
-
 </section>
     </main>
     <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
