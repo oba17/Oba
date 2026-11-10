@@ -122,6 +122,7 @@ class MetaImages(HTMLParser):
         self.poster = ""
         self.hero = ""
         self.page_icon = ""
+        self.first_large = ""
         self.in_jsonld = False
         self.jsonld = []
 
@@ -150,14 +151,29 @@ class MetaImages(HTMLParser):
             if src and any(hint in clues for hint in
                            ("hero", "featured", "article", "lead", "cover", "high")):
                 self.hero = self.hero or src
+            width = re.search(r"\\d+", str(a.get("width", "")))
+            height = re.search(r"\\d+", str(a.get("height", "")))
+            if src and width and height and int(width.group()) >= 450 and int(height.group()) >= 200:
+                self.first_large = self.first_large or src
+        elif tag == "source":
+            # Image/video poster in an HTML <picture> component.
+            raw = a.get("srcset", "") or a.get("data-srcset", "")
+            first = raw.split(",")[0].strip().split(" ")[0]
+            candidate = self.absolute(first)
+            if candidate and (a.get("type", "").lower().startswith("image/") or "image" in raw):
+                self.hero = self.hero or candidate
         elif tag == "link":
             rel = (a.get("rel") or "").lower()
             href = self.absolute(a.get("href", ""))
             if rel in ("image_src", "apple-touch-icon", "icon", "shortcut icon") and href:
                 if rel == "image_src":
                     self.hero = self.hero or href
+                elif rel == "apple-touch-icon":
+                    self.page_icon = href
                 else:
                     self.page_icon = self.page_icon or href
+            if rel == "preload" and a.get("as", "") == "image" and href:
+                self.hero = self.hero or href
         elif tag == "script" and "ld+json" in (a.get("type") or "").lower():
             self.in_jsonld = True
 
@@ -197,7 +213,7 @@ class MetaImages(HTMLParser):
                             self.hero = self.hero or self.absolute(photo)
                     if node.get("@graph"):
                         stack.append(node["@graph"])
-        return self.image or self.poster or self.hero
+        return self.image or self.poster or self.hero or self.first_large
 
 
 def publisher_preview(item):
