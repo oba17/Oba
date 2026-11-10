@@ -15,7 +15,7 @@ header.site-header{background:var(--deep)!important;padding:20px max(24px,calc((
 .site-header nav a:hover,.site-header nav a[aria-current="page"]{color:#B5DBEB!important;border-bottom-color:#77B4D0}
 main.page-shell{max-width:1240px!important;padding-top:0!important;padding-bottom:clamp(70px,8vw,120px)!important}
 main.page-shell>section{margin-bottom:clamp(74px,8.5vw,120px)!important}
-.ca-hero{background:var(--deep);color:#fff;min-height:520px;display:grid;grid-template-columns:minmax(0,1.28fr) minmax(260px,.72fr);gap:clamp(30px,5vw,70px);align-items:center;padding:clamp(58px,8vw,110px) clamp(30px,6vw,82px)!important;position:relative;overflow:hidden;margin:0 calc(-1 * max(0px, (100vw - 1240px) / 2)) clamp(76px,8vw,115px)!important}
+.ca-hero{background:linear-gradient(105deg,#CBDFFF 0%,#D7E9FF 33%,#D7F0FF 65%,#C7F3FB 100%);color:#fff;min-height:520px;display:grid;grid-template-columns:minmax(0,1.28fr) minmax(260px,.72fr);gap:clamp(30px,5vw,70px);align-items:center;padding:clamp(58px,8vw,110px) clamp(30px,6vw,82px)!important;position:relative;overflow:hidden;margin:0 calc(-1 * max(0px, (100vw - 1240px) / 2)) clamp(76px,8vw,115px)!important}
 .ca-hero:after{content:"";position:absolute;right:37%;top:15%;height:70%;border-left:1px solid rgba(255,255,255,.16);pointer-events:none}
 .ca-eyebrow{font:700 .7rem/1.5 var(--sans);letter-spacing:.22em;color:#A7D6EC;text-transform:uppercase;margin-bottom:26px!important}
 .ca-hero h2{color:#fff!important;font:400 clamp(2.65rem,5.8vw,5.9rem)/1.13 var(--display)!important;letter-spacing:-.06em!important;max-width:850px}
