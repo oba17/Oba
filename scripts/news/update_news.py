@@ -23,6 +23,8 @@ SOURCES = [
     ("AI", "OpenAI News", "https://openai.com/news/rss.xml"),
     ("Zoom", "Zoom Blog", "https://www.zoom.com/en/blog/feed/"),
     ("Tech", "Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
+    ("Business Analysis", "Bridging the Gap", "https://www.bridging-the-gap.com/feed/"),
+    ("Business Analysis", "Adaptive US", "https://adaptiveus.com/blog/rss.xml"),
     ("Business Analysis", "Modern Analyst", "https://modernanalyst.substack.com/feed"),
 ]
 # Backup news-search feeds for sources without a public or stable RSS endpoint.
