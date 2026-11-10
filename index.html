@@ -106,9 +106,11 @@
         }
     </style>
     <base href="/Oba/">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Oba/assets/editorial.css">
 </head>
 <body class="antialiased">
-    <header class="bg-[#2D3748] p-6 shadow-xl">
+    <header class="site-header bg-[#2D3748] p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
             <div class="text-center md:text-left mb-4 md:mb-0 flex items-center">
                 <!-- Profile Picture -->
@@ -123,7 +125,7 @@
                 </div>
             </div>
             <nav aria-label="Main navigation"><ul class="flex flex-wrap justify-center gap-6 text-lg font-medium">
-<li><a href="/Oba/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
+<li><a href="/Oba/" aria-current="page" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
 <li><a href="/Oba/projects/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Projects</a></li>
 <li><a href="/Oba/certifications/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
 <li><a href="/Oba/contact/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
@@ -131,8 +133,19 @@
         </div>
     </header>
 
-        <main class="container mx-auto px-4 py-12 md:py-16">
-        <section id="about" class="mb-8 md:mb-12 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+        <main class="page-shell container mx-auto px-4 py-12 md:py-16">
+        
+    <section class="editorial-hero" aria-label="Introduction">
+      <p class="eyebrow">SALESFORCE / BUSINESS SYSTEMS / TRANSFORMATION</p>
+      <h2>Complex challenges. Intelligent solutions. Measurable impact.</h2>
+      <p>Senior Salesforce Administrator specializing in enterprise automation, solution delivery, data governance, and operational transformation.</p>
+      <div class="hero-actions">
+        <a href="/Oba/projects/">Explore Projects</a>
+        <a href="/Oba/contact/">Get in Touch</a>
+      </div>
+    </section>
+
+<section id="about" class="mb-8 md:mb-12 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">About Me</h2>
             </div>
