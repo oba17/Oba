@@ -12,7 +12,7 @@ import pathlib
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, quote
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEST = ROOT / "previews/canadian/data/news.json"
@@ -25,6 +25,20 @@ SOURCES = [
     ("Tech", "Ars Technica", "https://feeds.arstechnica.com/arstechnica/index"),
     ("Business Analysis", "Modern Analyst", "https://modernanalyst.substack.com/feed"),
 ]
+# Backup news-search feeds for sources without a public or stable RSS endpoint.
+# Queries restrict coverage to the publishers' own domains.
+for _category, _domain in [
+    ("Salesforce", "developer.salesforce.com"),
+    ("Microsoft", "techcommunity.microsoft.com"),
+    ("AI", "openai.com"),
+    ("Zoom", "zoom.com"),
+    ("Tech", "arstechnica.com"),
+    ("Business Analysis", "iiba.org"),
+]:
+    _query = quote(f"site:{_domain} when:60d")
+    SOURCES.append((_category, f"Google News · {_domain}",
+                    f"https://news.google.com/rss/search?q={_query}&hl=en-CA&gl=CA&ceid=CA%3Aen"))
+
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
 HTML_TAG = re.compile(r"<[^>]*>")
