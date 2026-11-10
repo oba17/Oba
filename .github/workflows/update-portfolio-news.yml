@@ -32,6 +32,8 @@ jobs:
           python-version: "3.12"
       - name: Install image-processing dependency
         run: python -m pip install "Pillow>=11,<13"
+      - name: Ensure thumbnail output directory exists
+        run: mkdir -p previews/canadian/assets/news-images
       - name: Collect public news feeds
         run: python scripts/news/update_news.py
       - name: Commit refreshed article data
