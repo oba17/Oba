@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certifications | Oba Adeleke</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Playfair Display for Serif headings, Inter for Sans-serif body text -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif; /* Sans-serif for body text */
+            background-color: #FFFFFF; /* New: White - Page background */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) - Primary text */
+        }
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif; /* Serif for all headers */
+        }
+        .container {
+            max-width: 1200px; /* Max width for content */
+        }
+        .section-header {
+            position: relative;
+            padding-bottom: 0.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .section-header::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 80px; /* Shorter underline */
+            height: 4px;
+            background-color: #63B3ED; /* New: Soft Cyan Accent */
+            border-radius: 9999px;
+        }
+        .skill-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem;
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem; /* More rounded */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .skill-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .project-card-v2 {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem; /* rounded-xl */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .project-card-v2:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        /* Styles for certification bubbles - adjusted size and spacing */
+        .certification-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem; /* Adjusted padding, keeping bubble size similar */
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .certification-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .certification-bubble img {
+            width: 77px; /* Increased badge size by 60% (from original 48px in previous step) */
+            height: 77px;
+            object-fit: contain;
+            margin-bottom: 0.5rem; /* Adjusted space between image and text */
+        }
+        .certification-bubble p {
+            font-size: 0.5625rem; /* Retained previous 40% reduction for readability */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) */
+        }
+        .testimonial-card {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        /* Custom styles for the phone icon to ensure proper sizing and color */
+        .phone-icon {
+            width: 28px; /* w-7 h-7 */
+            height: 28px;
+            /* Invert and recolor to white for visibility on blue background */
+            filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(270deg) brightness(200%); 
+        }
+    </style>
+    <base href="/Oba/previews/executive/">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Oba/previews/executive/editorial.css">
+    <meta name="robots" content="noindex, nofollow">
+</head>
+<body class="antialiased">
+    <header class="site-header bg-[#2D3748] p-6 shadow-xl">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="text-center md:text-left mb-4 md:mb-0 flex items-center">
+                <!-- Profile Picture -->
+                <img src="Thumbnail Pic.jpeg" alt="Obaloluwa Adeleke Profile Picture" class="w-24 h-24 rounded-full object-cover mr-4 shadow-md border-2 border-white" onerror="this.onerror=null;this.src='https://placehold.co/96x96/F5F5F7/63B3ED?text=OA';">
+                <div>
+                    <h1 class="text-4xl font-extrabold tracking-tight" style="color: #FFFFFF;">
+                        Oba Adeleke
+                    </h1>
+                    <p class="text-xl font-medium opacity-90 mt-1" style="color: #A0AEC0;">
+                        Senior Salesforce Administrator | Automation, RevOps & Optimization Expert
+                    </p>
+                </div>
+            </div>
+            <nav aria-label="Main navigation"><ul class="flex flex-wrap justify-center gap-6 text-lg font-medium">
+<li><a href="/Oba/previews/executive/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
+<li><a href="/Oba/previews/executive/projects/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Projects</a></li>
+<li><a href="/Oba/previews/executive/certifications/" aria-current="page" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
+<li><a href="/Oba/previews/executive/contact/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
+</ul></nav>
+        </div>
+    </header>
+
+        <main class="page-shell container mx-auto px-4 py-12 md:py-16">
+        
+    <div class="page-intro" aria-label="Certifications & Education introduction">
+      <p class="eyebrow">CREDENTIALS / PROFESSIONAL DEVELOPMENT</p>
+      <h2>Certifications & Education</h2>
+      <p>Technical expertise grounded in formal qualifications, professional certifications, and continuous learning.</p>
+    </div>
+
+<section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+            <div class="section-header">
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Certifications & Education</h2>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+                <div>
+                    <h3 class="text-2xl font-bold" style="color: #1D1D1F; ">Professional Certifications</h3>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
+                        <div class="certification-bubble">
+                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
+                            <p>Salesforce Certified Advanced Administrator</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=App+Bld';" title="Salesforce Certified Platform App Builder">
+                            <p>Salesforce Certified Platform App Builder</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
+                            <p>Salesforce Sales Cloud Consultant</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
+                            <p>Salesforce Service Cloud Consultant</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=BA';" title="Salesforce Certified Business Analyst">
+                            <p>Salesforce Certified Business Analyst</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
+                            <p>(CBAP®) – Certified Business Analysis Professional, IIBA</p>
+                        </div>
+                        <div class="certification-bubble">
+                            <img src="PSM 1.jpg" alt="Professional Scrum Master Badge" title="Professional Scrum Master – Scrum.Org">
+                            <p>Professional Scrum Master – Scrum.Org</p>
+                        </div>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Education</h3>
+                    <div class="space-y-4 text-lg" style="color: #1D1D1F;">
+                        <p><span class="font-semibold"> Bachelor of Law (LL.B Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
+                        <p><span class="font-semibold"> Barrister at Law (B.L)</span>, Nigerian Law School, Council of Legal Education – (2011)</p>
+                        <p><span class="font-semibold">Call to the Nigerian Bar</span>, Body of Benchers – (2012)</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
+        <div class="container mx-auto">
+            <p>&copy; 2025 Oba Adeleke. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
