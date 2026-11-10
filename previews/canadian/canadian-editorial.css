@@ -159,3 +159,66 @@ footer{background:var(--deep)!important;color:#DAE5EB!important;font:500 .78rem/
  .location-maps .map-external{margin-top:15px}
  .location-maps .map-canvas,.location-maps .map-canvas iframe{min-height:350px;height:350px}
 }
+
+
+/* Homepage-only refinements: pale blue-to-white gradient and black hero typography. */
+main.page-shell > .ca-hero{
+  background:linear-gradient(106deg,#CBDFFF 0%,#DBEAFF 40%,#EDF6FF 73%,#FFFFFF 100%)!important;
+  color:#101820!important;
+}
+main.page-shell > .ca-hero .ca-eyebrow,
+main.page-shell > .ca-hero h2,
+main.page-shell > .ca-hero p:not(.ca-eyebrow),
+main.page-shell > .ca-hero .ca-hero-aside .aside-label,
+main.page-shell > .ca-hero .ca-hero-aside blockquote,
+main.page-shell > .ca-hero .ca-hero-aside p{
+  color:#101820!important;
+}
+main.page-shell > .ca-hero .ca-hero-aside{border-top-color:#164385}
+main.page-shell > .ca-hero::after{border-left-color:rgba(22,67,133,.22)}
+main.page-shell > .ca-hero .ca-actions a:first-child{background:#164385!important;color:#FFFFFF!important;border-color:#164385!important}
+main.page-shell > .ca-hero .ca-actions a:last-child{background:transparent!important;color:#164385!important;border-color:#164385!important}
+main.page-shell > .ca-hero .ca-actions a:last-child:hover{background:#CBDFFF!important}
+
+/* Home professional-impact metrics, immediately following About Me. */
+.impact-stats{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  width:100%;
+  background:#FFFFFF;
+  padding:38px 0 62px;
+  margin:0 0 74px!important;
+  border-bottom:1px solid #363636;
+}
+.impact-stat{
+  min-height:245px;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;
+  padding:26px 18px;
+  border-right:1px solid #888888;
+}
+.impact-stat:last-child{border-right:0}
+.impact-stat .stat-number{
+  font:400 clamp(3.75rem,6vw,5.5rem)/1.1 Georgia,serif!important;
+  letter-spacing:-.045em;
+  color:#2851FF!important;
+  margin:0 0 12px!important;
+}
+.impact-stat .stat-label{
+  font:400 clamp(1.2rem,2vw,1.7rem)/1.35 var(--sans)!important;
+  letter-spacing:0;
+  color:#111111!important;
+  margin:0 0 12px!important;
+}
+.impact-stat .stat-description{
+  font:400 clamp(.83rem,1.25vw,1rem)/1.6 var(--sans)!important;
+  color:#111111!important;
+  max-width:290px;
+  margin:0!important;
+}
+@media(max-width:650px){
+ .impact-stats{grid-template-columns:1fr;padding:14px 0 25px;margin-bottom:52px!important}
+ .impact-stat{min-height:180px;border-right:0;border-bottom:1px solid #B5B5B5;padding:25px 14px}
+ .impact-stat:last-child{border-bottom:0}
+ .impact-stat .stat-number{font-size:4rem!important}
+}
