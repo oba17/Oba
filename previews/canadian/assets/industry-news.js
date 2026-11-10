@@ -151,7 +151,11 @@
       if (!matched.length) noStories(scroll,group);
       else {
         const limit=expanded?7:4;
-        matched.slice(0,limit).forEach((item,index)=>scroll.append(index===0?leadCard(item):smallCard(item)));
+        const selection=matched.slice(0,limit);
+        // Give the lead position to a genuine publisher image/video when available.
+        const mediaIndex=selection.findIndex(item=>safeUrl(item.image_url) || safeUrl(item.video_url));
+        if (mediaIndex>0) selection.unshift(selection.splice(mediaIndex,1)[0]);
+        selection.forEach((item,index)=>scroll.append(index===0?leadCard(item):smallCard(item)));
       }
       panel.append(scroll);
       const footer=element("div","news-widget-footer");
