@@ -654,3 +654,25 @@ main.page-shell > section.impact-stats .stat-description {
 @media (max-width: 700px) {
   .ca-hero h2.ca-hero-four-line { font-size: calc(2.75rem - 2pt) !important; }
 }
+
+
+/* 16:9 autoplaying portfolio video slides. Visible only when media loads. */
+.ca-video-slide[hidden] { display:none !important; }
+.ca-video-slide {
+  position:relative;
+  width:100%;
+  aspect-ratio:16 / 9;
+  margin:0 auto clamp(36px,5vw,68px);
+  overflow:hidden;
+  background:#051C2C;
+  border:1px solid #CBD7DC;
+}
+.ca-video-slide video {
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:contain;
+}
+@media (max-width: 650px) {
+  .ca-video-slide { margin-bottom:32px; }
+}
