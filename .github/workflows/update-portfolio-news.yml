@@ -4,53 +4,53 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/update-portfolio-news.yml"
 
 permissions:
   contents: write
   pages: write
-  id-token: write
 
 concurrency:
-  group: portfolio-news-pages
+  group: portfolio-news-refresh
   cancel-in-progress: false
 
 jobs:
   news:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Check out source
         uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collect latest RSS articles
+      - name: Collect public news feeds
         run: python scripts/news/update_news.py
-      - name: Commit refreshed articles
+      - name: Commit refreshed article data
         shell: bash
         run: |
           if ! git diff --quiet -- previews/canadian/data/news.json; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add previews/canadian/data/news.json
-            git commit -m "Refresh portfolio industry headlines"
+            git commit -m "Refresh portfolio news data"
             git push
           fi
-      # The following steps deploy from Actions, avoiding the GitHub restriction
-      # that GITHUB_TOKEN commits do not initiate a separate Pages build.
-      # Repository Settings > Pages > Build and deployment > Source must
-      # be set to "GitHub Actions" to use these steps.
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      # Our Pages site currently publishes from main. A GITHUB_TOKEN commit does
+      # not automatically trigger a new Pages build, so request one explicitly.
+      - name: Request GitHub Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          curl --fail-with-body --silent --show-error --retry 3 \
+            --request POST \
+            --header "Accept: application/vnd.github+json" \
+            --header "Authorization: Bearer ${GH_TOKEN}" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages/builds"
