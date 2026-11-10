@@ -272,3 +272,70 @@ body:has(main.page-shell > .ca-hero) .site-header nav a:hover,
 body:has(main.page-shell > .ca-hero) .site-header nav a[aria-current="page"]{
  color:#111111!important;border-bottom-color:#111111!important
 }
+
+
+/* Canadian Editorial: industry news feed - standalone visual system. */
+.industry-news{
+ background:#F3F6F7;margin-bottom:clamp(75px,8vw,115px)!important;
+ padding:clamp(35px,5vw,62px) clamp(22px,4vw,52px)!important;
+ border-top:1px solid #CBD7DC;border-bottom:1px solid #CBD7DC;
+}
+.industry-news .news-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;margin-bottom:32px}
+.industry-news .news-eyebrow{
+ font:700 .73rem/1.5 var(--sans);letter-spacing:.15em;color:#225E83!important;
+ margin-bottom:15px
+}
+.industry-news h2{font:400 clamp(2.05rem,3.3vw,3.2rem)/1.25 var(--display)!important;letter-spacing:-.045em;color:#051C2C!important}
+.industry-news .news-heading>div>p:last-child{font:400 1rem/1.75 var(--sans);color:#344A59!important;max-width:670px;margin-top:15px}
+.industry-news .news-meta{display:flex;flex-direction:column;align-items:flex-end;gap:5px;min-width:185px}
+.industry-news .news-meta span{font:500 .76rem/1.4 var(--sans);color:#586E7B}
+.industry-news .news-filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.industry-news .news-filter{
+ appearance:none;border:1px solid #9CB2C0;background:#FFFFFF;color:#163B51;
+ padding:10px 14px;font:650 .8rem/1.35 var(--sans);letter-spacing:0;
+ cursor:pointer;transition:background .15s,color .15s,border-color .15s;
+ border-radius:0
+}
+.industry-news .news-filter:hover{background:#E5EFF6}
+.industry-news .news-filter.is-active{background:#051C2C;color:#FFFFFF;border-color:#051C2C}
+.industry-news .news-filter:focus-visible,.industry-news .news-more:focus-visible{
+ outline:3px solid #225E83;outline-offset:3px
+}
+.industry-news .news-status{font:500 .78rem/1.5 var(--sans);color:#647580!important;min-height:20px;margin-bottom:15px}
+.industry-news .news-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:stretch}
+.industry-news .news-card{
+ display:flex;flex-direction:column;min-height:262px;padding:23px 21px;
+ background:#FFFFFF;border:1px solid #CDD6DD;transition:border-color .2s,transform .2s
+}
+.industry-news .news-card:hover{border-color:#225E83;transform:translateY(-3px)}
+.industry-news .news-card-meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:7px;margin-bottom:17px}
+.industry-news .news-category{font:700 .69rem/1.4 var(--sans);text-transform:uppercase;letter-spacing:.07em;color:#225E83}
+.industry-news .news-date{font:500 .71rem/1.4 var(--sans);color:#657480}
+.industry-news .news-card-title{font:400 1.18rem/1.46 var(--display)!important;letter-spacing:-.025em;color:#051C2C!important;margin:0 0 13px}
+.industry-news .news-card-title a{color:#051C2C;text-decoration:none}
+.industry-news .news-card-title a:hover{text-decoration:underline;text-underline-offset:3px}
+.industry-news .news-card-excerpt{font:400 .87rem/1.72 var(--sans);color:#485868!important;overflow-wrap:anywhere;margin-bottom:17px}
+.industry-news .news-card-bottom{display:flex;justify-content:space-between;align-items:flex-end;gap:10px;margin-top:auto}
+.industry-news .news-source{font:600 .75rem/1.5 var(--sans);color:#596D7A}
+.industry-news .news-read{font:700 .75rem/1.45 var(--sans);color:#225E83;white-space:nowrap}
+.industry-news .news-read:hover{text-decoration:underline}
+.industry-news .news-empty{grid-column:1/-1;background:#FFFFFF;border:1px solid #CDD6DD;padding:25px}
+.industry-news .news-empty p{font-size:.92rem;line-height:1.7;color:#344A59!important}
+.industry-news .news-source-links{display:flex;flex-wrap:wrap;gap:9px;margin-top:17px}
+.industry-news .news-source-links a{padding:10px 13px;border:1px solid #9BB5C6;color:#163B51;font:600 .79rem/1.4 var(--sans);background:#FFFFFF}
+.industry-news .news-source-links a:hover{background:#E6F0F6}
+.industry-news .news-footer{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:15px;margin-top:25px}
+.industry-news .news-more{background:#051C2C;color:#FFFFFF;padding:13px 20px;font:700 .81rem/1.35 var(--sans);cursor:pointer;border:1px solid #051C2C}
+.industry-news .news-more[hidden]{display:none!important}
+.industry-news .news-more:hover{background:#225E83}
+.industry-news .news-footer p{font:400 .74rem/1.5 var(--sans);color:#5A6D79!important}
+@media(max-width:920px){.industry-news .news-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:650px){
+ .industry-news{padding:28px 18px!important}
+ .industry-news .news-heading{flex-direction:column;align-items:flex-start}
+ .industry-news .news-meta{align-items:flex-start}
+ .industry-news .news-grid{grid-template-columns:1fr}
+ .industry-news .news-card{min-height:auto}
+ .industry-news .news-filters{gap:6px}
+ .industry-news .news-filter{font-size:.73rem;padding:9px 11px}
+}
