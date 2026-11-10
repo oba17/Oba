@@ -158,8 +158,10 @@
     // Distribute all topics among three equally sized rotating boxes.
     // Prefer genuine media first, then newer links without a preview.
     const ranked = [...articles].sort((a,b)=>{
-      const ma=Boolean(imageSrc(a)),mb=Boolean(imageSrc(b));
-      return Number(mb)-Number(ma) || new Date(b.published_at)-new Date(a.published_at);
+      const quality = item => item.local_image_url && item.image_kind !== "publisher_logo" ? 3 :
+        item.image_url && item.image_kind !== "publisher_logo" ? 2 :
+        item.local_image_url ? 1 : 0;
+      return quality(b)-quality(a) || new Date(b.published_at)-new Date(a.published_at);
     });
     const columns = [[],[],[]];
     ranked.forEach((a,i)=>columns[i%3].push(a));
