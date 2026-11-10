@@ -1,628 +1,584 @@
 
-/* ===================================================
-   CANADIAN EDITORIAL PORTFOLIO
-   Bright Blue & White Consulting Theme
-   =================================================== */
+/* =====================================================
+   CANADIAN EDITORIAL — BLUE & WHITE DESIGN UPDATE
+   ===================================================== */
 
 :root {
+  --primary-blue: #164385;
+  --light-blue: #CBDFFF;
+  --light-gray: #F0F0F0;
+  --white: #FFFFFF;
+  --black: #111111;
+  --border: #D5D5D5;
+
   --deep: #164385;
   --ocean: #164385;
-  --ink: #16345F;
+  --ink: #111111;
   --blue: #164385;
   --accent: #CBDFFF;
   --mist: #F0F0F0;
-  --white: #FFFFFF;
-  --line: #D5E2F3;
-  --muted: #526780;
-  --sans: 'Inter', Arial, sans-serif;
-  --display: 'Libre Baskerville', Georgia, serif;
+  --line: #D5D5D5;
+  --muted: #333333;
 }
 
-html {
-  scroll-behavior: smooth;
-}
+/* =====================================================
+   1. GENERAL PAGE COLOURS
+   ===================================================== */
 
 body {
   background: var(--white) !important;
-  color: var(--ink) !important;
-  font-family: var(--sans) !important;
-  -webkit-font-smoothing: antialiased;
+  color: var(--black) !important;
 }
 
-h1, h2, h3 {
-  font-family: var(--display) !important;
-  font-weight: 400 !important;
-  letter-spacing: -.035em;
+h1, h2, h3,
+.section-header h2,
+#certifications h3,
+#feedback h3 {
+  color: var(--primary-blue) !important;
 }
 
-a:focus-visible {
-  outline: 3px solid var(--blue);
-  outline-offset: 4px;
+p, li {
+  color: var(--black);
 }
 
-/* ===================================================
-   HEADER & NAVIGATION
-   =================================================== */
+/* =====================================================
+   2. LIGHT BLUE TO WHITE HOMEPAGE HEADER
+   ===================================================== */
 
 header.site-header {
-  background: var(--deep) !important;
-  padding: 20px max(24px, calc((100vw - 1240px)/2)) !important;
+  background: linear-gradient(
+    115deg,
+    #CBDFFF 0%,
+    #DDEAFF 42%,
+    #EEF5FF 72%,
+    #FFFFFF 100%
+  ) !important;
+
+  border-bottom: 1px solid #CBDFFF !important;
   box-shadow: none !important;
-  border-bottom: 1px solid rgba(203,223,255,.45);
 }
 
-.site-header > .container {
-  max-width: 1240px;
-  gap: 26px;
-}
+/* Header name */
 
 .site-header h1 {
-  font-size: clamp(1.6rem, 2.3vw, 2.2rem) !important;
-  letter-spacing: -.06em !important;
+  color: var(--primary-blue) !important;
 }
+
+/* Header professional subtitle */
 
 .site-header p {
-  font-size: .77rem !important;
-  font-weight: 500;
-  color: #E4EEFF !important;
-  line-height: 1.6;
-  max-width: 440px;
+  color: var(--black) !important;
+  opacity: 1 !important;
 }
+
+/* Profile photo */
 
 .site-header img {
-  width: 72px !important;
-  height: 72px !important;
-  box-shadow: none !important;
-  border: 2px solid var(--accent) !important;
-  border-radius: 0 !important;
+  border: 2px solid var(--primary-blue) !important;
 }
 
-.site-header nav ul {
-  gap: clamp(14px, 2.25vw, 30px) !important;
-}
+/* Navigation text */
 
 .site-header nav a {
-  font: 600 .8rem/1.5 var(--sans) !important;
-  letter-spacing: .04em;
-  display: inline-block;
-  padding: 12px 0;
-  border-bottom: 2px solid transparent;
-  transition: color .2s, border-color .2s;
+  color: var(--black) !important;
+  font-weight: 600 !important;
 }
 
 .site-header nav a:hover,
 .site-header nav a[aria-current="page"] {
-  color: var(--accent) !important;
-  border-bottom-color: var(--accent);
+  color: var(--primary-blue) !important;
+  border-bottom-color: var(--primary-blue) !important;
 }
 
-/* ===================================================
-   MAIN LAYOUT
-   =================================================== */
-
-main.page-shell {
-  max-width: 1240px !important;
-  padding-top: 0 !important;
-  padding-bottom: clamp(70px, 8vw, 120px) !important;
-}
-
-main.page-shell > section {
-  margin-bottom: clamp(74px, 8.5vw, 120px) !important;
-}
-
-/* ===================================================
-   HOMEPAGE HERO
-   =================================================== */
+/* =====================================================
+   3. HOMEPAGE HERO BANNER — BLUE TO WHITE GRADIENT
+   ===================================================== */
 
 .ca-hero {
-  background: var(--deep);
-  color: var(--white);
-  min-height: 520px;
+  background: linear-gradient(
+    112deg,
+    #CBDFFF 0%,
+    #DCE9FF 38%,
+    #EFF5FF 72%,
+    #FFFFFF 100%
+  ) !important;
 
-  display: grid;
-  grid-template-columns:
-    minmax(0, 1.28fr) minmax(260px, .72fr);
-
-  gap: clamp(30px, 5vw, 70px);
-  align-items: center;
-
-  padding: clamp(58px, 8vw, 110px)
-           clamp(30px, 6vw, 82px) !important;
-
-  position: relative;
-  overflow: hidden;
-
-  margin: 0 calc(-1 * max(0px, (100vw - 1240px)/2))
-          clamp(76px, 8vw, 115px) !important;
+  color: var(--black) !important;
+  border-bottom: 1px solid var(--light-blue);
 }
 
-.ca-hero:after {
-  content: "";
-  position: absolute;
-  right: 37%;
-  top: 15%;
-  height: 70%;
-  border-left: 1px solid rgba(203,223,255,.50);
-  pointer-events: none;
-}
-
-.ca-eyebrow {
-  font: 700 .7rem/1.5 var(--sans);
-  letter-spacing: .22em;
-  color: var(--accent);
-  text-transform: uppercase;
-  margin-bottom: 26px !important;
-}
+/* Large hero heading */
 
 .ca-hero h2 {
-  color: var(--white) !important;
-
-  font: 400 clamp(2.65rem, 5.8vw, 5.9rem)/1.13
-        var(--display) !important;
-
-  letter-spacing: -.06em !important;
-  max-width: 850px;
+  color: var(--primary-blue) !important;
+  font-weight: 400 !important;
 }
 
+/* Hero body copy */
+
+.ca-hero p,
 .ca-hero p:not(.ca-eyebrow) {
-  font: 400 clamp(1rem, 1.65vw, 1.18rem)/1.85
-        var(--sans);
-
-  color: #F1F6FF;
-  max-width: 670px;
-  margin-top: 28px;
+  color: var(--black) !important;
 }
 
-.ca-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 37px;
+/* Small uppercase introductory text */
+
+.ca-eyebrow,
+.ca-hero .ca-eyebrow {
+  color: var(--primary-blue) !important;
+  font-weight: 700 !important;
 }
+
+/* Hero divider */
+
+.ca-hero::after {
+  border-left: 1px solid rgba(22, 67, 133, 0.25);
+}
+
+/* Hero right-side statement */
+
+.ca-hero-aside {
+  border-top: 4px solid var(--primary-blue) !important;
+}
+
+.ca-hero-aside .aside-label {
+  color: var(--primary-blue) !important;
+}
+
+.ca-hero-aside blockquote {
+  color: var(--primary-blue) !important;
+}
+
+.ca-hero-aside p {
+  color: var(--black) !important;
+}
+
+/* Hero action buttons */
 
 .ca-actions a {
-  display: inline-block;
-  background: var(--white);
-  color: var(--deep) !important;
-  padding: 14px 23px;
-
-  font: 700 .8rem/1.4 var(--sans);
-
-  transition: background .2s, transform .2s;
+  background: var(--primary-blue) !important;
+  color: var(--white) !important;
+  border: 1px solid var(--primary-blue);
 }
 
 .ca-actions a + a {
   background: transparent !important;
-  color: var(--white) !important;
-  border: 1px solid var(--accent);
+  color: var(--primary-blue) !important;
 }
 
-.ca-actions a:hover {
-  background: var(--accent);
-  transform: translateY(-2px);
-}
-
+.ca-actions a:hover,
 .ca-actions a + a:hover {
-  background: rgba(203,223,255,.18) !important;
+  background: #CBDFFF !important;
+  color: var(--primary-blue) !important;
 }
 
-/* ===================================================
-   HERO SIDE STATEMENT
-   =================================================== */
-
-.ca-hero-aside {
-  position: relative;
-  border-top: 4px solid var(--accent);
-  padding: 30px 5px 15px 0;
-  align-self: center;
-}
-
-.ca-hero-aside .aside-label {
-  font-size: .72rem;
-  letter-spacing: .17em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 20px;
-}
-
-.ca-hero-aside blockquote {
-  font: 400 clamp(1.55rem, 2.6vw, 2.5rem)/1.45
-        var(--display);
-  color: var(--white);
-}
-
-.ca-hero-aside p {
-  font: 500 .85rem/1.7 var(--sans) !important;
-  color: #E2ECFF !important;
-  margin-top: 24px !important;
-}
-
-/* ===================================================
-   PAGE INTRODUCTIONS
-   =================================================== */
+/* =====================================================
+   4. INNER PAGE BANNERS
+   PROJECTS / CERTIFICATIONS / CONTACT
+   ===================================================== */
 
 .ca-page-intro {
-  background: var(--deep);
-  color: var(--white);
+  background: linear-gradient(
+    110deg,
+    #164385 0%,
+    #23589F 65%,
+    #5484C7 100%
+  ) !important;
 
-  padding: clamp(62px, 7.5vw, 105px)
-           clamp(30px, 6vw, 85px);
-
-  margin: 0 calc(-1 * max(0px, (100vw - 1240px)/2))
-          clamp(72px, 7vw, 98px) !important;
-
-  border-bottom: 8px solid var(--accent);
+  border-bottom: 6px solid var(--light-blue) !important;
 }
 
 .ca-page-intro h2 {
-  font: 400 clamp(2.6rem, 5vw, 4.8rem)/1.2
-        var(--display) !important;
-
   color: var(--white) !important;
-  letter-spacing: -.05em !important;
-  max-width: 820px;
 }
 
+.ca-page-intro p,
 .ca-page-intro p:not(.ca-eyebrow) {
-  font-size: 1.12rem;
-  line-height: 1.8;
-  color: #F0F5FF;
-  max-width: 720px;
-  margin-top: 25px;
+  color: var(--white) !important;
 }
 
-/* ===================================================
-   SECTION HEADINGS
-   =================================================== */
-
-.section-header {
-  text-align: left !important;
-  margin-bottom: 42px !important;
-  padding-bottom: 22px !important;
+.ca-page-intro .ca-eyebrow {
+  color: #E6F0FF !important;
 }
 
-.section-header::after {
-  left: 0 !important;
-  transform: none !important;
-  width: 90px !important;
-  height: 3px !important;
-  border-radius: 0 !important;
-  background: var(--blue) !important;
-}
-
-.section-header h2 {
-  color: var(--deep) !important;
-
-  font: 400 clamp(2rem, 3.4vw, 3.15rem)/1.25
-        var(--display) !important;
-
-  letter-spacing: -.045em;
-}
-
-/* ===================================================
-   LIGHT CONTENT SECTIONS
-   =================================================== */
+/* =====================================================
+   5. LIGHT CONTENT SECTIONS
+   ===================================================== */
 
 #about,
 #certifications,
 #feedback,
 #contact {
-  background: var(--mist) !important;
-  border: 0 !important;
-  border-top: 1px solid var(--line) !important;
-  box-shadow: none !important;
-  border-radius: 0 !important;
+  background: var(--light-gray) !important;
+  color: var(--black) !important;
 
-  padding: clamp(32px, 4.5vw, 60px)
-           clamp(12px, 2vw, 30px) !important;
+  border-radius: 0 !important;
+  border-top: 1px solid var(--border) !important;
+  box-shadow: none !important;
 }
 
 #about p,
+#certifications p,
 #feedback p,
 #contact p {
-  color: var(--ink) !important;
-  line-height: 1.92 !important;
+  color: var(--black) !important;
 }
 
-/* ===================================================
-   SKILLS GRID
-   =================================================== */
-
-#skills .grid {
-  gap: 0 !important;
-  border-top: 1px solid var(--line);
-  border-left: 1px solid var(--line);
+.section-header::after {
+  background: var(--primary-blue) !important;
 }
 
-/* ===================================================
-   SHARED CARD STYLES
-   =================================================== */
+/* =====================================================
+   6. SKILLS / PROJECTS / CERTIFICATION CARDS
+   ===================================================== */
 
 .skill-bubble,
-.certification-bubble,
 .project-card-v2,
+.certification-bubble,
 .testimonial-card {
   background: var(--white) !important;
-  border: 1px solid var(--line) !important;
+  border: 1px solid var(--border) !important;
+
   border-radius: 0 !important;
   box-shadow: none !important;
-
-  transition:
-    background .2s,
-    border-color .2s !important;
 }
 
 .skill-bubble:hover,
-.certification-bubble:hover,
 .project-card-v2:hover,
+.certification-bubble:hover,
 .testimonial-card:hover {
   background: #F7FAFF !important;
-  transform: none !important;
-  box-shadow: none !important;
-  border-color: #93B8E8 !important;
+  border-color: var(--primary-blue) !important;
 }
 
-/* ===================================================
-   SKILL CARDS
-   =================================================== */
+.skill-bubble h3,
+.project-card-v2 h3 {
+  color: var(--primary-blue) !important;
+}
 
-.skill-bubble {
-  min-height: 230px;
-  align-items: flex-start !important;
-  text-align: left !important;
-  padding: 30px 25px !important;
-
-  margin: -1px 0 0 -1px;
-  border-color: var(--line) !important;
+.skill-bubble p,
+.project-card-v2 p,
+.certification-bubble p,
+.testimonial-card p {
+  color: var(--black) !important;
 }
 
 .skill-bubble svg {
-  width: 33px !important;
-  height: 33px !important;
-  color: var(--blue) !important;
-  margin-bottom: 27px !important;
-}
-
-.skill-bubble h3 {
-  font: 700 1rem/1.5 var(--sans) !important;
-  letter-spacing: -.02em !important;
-  color: var(--deep) !important;
-}
-
-.skill-bubble p {
-  font-size: .91rem !important;
-  line-height: 1.75 !important;
-  color: var(--muted) !important;
-}
-
-/* ===================================================
-   PROJECT CARDS
-   =================================================== */
-
-.project-card-v2 {
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
-
-.project-card-v2 img {
-  height: 200px !important;
-  filter: saturate(.85);
-  border-radius: 0 !important;
-  background: var(--accent);
-}
-
-.project-card-v2 > div {
-  display: flex;
-  flex-direction: column;
-  flex: 1;
-  padding: 32px !important;
-}
-
-.project-card-v2 h3 {
-  font: 400 1.55rem/1.35 var(--display) !important;
-  color: var(--deep) !important;
-}
-
-.project-card-v2 p {
-  font-size: .97rem !important;
-  line-height: 1.83 !important;
-  color: var(--muted) !important;
-}
-
-.project-card-v2 ul {
-  margin-top: auto;
+  color: var(--primary-blue) !important;
 }
 
 .project-card-v2 li {
-  background: var(--accent) !important;
-  color: var(--deep) !important;
-  border-radius: 0 !important;
-  font-size: .72rem !important;
+  background: var(--light-blue) !important;
+  color: var(--primary-blue) !important;
 }
 
-/* ===================================================
-   BUTTONS
-   =================================================== */
-
-.project-card-v2 a,
-.page-shell > section.flex a {
-  background: var(--blue) !important;
-  border-radius: 0 !important;
+.project-card-v2 a {
+  background: var(--primary-blue) !important;
   color: var(--white) !important;
-  box-shadow: none !important;
-  padding: 13px 21px !important;
-
-  font: 700 .78rem/1.4 var(--sans) !important;
 }
 
-.project-card-v2 a:hover,
-.page-shell > section.flex a:hover {
-  background: #0D3268 !important;
+/* =====================================================
+   7. HOMEPAGE IMPACT STATISTICS
+   Position: immediately after About Me
+   Inspired by the supplied three-column reference
+   ===================================================== */
+
+.impact-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+
+  width: 100%;
+  background: var(--white);
+
+  padding: 35px 0 65px;
+  margin: 10px 0 90px;
+
+  border-bottom: 1px solid var(--black);
 }
 
-/* ===================================================
-   CERTIFICATION BADGES
-   =================================================== */
+.impact-stat {
+  min-height: 245px;
 
-.certification-bubble {
-  padding: 22px 13px !important;
-  min-height: 165px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+
+  text-align: center;
+
+  padding: 15px 30px 35px;
+
+  border-right: 1px solid #888888;
 }
 
-.certification-bubble img {
-  width: 82px !important;
-  height: 82px !important;
+.impact-stat:last-child {
+  border-right: none;
 }
 
-.certification-bubble p {
-  font: 600 .73rem/1.5 var(--sans) !important;
-  color: var(--ink) !important;
+/* Large blue numbers */
+
+.impact-stat .stat-number {
+  font-family: Georgia, 'Times New Roman', serif;
+
+  font-size: clamp(3.5rem, 6vw, 5.5rem);
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: -0.045em;
+
+  color: #2851FF !important;
+
+  margin: 0 0 7px;
 }
 
-#certifications h3,
-#feedback h3 {
-  font: 400 1.75rem/1.3 var(--display) !important;
-  color: var(--deep) !important;
+/* Years / Hours / Solutions */
+
+.impact-stat .stat-label {
+  font-family: 'Inter', Arial, sans-serif;
+
+  font-size: clamp(1.25rem, 2vw, 1.7rem);
+  font-weight: 400;
+  line-height: 1.4;
+
+  color: var(--black) !important;
+
+  margin: 0 0 14px;
 }
 
-/* ===================================================
-   TESTIMONIALS
-   =================================================== */
+/* Descriptive caption */
 
-.testimonial-card {
-  padding: 30px !important;
-  background: var(--white) !important;
-  border: 1px solid var(--line) !important;
-  border-top: 3px solid var(--blue) !important;
+.impact-stat .stat-description {
+  font-family: 'Inter', Arial, sans-serif;
+
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+
+  color: var(--black) !important;
+
+  max-width: 280px;
+  margin: 0;
 }
 
-/* ===================================================
-   CONTACT
-   =================================================== */
+/* =====================================================
+   8. CONTACT PAGE — THREE-LOCATION MAP SELECTOR
+   Calgary / Toronto / British Columbia
+   ===================================================== */
+
+.location-maps {
+  width: 100%;
+  margin: 75px auto 30px;
+  padding: 45px 0;
+
+  background: var(--white);
+}
+
+.location-maps h2 {
+  font-family: 'Libre Baskerville', Georgia, serif;
+
+  color: var(--primary-blue) !important;
+  font-size: clamp(2rem, 3vw, 3rem);
+
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Map tab navigation */
+
+.map-tabs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  gap: 12px;
+  flex-wrap: wrap;
+
+  margin-bottom: 30px;
+}
+
+.map-tab,
+.map-tabs label {
+  background: var(--white);
+  color: var(--primary-blue);
+
+  border: 1px solid var(--primary-blue);
+  border-radius: 0;
+
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: .92rem;
+  font-weight: 600;
+
+  padding: 13px 24px;
+  cursor: pointer;
+
+  transition: background .2s, color .2s;
+}
+
+.map-tab:hover,
+.map-tabs label:hover {
+  background: var(--light-blue);
+  color: var(--primary-blue);
+}
+
+/* Selected tab */
+
+.map-tab.active,
+.map-tabs input:checked + label {
+  background: var(--primary-blue);
+  color: var(--white);
+
+  border-color: var(--primary-blue);
+}
+
+/* Map display */
+
+.map-panels {
+  width: 100%;
+  border: 1px solid var(--border);
+  background: var(--light-gray);
+}
+
+.map-panel {
+  display: none;
+  width: 100%;
+}
+
+.map-panel iframe {
+  display: block;
+
+  width: 100%;
+  height: 430px;
+
+  border: 0;
+}
+
+/* CSS-only map switching.
+   Requires matching radio inputs and map panels
+   within the same .location-maps container. */
+
+.location-maps:has(#map-calgary:checked)
+  .map-panel[data-city="calgary"],
+
+.location-maps:has(#map-toronto:checked)
+  .map-panel[data-city="toronto"],
+
+.location-maps:has(#map-bc:checked)
+  .map-panel[data-city="british-columbia"] {
+  display: block;
+}
+
+/* Map captions */
+
+.map-caption {
+  background: var(--white);
+  border-top: 1px solid var(--border);
+
+  padding: 16px 22px;
+
+  font-size: .92rem;
+  color: var(--black);
+
+  text-align: center;
+}
+
+/* =====================================================
+   9. CONTACT DETAILS
+   ===================================================== */
 
 #contact a {
-  color: var(--blue) !important;
+  color: var(--primary-blue) !important;
 }
 
 #contact a[title="LinkedIn Profile"],
 #contact a[title="Call Me"] {
-  background: var(--blue) !important;
+  background: var(--primary-blue) !important;
   color: var(--white) !important;
 }
 
-/* ===================================================
-   FOOTER
-   =================================================== */
+/* =====================================================
+   10. FOOTER
+   ===================================================== */
 
 footer {
-  background: var(--deep) !important;
-  color: #E6EFFF !important;
-
-  font: 500 .78rem/1.6 var(--sans) !important;
-
-  margin-top: 0 !important;
-  padding: 40px 20px !important;
+  background: var(--primary-blue) !important;
+  color: var(--white) !important;
 }
 
-/* ===================================================
-   TABLET
-   =================================================== */
+footer p {
+  color: var(--white) !important;
+}
+
+/* =====================================================
+   11. RESPONSIVE STATISTICS AND MAPS
+   ===================================================== */
 
 @media (max-width: 850px) {
-  .ca-hero {
+  .impact-stats {
+    padding: 30px 0 50px;
+  }
+
+  .impact-stat {
+    padding: 20px 15px;
+  }
+
+  .impact-stat .stat-number {
+    font-size: 3.5rem;
+  }
+
+  .impact-stat .stat-description {
+    font-size: .85rem;
+  }
+
+  .map-panel iframe {
+    height: 380px;
+  }
+}
+
+@media (max-width: 600px) {
+  .impact-stats {
     grid-template-columns: 1fr;
-    gap: 35px;
+    padding: 20px 0 35px;
+    margin-bottom: 60px;
   }
 
-  .ca-hero:after {
-    display: none;
-  }
-
-  .ca-hero-aside {
-    max-width: 640px;
-  }
-
-  .ca-page-intro,
-  .ca-hero {
-    margin-left: -16px !important;
-    margin-right: -16px !important;
-  }
-}
-
-/* ===================================================
-   MOBILE
-   =================================================== */
-
-@media (max-width: 767px) {
-  header.site-header {
-    padding: 18px !important;
-  }
-
-  .site-header > .container {
-    align-items: flex-start !important;
-  }
-
-  .site-header nav ul {
-    justify-content: flex-start !important;
-    gap: 10px 16px !important;
-  }
-
-  .site-header nav a {
-    font-size: .72rem !important;
-  }
-
-  .site-header img {
-    width: 60px !important;
-    height: 60px !important;
-  }
-
-  .site-header h1 {
-    font-size: 1.6rem !important;
-  }
-
-  .ca-hero {
+  .impact-stat {
     min-height: auto;
-    padding: 52px 28px !important;
+    padding: 26px 20px;
+
+    border-right: none;
+    border-bottom: 1px solid #CCCCCC;
   }
 
-  .ca-hero h2 {
-    font-size: 2.75rem !important;
+  .impact-stat:last-child {
+    border-bottom: none;
   }
 
-  .ca-page-intro {
-    padding: 48px 28px !important;
+  .impact-stat .stat-number {
+    font-size: 4rem;
   }
 
-  main.page-shell {
-    padding: 0 16px 65px !important;
+  .impact-stat .stat-label {
+    font-size: 1.4rem;
   }
 
-  .skill-bubble {
-    min-height: auto;
+  .impact-stat .stat-description {
+    font-size: .95rem;
   }
 
-  #about,
-  #certifications,
-  #feedback,
-  #contact {
-    padding: 30px 8px !important;
-  }
-}
-
-/* ===================================================
-   ACCESSIBILITY
-   =================================================== */
-
-@media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
+  .map-tabs {
+    gap: 8px;
   }
 
-  *,
-  *:before,
-  *:after {
-    transition-duration: .01ms !important;
-    animation-duration: .01ms !important;
+  .map-tab,
+  .map-tabs label {
+    font-size: .78rem;
+    padding: 11px 13px;
+  }
+
+  .map-panel iframe {
+    height: 310px;
+  }
+
+  .location-maps {
+    padding: 30px 0;
   }
 }
