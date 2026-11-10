@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:42:27Z",
+  "updated_at": "2026-11-10T20:44:17Z",
   "articles": [
     {
       "category": "Tech",
@@ -59,7 +59,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "",
@@ -227,16 +227,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
       "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
       "published_at": "2026-11-10T03:37:15Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T03:29:05Z",
       "image_url": "",
       "video_url": ""
     },
@@ -528,6 +518,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Troubleshooting Video Issues - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
+      "summary": "Troubleshooting Video Issues Zoom",
+      "published_at": "2026-11-04T14:45:24Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Introducing SharePoint tools in Work IQ - Microsoft Community Hub",
@@ -662,16 +662,6 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
-      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
-      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
-      "published_at": "2026-10-29T11:34:27Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
@@ -706,6 +696,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
+      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
+      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "",
       "video_url": ""
     },
