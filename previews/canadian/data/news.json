@@ -1,5 +1,468 @@
 {
-  "updated_at": null,
-  "articles": [],
-  "sources_ok": []
+  "updated_at": "2026-11-10T18:51:40Z",
+  "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "published_at": "2026-11-10T17:26:44Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "High oil prices have led to a dip in global carbon emissions",
+      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
+      "published_at": "2026-11-10T16:29:27Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "One space station company sues another for copying its work",
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
+      "published_at": "2026-11-10T16:17:51Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
+      "url": "https://www.zoom.com/en/blog/defensible-yes-cx-leaders/",
+      "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
+      "published_at": "2026-11-10T15:21:17Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "summary": "The new model is up to twice as successful at some tasks.",
+      "published_at": "2026-11-10T15:00:39Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+      "published_at": "2026-11-10T14:53:05Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
+      "published_at": "2026-11-10T14:43:49Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Polestar has a new look with its Formula 2030 concept",
+      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+      "published_at": "2026-11-10T14:22:02Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+      "published_at": "2026-11-10T12:15:32Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+      "published_at": "2026-11-10T12:00:21Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "published_at": "2026-11-10T12:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "published_at": "2026-11-10T10:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "published_at": "2026-11-10T09:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "published_at": "2026-11-10T07:00:00Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "published_at": "2026-11-09T21:55:35Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
+      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "published_at": "2026-11-09T21:13:39Z"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "A Sam Altman parody offers an amusing lesson in memory management",
+      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "published_at": "2026-11-09T20:49:09Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "published_at": "2026-11-09T19:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published_at": "2026-11-09T13:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "published_at": "2026-11-09T08:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "published_at": "2026-11-09T08:00:00Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
+      "url": "https://developer.salesforce.com/blogs/2026/11/quick-pages-beta-developer-edition-jp",
+      "summary": "ベータ公開された Quick Pages を Developer Edition で試す手順です。機能の有効化と権限セットの割り当てから、自然言語でのページ作成、会話での修正、保存・共有までを画面付きで紹介します。ダミーデータを作る Anonymous Apex のスクリプトも公開しています。 The post Quick Pages (Beta) を Developer Edition で試す : 有効化からページ…",
+      "published_at": "2026-11-09T01:33:40Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
+      "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
+      "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
+      "published_at": "2026-11-06T23:26:57Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Webinar marketing strategy: Zoomtopia 2026 recap",
+      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
+      "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
+      "published_at": "2026-11-06T23:24:00Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to use AI for social media content as a small business",
+      "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
+      "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
+      "published_at": "2026-11-06T17:28:00Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Zoom in on CX: Why Most AI in CX Fails Before It Even Launches",
+      "url": "https://www.zoom.com/en/blog/zoom-in-on-cx-episode-3/",
+      "summary": "Most AI transformations fail before they even launch — not because the technology is weak, but because no one asked the right question first. In this episode, Michelle Booth (Zoom) and Andy Kingston (Lloyds Ban…",
+      "published_at": "2026-11-06T14:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "published_at": "2026-11-06T08:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "published_at": "2026-11-06T00:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "published_at": "2026-11-05T20:00:00Z"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "published_at": "2026-11-05T17:00:00Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
+      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
+      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
+      "published_at": "2026-11-05T16:00:55Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
+      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
+      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
+      "published_at": "2026-11-04T16:00:34Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Protect Your Salesforce Commerce API (SCAPI) from Bots and AI Agents with eCDN",
+      "url": "https://developer.salesforce.com/blogs/2026/11/protect-your-salesforce-commerce-api-scapi-from-bots-and-ai-agents-with-ecdn",
+      "summary": "Learn how to secure your Salesforce Commerce API (SCAPI) with B2C Commerce eCDN. Explore how to restrict API access to trusted integrations, strengthen SLAS security, and manage AI crawler and shopping agent tr…",
+      "published_at": "2026-11-03T16:00:54Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is a quality management system?",
+      "url": "https://www.zoom.com/en/blog/quality-management-system-guide/",
+      "summary": "Learn what a quality management system is, how it works in contact centers, and how to choose the right QMS software for your team.",
+      "published_at": "2026-10-30T19:55:09Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Build Trusted Conversational Analytics with AIforce, Data 360, and Tableau Semantics",
+      "url": "https://developer.salesforce.com/blogs/2026/10/build-trusted-conversational-analytics-with-aiforce-data-360-and-tableau-semantics",
+      "summary": "Learn how to create shared business definitions that help AI agents deliver consistent, context-aware insights across conversational experiences. The post Build Trusted Conversational Analytics with AIforce, Da…",
+      "published_at": "2026-10-29T15:15:49Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "The TDX 2027 Call for Participation Is Now Open",
+      "url": "https://developer.salesforce.com/blogs/2026/10/the-tdx-2027-call-for-participation-is-now-open",
+      "summary": "The TDX 2027 CFP is open. Get developer-focused tips on titles, abstracts, session formats, what to avoid, and the submission deadline. The post The TDX 2027 Call for Participation Is Now Open appeared first on…",
+      "published_at": "2026-10-28T16:00:20Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Explore the Headless Toolkit with the Pronto Sample App",
+      "url": "https://developer.salesforce.com/blogs/2026/10/explore-the-headless-toolkit-with-the-pronto-sample-app",
+      "summary": "Discover how the Pronto sample app demonstrates the power of the Headless Toolkit with Agentforce, Hosted MCP servers, and rich experiences across surfaces. The post Explore the Headless Toolkit with the Pronto…",
+      "published_at": "2026-10-28T14:00:05Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "The context layer every enterprise AI deployment is missing",
+      "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
+      "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
+      "published_at": "2026-10-27T16:03:25Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "More Than a Conference: Connect with the Microsoft Community at ESPC 2026",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/more-than-a-conference-connect-with-the-microsoft-community-at/ba-p/4567771",
+      "summary": "Some of the best moments at a conference happen outside the traditional breakout room. They happen when you meet someone working through the same challenge you are. When a quick conversation with a Microsoft MV…",
+      "published_at": "2026-10-26T20:49:49Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Headless Experience Layer Widget Formulas: Math and Logic with JSON",
+      "url": "https://developer.salesforce.com/blogs/2026/10/headless-experience-layer-widget-formulas-math-and-logic-with-json",
+      "summary": "HXL widgets can evaluate formulas inside {!...} expressions; use IF, CASE, and math operators to replace precomputed Apex fields with inline logic. The post Headless Experience Layer Widget Formulas: Math and L…",
+      "published_at": "2026-10-26T15:00:13Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How Zoom is giving IT leaders control over AI agents across the enterprise",
+      "url": "https://www.zoom.com/en/blog/zoomtopia2026-ai-governance-zoom-workplace/",
+      "summary": "Zoom announced AI governance tools for Zoom Workplace, including Centralized AI Management, AI guardrails, and Deepfake risk detection.",
+      "published_at": "2026-10-26T13:00:00Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Post event webinar strategy: your guide to follow-up, replay, and return audiences",
+      "url": "https://www.zoom.com/en/blog/post-event-webinar-strategy/",
+      "summary": "What Zoom's Webinar Audience Behavior Report reveals about replay timing, follow-up strategy, and how top-performing teams build audiences that keep coming back.",
+      "published_at": "2026-10-23T21:38:00Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to start a consulting business: a step-by-step guide",
+      "url": "https://www.zoom.com/en/blog/consulting-business/",
+      "summary": "Learn how to start a consulting business — from picking your niche to landing clients and building a client workflow that keeps projects moving.",
+      "published_at": "2026-10-23T17:42:52Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to start a coaching business: a complete guide",
+      "url": "https://www.zoom.com/en/blog/coaching-business/",
+      "summary": "Learn how to start a coaching business with practical steps from choosing a niche to landing clients, managing contracts, and getting paid.",
+      "published_at": "2026-10-23T17:06:28Z"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Zoomtopia 2026 wrap-up: connecting conversations to what comes next",
+      "url": "https://www.zoom.com/en/blog/zoomtopia-2026-wrap-up/",
+      "summary": "At Zoomtopia 2026, a question about unfinished conversations led to a bigger idea: work moves better when people and AI have the context to act.",
+      "published_at": "2026-10-23T15:30:00Z"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Agentforce Voice for Agent Script: Route Real Phone Calls to Your Agent",
+      "url": "https://developer.salesforce.com/blogs/2026/10/agentforce-voice-for-agent-script-route-real-phone-calls-to-your-agent",
+      "summary": "Learn how to configure a phone number, set up Omni-Channel routing, and verify calls with Salesforce CLI. Take your voice-enabled Agent Script agent from browser preview to real phone calls without changing you…",
+      "published_at": "2026-10-21T15:00:24Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Office LTSC 2021 support ends today",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/office-ltsc-2021-support-ends-today/ba-p/4562577",
+      "summary": "Continuing to use software after end of support can leave your devices vulnerable to potential security threats and compliance issues. Today, October 13, 2026, support ends for Office LTSC 2021 suites and stand…",
+      "published_at": "2026-10-13T16:00:00Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Now in public preview: Microsoft 365 SharePoint Storage and OneDrive Storage",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/now-in-public-preview-microsoft-365-sharepoint-storage-and/ba-p/4559758",
+      "summary": "As organizations create, collaborate, and retain more content in Microsoft 365, storage needs rarely grow in a perfectly predictable way. IT leaders and admins need a practical way to respond to demand without…",
+      "published_at": "2026-09-29T16:00:00Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Discover the Experts Bringing Microsoft 365, AI, and Copilot to Life at ESPC 2026",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/discover-the-experts-bringing-microsoft-365-ai-and-copilot-to/ba-p/4559112",
+      "summary": "ESPC Microsoft 365 and AI conference returns to Amsterdam from November 30 to December 3, 2026, bringing together thousands of IT professionals, business leaders, developers, architects, and consultants for fou…",
+      "published_at": "2026-09-23T16:18:49Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "One month until Office LTSC 2021 end of support",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/one-month-until-office-ltsc-2021-end-of-support/ba-p/4554417",
+      "summary": "As previously communicated , support for Office LTSC 2021 will end on October 13, 2026 . After that date, no further updates, security fixes, or technical support will be available for this version of Office. W…",
+      "published_at": "2026-09-14T16:00:00Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Introducing Viva Glint APIs for Survey Data Export and Visier Integration",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-viva-glint-apis-for-survey-data-export-and-visier/ba-p/4547896",
+      "summary": "Enterprise HR analytics increasingly depend on frictionless data integration across a diverse ecosystem of solutions to unlock deeper, actionable insight. With the introduction of programmatic survey export API…",
+      "published_at": "2026-09-02T16:00:00Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "10 things to know before enabling Microsoft 365 Backup",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/10-things-to-know-before-enabling-microsoft-365-backup/ba-p/4529275",
+      "summary": "Microsoft 365 Backup can help strengthen your organization’s native safety net; it’s built directly into the platform you already trust, designed to recover your Microsoft Exchange Online, SharePoint, and OneDr…",
+      "published_at": "2026-08-21T17:00:33Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Start ingesting Assistant data into Microsoft 365 with supported connectors",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/start-ingesting-assistant-data-into-microsoft-365-with-supported/ba-p/4541260",
+      "summary": "Help employees find the right people faster with Assistant relationship data Executive assistants in an organization play a critical role in coordinating schedules, communication, and executive operations. Howe…",
+      "published_at": "2026-07-29T16:03:20Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "What's New in PowerPoint Craft",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-s-new-in-powerpoint-craft/ba-p/4535409",
+      "summary": "The PowerPoint team is modernizing the creation experience to help you build polished presentations with less friction. Over the past several months, we’ve focused on updates you can use directly—new SmartArt l…",
+      "published_at": "2026-07-17T15:27:44Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Built for Business: How Microsoft 365 Copilot Connects the Tools That Power Your Business",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/built-for-business-how-microsoft-365-copilot-connects-the-tools/ba-p/4534980",
+      "summary": "Small businesses don't run on a single application or tool. Every day, teams move between email, documents, meetings, spreadsheets, customer records, and financial systems – which means that the information you…",
+      "published_at": "2026-07-08T15:03:27Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Unlock more value from your data with Microsoft 365 Archive and partner integrations",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/unlock-more-value-from-your-data-with-microsoft-365-archive-and/ba-p/4531401",
+      "summary": "As organizations continue to generate and store growing volumes of data across Microsoft 365, managing that data efficiently is becoming increasingly important. From controlling storage costs to improving AI re…",
+      "published_at": "2026-07-02T15:00:00Z"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "Putting file-level archiving into practice with Microsoft 365 Archive and Syskit Point",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/putting-file-level-archiving-into-practice-with-microsoft-365/ba-p/4526459",
+      "summary": "Most Microsoft SharePoint sites don't go quiet all at once. They stay active, new files added, documents edited, teams collaborating, while years of completed projects, superseded drafts, and old reports accumu…",
+      "published_at": "2026-06-11T17:50:00Z"
+    }
+  ],
+  "sources_ok": [
+    "Salesforce",
+    "Microsoft",
+    "AI",
+    "Zoom",
+    "Tech"
+  ]
 }
