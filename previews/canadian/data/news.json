@@ -1,6 +1,39 @@
 {
-  "updated_at": "2026-11-10T19:31:22Z",
+  "updated_at": "2026-11-10T20:40:03Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Google Fi adds support for a second 5G network, won't say which one",
+      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
+      "published_at": "2026-11-10T19:35:59Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/efea1daf2e7ab847.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+      "published_at": "2026-11-10T19:00:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/d89b522720ea4604.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "published_at": "2026-11-10T18:39:16Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fa53df689c842881.jpg"
+    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
@@ -26,7 +59,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVZNSlBzTzV1ZTV6MnJXSXFHcFNINUJ5S0xFZUVWQV9ZbjBTU1luTXR5MzBqR191OUpMZHZOV2dvTVhPb0plUk1HNG40UXRMdklDU01oVWtlSXJIX0xUT0pXSVFicjdFdHk5R082ekxaOVB3UGVici05cENUbHV5SnllaVpjMVBSZjNMeGdURkUwTllQTWUyUmZDTGk5LWl3TnJESjJn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "",
@@ -86,6 +119,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
+      "summary": "Work at the Frontier: AI’s effect on freelance work OpenAI",
+      "published_at": "2026-11-10T15:04:04Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -115,8 +158,7 @@
       "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
       "published_at": "2026-11-10T14:43:49Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b8f5c5719f14d5d6.jpg"
+      "video_url": ""
     },
     {
       "category": "Tech",
@@ -126,8 +168,7 @@
       "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
       "published_at": "2026-11-10T14:22:02Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/52c592459206ee73.jpg"
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -147,17 +188,16 @@
       "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
       "published_at": "2026-11-10T12:15:32Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/7cb7420098e692d5.jpg"
+      "video_url": ""
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
-      "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
-      "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
-      "published_at": "2026-11-10T12:00:21Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648-1794321189.jpeg",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Helping caregivers use AI in everyday life - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
+      "summary": "Helping caregivers use AI in everyday life OpenAI",
+      "published_at": "2026-11-10T12:07:52Z",
+      "image_url": "",
       "video_url": ""
     },
     {
@@ -211,12 +251,42 @@
       "video_url": ""
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Incorrect cost data in Costs API exports - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVkJVTlFQYkozOTQ3c181X0JEbUdLLUdRWGtzRjlOaEN2eFg0MGM4bi1Sc0NOVG1iSjFiX0VBOUVKanNhYzc4TTZ4WG1fODhsWnhLTThMT3VadzZ3VUFyWXl1WVNNeERNdVJZZVpySQ?oc=5",
+      "summary": "Incorrect cost data in Costs API exports OpenAI Status",
+      "published_at": "2026-11-10T06:40:36Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Founding Full Stack Software Engineer, Consulting - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
+      "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
+      "published_at": "2026-11-10T03:37:15Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
       "summary": "Official Zoom Support | Help Center Zoom",
       "published_at": "2026-11-10T03:29:05Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Elevated Errors On API - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dUU3bFJlQkoyQXVfb1doRlVyVmtBYmtzZjVGeHREeG9WRDRDWVV2LUdNNW84RERfMG5fck5MTEFQWUE2dk45TDJBdkZnS0VhNVctdWdhV2tyclczY3Bqc1U0VmMxdXlpdHUzOXJabw?oc=5",
+      "summary": "Elevated Errors On API OpenAI Status",
+      "published_at": "2026-11-09T23:24:05Z",
       "image_url": "",
       "video_url": ""
     },
@@ -241,56 +311,6 @@
       "video_url": ""
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-      "published_at": "2026-11-09T21:55:35Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
-      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-      "published_at": "2026-11-09T21:25:05Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
-      "published_at": "2026-11-09T21:13:39Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43akxPN1NHbWlqampuZlpCQk1WM1ladklZemhnVnBHVlVvR0xKUFNLdUloT2hBRzFHQ2Jya2ZQRTYweWl5U0pMNGplcDk4MmV6QjJmMVBKRmtRM0U3a09STkhhcUYtUWtuaGgtMg?oc=5",
-      "summary": "ChatGPT Enterprise now available in AWS Marketplace OpenAI",
-      "published_at": "2026-11-09T19:04:29Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "published_at": "2026-11-09T19:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Durable Task extension for Microsoft Agent Framework is now Generally Available - Microsoft Community Hub",
@@ -301,24 +321,15 @@
       "video_url": ""
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "published_at": "2026-11-09T13:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "published_at": "2026-11-09T08:00:00Z",
-      "image_url": "",
-      "video_url": ""
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
+      "url": "https://developer.salesforce.com/blogs/2026/11/quick-pages-beta-developer-edition-jp",
+      "summary": "ベータ公開された Quick Pages を Developer Edition で試す手順です。機能の有効化と権限セットの割り当てから、自然言語でのページ作成、会話での修正、保存・共有までを画面付きで紹介します。ダミーデータを作る Anonymous Apex のスクリプトも公開しています。 The post Quick Pages (Beta) を Developer Edition で試す : 有効化からページ…",
+      "published_at": "2026-11-09T01:33:40Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261107162256/quick-pages-beta-developer-edition_1200x600.png?w=1200",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
     },
     {
       "category": "Zoom",
@@ -349,6 +360,17 @@
       "published_at": "2026-11-07T17:40:16Z",
       "image_url": "",
       "video_url": ""
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
+      "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
+      "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
+      "published_at": "2026-11-06T23:26:57Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261106171448/2026-11-07_10-11-59.jpg?w=1118",
+      "video_url": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
       "category": "Zoom",
@@ -598,21 +620,21 @@
       "video_url": ""
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
-      "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "GenAiPromptTemplate - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
       "summary": "GenAiPromptTemplate Salesforce Developers",
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlPOVVHb081d1dKa0JmUURMSndUUVBydmNyZXEtRm9qT2hEcVc4d2VaXzY0ZTlFSGpPcGtFS1lVVzdPN2J4RXEzN3RHRV92dkZHcGdrTHpRcElQdWM0OXUyclp2UEpEZFRIR0ZJNzFmTmRPWUNNaUVNN2hRcmdxTmVjdW9kczZxUkNnN04wc0ZlSERtNTU4Rjg2UnJwNWxZcm50R0dIbGl5cXh5U3ZUTHVCdXY2TVZMdnVPZFgyWC1hRDZPRGRleA?oc=5",
+      "summary": "Who Can See What? Cracking the Access Puzzle in Complex Organizations IIBA",
       "published_at": "2026-10-30T07:00:00Z",
       "image_url": "",
       "video_url": ""
@@ -628,42 +650,12 @@
       "video_url": ""
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ProviderAffiliation - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHFaaW02N0Z1dF9Eck1wdF81MWxndVJNdFZHWUt2Mm1qS3o4UmlOOHZQcTVkbzJjMFVOQS1WOXp0cUhBNW5PQ0I0OGVGcl9ENENhM3ZHeHFvR2VLNnZYZjAxakF1X2JKOXJVbnRhdVhsQXRYS2VlRFVhcERFLXZQUHlXaVQ0dG8ydWh3aXI3SE8tbmRVNlk2aFpyNUUwcUtESzZoVHp4clJ6TkZEM0tVdzlrQ3Z5dEdEY2wxUGNiVQ?oc=5",
-      "summary": "ProviderAffiliation Salesforce Developers",
-      "published_at": "2026-10-30T06:29:04Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "Life Sciences Cloud Data Models - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZXNmhTUk0yb3pabW5VQkppQy1Ra29TMTkzN2ZfcjVzWTh4UEVuQVc4QXVoUzYwWEpTTmdnWl9xYWNYRG8xaWJ0SFVKeWRkSDBNZXZ2YU5KYlkwVFJyUFJMbk9kQmdobmhkNTFobGNlNGhsbUZqVE1qRTU4UXo1S1pQNEZvb2d6VllZVmZYdHhpbkluS3ExNVUtNWs0emdZWE5KemNyTThQZ2Jf?oc=5",
-      "summary": "Life Sciences Cloud Data Models Salesforce Developers",
-      "published_at": "2026-10-30T05:37:22Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
       "published_at": "2026-10-29T21:20:03Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
-      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
-      "published_at": "2026-10-29T11:34:27Z",
       "image_url": "",
       "video_url": ""
     },
@@ -704,6 +696,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
+      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
+      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "",
       "video_url": ""
     },
