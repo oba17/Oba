@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:31:01Z",
+  "updated_at": "2026-11-10T19:31:22Z",
   "articles": [
     {
       "category": "AI",
@@ -26,7 +26,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVZNSlBzTzV1ZTV6MnJXSXFHcFNINUJ5S0xFZUVWQV9ZbjBTU1luTXR5MzBqR191OUpMZHZOV2dvTVhPb0plUk1HNG40UXRMdklDU01oVWtlSXJIX0xUT0pXSVFicjdFdHk5R082ekxaOVB3UGVici05cENUbHV5SnllaVpjMVBSZjNMeGdURkUwTllQTWUyUmZDTGk5LWl3TnJESjJn?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "",
@@ -75,17 +75,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/462a26ce1d097a27.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
-      "url": "https://developer.salesforce.com/blogs/2026/11/accelerate-agent-driven-development-with-the-headless-toolkit",
-      "summary": "Learn how to accelerate agent-driven Salesforce development with the Headless Toolkit. Explore a seven-stage lifecycle using Salesforce skills, MCP servers, and developer tools to build, test, review, and deplo…",
-      "published_at": "2026-11-10T16:00:07Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261105105231/SingleHeadshot-13-e1793904767965.png?w=1000",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
@@ -95,16 +84,6 @@
       "image_url": "https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==",
       "video_url": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jbjZqUWRlTUJ3MkZPVlYzd2hSb3A2aDlBOG5zckhFZjVEZFlQc3diU0lxOVhwLUFHTnNRMy1SSlgyRGxhOVpsV2w4MHNFOElOSFBQRlNnSDV4eDloc2V0R3lnUQ?oc=5",
-      "summary": "Work at the Frontier: AI’s effect on freelance work OpenAI",
-      "published_at": "2026-11-10T15:04:04Z",
-      "image_url": "",
-      "video_url": ""
     },
     {
       "category": "Tech",
@@ -172,16 +151,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/7cb7420098e692d5.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Helping caregivers use AI in everyday life - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OUjBJclNmYnpaSEk4RzRSbVFqNmF2NFNpV1FEUzhxZHZkNzhsVUd6QVdYTWZyNEJwbml5ZmlZUUhmRUtsRUFLQ1p2d2EwVWJuc1lRZHplMXkyUUFqcjBadGsxdkRrZVJGWGR2M3lOTVN6cUJNX2NB?oc=5",
-      "summary": "Helping caregivers use AI in everyday life OpenAI",
-      "published_at": "2026-11-10T12:07:52Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
@@ -242,32 +211,12 @@
       "video_url": ""
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Incorrect cost data in Costs API exports - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVkJVTlFQYkozOTQ3c181X0JEbUdLLUdRWGtzRjlOaEN2eFg0MGM4bi1Sc0NOVG1iSjFiX0VBOUVKanNhYzc4TTZ4WG1fODhsWnhLTThMT3VadzZ3VUFyWXl1WVNNeERNdVJZZVpySQ?oc=5",
-      "summary": "Incorrect cost data in Costs API exports OpenAI Status",
-      "published_at": "2026-11-10T06:40:36Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Founding Full Stack Software Engineer, Consulting - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
-      "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
-      "published_at": "2026-11-10T03:37:15Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Elevated Errors On API - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dUU3bFJlQkoyQXVfb1doRlVyVmtBYmtzZjVGeHREeG9WRDRDWVV2LUdNNW84RERfMG5fck5MTEFQWUE2dk45TDJBdkZnS0VhNVctdWdhV2tyclczY3Bqc1U0VmMxdXlpdHUzOXJabw?oc=5",
-      "summary": "Elevated Errors On API OpenAI Status",
-      "published_at": "2026-11-09T23:24:05Z",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T03:29:05Z",
       "image_url": "",
       "video_url": ""
     },
@@ -302,6 +251,16 @@
       "video_url": ""
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YczhZVHM5azFwMHJqTnJfM25LNVo4Mm9lVnhTZS1nWWoyU1hEUnE5OGo0S1cxODlRd2tKTjV5LVdNc0RqVllhMFJRSWs5QzUzR1p3MFNBTWs3alhyZUw3Sg?oc=5",
+      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
+      "published_at": "2026-11-09T21:25:05Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
@@ -309,6 +268,26 @@
       "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
       "published_at": "2026-11-09T21:13:39Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
+      "video_url": ""
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43akxPN1NHbWlqampuZlpCQk1WM1ladklZemhnVnBHVlVvR0xKUFNLdUloT2hBRzFHQ2Jya2ZQRTYweWl5U0pMNGplcDk4MmV6QjJmMVBKRmtRM0U3a09STkhhcUYtUWtuaGgtMg?oc=5",
+      "summary": "ChatGPT Enterprise now available in AWS Marketplace OpenAI",
+      "published_at": "2026-11-09T19:04:29Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "published_at": "2026-11-09T19:00:00Z",
+      "image_url": "",
       "video_url": ""
     },
     {
@@ -322,15 +301,24 @@
       "video_url": ""
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
-      "url": "https://developer.salesforce.com/blogs/2026/11/quick-pages-beta-developer-edition-jp",
-      "summary": "ベータ公開された Quick Pages を Developer Edition で試す手順です。機能の有効化と権限セットの割り当てから、自然言語でのページ作成、会話での修正、保存・共有までを画面付きで紹介します。ダミーデータを作る Anonymous Apex のスクリプトも公開しています。 The post Quick Pages (Beta) を Developer Edition で試す : 有効化からページ…",
-      "published_at": "2026-11-09T01:33:40Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261107162256/quick-pages-beta-developer-edition_1200x600.png?w=1200",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published_at": "2026-11-09T13:00:00Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "published_at": "2026-11-09T08:00:00Z",
+      "image_url": "",
+      "video_url": ""
     },
     {
       "category": "Zoom",
@@ -361,17 +349,6 @@
       "published_at": "2026-11-07T17:40:16Z",
       "image_url": "",
       "video_url": ""
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
-      "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
-      "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
-      "published_at": "2026-11-06T23:26:57Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261106171448/2026-11-07_10-11-59.jpg?w=1118",
-      "video_url": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
       "category": "Zoom",
@@ -529,16 +506,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Troubleshooting Video Issues - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
-      "summary": "Troubleshooting Video Issues Zoom",
-      "published_at": "2026-11-04T14:45:24Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Introducing SharePoint tools in Work IQ - Microsoft Community Hub",
@@ -621,16 +588,6 @@
       "video_url": ""
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "GenAiPromptTemplate - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
-      "summary": "GenAiPromptTemplate Salesforce Developers",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
@@ -651,12 +608,62 @@
       "video_url": ""
     },
     {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "GenAiPromptTemplate - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
+      "summary": "GenAiPromptTemplate Salesforce Developers",
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWhwZFVJMkptc1c2S0NWVVBpTGlYUDEtbTFFWDh6N2cyMk50N1BlaG9RQURRZnRVWkRVOEV4djNqQ3Q4NjQ3Z1ctMm56ZURCaFE2TUlXNTJkNjhFcnRyMmdqOWgtelZybjRvckkzT0FjTWIycEtTMnZkTUJsVTBsSWVWY1hmUkYwQUFMR2ZhcnhwTnZCSlAyTTd5NVVZcG1sTWV5dGdaR3c0cXZodk9Ydi15b3Nwb0FObWJLbEQ0bi1xeHNEMEVR?oc=5",
+      "summary": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide Salesforce Developers",
+      "published_at": "2026-10-30T06:54:03Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ProviderAffiliation - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWHFaaW02N0Z1dF9Eck1wdF81MWxndVJNdFZHWUt2Mm1qS3o4UmlOOHZQcTVkbzJjMFVOQS1WOXp0cUhBNW5PQ0I0OGVGcl9ENENhM3ZHeHFvR2VLNnZYZjAxakF1X2JKOXJVbnRhdVhsQXRYS2VlRFVhcERFLXZQUHlXaVQ0dG8ydWh3aXI3SE8tbmRVNlk2aFpyNUUwcUtESzZoVHp4clJ6TkZEM0tVdzlrQ3Z5dEdEY2wxUGNiVQ?oc=5",
+      "summary": "ProviderAffiliation Salesforce Developers",
+      "published_at": "2026-10-30T06:29:04Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "Life Sciences Cloud Data Models - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZXNmhTUk0yb3pabW5VQkppQy1Ra29TMTkzN2ZfcjVzWTh4UEVuQVc4QXVoUzYwWEpTTmdnWl9xYWNYRG8xaWJ0SFVKeWRkSDBNZXZ2YU5KYlkwVFJyUFJMbk9kQmdobmhkNTFobGNlNGhsbUZqVE1qRTU4UXo1S1pQNEZvb2d6VllZVmZYdHhpbkluS3ExNVUtNWs0emdZWE5KemNyTThQZ2Jf?oc=5",
+      "summary": "Life Sciences Cloud Data Models Salesforce Developers",
+      "published_at": "2026-10-30T05:37:22Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
       "published_at": "2026-10-29T21:20:03Z",
+      "image_url": "",
+      "video_url": ""
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
+      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
+      "published_at": "2026-10-29T11:34:27Z",
       "image_url": "",
       "video_url": ""
     },
@@ -697,16 +704,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
-      "image_url": "",
-      "video_url": ""
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
-      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
-      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "",
       "video_url": ""
     },
