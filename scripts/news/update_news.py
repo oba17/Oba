@@ -83,6 +83,35 @@ def extract_media(item, raw_description, article_link):
             video = article_link
     return image, video
 
+def normalize_headline(title):
+    """Match a Google News headline with the corresponding official publisher item."""
+    title = (title or "").lower()
+    title = re.sub(r"\\s+[-|–]\\s+(?:openai|salesforce|microsoft|zoom|ars technica|iiba)(?:\\s+.*)?$", "", title)
+    return re.sub(r"[^a-z0-9]+", " ", title).strip()
+
+def prefer_publisher_links(items):
+    """Replace Google News relay links only if the same story exists on a direct
+    publisher feed. This makes metadata/lead images retrievable.
+    """
+    direct = {}
+    for item in items:
+        host = (urlsplit(item.get("url", "")).hostname or "").lower()
+        if host not in ("news.google.com", "www.news.google.com"):
+            key = (item.get("category"), normalize_headline(item.get("title")))
+            direct[key] = item
+    for item in items:
+        host = (urlsplit(item.get("url", "")).hostname or "").lower()
+        if host not in ("news.google.com", "www.news.google.com"):
+            continue
+        key = (item.get("category"), normalize_headline(item.get("title")))
+        real = direct.get(key)
+        if real:
+            item["url"] = real["url"]
+            item["source"] = real["source"]
+            item["image_url"] = item.get("image_url") or real.get("image_url", "")
+            item["video_url"] = item.get("video_url") or real.get("video_url", "")
+    return items
+
 class MetaImages(HTMLParser):
     """Read publisher-owned OpenGraph/Twitter image and video metadata."""
     def __init__(self):
@@ -306,6 +335,7 @@ def main():
         if item.get("category") not in successful and item.get("category") in {c for c, _, _ in SOURCES}:
             all_items.append(item)
 
+    all_items = prefer_publisher_links(all_items)
     dedup = {}
     for item in all_items:
         dedup[item["url"].split("?")[0].rstrip("/")] = item
