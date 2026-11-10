@@ -104,23 +104,23 @@ def publisher_preview(item):
     link = item.get("url", "")
     domain = urlsplit(link).hostname or ""
     if domain == "news.google.com" or not link.startswith("https://"):
-        return ""
+        return ("", "")
     try:
         req = urllib.request.Request(link, headers={"User-Agent": UA, "Accept": "text/html"})
         with urllib.request.urlopen(req, timeout=7) as response:
             final = urlsplit(response.geturl())
             if final.scheme != "https" or not final.hostname:
-                return ""
+                return ("", "")
             mime = response.headers.get("Content-Type", "")
             if "text/html" not in mime:
-                return ""
+                return ("", "")
             sample = response.read(350_000).decode("utf-8", "replace")
         parser = MetaImages()
         parser.feed(sample)
-        return parser.image or ""
+        return (parser.image or "", parser.video or "")
     except (OSError, UnicodeError, ValueError, Exception) as exc:
         logging.debug("Preview unavailable for %s: %s", link[:80], exc)
-        return ""
+        return ("", "")
 
 def enrich_previews(articles, old_items):
     # Preserve working media from earlier runs so network failures don't remove pictures.
@@ -143,9 +143,11 @@ def enrich_previews(articles, old_items):
     with ThreadPoolExecutor(max_workers=5) as pool:
         pending = {pool.submit(publisher_preview, item): item for item in candidates[:24]}
         for future in as_completed(pending):
-            image = future.result()
+            image, video = future.result()
             if image:
                 pending[future]["image_url"] = image
+            if video:
+                pending[future]["video_url"] = video
 
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
