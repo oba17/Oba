@@ -8,6 +8,8 @@ import email.utils
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from html.parser import HTMLParser
 import html
+import hashlib
+import io
 import json
 import logging
 import pathlib
@@ -15,6 +17,7 @@ import re
 import urllib.request
 import xml.etree.ElementTree as ET
 from urllib.parse import urlsplit, quote, urlparse, parse_qs
+from PIL import Image, UnidentifiedImageError
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DEST = ROOT / "previews/canadian/data/news.json"
@@ -149,6 +152,74 @@ def enrich_previews(articles, old_items):
             if video:
                 pending[future]["video_url"] = video
 
+IMAGE_DIR = ROOT / "previews/canadian/assets/news-images"
+LOCAL_PREFIX = "/Oba/previews/canadian/assets/news-images/"
+MAX_IMAGE_BYTES = 2_000_000
+
+def cache_thumbnail(item):
+    """Store a resized, source-attributed article thumbnail on this GitHub Pages site.
+    Prevents publisher hotlink blocking; skips files that cannot be downloaded.
+    """
+    url = image_url(item.get("image_url", ""))
+    if not url:
+        return ""
+    key = hashlib.sha256(url.encode("utf-8")).hexdigest()[:16]
+    name = f"{key}.jpg"
+    target = IMAGE_DIR / name
+    if target.is_file() and target.stat().st_size > 200:
+        return LOCAL_PREFIX + name
+    try:
+        req = urllib.request.Request(url, headers={
+            "User-Agent": UA,
+            "Accept": "image/avif,image/webp,image/jpeg,image/png,image/*;q=0.8",
+            "Referer": item.get("url", "")
+        })
+        with urllib.request.urlopen(req, timeout=9) as res:
+            mime = res.headers.get("Content-Type", "").lower()
+            if not mime.startswith("image/"):
+                return ""
+            data = res.read(MAX_IMAGE_BYTES + 1)
+        if len(data) > MAX_IMAGE_BYTES:
+            return ""
+        with Image.open(io.BytesIO(data)) as im:
+            im.load()
+            if im.width < 120 or im.height < 80:
+                return ""
+            im.thumbnail((700, 450), Image.Resampling.LANCZOS)
+            if im.mode != "RGB":
+                im = im.convert("RGB")
+            IMAGE_DIR.mkdir(parents=True, exist_ok=True)
+            im.save(target, format="JPEG", quality=75, optimize=True)
+        return LOCAL_PREFIX + name
+    except (OSError, ValueError, UnidentifiedImageError, Image.DecompressionBombError) as exc:
+        logging.debug("Image not accessible from source: %s (%s)", url[:120], exc)
+        return ""
+
+def cache_publisher_media(articles):
+    # Cache a manageable number per topic, prioritizing the newest available photos.
+    selected = []
+    per_category = {}
+    for item in articles:
+        category = item["category"]
+        if not item.get("image_url") or per_category.get(category, 0) >= 8:
+            continue
+        per_category[category] = per_category.get(category, 0) + 1
+        selected.append(item)
+    with ThreadPoolExecutor(max_workers=5) as pool:
+        futures = {pool.submit(cache_thumbnail, item): item for item in selected}
+        for future in as_completed(futures):
+            path = future.result()
+            if path:
+                futures[future]["local_image_url"] = path
+    # Also keep previously saved thumbnails when the image was already present.
+    for item in articles:
+        link = item.get("local_image_url", "")
+        if link.startswith(LOCAL_PREFIX) and re.fullmatch(r"[a-f0-9]{16}\\.jpg", link.split("/")[-1]):
+            if not (IMAGE_DIR / link.split("/")[-1]).is_file():
+                item.pop("local_image_url", None)
+    logging.info("Cached %d verified publisher thumbnails",
+                 sum(bool(item.get("local_image_url")) for item in articles))
+
 ATOM = "{http://www.w3.org/2005/Atom}"
 DC = "{http://purl.org/dc/elements/1.1/}"
 HTML_TAG = re.compile(r"<[^>]*>")
@@ -248,6 +319,7 @@ def main():
     if not articles:
         raise SystemExit("No live feeds and no cached articles; not overwriting JSON")
     enrich_previews(articles, old.get("articles", []))
+    cache_publisher_media(articles)
     output = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z"),
               "articles": articles, "sources_ok":successful}
     DEST.parent.mkdir(parents=True, exist_ok=True)
