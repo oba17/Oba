@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Senior Salesforce Administrator Portfolio</title>
+    <title>Home | Oba Adeleke</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts: Playfair Display for Serif headings, Inter for Sans-serif body text -->
@@ -105,6 +105,7 @@
             filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(270deg) brightness(200%); 
         }
     </style>
+    <base href="/Oba/">
 </head>
 <body class="antialiased">
     <header class="bg-[#2D3748] p-6 shadow-xl">
@@ -121,21 +122,16 @@
                     </p>
                 </div>
             </div>
-            <nav>
-                <ul class="flex flex-wrap justify-center space-x-6 text-lg font-medium">
-                    <li><a href="#about" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">About</a></li>
-                    <li><a href="#skills" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Skills</a></li>
-                    <li><a href="#certifications" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
-                    <li><a href="#portfolio" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Portfolio</a></li>
-                    <li><a href="#feedback" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Feedback</a></li>
-                    <li><a href="#contact" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
-                </ul>
-            </nav>
+            <nav aria-label="Main navigation"><ul class="flex flex-wrap justify-center gap-6 text-lg font-medium">
+<li><a href="/Oba/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
+<li><a href="/Oba/projects/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Projects</a></li>
+<li><a href="/Oba/certifications/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
+<li><a href="/Oba/contact/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
+</ul></nav>
         </div>
     </header>
 
-    <main class="container mx-auto px-4 py-12 md:py-16">
-
+        <main class="container mx-auto px-4 py-12 md:py-16">
         <section id="about" class="mb-8 md:mb-12 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">About Me</h2>
@@ -147,7 +143,7 @@
         </section>
 
         <section class="flex flex-col md:flex-row justify-center items-center gap-6 mb-16 md:mb-24">
-            <a href="#portfolio" class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #0071E3; hover:background-color: #FF3B30;">View Projects</a>
+            <a href="/Oba/projects/" class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #0071E3; hover:background-color: #FF3B30;">View Projects</a>
             <a href="https://www.linkedin.com/in/obaloluwa-adeleke-senior-salesforce-administrator-automation-and-optimization-expert/" target="_blank" class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #0071E3; hover:background-color: #FF3B30;">LinkedIn Profile</a>
             <a href="Obaloluwa" download class="inline-block text-white font-semibold py-3 px-8 rounded-lg shadow-lg transform hover:scale-105 transition duration-300 text-xl" style="background-color: #000000; hover:background-color: #1D1D1F;">Download Resume</a>
         </section>
@@ -207,108 +203,6 @@
             </div>
         </section>
 
-        <section id="certifications" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
-            <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Certifications & Education</h2>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
-                <div>
-                    <h3 class="text-2xl font-bold" style="color: #1D1D1F; ">Professional Certifications</h3>
-                    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-4">
-                        <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Advanced-Administrator_High-Res.png" alt="Salesforce Certified Advanced Administrator Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=Adv+Admin';" title="Salesforce Certified Advanced Administrator">
-                            <p>Salesforce Certified Advanced Administrator</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Platform-App-Builder_High-Res.png" alt="Salesforce Certified Platform App Builder Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=App+Bld';" title="Salesforce Certified Platform App Builder">
-                            <p>Salesforce Certified Platform App Builder</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_High-Res.png" alt="Salesforce Sales Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=SC+Cons';" title="Salesforce Sales Cloud Consultant">
-                            <p>Salesforce Sales Cloud Consultant</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="2021-03_Badge_SF-Certified_Service-Cloud-Consultant_High-Res.png" alt="Salesforce Service Cloud Consultant Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=SVC+Cons';" title="Salesforce Service Cloud Consultant">
-                            <p>Salesforce Service Cloud Consultant</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="2021-06_Badge_SF-Certified_Business-Analyst_High-Res.png" alt="Salesforce Certified Business Analyst Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=BA';" title="Salesforce Certified Business Analyst">
-                            <p>Salesforce Certified Business Analyst</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="be43190b-17d4-4a48-ad75-fbf111e66647.png" alt="CBAP Certified Business Analysis Professional Badge" onerror="this.onerror=null;this.src='https://placehold.co/77x77/F5F5F7/63B3ED?text=CBAP';" title="(CBAP®) – Certified Business Analysis Professional, IIBA">
-                            <p>(CBAP®) – Certified Business Analysis Professional, IIBA</p>
-                        </div>
-                        <div class="certification-bubble">
-                            <img src="PSM 1.jpg" alt="Professional Scrum Master Badge" title="Professional Scrum Master – Scrum.Org">
-                            <p>Professional Scrum Master – Scrum.Org</p>
-                        </div>
-                    </div>
-                </div>
-                <div>
-                    <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Education</h3>
-                    <div class="space-y-4 text-lg" style="color: #1D1D1F;">
-                        <p><span class="font-semibold"> Bachelor of Law (LL.B Honours)</span>, Igbinedion University, Nigeria – (2010)</p>
-                        <p><span class="font-semibold"> Barrister at Law (B.L)</span>, Nigerian Law School, Council of Legal Education – (2011)</p>
-                        <p><span class="font-semibold">Call to the Nigerian Bar</span>, Body of Benchers – (2012)</p>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section id="portfolio" class="mb-16 md:mb-24">
-            <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">My Salesforce Projects</h2>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Process+Automation" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
-                    <div class="p-6">
-                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Invoicing Process Automation</h3>
-                        <p class="mb-4 text-base" style="color: #6E6E73;">Led redesign of invoicing processes utilizing Approval Processes, Screen Flows, and Apex, improving workflow efficiency by 37% and data accuracy by 42%, delivering measurable operational ROI.</p>
-                        <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Process Automation     </li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Salesforce Flows       </li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Apex Development       </li>
-                        </ul>
-                        <a href="https://oba17.github.io/Invoice-Automation_Project/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
-                    </div>
-                </div>
-
-                <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Process+Optimization+&+Data+Governance" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
-                    <div class="p-6">
-                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Client Placement Optimization Project</h3>
-                        <p class="mb-4 text-base" style="color: #6E6E73;">Enhancing client job target tracking and service impact reporting by standardizing data capture, improving placement alignment, and enabling accurate, funder-ready employment outcome reporting.</p>
-                        <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Integration        </li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Synchronization     </li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Data Quality              </li>
-                        </ul>
-                        <a href="https://oba17.github.io/Client-Placement-Optimization-Project/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
-                    </div>
-                </div>
-
-                <div class="project-card-v2">
-                    <img src="https://placehold.co/600x400/FFFFFF/63B3ED?text=Solution+Delivery" alt="Salesforce Project Image" class="w-full h-48 object-cover rounded-t-lg">
-                    <div class="p-6">
-                        <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Salesforce Case Management Redesign</h3>
-                        <p class="mb-4 text-base" style="color: #6E6E73;">This Salesforce Service Cloud implementation transformed internal support from a fragmented, email-driven bottleneck into a centralized, automated, and measurable solution.</p>
-                        <ul class="flex flex-wrap gap-2 mb-4">
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">End-to-End System Redesign</li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Technical Architecture</li>
-                            <li class="bg-[#F5F5F7] text-[#4A5568] text-sm font-medium px-3 py-1 rounded-full">Record Lifecycle Strategy</li>
-                        </ul>
-                        <a href="https://oba17.github.io/Salesforce-Case-Management-Redesign/" class="inline-block text-white font-semibold py-2 px-6 rounded-lg shadow-md transition duration-300" style="background-color: #0071E3; hover:background-color: #FF3B30;">Project Details</a>
-                    </div>
-                </div>
-
-            </div>
-            <div class="text-center mt-12">
-                <p class="text-lg" style="color: #6E6E73;">Stay tuned for more impactful projects!</p>
-            </div>
-        </section>
-
         <section id="feedback" class="mb-16 md:mb-24 bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
             <div class="section-header">
                 <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Client Review/Feedback</h2>
@@ -343,34 +237,7 @@
                 <p class="font-semibold text-right" style="color: #6E6E73;">– Alexi D, Director of Programs, Prospect Human Services (direct manager).</p>
             </div>
         </section>
-
-        <section id="contact" class="bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
-            <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Let's Connect</h2>
-            </div>
-            <div class="max-w-xl mx-auto">
-                <p class="text-lg text-center mb-6" style="color: #6E6E73;">I'm always open to discussing new opportunities or collaborations. Feel free to contact me!</p>
-                
-                <div class="mt-10 text-center text-lg space-y-2" style="color: #6E6E73;">
-                    <p class="mb-2">Email: <a href="mailto:obaloluwa.adeleke@gmail.com" class="hover:underline" style="color: #0071E3;">obaloluwa.adeleke@gmail.com</a></p>
-                    <div class="flex justify-center items-center gap-4">
-                        <a href="https://www.linkedin.com/in/obaloluwa-adeleke-senior-salesforce-administrator-automation-and-optimization-expert/" target="_blank" class="inline-block p-1 rounded-full bg-[#0071E3] text-white hover:bg-[#005BB5] transition duration-300 transform hover:scale-110" title="LinkedIn Profile">
-                            <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M16 0H8C3.58 0 0 3.58 0 8v8c0 4.42 3.58 8 8 8h8c4.42 0 8-3.58 8-8V8c0-4.42-3.58-8-8-8zM7.002 18H4V9h3.002v9zM5.501 7.25C4.673 7.25 4 6.577 4 5.75S4.673 4.25 5.501 4.25c.828 0 1.499.723 1.499 1.5S6.329 7.25 5.501 7.25zM20 18h-2.998v-4.821c0-1.29-.46-1.785-1.376-1.785-.92 0-1.464.693-1.464 1.785V18H11V9h2.998v1.27c.4-.64 1.144-1.27 2.65-1.27 1.9 0 3.352 1.346 3.352 4.288V18z"/>
-                            </svg>
-                        </a>
-                        <a href="tel:+15878379470" class="inline-block p-2 rounded-full bg-[#63B3ED] text-white hover:bg-[#FF3B30] transition duration-300 transform hover:scale-110" title="Call Me">
-                            <svg class="w-10 h-9" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M20 15.586l-3.24-3.24a1 1 0 00-1.416 0l-1.58 1.58a1 1 0 01-1.414 0l-2.76-2.76a1 1 0 010-1.414l1.58-1.58a1 1 0 000-1.416L8.414 4A1 1 0 007 2.586v-.002A1.002 1.002 0 006 3.586C6 11.524 12.476 18 20.414 18A1.002 1.002 0 0021.414 17h-.002A1 1 0 0020 15.586zM18 10.414l-2 2-1.58-1.58a3 3 0 00-4.242 0l-2.76 2.76a3 3 0 000 4.242L12 18l2-2h4V10.414z"/>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
-
     </main>
-
     <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
         <div class="container mx-auto">
             <p>&copy; 2025 Oba Adeleke. All rights reserved.</p>
