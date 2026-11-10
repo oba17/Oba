@@ -30,15 +30,17 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install image-processing dependency
+        run: python -m pip install "Pillow>=11,<13"
       - name: Collect public news feeds
         run: python scripts/news/update_news.py
       - name: Commit refreshed article data
         shell: bash
         run: |
-          if ! git diff --quiet -- previews/canadian/data/news.json; then
+          git add previews/canadian/data/news.json previews/canadian/assets/news-images/
+          if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add previews/canadian/data/news.json
             git commit -m "Refresh portfolio news data"
             git push
           fi
