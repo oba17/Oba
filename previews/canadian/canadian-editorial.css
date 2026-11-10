@@ -614,3 +614,12 @@ body:has(main.page-shell > .ca-hero) .site-header nav a[aria-current="page"]{
 @media(prefers-reduced-motion:reduce){
  .industry-news .news-rotator-image{transition:none}
 }
+
+
+/* Hide legacy topic navigation on the news feed without affecting the cards or data. */
+#industry-news [data-news-filters],
+#industry-news .news-filters,
+#industry-news .news-filter {
+  display: none !important;
+  visibility: hidden !important;
+}
