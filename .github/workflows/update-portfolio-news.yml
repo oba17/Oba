@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/update-portfolio-news.yml"
+      - "scripts/news/update_news.py"
 
 permissions:
   contents: write
