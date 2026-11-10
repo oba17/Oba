@@ -16,7 +16,7 @@ import pathlib
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
-from urllib.parse import urlsplit, quote, urlparse, parse_qs
+from urllib.parse import urlsplit, quote, urlparse, parse_qs, urljoin
 from PIL import Image, UnidentifiedImageError
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
@@ -113,21 +113,92 @@ def prefer_publisher_links(items):
     return items
 
 class MetaImages(HTMLParser):
-    """Read publisher-owned OpenGraph/Twitter image and video metadata."""
-    def __init__(self):
+    """Capture lead article media, including video posters and structured data."""
+    def __init__(self, base_url=""):
         super().__init__()
+        self.base_url = base_url
         self.image = ""
         self.video = ""
+        self.poster = ""
+        self.hero = ""
+        self.page_icon = ""
+        self.in_jsonld = False
+        self.jsonld = []
+
+    def absolute(self, value):
+        return image_url(urljoin(self.base_url, html.unescape(value or "")))
+
     def handle_starttag(self, tag, attrs):
-        if tag.lower() != "meta":
-            return
         a = dict(attrs)
-        key = (a.get("property") or a.get("name") or "").lower()
-        content = image_url(a.get("content", ""))
-        if key in ("og:image", "og:image:secure_url", "twitter:image", "twitter:image:src") and content:
-            self.image = self.image or content
-        if key in ("og:video", "og:video:url", "og:video:secure_url", "twitter:player") and content:
-            self.video = self.video or content
+        tag = tag.lower()
+        if tag == "meta":
+            key = (a.get("property") or a.get("name") or "").lower()
+            content = self.absolute(a.get("content", ""))
+            if key in ("og:image", "og:image:secure_url", "twitter:image",
+                       "twitter:image:src") and content:
+                self.image = self.image or content
+            if key in ("og:video", "og:video:url", "og:video:secure_url",
+                       "twitter:player") and content:
+                self.video = self.video or content
+        elif tag == "video":
+            poster = self.absolute(a.get("poster", ""))
+            self.poster = self.poster or poster
+        elif tag == "img":
+            src = self.absolute(a.get("src", "") or a.get("data-src", ""))
+            clues = " ".join((a.get("class", ""), a.get("id", ""),
+                              a.get("fetchpriority", ""), a.get("alt", ""))).lower()
+            if src and any(hint in clues for hint in
+                           ("hero", "featured", "article", "lead", "cover", "high")):
+                self.hero = self.hero or src
+        elif tag == "link":
+            rel = (a.get("rel") or "").lower()
+            href = self.absolute(a.get("href", ""))
+            if rel in ("image_src", "apple-touch-icon", "icon", "shortcut icon") and href:
+                if rel == "image_src":
+                    self.hero = self.hero or href
+                else:
+                    self.page_icon = self.page_icon or href
+        elif tag == "script" and "ld+json" in (a.get("type") or "").lower():
+            self.in_jsonld = True
+
+    def handle_endtag(self, tag):
+        if tag.lower() == "script":
+            self.in_jsonld = False
+
+    def handle_data(self, value):
+        if self.in_jsonld and len(value) < 100_000:
+            self.jsonld.append(value)
+
+    def structured_images(self):
+        """Extract schema.org ImageObject thumbnails and VideoObject posters."""
+        for raw in self.jsonld:
+            try:
+                obj = json.loads(raw)
+            except (ValueError, TypeError):
+                continue
+            stack = [obj]
+            while stack:
+                node = stack.pop()
+                if isinstance(node, list):
+                    stack.extend(node)
+                elif isinstance(node, dict):
+                    kind = str(node.get("@type", "")).lower()
+                    if "videoobject" in kind:
+                        poster = node.get("thumbnailUrl") or node.get("thumbnail")
+                        if isinstance(poster, str):
+                            self.poster = self.poster or self.absolute(poster)
+                    elif "article" in kind or "imageobject" in kind:
+                        photo = node.get("image") or node.get("thumbnailUrl")
+                        if isinstance(photo, dict):
+                            photo = photo.get("url") or photo.get("contentUrl")
+                        if isinstance(photo, list) and photo:
+                            photo = photo[0]
+                        if isinstance(photo, str):
+                            self.hero = self.hero or self.absolute(photo)
+                    if node.get("@graph"):
+                        stack.append(node["@graph"])
+        return self.image or self.poster or self.hero
+
 
 def publisher_preview(item):
     """Read a public article page only when the feed lacks a useful image.
@@ -147,9 +218,9 @@ def publisher_preview(item):
             if "text/html" not in mime:
                 return ("", "")
             sample = response.read(350_000).decode("utf-8", "replace")
-        parser = MetaImages()
+        parser = MetaImages(response.geturl())
         parser.feed(sample)
-        return (parser.image or "", parser.video or "")
+        return (parser.structured_images(), parser.video or "")
     except (OSError, UnicodeError, ValueError, Exception) as exc:
         logging.debug("Preview unavailable for %s: %s", link[:80], exc)
         return ("", "")
@@ -161,19 +232,19 @@ def enrich_previews(articles, old_items):
         old = past.get(article.get("url"), {})
         for field in ("image_url", "video_url"):
             article[field] = article.get(field) or old.get(field, "")
-    # Prioritize images for the first few stories in all six subjects.
+    # Inspect all unique direct publisher stories; source media should not be restricted to 5 per topic.
     candidates = []
     per_topic = {}
     for article in articles:
         category = article.get("category", "")
-        if article.get("image_url") or per_topic.get(category, 0) >= 5:
+        if article.get("image_url") or per_topic.get(category, 0) >= 12:
             continue
         if (urlsplit(article.get("url", "")).hostname or "") == "news.google.com":
             continue
         per_topic[category] = per_topic.get(category, 0) + 1
         candidates.append(article)
-    with ThreadPoolExecutor(max_workers=5) as pool:
-        pending = {pool.submit(publisher_preview, item): item for item in candidates[:24]}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        pending = {pool.submit(publisher_preview, item): item for item in candidates[:72]}
         for future in as_completed(pending):
             image, video = future.result()
             if image:
