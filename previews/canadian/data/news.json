@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:46:13Z",
+  "updated_at": "2026-11-10T20:47:39Z",
   "articles": [
     {
       "category": "Tech",
@@ -28,9 +28,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now - Ars Technica",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
       "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "summary": "Free video-streaming service Tubi lets users share curated watchlists now Ars Technica",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
       "published_at": "2026-11-10T18:39:16Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
       "video_url": "",
@@ -44,9 +44,10 @@
       "url": "https://openai.com/index/introducing-businesses-chatgpt",
       "summary": "Introducing Businesses in ChatGPT OpenAI",
       "published_at": "2026-11-10T18:10:37Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -64,7 +65,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
@@ -121,6 +122,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/462a26ce1d097a27.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
+      "url": "https://developer.salesforce.com/blogs/2026/11/accelerate-agent-driven-development-with-the-headless-toolkit",
+      "summary": "Learn how to accelerate agent-driven Salesforce development with the Headless Toolkit. Explore a seven-stage lifecycle using Salesforce skills, MCP servers, and developer tools to build, test, review, and deplo…",
+      "published_at": "2026-11-10T16:00:07Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261105105231/SingleHeadshot-13-e1793904767965.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
@@ -139,9 +152,10 @@
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
       "summary": "Work at the Frontier: AI’s effect on freelance work OpenAI",
       "published_at": "2026-11-10T15:04:04Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -222,9 +236,10 @@
       "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "summary": "Helping caregivers use AI in everyday life OpenAI",
       "published_at": "2026-11-10T12:07:52Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -233,9 +248,10 @@
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "summary": "Closing the AI guidance gap in education OpenAI",
       "published_at": "2026-11-10T08:05:54Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -244,9 +260,10 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVkJVTlFQYkozOTQ3c181X0JEbUdLLUdRWGtzRjlOaEN2eFg0MGM4bi1Sc0NOVG1iSjFiX0VBOUVKanNhYzc4TTZ4WG1fODhsWnhLTThMT3VadzZ3VUFyWXl1WVNNeERNdVJZZVpySQ?oc=5",
       "summary": "Incorrect cost data in Costs API exports OpenAI Status",
       "published_at": "2026-11-10T06:40:36Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -255,9 +272,10 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
       "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
       "published_at": "2026-11-10T03:37:15Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Zoom",
@@ -278,9 +296,10 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dUU3bFJlQkoyQXVfb1doRlVyVmtBYmtzZjVGeHREeG9WRDRDWVV2LUdNNW84RERfMG5fck5MTEFQWUE2dk45TDJBdkZnS0VhNVctdWdhV2tyclczY3Bqc1U0VmMxdXlpdHUzOXJabw?oc=5",
       "summary": "Elevated Errors On API OpenAI Status",
       "published_at": "2026-11-09T23:24:05Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Zoom",
@@ -301,9 +320,10 @@
       "url": "https://openai.com/index/control-room",
       "summary": "Control Room: A central system to track and stop model workloads across our research infrastructure OpenAI",
       "published_at": "2026-11-09T21:56:02Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -312,9 +332,10 @@
       "url": "https://openai.com/index/coderabbit-codex-daybreak",
       "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
       "published_at": "2026-11-09T21:25:05Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -323,9 +344,10 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85d3hjUHpqTlRtZmdOMF9uTG1GSnZZLVMwbFdzcVNPajVfaDBLU0w1ZlJNNTBDWDRUS04yU1dPSW54cm9fRFFYclJfeDZORk1TQVVqZmU3VHJMUXpqaUYwSXQxYTNvMU8tbVJhTERtVnc0R1VBSnFWakNZTQ?oc=5",
       "summary": "Build a retro handheld game with Codex and ModRetro Chromatic OpenAI Developers",
       "published_at": "2026-11-09T19:41:12Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -334,9 +356,10 @@
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPdU9yODRSbER3dFFmNTV5dmtLMDh4bXY5MmRRLU1SX1VNMnlleHlQdWZCNkFHT1RfUTdSTHdXazJTRUctMllUSXJrOXRxTkYzNllYNE5SMA?oc=5",
       "summary": "Elevated ChatGPT Conversation Errors OpenAI",
       "published_at": "2026-11-09T19:31:11Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -345,9 +368,10 @@
       "url": "https://openai.com/index/kuken",
       "summary": "Kuken Industries searches 70 years of drawings in minutes OpenAI",
       "published_at": "2026-11-09T19:19:41Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -356,9 +380,10 @@
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeTNOOWpvVU9ub2hKdUpZZzBVZmZDdV91US1VNy1lazRVZXpFelZOZkJ1NHhaZU8wVjB6cDZmNXhXaHdBY0FiMHhCcm9yOF9JczBuaXc5UnNwU0ZjYkJBS2lmRlAycjJ4enZobzV1WktCa3hYZ3djanZNdUp0WXp6WmJETURqU2pFVXBmckFUY1BudXNXQnhuc3dfQ2FubFBaSlpUaHlGSDBJVS1CcWhpdGxEUWYzZnZOTHhXZmFOOUFMX2R0Zm10S0ZEWmJPcEp2WnB2eHdyQ3k2OGh2?oc=5",
       "summary": "Durable Task extension for Microsoft Agent Framework is now Generally Available Microsoft Community Hub",
       "published_at": "2026-11-09T17:14:12Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -391,9 +416,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5",
       "summary": "Securing the Non-Human Identity Attack Surface Microsoft Community Hub",
       "published_at": "2026-11-08T20:19:04Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -402,9 +428,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnNCSllJXy1kMVdvcmJUbmMzNlZlVkplRnJhczJNUjdwRklTTENmYmhJOVJ5V2FGTWx4REtvakFFNlgxWG81dENHeXNEdURSUGJnemRaNDVsR2tmSDBlSWE5WF83TkV0R0p0M3FhLWs0cUs0elRQT0tJZllndThGMWhYOWVMc0ZicVlZWExwalJudm50S3JiWnk2Y2d3QTRSdUNmNkg1ZFh6ejJEeUVsaFhuU1pYeHJsSTdxR2M2bG52NjJJLVB2RnFsVFpCQ2ZrQ1RSaEdrZFoxQU5nX1JXQmxYcw?oc=5",
       "summary": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution Microsoft Community Hub",
       "published_at": "2026-11-07T17:40:16Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -437,9 +464,10 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
       "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
       "published_at": "2026-11-06T21:16:12Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -496,9 +524,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkNYbjBfenNhZUFmZmVwM1hNbXpEaG91SGdfd1NDRGlBVFFyT3RzWmlsTDdlQ3hJUWgtR2x0NWxuRlg3UktabUtlTXN3aVhtZk1SaFoxeTNmb1NfN0trY0lKdE11SmYwZ1VTU2pIUlJiaU15S2VsVTJINGlRSVVnXzhsLV9raF9JWXBZOERrb18xS2tPQW42dFZsTGxzSFhBQTNjZFhPSTJGT0RXZ1JjbEtOeUd3eHh6TDB6T2tYdW9OTjRVdGRqYQ?oc=5",
       "summary": "Standard Objects | Object Reference for the Salesforce Platform Salesforce Developers",
       "published_at": "2026-11-06T03:58:45Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Business Analysis",
@@ -519,9 +548,10 @@
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF1SG9xRnhaMldQOEFhY0tfZ0NwdWd0eGxEMFRscEhTVmozS3FpLVhiQkNmWlpaWWJrbTU4RUhqWTVXUEI3b2hFcjZhUlhCWVBlMDZxV29WYlRoT0JPdDdiUDY0UmFINWo0YUZsdHYxV0pQVlV5TW42elk3WTlISUdkTE5LNUZLRUxoYjRwM0FybVB1V2RvWTBpNUxWN0p6cFVOVFZfNWIyeWlUaUVRbVFqSUFiYXhxdnNTOWxVSGpvMmdkNlBQNkdTcU1QakdnbEw0NFVzMnVWQVQwNG13Xw?oc=5",
       "summary": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more Microsoft Community Hub",
       "published_at": "2026-11-05T21:25:40Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -530,9 +560,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzVJR2V1cTdfaWRGNWF1Q0ExLVBUUVlZaDhwckRTdTgySTJEak9HZEFrSi1ScXNyZ0h3TEg0YnlySUZiOWRRY05WZ0FNSXV3RjdFbTk0bVAxeVNoU3hYT0RGeGZXaTNoNnVUQUlFRVdfZlFMSWgxX2pmMl9DeDBjdW5PcVFHdjM5X2FIeEZhdFN3VkI2RmQzSExONTZzVzBOV01hTF9LVmRCcU9jYlQ1YjZlUnRnTThIYnhUbC03MGc0WGtsOXZOWmpTTzhCdw?oc=5",
       "summary": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry Microsoft Community Hub",
       "published_at": "2026-11-05T19:55:20Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -541,9 +572,10 @@
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjktd09mM3Y3S2pXWGdEVGNTTzIzZkR6ZHBOTVV2VkpValF6bHpzZmh3d3FYZ0JRLXRiN29SZEZYQ0xQSXhSN25zRW9DUnVDQ3JlT01qeW44aF9rRmdhMVQwSHVUeC1DNWEyNU5QMzlXY05oaWRYSlp2bGFseURpQ1REeXRSZGFqUTVSc3kxZ05PTW14bElFY2JKTFl5SDJUNXRzVzJDQjZzLTFKUVp2Xy1lT0xNcHM1ZUlyT0YtajlFRG14b0JJc0lTRGozN1RqTUZzcG85d2dwbmpJeGVLYTg3dVUtQQ?oc=5",
       "summary": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry Microsoft Community Hub",
       "published_at": "2026-11-05T18:07:52Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -552,9 +584,10 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTnFHejIzOU42NDhka1V4NUVHQWVvM0xUN25WSDk2MXBNclduV3hjSHVLVFhLeVdKQmN2dThSSjdVVXU3RlZiUjktSW5ULWxVNzFIeWVGYWVSUlFwa0ozdXpCS3BheGtXaFo1b0FqM2M0dGg1cHQzZm1zeXMwVkNZR2pXMG9yMUhJc3NoaDZZSncwNDZvM0VFTTZsTFQycjdZTnY0LVR6QlB4M2xENkk2cno0bzZ2T0Z6TnRrZGRZUU1EZw?oc=5",
       "summary": "New Investments to Reduce On-Premises Security Risk Microsoft Community Hub",
       "published_at": "2026-11-05T17:11:16Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -575,9 +608,10 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUhsMGwxc1RzcVVIT28wVmVfLTg0T29GMG83cllVX3l1WEFjWkxxSlBIZS1iSjlCWXRjbG1VZWdlSHZ0S2JlOXJkazdtRDN5NElvckE1TnpKbE96cGd4Z2tKMENvWmQ0b2tJTUtDOWZVUTMtY2Z6YThPRV9tN05US005ZW5WZW9JTVlKeUR5Mjlka3BrWkdRMnRGbkhTV1lTY0ItZVNneVV0UlY1UmRpQVFjM1NjdExvQl8wYmozT1hULUg2QTM5dzdvbw?oc=5",
       "summary": "Sales Agreement Product Details Input Salesforce Developers",
       "published_at": "2026-11-05T12:17:32Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -598,9 +632,10 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGhibW9GblFVbExEMm04R0hYbjVkZFVCb2RtSF9lMnJiUEtEem5neVhFN3dPWGRtTlJTVmE0SF83ZmJibllMSnNIemNPaGNpSkRQbWp5R0taUW1uMDd2SEZaN0RuSnJ0TzlpOVo1dG5WRnlrS09VVGdhNDVhejlaelo5ZGw4Ym5kZG1yZFBSd0VFbEdFckNLSmFxMA?oc=5",
       "summary": "Introducing SharePoint tools in Work IQ Microsoft Community Hub",
       "published_at": "2026-11-03T19:18:36Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -621,9 +656,10 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVkxVDIxTVlraV93YmJvUFIxMHd3a2IwdlVreHFXY0EwRGl3MnFKYl9jMjNBLVhkZGpEckZnSGlRWW9oRlNaUnJ3RXg4c2hHa01ScVFFQVlUTWRtTTJDQjFKSjVZOFFmbDdoLVp1d2Y4ak5TMVlaM2V1Umg2TlM1c3NYWDZIZnVEbjM0U3Jra0VjVkJad08zU1hCMWM2LWlIUEZ6Zm16czBSNVpiUjY2VTFPbTRJaHpiVFp1YWxkeWRtTTJFRi13?oc=5",
       "summary": "How Outlook Search is changing: ranking, resilience, and the feedback loop Microsoft Community Hub",
       "published_at": "2026-11-03T16:34:35Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -656,9 +692,10 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
       "summary": "FinancialAccountParty Salesforce Developers",
       "published_at": "2026-10-30T11:26:42Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -667,9 +704,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
       "summary": "InsurancePolicyParticipant Salesforce Developers",
       "published_at": "2026-10-30T11:21:16Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -678,20 +716,10 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5oOEx5RGltVXMwVFZtcVdobXRKRkF3UlptemlIbmV2b0laUHNiRkdKcWV4aXlqQkdsSW1wSGlLQVhNU0JudGlGVV9WTTlDZi05Mi0tYWRfXzRhbHBncUZXOFhoZmplcWxSdGpLZDNnQVdkNUMxSTZ5TW85LUhwNlhYZm9JYmcxQXN2ZEE1RU5EbUt4OGF2cjF4ZjJRLW13cktmVHJqdm1LdnhfSk5yM080SlQ0bU5nenRR?oc=5",
       "summary": "InsurancePolicyTransaction Salesforce Developers",
       "published_at": "2026-10-30T11:06:56Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
-      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
-      "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -700,9 +728,22 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
       "summary": "GenAiPromptTemplate Salesforce Developers",
       "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
+      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -717,35 +758,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOWhwZFVJMkptc1c2S0NWVVBpTGlYUDEtbTFFWDh6N2cyMk50N1BlaG9RQURRZnRVWkRVOEV4djNqQ3Q4NjQ3Z1ctMm56ZURCaFE2TUlXNTJkNjhFcnRyMmdqOWgtelZybjRvckkzT0FjTWIycEtTMnZkTUJsVTBsSWVWY1hmUkYwQUFMR2ZhcnhwTnZCSlAyTTd5NVVZcG1sTWV5dGdaR3c0cXZodk9Ydi15b3Nwb0FObWJLbEQ0bi1xeHNEMEVR?oc=5",
-      "summary": "ProviderAcctTerritoryInfo | Life Sciences Cloud Standard Objects | Life Sciences Cloud Developer Guide Salesforce Developers",
-      "published_at": "2026-10-30T06:54:03Z",
-      "image_url": "",
-      "video_url": "",
-      "image_kind": ""
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
       "published_at": "2026-10-29T21:20:03Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
-      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
-      "published_at": "2026-10-29T11:34:27Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -770,9 +788,10 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVhELVV1Q19xOWprY1ZWcGZrOVJkcVhRWWFCRG5GdWRLcU5NNGFMa0VWZmRGNjB2cjJwZ1lHa0tyTDFwSkNTZHdXTlg1WEM2b0lISVdwT3hOa3JFdzNsU2d1b2IxTWdsalAwNjVaVnhLUjlleGRsSGFKMjRSUDVjTEpLVDJYMW9wajJXRV9NNzVhX1N0aGM2N2NxcXdHRkx3UGRNTFhR?oc=5",
       "summary": "Windows CLAT is Now Generally Available Microsoft Community Hub",
       "published_at": "2026-10-27T07:00:00Z",
-      "image_url": "",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": ""
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -793,6 +812,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
+      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
+      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
