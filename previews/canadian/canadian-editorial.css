@@ -646,3 +646,11 @@ main.page-shell > section.impact-stats .stat-description {
 /* Visual-only: hide play overlays; keep news links and rotation intact. */
 #industry-news .news-rotator-play,
 #industry-news .news-media-play { display: none !important; }
+
+/* Requested hero-only adjustment: exactly 2pt smaller than the existing type scale. */
+.ca-hero h2.ca-hero-four-line {
+  font-size: clamp(calc(2.65rem - 2pt), calc(5.8vw - 2pt), calc(5.9rem - 2pt)) !important;
+}
+@media (max-width: 700px) {
+  .ca-hero h2.ca-hero-four-line { font-size: calc(2.75rem - 2pt) !important; }
+}
