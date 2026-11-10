@@ -1,4 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Oba Adeleke</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts: Playfair Display for Serif headings, Inter for Sans-serif body text -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif; /* Sans-serif for body text */
+            background-color: #FFFFFF; /* New: White - Page background */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) - Primary text */
+        }
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif; /* Serif for all headers */
+        }
+        .container {
+            max-width: 1200px; /* Max width for content */
+        }
+        .section-header {
+            position: relative;
+            padding-bottom: 0.5rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .section-header::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            bottom: 0;
+            transform: translateX(-50%);
+            width: 80px; /* Shorter underline */
+            height: 4px;
+            background-color: #63B3ED; /* New: Soft Cyan Accent */
+            border-radius: 9999px;
+        }
+        .skill-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem;
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem; /* More rounded */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .skill-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .project-card-v2 {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem; /* rounded-xl */
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+        }
+        .project-card-v2:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        /* Styles for certification bubbles - adjusted size and spacing */
+        .certification-bubble {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1rem; /* Adjusted padding, keeping bubble size similar */
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1.5rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+            text-align: center;
+        }
+        .certification-bubble:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .certification-bubble img {
+            width: 77px; /* Increased badge size by 60% (from original 48px in previous step) */
+            height: 77px;
+            object-fit: contain;
+            margin-bottom: 0.5rem; /* Adjusted space between image and text */
+        }
+        .certification-bubble p {
+            font-size: 0.5625rem; /* Retained previous 40% reduction for readability */
+            color: #1D1D1F; /* New: Dark Gray (Text Gray) */
+        }
+        .testimonial-card {
+            background-color: #F5F5F7; /* New: Light Gray (UI Elements / Backgrounds) */
+            border-radius: 1rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        }
+        /* Custom styles for the phone icon to ensure proper sizing and color */
+        .phone-icon {
+            width: 28px; /* w-7 h-7 */
+            height: 28px;
+            /* Invert and recolor to white for visibility on blue background */
+            filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(270deg) brightness(200%); 
+        }
+    </style>
+    <base href="/Oba/previews/canadian/">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/Oba/previews/canadian/canadian-editorial.css">
+    <meta name="robots" content="noindex,nofollow">
+</head>
+<body class="antialiased">
+    <header class="site-header bg-[#2D3748] p-6 shadow-xl">
+        <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
+            <div class="text-center md:text-left mb-4 md:mb-0 flex items-center">
+                <!-- Profile Picture -->
+                <img src="Thumbnail Pic.jpeg" alt="Obaloluwa Adeleke Profile Picture" class="w-24 h-24 rounded-full object-cover mr-4 shadow-md border-2 border-white" onerror="this.onerror=null;this.src='https://placehold.co/96x96/F5F5F7/63B3ED?text=OA';">
+                <div>
+                    <h1 class="text-4xl font-extrabold tracking-tight" style="color: #FFFFFF;">
+                        Oba Adeleke
+                    </h1>
+                    <p class="text-xl font-medium opacity-90 mt-1" style="color: #A0AEC0;">
+                        Senior Salesforce Administrator | Automation, RevOps & Optimization Expert
+                    </p>
+                </div>
+            </div>
+            <nav aria-label="Main navigation"><ul class="flex flex-wrap justify-center gap-6 text-lg font-medium">
+<li><a href="/Oba/previews/canadian/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Home</a></li>
+<li><a href="/Oba/previews/canadian/projects/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Projects</a></li>
+<li><a href="/Oba/previews/canadian/certifications/" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Certifications</a></li>
+<li><a href="/Oba/previews/canadian/contact/" aria-current="page" class="hover:text-[#63B3ED] transition duration-300" style="color: #FFFFFF;">Contact</a></li>
+</ul></nav>
+        </div>
+    </header>
 
+        <main class="page-shell container mx-auto px-4 py-12 md:py-16">
+        <div class="ca-page-intro"><p class="ca-eyebrow">CONNECT / COLLABORATION</p><h2>Let’s Connect</h2><p>Business transformation begins with a conversation.</p></div>
+<section id="contact" class="bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
+            <div class="section-header">
+                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Let's Connect</h2>
+            </div>
+            <div class="max-w-xl mx-auto">
+                <p class="text-lg text-center mb-6" style="color: #6E6E73;">I'm always open to discussing new opportunities or collaborations. Feel free to contact me!</p>
+                
+                <div class="mt-10 text-center text-lg space-y-2" style="color: #6E6E73;">
+                    <p class="mb-2">Email: <a href="mailto:obaloluwa.adeleke@gmail.com" class="hover:underline" style="color: #0071E3;">obaloluwa.adeleke@gmail.com</a></p>
+                    <div class="flex justify-center items-center gap-4">
+                        <a href="https://www.linkedin.com/in/obaloluwa-adeleke-senior-salesforce-administrator-automation-and-optimization-expert/" target="_blank" class="inline-block p-1 rounded-full bg-[#0071E3] text-white hover:bg-[#005BB5] transition duration-300 transform hover:scale-110" title="LinkedIn Profile">
+                            <svg class="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16 0H8C3.58 0 0 3.58 0 8v8c0 4.42 3.58 8 8 8h8c4.42 0 8-3.58 8-8V8c0-4.42-3.58-8-8-8zM7.002 18H4V9h3.002v9zM5.501 7.25C4.673 7.25 4 6.577 4 5.75S4.673 4.25 5.501 4.25c.828 0 1.499.723 1.499 1.5S6.329 7.25 5.501 7.25zM20 18h-2.998v-4.821c0-1.29-.46-1.785-1.376-1.785-.92 0-1.464.693-1.464 1.785V18H11V9h2.998v1.27c.4-.64 1.144-1.27 2.65-1.27 1.9 0 3.352 1.346 3.352 4.288V18z"/>
+                            </svg>
+                        </a>
+                        <a href="tel:+15878379470" class="inline-block p-2 rounded-full bg-[#63B3ED] text-white hover:bg-[#FF3B30] transition duration-300 transform hover:scale-110" title="Call Me">
+                            <svg class="w-10 h-9" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M20 15.586l-3.24-3.24a1 1 0 00-1.416 0l-1.58 1.58a1 1 0 01-1.414 0l-2.76-2.76a1 1 0 010-1.414l1.58-1.58a1 1 0 000-1.416L8.414 4A1 1 0 007 2.586v-.002A1.002 1.002 0 006 3.586C6 11.524 12.476 18 20.414 18A1.002 1.002 0 0021.414 17h-.002A1 1 0 0020 15.586zM18 10.414l-2 2-1.58-1.58a3 3 0 00-4.242 0l-2.76 2.76a3 3 0 000 4.242L12 18l2-2h4V10.414z"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
 <!-- ==========================================
      INTERACTIVE GOOGLE MAPS — LOCATIONS
      ========================================== -->
@@ -143,3 +304,11 @@
   </div>
 
 </section>
+    </main>
+    <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
+        <div class="container mx-auto">
+            <p>&copy; 2025 Oba Adeleke. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
