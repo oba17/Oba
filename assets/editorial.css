@@ -1,0 +1,61 @@
+/* Executive Editorial — custom presentation layer for Oba portfolio.
+   Keeps all existing content, destinations and four-page structure intact. */
+:root{--navy:#071D2B;--navy2:#10364D;--ink:#152E3D;--slate:#536371;--blue:#3278A8;--sky:#88BED7;--ivory:#F7F8F6;--white:#fff;--line:#D9E2E3;--serif:'DM Serif Display',Georgia,serif;--sans:'Inter',system-ui,sans-serif}
+html{scroll-behavior:smooth}
+body{font-family:var(--sans)!important;background:var(--ivory)!important;color:var(--ink)!important;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:var(--serif)!important;font-weight:400!important;letter-spacing:-.025em}
+a:focus-visible{outline:3px solid var(--sky);outline-offset:4px}
+header.site-header{background:var(--navy)!important;padding:24px max(20px,calc((100vw - 1200px)/2))!important;box-shadow:none!important;border-bottom:1px solid rgba(255,255,255,.15)}
+.site-header>.container{max-width:1200px;gap:24px}
+.site-header h1{font-family:var(--serif)!important;font-size:clamp(1.7rem,2.8vw,2.3rem)!important;letter-spacing:-.04em!important}
+.site-header p{font-size:.79rem!important;letter-spacing:.035em;line-height:1.6;color:#B9CDD8!important;max-width:440px}
+.site-header img{width:74px!important;height:74px!important;border-radius:6px!important;border:1px solid rgba(255,255,255,.35)!important;box-shadow:none!important}
+.site-header nav ul{gap:clamp(12px,2.3vw,32px)!important}
+.site-header nav a{font-size:.79rem!important;font-weight:600;letter-spacing:.1em;text-transform:uppercase;text-decoration:none;padding:12px 0;display:inline-block;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+.site-header nav a:hover,.site-header nav a[aria-current="page"]{color:#94D0EA!important;border-bottom-color:#94D0EA}
+main.page-shell{max-width:1200px!important;padding-top:clamp(34px,5vw,70px)!important;padding-bottom:clamp(58px,8vw,112px)!important}
+main.page-shell>section{margin-bottom:clamp(70px,9vw,126px)!important}
+.editorial-hero{position:relative;overflow:hidden;isolation:isolate;background:linear-gradient(125deg,#071D2B 8%,#143B56 68%,#1B506D 100%);color:white;min-height:420px;padding:clamp(44px,7vw,104px) clamp(24px,6vw,74px)!important;margin-bottom:clamp(64px,8vw,108px)!important;display:flex;flex-direction:column;justify-content:center;align-items:flex-start}
+.editorial-hero:after{content:"";position:absolute;z-index:-1;width:440px;height:440px;right:-155px;top:-165px;border:1px solid rgba(171,218,239,.28);border-radius:50%;box-shadow:0 0 0 100px rgba(165,222,245,.035),0 0 0 200px rgba(165,222,245,.025)}
+.editorial-hero .eyebrow,.page-intro .eyebrow{font:600 .74rem/1.5 var(--sans);letter-spacing:.2em;color:#A6D7EC;text-transform:uppercase;margin-bottom:24px}
+.editorial-hero h2,.page-intro h2{color:#fff!important;font:400 clamp(2.6rem,5.3vw,4.9rem)/1.1 var(--serif)!important;letter-spacing:-.04em;max-width:850px}
+.editorial-hero p:not(.eyebrow){font-size:clamp(1rem,1.8vw,1.2rem);line-height:1.8;max-width:690px;color:#DCEAF0;margin-top:24px}
+.editorial-hero .hero-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:32px}
+.editorial-hero .hero-actions a{padding:15px 25px;font-size:.82rem;font-weight:700;letter-spacing:.065em;text-transform:uppercase;transition:transform .2s,background .2s}
+.editorial-hero .hero-actions a:first-child{background:#F8FBFC;color:#092436}
+.editorial-hero .hero-actions a:last-child{color:white;border:1px solid #7798A9}
+.editorial-hero .hero-actions a:hover{transform:translateY(-3px)}
+.page-intro{background:linear-gradient(110deg,#071D2B,#143B56);padding:clamp(42px,5vw,72px) clamp(24px,6vw,70px);margin-bottom:clamp(46px,6vw,74px)!important}
+.page-intro h2{font-size:clamp(2.5rem,4.6vw,4.3rem)!important}
+.page-intro p:not(.eyebrow){font-size:1.06rem;line-height:1.8;color:#D6E6EC;max-width:720px;margin-top:15px}
+.section-header{text-align:left!important;padding-bottom:22px!important;margin-bottom:35px!important}
+.section-header:after{left:0!important;transform:none!important;width:62px!important;height:2px!important;background:var(--blue)!important;border-radius:0!important}
+.section-header h2{color:var(--navy)!important;font:400 clamp(2rem,3.8vw,3.25rem)/1.18 var(--serif)!important;letter-spacing:-.035em}
+#about,#certifications,#feedback,#contact{background:white!important;border:1px solid var(--line)!important;border-radius:2px!important;box-shadow:none!important;padding:clamp(26px,4.6vw,62px)!important}
+#about p,#feedback p,#contact p{line-height:1.85!important}
+#skills .grid{gap:18px!important}
+.skill-bubble,.certification-bubble,.project-card-v2,.testimonial-card{border-radius:2px!important;background:white!important;border:1px solid var(--line)!important;box-shadow:none!important;transition:transform .2s,border-color .2s,box-shadow .2s!important}
+.skill-bubble:hover,.certification-bubble:hover,.project-card-v2:hover,.testimonial-card:hover{transform:translateY(-4px)!important;border-color:#A6BAC8!important;box-shadow:0 15px 35px -30px rgba(7,29,43,.42)!important}
+.skill-bubble{padding:26px 22px!important;align-items:flex-start!important;text-align:left!important;min-height:210px}
+.skill-bubble svg{color:var(--blue)!important;width:36px!important;height:36px!important;margin-bottom:24px!important}
+.skill-bubble h3{font-family:var(--sans)!important;font-size:1.02rem!important;font-weight:700!important;letter-spacing:-.01em!important}
+.skill-bubble p{color:var(--slate)!important;font-size:.89rem!important;line-height:1.65!important}
+.project-card-v2{display:flex;flex-direction:column}
+.project-card-v2 img{border-radius:0!important;filter:saturate(.6);height:190px!important;background:#E7EDF0}
+.project-card-v2>div{display:flex;flex-direction:column;flex:1;padding:28px!important}
+.project-card-v2 h3{color:var(--navy)!important;font-size:1.65rem!important;line-height:1.2}
+.project-card-v2 p{color:var(--slate)!important;line-height:1.75!important}
+.project-card-v2 ul{margin-top:auto}
+.project-card-v2 li{background:#ECF2F3!important;color:#375365!important;border-radius:1px!important;font-size:.7rem!important;letter-spacing:.03em}
+.project-card-v2 a,.page-shell>section.flex a{border-radius:2px!important;box-shadow:none!important;font-family:var(--sans);font-size:.82rem!important;text-transform:uppercase;letter-spacing:.06em;padding:12px 18px!important;background:var(--navy)!important;color:#fff!important}
+.project-card-v2 a:hover,.page-shell>section.flex a:hover{background:var(--blue)!important}
+.certification-bubble{padding:19px 12px!important;min-height:158px}
+.certification-bubble img{width:83px!important;height:83px!important}
+.certification-bubble p{font-size:.72rem!important;line-height:1.45;color:var(--ink)!important}
+#certifications h3,#feedback h3{color:var(--navy)!important;font-size:1.6rem!important}
+.testimonial-card{background:#F8FAFA!important;padding:30px!important;border-left:3px solid var(--blue)!important}
+#contact a{color:var(--blue)!important}
+#contact a.bg-\[\#0071E3\],#contact a.bg-\[\#63B3ED\]{color:white!important}
+footer{background:var(--navy)!important;color:#D3E2E8!important;padding:38px 20px!important;margin-top:0!important;font-size:.77rem;letter-spacing:.05em}
+@media(max-width:767px){header.site-header{padding:20px!important}.site-header>.container{align-items:flex-start!important}.site-header nav ul{justify-content:flex-start!important;gap:8px 16px!important}.site-header nav a{font-size:.7rem!important}.site-header img{width:62px!important;height:62px!important}.site-header h1{font-size:1.65rem!important}.editorial-hero{min-height:auto;padding:48px 25px!important}.editorial-hero h2{font-size:2.65rem!important}.editorial-hero:after{opacity:.35}main.page-shell{padding:28px 16px 50px!important}.page-intro{padding:40px 26px!important}.skill-bubble{min-height:auto}#about,#certifications,#feedback,#contact{padding:28px 20px!important}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
