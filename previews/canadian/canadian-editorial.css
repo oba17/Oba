@@ -642,3 +642,7 @@ main.page-shell > section.impact-stats .stat-label,
 main.page-shell > section.impact-stats .stat-description {
   color:#FFFFFF !important;
 }
+
+/* Visual-only: hide play overlays; keep news links and rotation intact. */
+#industry-news .news-rotator-play,
+#industry-news .news-media-play { display: none !important; }
