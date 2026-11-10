@@ -328,6 +328,49 @@ def cache_thumbnail(item):
         logging.debug("Image not accessible from source: %s (%s)", url[:120], exc)
         return ""
 
+def fallback_domain(item):
+    link_host = (urlsplit(item.get("url", "")).hostname or "").lower()
+    if link_host not in ("news.google.com", "www.news.google.com") and link_host:
+        return link_host
+    # These domains originate from the publisher-restricted search source list.
+    source = item.get("source", "")
+    if source.startswith("Google News · "):
+        hostname = source.split(" · ", 1)[-1].strip().lower()
+        if hostname in {"openai.com", "developer.salesforce.com",
+                        "techcommunity.microsoft.com", "zoom.com",
+                        "arstechnica.com", "iiba.org"}:
+            return hostname
+    return ""
+
+def cache_official_brand_fallbacks(articles):
+    """Use publisher-owned site icons only after a successful download."""
+    logos = {}
+    for item in articles:
+        host = fallback_domain(item)
+        if host and host not in logos:
+            logo = ("", "")
+            for icon_name in ("apple-touch-icon.png", "favicon.ico"):
+                source_url = f"https://{host}/{icon_name}"
+                trial = {"image_url":source_url, "image_kind":"publisher_logo",
+                         "url":item.get("url", "")}
+                cached = cache_thumbnail(trial)
+                if cached:
+                    logo = (source_url, cached)
+                    break
+            logos[host] = logo
+    for item in articles:
+        if item.get("local_image_url"):
+            continue
+        host = fallback_domain(item)
+        source_url, cached = logos.get(host, ("", ""))
+        if cached:
+            item["local_image_url"] = cached
+            item["image_url"] = source_url
+            item["image_kind"] = "publisher_logo"
+    logging.info("Publisher fallback media assigned to %d items",
+                 sum(x.get("image_kind") == "publisher_logo" and bool(x.get("local_image_url"))
+                     for x in articles))
+
 def cache_publisher_media(articles):
     # Cache a manageable number per topic, prioritizing the newest available photos.
     selected = []
@@ -454,6 +497,7 @@ def main():
         raise SystemExit("No live feeds and no cached articles; not overwriting JSON")
     enrich_previews(articles, old.get("articles", []))
     cache_publisher_media(articles)
+    cache_official_brand_fallbacks(articles)
     output = {"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds").replace("+00:00","Z"),
               "articles": articles, "sources_ok":successful}
     DEST.parent.mkdir(parents=True, exist_ok=True)
