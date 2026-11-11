@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+
+<title>Enterprise IT Support Transformation | Oba Adeleke</title>
+<meta name="description" content="How a Salesforce Service Cloud transformation centralized IT support, reduced triage time, automated routing and improved service management visibility.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#051C2C;--blue:#225E83;--text:#132D40;--muted:#526879;--light:#F2F6F8;--border:#D2DEE5}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--text);background:#fff;font:400 16px/1.8 Inter,Arial,sans-serif}h1,h2,h3,h4,p{margin-top:0}h1,h2,h3{font-family:"Libre Baskerville",Georgia,serif;line-height:1.32;letter-spacing:-.035em}a{color:var(--blue)}a:focus-visible,button:focus-visible{outline:3px solid #4B9BCC;outline-offset:3px}
+.topbar{background:var(--navy);color:white;padding:20px max(24px,calc((100vw - 1200px)/2));display:flex;align-items:center;justify-content:space-between;gap:25px;flex-wrap:wrap}
+.brand{font-weight:800;font-size:1.15rem;letter-spacing:-.04em;color:white;text-decoration:none}.tagline{display:block;font-size:.7rem;font-weight:400;letter-spacing:.08em;color:#B5CDD9}
+.topbar nav{display:flex;gap:24px;flex-wrap:wrap}.topbar nav a{font-weight:600;color:#E7F1F6;font-size:.8rem;text-decoration:none}.topbar nav a:hover{text-decoration:underline}
+.hero{background:linear-gradient(120deg,#051C2C,#14415D 80%,#225E83);color:white;padding:clamp(54px,7vw,104px) max(24px,calc((100vw - 1200px)/2)) 65px}
+.eyebrow{text-transform:uppercase;font-size:.72rem;letter-spacing:.16em;font-weight:800;color:#7ED0F4;margin-bottom:20px}
+.hero h1{max-width:960px;font-size:clamp(2.25rem,4.8vw,4.6rem);font-weight:400;line-height:1.18;margin-bottom:24px}
+.hero .lead{color:#D6E5F0;max-width:850px;font-size:clamp(1rem,1.7vw,1.22rem);line-height:1.7}
+.hero-meta{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0 0}.hero-meta span{border:1px solid #7896A7;padding:6px 13px;font-size:.73rem;letter-spacing:.01em;color:white}
+.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));background:#E9F1F7;max-width:1200px;margin:-24px auto 0;position:relative;box-shadow:0 4px 25px #051C2C10}
+.kpis>div{padding:26px 23px;border-right:1px solid #C0D1DD}.kpis>div:last-child{border:0}.kpis strong{display:block;font:400 clamp(1.95rem,3.5vw,3.3rem)/1.2 "Libre Baskerville",serif;letter-spacing:-.055em;color:#135D9B}.kpis span{display:block;font-size:.77rem;line-height:1.5;margin-top:8px;color:#293E4C;font-weight:600}
+.wrap{max-width:1200px;margin:auto;padding:0 26px}.crumb{font-size:.76rem;padding:22px 0;color:#5A6B74}.crumb a{text-decoration:none}.chapter{padding:62px 0;border-bottom:1px solid var(--border);scroll-margin-top:25px}.chapter h2{font-size:clamp(1.7rem,2.8vw,2.55rem);max-width:930px}.chapter .section-intro{max-width:880px;font-size:1.04rem;color:#435E6E}
+.section-label{font-size:.73rem;font-weight:800;letter-spacing:.13em;color:#246D97;text-transform:uppercase}
+.two-column{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(250px,.85fr);gap:42px;align-items:start}
+.sidebar-panel{background:var(--light);padding:27px;border-left:4px solid #225E83}.sidebar-panel h3{font-family:Inter;font-size:1.04rem;font-weight:800;letter-spacing:0}.sidebar-panel p,.sidebar-panel li{font-size:.85rem;color:#435B6A}
+.story-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:17px;margin-top:28px}.story-card{padding:24px;background:#F5F8FA;border-top:4px solid #225E83}.story-card h3{font:700 1rem/1.45 Inter;letter-spacing:0;margin:0 0 11px}.story-card p{font-size:.86rem;color:#4E6371;margin:0}
+.process-title{font:800 .8rem/1.5 Inter!important;letter-spacing:.08em!important;text-transform:uppercase;color:#4D6472;margin:0 0 17px}.process{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:18px 0 25px}.process>div{padding:20px 13px;background:#EDF4F8;border-top:4px solid #377EAA;min-height:166px}.process .num{display:block;color:#1B72A0;font-weight:800;font-size:.75rem;margin-bottom:10px}.process h4{font:700 .87rem/1.35 Inter;margin:0 0 6px}.process p{font-size:.73rem;line-height:1.5;margin:0;color:#526B7A}.process.as-is>div{background:#F4F5F6;border-top-color:#9DAEB9}.process.as-is .num{color:#586E7D}
+.diagram-frame{border:1px solid #D3DEE4;background:#fff;margin:30px 0}.diagram-frame img{display:block;width:100%;height:auto}.diagram-frame figcaption{padding:14px 18px;font-size:.76rem;color:#587080;background:#F6F9FB}.diagram-frame[data-unavailable]{display:none}
+.arch-grid{display:grid;grid-template-columns:minmax(150px,.32fr) minmax(0,1fr);border:1px solid #C6D8E2;margin-top:23px}.arch-label{background:#0D344B;color:white;padding:20px;font-size:.86rem;font-weight:700;display:flex;align-items:center;border-bottom:1px solid #50778A}.arch-items{display:flex;flex-wrap:wrap;align-items:center;gap:10px;padding:20px;background:#F3F7FA;border-bottom:1px solid #D1DEE6}.arch-items span{display:inline-block;padding:11px 13px;background:white;border:1px solid #C7D9E4;font-size:.78rem;font-weight:600;line-height:1.5}.arch-items .core{background:#D5ECFB;color:#0A446D;border-color:#82BDDF;font-weight:800}.arch-label:nth-last-child(2),.arch-items:last-child{border-bottom:0}
+.gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:25px;margin-top:30px}.media-card{border:1px solid #CEDDE4;background:#F8FBFD;display:none}.media-card.ready{display:block}.media-card a{display:block;overflow:hidden;background:#EAF0F4}.media-card img{display:block;width:100%;height:220px;object-fit:contain;object-position:center;transition:transform .2s}.media-card a:hover img{transform:scale(1.025)}.media-card div{padding:16px 19px}.media-card h3{font:700 .92rem/1.4 Inter;letter-spacing:0;margin:0 0 6px}.media-card p{font-size:.76rem;color:#596B77;margin:0}
+.media-placeholder{display:none;padding:25px;background:#EDF4F8;border-left:3px solid #3C7DA4;font-size:.88rem}.media-placeholder.visible{display:block}
+.role{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:23px}.role article{padding:27px;border:1px solid #CBDCE6}.role h3{font:700 1.04rem/1.4 Inter;letter-spacing:0}.role ul{font-size:.87rem;color:#3C5261;padding-left:20px}
+.metrics-note{color:#627685;font-size:.78rem;margin:16px 0 0;max-width:850px}.cta{padding:32px;background:#0B3149;color:white;margin:38px 0 70px}.cta h2{font-size:1.55rem;color:white}.cta a{color:#B2E5FF}
+footer{text-align:center;background:#051C2C;color:white;padding:27px;font-size:.77rem}
+@media(max-width:840px){.kpis{grid-template-columns:repeat(2,1fr);margin:0}.kpis>div:nth-child(2){border-right:0}.kpis>div:nth-child(-n+2){border-bottom:1px solid #C0D1DD}.story-cards,.process{grid-template-columns:repeat(2,1fr)}.two-column{grid-template-columns:1fr}.hero{padding-bottom:56px}}
+@media(max-width:570px){.topbar{padding:16px 18px}.topbar nav{gap:11px}.wrap{padding:0 17px}.kpis>div{padding:17px}.story-cards,.role,.gallery{grid-template-columns:1fr}.process{grid-template-columns:1fr 1fr}.process>div{min-height:145px}.arch-grid{grid-template-columns:1fr}.arch-label{padding:9px 14px}.arch-items{padding:14px}.chapter{padding:42px 0}.media-card img{height:190px}.hero{padding-left:20px;padding-right:20px}}
+</style>
+</head>
+<body>
+<header class="topbar">
+<a class="brand" href="/Oba/previews/canadian/">Oba Adeleke<span class="tagline">SALESFORCE • BUSINESS ANALYSIS • TRANSFORMATION</span></a>
+<nav aria-label="Main navigation"><a href="/Oba/previews/canadian/">Home</a><a href="/Oba/previews/canadian/projects/" aria-current="page">Projects</a><a href="/Oba/previews/canadian/certifications/">Certifications</a><a href="/Oba/previews/canadian/contact/">Contact</a></nav>
+</header>
+<main>
+<section class="hero" aria-labelledby="case-title">
+<p class="eyebrow">Featured project / Enterprise service transformation</p>
+<h1 id="case-title">From fragmented IT support to measurable service excellence.</h1>
+<p class="lead">Led the end-to-end analysis, architecture and delivery of a Salesforce Service Cloud solution that centralized requests, automated routing and communications, and gave leaders meaningful visibility into support performance.</p>
+<div class="hero-meta"><span>Salesforce Service Cloud</span><span>Business Analysis + Solution Architecture</span><span>Technical Delivery Lead</span><span>Five-member cross-functional team</span></div>
+</section>
+<section class="kpis" aria-label="Reported project outcomes">
+<div><strong>65%</strong><span>Improvement in case resolution speed</span></div>
+<div><strong>45%</strong><span>Reduction in ticket triage time</span></div>
+<div><strong>100%</strong><span>Ticket routing accuracy</span></div>
+<div><strong>85%</strong><span>Improvement in management KPI visibility</span></div>
+</section>
+<div class="wrap">
+<p class="crumb"><a href="/Oba/previews/canadian/projects/">Projects</a> / Enterprise IT Support Ticketing and Service Management Transformation</p>
+<section class="chapter" id="overview">
+<div class="two-column"><div><p class="section-label">01 / Executive perspective</p><h2>Changing the operating model—not simply introducing a ticketing tool.</h2><p>The original support process relied on emails and informal interactions, making ownership, response times and management reporting difficult to control. I led the redesign into a structured Salesforce Case lifecycle with consistent intake, ownership, status communications and reporting.</p><p>The delivery combined process discovery, requirements and acceptance criteria, Salesforce-native architecture, technical implementation, quality assurance, deployment readiness and user adoption.</p></div>
+<aside class="sidebar-panel"><h3>Project at a glance</h3><p><strong>Role:</strong> Senior Salesforce Business Analyst · Solution Architect · Technical Lead</p><p><strong>Delivery team:</strong> Five cross-functional contributors</p><p><strong>Platform:</strong> Salesforce Service Cloud</p><p><strong>Capabilities:</strong> Screen Flows, Email-to-Case, Case queues, assignment rules, record-triggered flows, Apex, operational reports and dashboards</p></aside></div>
+</section>
+<section class="chapter" id="challenge">
+<p class="section-label">02 / Business problem</p><h2>The challenge: fragmented requests, manual triage and limited accountability.</h2><p class="section-intro">The team could resolve individual issues, but support demand was not consistently captured or managed as an end-to-end service operation.</p>
+<div class="story-cards">
+<article class="story-card"><h3>Inconsistent intake</h3><p>Requests arrived via email and ad hoc conversations, often without a clear subject, classification or priority.</p></article>
+<article class="story-card"><h3>Unclear ownership</h3><p>Manual assignment slowed triage and made escalations, follow-ups and request status difficult to track.</p></article>
+<article class="story-card"><h3>Incomplete intelligence</h3><p>Fragmented conversation histories and limited reporting restricted management's view of demand and performance.</p></article>
+</div>
+<h3 class="process-title" style="margin-top:38px">As-Is / Manual support request lifecycle</h3>
+<div class="process as-is" aria-label="As-Is support process">
+<div><span class="num">01 / RECEIVE</span><h4>Multiple channels</h4><p>Email and informal staff interactions.</p></div>
+<div><span class="num">02 / REVIEW</span><h4>Manual triage</h4><p>Support staff assess incomplete details.</p></div>
+<div><span class="num">03 / CLARIFY</span><h4>Scattered follow-up</h4><p>Information gathered outside a tracked lifecycle.</p></div>
+<div><span class="num">04 / ASSIGN</span><h4>Unclear ownership</h4><p>Responsibility decided manually.</p></div>
+<div><span class="num">05 / REPORT</span><h4>Limited insight</h4><p>Inconsistent communication and reporting.</p></div>
+</div>
+<figure class="diagram-frame" data-media="as-is-process"><img alt="As-Is support service process map with requester, support team and management swimlanes" data-file="as-is-process.webp"><figcaption>As-Is process: fragmentation, handoffs and limited measurement</figcaption></figure>
+</section>
+<section class="chapter" id="transformation">
+<p class="section-label">03 / Process redesign</p><h2>A single Case lifecycle—from guided intake to resolution.</h2><p class="section-intro">I designed a requester-to-agent service journey built around Salesforce Cases, supported by automated notifications and structured communication capture.</p>
+<h3 class="process-title">To-Be / Service Cloud operating process</h3>
+<div class="process" aria-label="To-Be support process">
+<div><span class="num">01 / INTAKE</span><h4>Guided request</h4><p>Utility item opens a Screen Flow; users submit details and files or links.</p></div>
+<div><span class="num">02 / RECORD</span><h4>Case created</h4><p>Requester and support queue receive confirmations.</p></div>
+<div><span class="num">03 / ROUTE</span><h4>Queue ownership</h4><p>Assignment automation and agent self-selection.</p></div>
+<div><span class="num">04 / COLLABORATE</span><h4>Tracked replies</h4><p>Email-to-Case and Apex clean and capture follow-up content.</p></div>
+<div><span class="num">05 / RESOLVE</span><h4>Close and measure</h4><p>Resolution notice and KPI dashboard updates.</p></div>
+</div>
+<p><strong>Additional-information path:</strong> When a support agent populates an information-request field and saves, automation emails the requester. The requester replies to the existing case email thread; Email-to-Case relates the message to the Case and an Apex-supported process captures the relevant body content for follow-up.</p>
+<figure class="diagram-frame" data-media="to-be-process"><img alt="To-Be swimlane diagram showing guided Salesforce request intake, queue routing, additional information, email replies and resolution" data-file="to-be-process.webp"><figcaption>To-Be process: submitter, Salesforce automation, support queue and management reporting</figcaption></figure>
+</section>
+<section class="chapter" id="architecture">
+<p class="section-label">04 / Salesforce-native architecture</p><h2>Designing for clarity, automation and long-term maintainability.</h2><p class="section-intro">Salesforce Case acts as the service record, with related EmailMessage records, users and queues, and linked documents. Native platform features handle most routing and lifecycle events; Apex provides the targeted email-content processing that the business needed.</p>
+<div class="arch-grid" role="group" aria-label="Solution architecture layers">
+<div class="arch-label">Users and entry points</div><div class="arch-items"><span>Internal submitter</span><span>Support agents</span><span>Salesforce utility item</span><span>Email replies</span></div>
+<div class="arch-label">Experience and intake</div><div class="arch-items"><span>Guided Screen Flow</span><span>Structured request fields</span><span>Files and external links</span><span>Email-to-Case</span></div>
+<div class="arch-label">Core data model</div><div class="arch-items"><span class="core">Case · System of record</span><span>EmailMessage</span><span>User / Queue ownership</span><span>ContentDocumentLink</span><span>Custom classification and communication fields</span></div>
+<div class="arch-label">Automation and processing</div><div class="arch-items"><span>Case assignment rules</span><span>Case record-triggered flows</span><span>Agent self-assignment</span><span>Notifications by status</span><span>EmailMessage flow + Apex email-body cleaning</span></div>
+<div class="arch-label">Reporting and visibility</div><div class="arch-items"><span>Service management dashboard</span><span>Case volumes and trends</span><span>Resolution performance</span><span>Queue and agent caseload</span></div>
+</div>
+<figure class="diagram-frame" data-media="solution-architecture"><img alt="Layered Service Cloud solution architecture with Case, EmailMessage, User queues, ContentDocumentLink, intake, automations and analytics" data-file="solution-architecture.webp"><figcaption>Solution architecture informed by the Salesforce object relationships and actual Flow implementations</figcaption></figure>
+</section>
+<section class="chapter" id="implementation">
+<p class="section-label">05 / Implementation evidence</p><h2>Inside the delivered Salesforce solution.</h2><p class="section-intro">Screens from the implementation show the Case console, guided intake, Salesforce automation and management analytics. Select any image to view the original screenshot.</p>
+<div class="gallery" id="case-gallery">
+<article class="media-card"><a data-image-link href="#"><img data-file="case-console.webp" alt="Salesforce Service Console Case record with owner, status, request details and activity feed" loading="lazy"></a><div><h3>Case service console</h3><p>Central ownership, priority, status and tracked communications.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="screen-flow.webp" alt="Support request Screen Flow with request type branching and attachment processing" loading="lazy"></a><div><h3>Guided request intake</h3><p>Form-driven creation and request routing.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="case-status-automation.webp" alt="Record-triggered Case flow for status-based notifications" loading="lazy"></a><div><h3>Lifecycle automation</h3><p>Assignment, information requests, completion and closure.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="email-message-automation.webp" alt="EmailMessage flow connecting Apex email body processing to Case update" loading="lazy"></a><div><h3>Email processing workflow</h3><p>Apex-supported capture of relevant replies into the Case.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="data-model-schema.webp" alt="Salesforce Schema Builder displaying Case EmailMessage User and related objects" loading="lazy"></a><div><h3>Service Cloud data relationships</h3><p>How Case, email, ownership and documents fit together.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="operations-dashboard.webp" alt="Management dashboard with case volumes, locations, caseload, resolution and monthly trends" loading="lazy"></a><div><h3>Operational performance dashboard</h3><p>Management visibility across demand, workload and resolution.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="queue-notification.webp" alt="Email notification informing support queue that a request was submitted" loading="lazy"></a><div><h3>Support queue notification</h3><p>Automated communication at case creation.</p></div></article>
+<article class="media-card"><a data-image-link href="#"><img data-file="requester-confirmation.webp" alt="Confirmation email sent to the request submitter" loading="lazy"></a><div><h3>Requester acknowledgement</h3><p>Immediate notification and reference to the Case.</p></div></article>
+</div>
+<div id="media-placeholder" class="media-placeholder" role="status">Supporting screenshots are being prepared for publication. The case study, process diagrams and solution overview remain available.</div>
+</section>
+<section class="chapter" id="leadership">
+<p class="section-label">06 / Leadership and delivery</p><h2>Business analysis ownership paired with technical execution.</h2>
+<div class="role">
+<article><h3>Business analysis and transformation</h3><ul><li>Facilitated discovery across support teams, service representatives and management.</li><li>Mapped the As-Is process and designed the future-state service workflow.</li><li>Translated pain points into requirements, acceptance criteria and priorities.</li><li>Defined reporting needs, training materials and measures of success.</li></ul></article>
+<article><h3>Solution architecture and technical leadership</h3><ul><li>Designed the Service Cloud Case lifecycle, intake channels and data relationships.</li><li>Directed Flow, assignment rule and Apex integration decisions.</li><li>Coordinated five cross-functional contributors through build, QA and release readiness.</li><li>Supported defect resolution, stakeholder validation and handover.</li></ul></article>
+</div>
+</section>
+<section class="chapter" id="impact">
+<p class="section-label">07 / Outcomes and strategic value</p><h2>Operational performance became visible, accountable and measurable.</h2><p>The solution established a centralized record of support demand and resolution activity, reducing manual coordination and making service management reportable. The figures shown above are reported project outcomes, distinct from any specific dashboard snapshot.</p>
+<div class="story-cards">
+<article class="story-card"><h3>Better service reliability</h3><p>Structured intake and transparent ownership reduced ambiguity during case handling and follow-up.</p></article>
+<article class="story-card"><h3>More efficient work</h3><p>Automated routing, acknowledgement and information capture reduced manual administration.</p></article>
+<article class="story-card"><h3>Actionable management insight</h3><p>Dashboards surfaced demand, caseload, resolution and trend information to operational leaders.</p></article>
+</div>
+<p class="metrics-note">Measurement note: exact baseline periods and calculation methods for the reported percentages have not been published. Screenshots may show a dashboard snapshot rather than the full assessment period. Do not treat snapshot counts as the basis for these percentage outcomes.</p>
+</section>
+<section class="cta"><h2>Designing solutions around business outcomes.</h2><p>This case illustrates an approach that connects process clarity, Salesforce architecture and delivery execution.</p><p><a href="/Oba/previews/canadian/projects/">Explore other projects</a> · <a href="/Oba/previews/canadian/contact/">Discuss a transformation initiative</a></p></section>
+</div></main>
+<footer>© 2026 Oba Adeleke. All rights reserved.</footer>
+<script>
+(()=>{const base="/Oba/previews/canadian/projects/enterprise-it-support/images/";const cards=document.querySelectorAll(".media-card");let ready=0;
+const showFallback=()=>{if(!ready)document.getElementById("media-placeholder").classList.add("visible");};
+cards.forEach(card=>{const img=card.querySelector("img");const src=base+img.dataset.file;img.addEventListener("load",()=>{card.classList.add("ready");ready++},{once:true});img.addEventListener("error",()=>{card.remove();showFallback()},{once:true});card.querySelector("a").href=src;img.src=src;});
+document.querySelectorAll(".diagram-frame[data-media]").forEach(frame=>{const img=frame.querySelector("img");img.addEventListener("error",()=>{frame.dataset.unavailable="true"},{once:true});img.src=base+img.dataset.file;});
+})();
+</script>
+</body></html>
