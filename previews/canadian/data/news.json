@@ -1,6 +1,174 @@
 {
-  "updated_at": "2026-11-11T15:21:32Z",
+  "updated_at": "2026-11-11T22:45:24Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-11T22:06:12Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
+      "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
+      "published_at": "2026-11-11T20:32:21Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0dd2377116cf577c.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night",
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
+      "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
+      "published_at": "2026-11-11T20:22:03Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/dcc3cc433346f139.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
+      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
+      "published_at": "2026-11-11T20:09:39Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
+      "url": "https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon/",
+      "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
+      "published_at": "2026-11-11T19:00:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/095e64dce18058b5.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkdZWUR4Tl9KUklpRGpfdmQ3UWJEQVoxeWhwY1NBSm84cmpqS3IzTVJzQ0RwM181UVBkY0VjdG8tckhURWFKTndncFl4LUp6UGJRYlZFc3NENEw5aHJId1Z4ZUlnai1NYkczQWs4THlkS01OSzNZUWhuNVJucnNmVFB6ZEcteEtwTGRXVkVETmppTXFROEYzWHUyaXZNbGt2amk2WTdiUm5DTUczYno5OFBPN1NzcnNsWXRMN0NxWnNQcU9mQTA1QlNsZVI1dmNqbzlVZlBnREM1YjQwZGIwd3lSdjlnRldB?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-11T18:24:18Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
+      "published_at": "2026-11-11T18:16:40Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9720b10e876db45b.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Trump admin loses fight to spy on random journalists’ LinkedIn DMs",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
+      "summary": "Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.",
+      "published_at": "2026-11-11T18:05:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/d15ce041cfc8e009.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
+      "published_at": "2026-11-11T17:37:32Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2adf2fdb75c5ed77.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "summary": "Apple has already made the forum read-only.",
+      "published_at": "2026-11-11T17:04:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8db4de8d95e33015.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "IBM to offer access to a dual-processor quantum system in 2027",
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "published_at": "2026-11-11T16:33:08Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/d95d524bb0be391c.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition",
+      "url": "https://developer.salesforce.com/blogs/2026/11/agentforce-metadata-types-in-winter-27-dive-into-aiagentdefinition",
+      "summary": "Explore two new Agentforce metadata types in Winter ’27 that simplify managing, retrieving, and deploying agents across Salesforce orgs. Learn how these enhancements streamline agent versioning and development…",
+      "published_at": "2026-11-11T16:00:42Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261110110101/Generic-B-8-e1794337302733.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen - Ars Technica",
+      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+      "summary": "Trump wanted little Kei trucks for America, Toyota makes it happen Ars Technica",
+      "published_at": "2026-11-11T15:25:44Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a69c99bded127fdf.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Introducing Microsoft Classroom: A new experience built for teaching and learning - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT0ZNUGRILUtrR1Fyc1c5S1haYlRVRnZrNzdRbEFNMk1EbDJrSDRsdW1qN2hzbS1YM2FreFpqMVdiQ1Nma21YZEIxUjd1SnlBblRpSC1lRlBzMjJOaVE2WVFVUjJSZ2JJc2dTaWFEUmpxU3ZHMWdTdUQ2aG9MTWFMS1JZOGgxQmx3Nnc5MVZYdGYxbUpNWHVJdVhIUXRfQ2FnV0IzQnZOS281TGN1SXZFeFFwVVhYZHdwQS03dU5WZEFZY3FOaWRyQmRfY184ZG9VN3NWMHN6QWZZZkE?oc=5",
+      "summary": "Introducing Microsoft Classroom: A new experience built for teaching and learning Microsoft Community Hub",
+      "published_at": "2026-11-11T14:21:06Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -62,6 +230,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-11T00:12:21Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "published_at": "2026-11-11T00:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
@@ -110,42 +302,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "published_at": "2026-11-10T22:35:01Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/95042bdf4dffc031.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
-      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-10T22:34:55Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "published_at": "2026-11-10T21:55:26Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ae7b03585499e869.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Introducing Businesses in ChatGPT in beta - Announcements - OpenAI Developer Community",
@@ -158,54 +314,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
-      "published_at": "2026-11-10T21:12:59Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/37efc6728b4e64ce.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "What happens to mathematics when AI becomes an oracle?",
-      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
-      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
-      "published_at": "2026-11-10T20:30:01Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/75174f93be69b3f7.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-10T19:52:51Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Google Fi adds support for a second 5G network, won't say which one",
-      "url": "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
-      "summary": "Fi has always supported T-Mobile, but the new one? Google won't say.",
-      "published_at": "2026-11-10T19:35:59Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Google-Fi-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/efea1daf2e7ab847.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Released: November 2026 Exchange Server Security Updates - Microsoft Community Hub",
@@ -216,30 +324,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "published_at": "2026-11-10T19:00:26Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/d89b522720ea4604.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "summary": "Free video-streaming service Tubi lets users share curated watchlists now Ars Technica",
-      "published_at": "2026-11-10T18:39:16Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/fa53df689c842881.jpg"
     },
     {
       "category": "AI",
@@ -278,30 +362,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
-      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
-      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
-      "published_at": "2026-11-10T17:26:44Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b160047cbeef5235.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
-      "summary": "Community Zoom Community",
-      "published_at": "2026-11-10T17:26:36Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
@@ -312,18 +372,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "High oil prices have led to a dip in global carbon emissions",
-      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
-      "published_at": "2026-11-10T16:29:27Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/70f1195408e03efa.jpg"
     },
     {
       "category": "Salesforce",
@@ -398,24 +446,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Closing the AI guidance gap in education - OpenAI",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "Closing the AI guidance gap in education OpenAI",
-      "published_at": "2026-11-10T08:05:54Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "From Inbox to Audit Trail: Automating Compliant Email Export with Purview, Sentinel, and Logic Apps - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ2poejR2WDNnT3JMWTNtbzdUdVVnZjFMWEZMeUQ4bFgxNTFCZFFwVnB3N3dKcnBRZnRjcG1UbUM4aW52OC1HbnVYNTNIYUdyRC1aZ0dCLXo3WlNJazhFQkRnTDFYOVFXY3Bpd0pOLWROS0xOd1RWYjM0UUk3ZUVKdE5WZVR5eHdIR3FBMXFieUgxaGdYTnNmcklPOVdQQzN1ekdkMC1VRG95Y0NGLWxUTHRzb0l1bUhBcUZQTHBVQVZKLUZyQU1JZFM2S2RpZTQ4M2pmbzlqR0N0a0R3UEVBYnFDNTNFVzYxUzNTaFR1QQ?oc=5",
-      "summary": "From Inbox to Audit Trail: Automating Compliant Email Export with Purview, Sentinel, and Logic Apps Microsoft Community Hub",
-      "published_at": "2026-11-09T18:23:41Z",
+      "title": "Durable Task extension for Microsoft Agent Framework is now Generally Available - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeTNOOWpvVU9ub2hKdUpZZzBVZmZDdV91US1VNy1lazRVZXpFelZOZkJ1NHhaZU8wVjB6cDZmNXhXaHdBY0FiMHhCcm9yOF9JczBuaXc5UnNwU0ZjYkJBS2lmRlAycjJ4enZobzV1WktCa3hYZ3djanZNdUp0WXp6WmJETURqU2pFVXBmckFUY1BudXNXQnhuc3dfQ2FubFBaSlpUaHlGSDBJVS1CcWhpdGxEUWYzZnZOTHhXZmFOOUFMX2R0Zm10S0ZEWmJPcEp2WnB2eHdyQ3k2OGh2?oc=5",
+      "summary": "Durable Task extension for Microsoft Agent Framework is now Generally Available Microsoft Community Hub",
+      "published_at": "2026-11-09T17:14:12Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -424,10 +460,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Durable Task extension for Microsoft Agent Framework is now Generally Available - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeTNOOWpvVU9ub2hKdUpZZzBVZmZDdV91US1VNy1lazRVZXpFelZOZkJ1NHhaZU8wVjB6cDZmNXhXaHdBY0FiMHhCcm9yOF9JczBuaXc5UnNwU0ZjYkJBS2lmRlAycjJ4enZobzV1WktCa3hYZ3djanZNdUp0WXp6WmJETURqU2pFVXBmckFUY1BudXNXQnhuc3dfQ2FubFBaSlpUaHlGSDBJVS1CcWhpdGxEUWYzZnZOTHhXZmFOOUFMX2R0Zm10S0ZEWmJPcEp2WnB2eHdyQ3k2OGh2?oc=5",
-      "summary": "Durable Task extension for Microsoft Agent Framework is now Generally Available Microsoft Community Hub",
-      "published_at": "2026-11-09T17:14:12Z",
+      "title": "Microsoft 365 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uY1NVNWdHajFmaVRyN1ozOFcxRlJIZWxsZTlBS1h5N3hOeV9zeHlDbm5wTWFYMkoxT2ZvcEZOTEVhY25Pb2ZKdFY2SnBuV2xBRTVuWDNjWFNqaldBcmdUVldqT0FKR040?oc=5",
+      "summary": "Microsoft 365 Microsoft Community Hub",
+      "published_at": "2026-11-09T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -460,10 +496,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Securing the Non-Human Identity Attack Surface - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5",
-      "summary": "Securing the Non-Human Identity Attack Surface Microsoft Community Hub",
-      "published_at": "2026-11-08T20:19:04Z",
+      "title": "Excel bug: Bad date handling in year 1900 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVEtbjJad0JPSzJaZDhQNXpZOGJjbkU1TVBnUDdnZTFOMjRjS01MTEpPOHZiSl81Rl9BdmhOcXFYb1lKQ3QzekRQdXI0UWIxQkJJREh5TV8zMW1XTjVkMy05OC1BQ2dnOWRyWXZoaEppdjltZTJnZ3FTcUhQTGtBTU56TmFTRDZWSGdJOGJCN0pSa29vVFF0ZlYySVJKSUxjSjdEZzk1RVNXVXh6Z1E?oc=5",
+      "summary": "Excel bug: Bad date handling in year 1900 Microsoft Community Hub",
+      "published_at": "2026-11-08T04:44:20Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -626,18 +662,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Copilot, Microsoft 365 & Power Platform product updates call - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1VuMHlDVGUxcUxfSGNBR25QaDRMa2F3RXlkd1VIcmg3dFQwdjNyU3VEc0tnb2lZNU5IYTVkWUFORHFJZFhWNWxJN1J3YTYtOHhwWEZoVTN3MVcySDF3MHUxd1Z5Ui1qc0toVjNQelpzVGxUWWExTzB3Sl9BWld5cE5OSHdpajJBeGxGZnd4MUpiUUlfWjV3YWNqVV8yTjJ0SkNzZWlHbG50ZTNOck1oZkVNOXd6Nll3d21PcG93RDZEc2Ri?oc=5",
-      "summary": "Copilot, Microsoft 365 & Power Platform product updates call Microsoft Community Hub",
-      "published_at": "2026-11-05T16:04:04Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -712,6 +736,18 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
+      "title": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQbEtMNzRDaEE1RmF4OFNnNDBLUEtPcG1hRlEzUmdhNDJMQlpleE5JMi1idHVZdzNnNlVsZmF1Q3l3NnVLODBPX0xFX2dpNjFkNjNqUzNfRXpPRU9FRXdxOFVDYmQzYllkbE5QcFRQdUF3V2dURWo2M0xMXzV3SWpxN3Zud25yMXdyYVRrQktnRktNbWZwQ3dNaDJ0Ml9ucVNIMFRnY2FmZVNz?oc=5",
+      "summary": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide Salesforce Developers",
+      "published_at": "2026-10-30T11:38:08Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
       "title": "FinancialAccountParty - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
       "summary": "FinancialAccountParty Salesforce Developers",
@@ -746,18 +782,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "UnitOfMeasure for Remote Monitoring - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXNMaWNOTDZ2RWg3SjNkVVp3OEhlUFk5STNKekxTUjhINFpvWkh0c0hwSl9lT25nRW9aNXJ0TTIwdXpqLXFRQjFVUkF2STVmbWNnSmI3UXJwaE91YlhFbGlkcm1iR3pHanE5QThVUzd2WS1NQU92d1JPUU9hR2N2bkp5bU5sRExnVXh6SE1jXzRndWFsX2d1M1JIM0xMc1NSd1Y5OUh1QzRZOEhTOXNVMFdmZ2tSdFU5TFE?oc=5",
-      "summary": "UnitOfMeasure for Remote Monitoring Salesforce Developers",
-      "published_at": "2026-10-30T09:59:13Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
@@ -768,18 +792,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "MemberPlan for Pharmacy Benefits Verification - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUc0Q3FyallMbmxYZ3NoVkV3SVNRWHJyZExnelg0TXhnTlpreGxZQ2NhaFd3ZUY3UjRKc2RXTGVsZjd5UGxuUGlTd3czYUJESk93RkpHM0hBUGpIZldVMVFmM0dER3pXSmpZdjQ0ZVU2c0hadW1fYWhFNlNMUE9tLW94RUstcVpvLWN1d1A4TXRJUW9UVW90OE85SkRsY1NPbFByR1NYUTdQVHNKT1pRTDU3V1A2ajQ?oc=5",
-      "summary": "MemberPlan for Pharmacy Benefits Verification Salesforce Developers",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Business Analysis",
@@ -852,18 +864,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWpzZ1VabTJVVGMybERYQkFneFVtX2VvamlxRXl5cFpGRlBhYXhDOUJfT0MxZHl0N3k5YnB5VkgyeDRYa0FrQThYdjMwU1g4VWd1dlRHc3ZlTmxaTG96Rm1wME5xVndsQ3NkWmgyNG0wd2dyUHJFdVYwa2Mzb0Nja0k4UW1vejV1ZVRuNmtMcFNYTTllYll1MWlGRFJxVlpCNG9jV2k0VlU4VTVUbWdRUlY2YUsxU1E?oc=5",
-      "summary": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact IIBA Australia",
-      "published_at": "2026-10-01T07:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
