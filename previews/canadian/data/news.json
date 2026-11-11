@@ -1,17 +1,53 @@
 {
-  "updated_at": "2026-11-11T00:05:16Z",
+  "updated_at": "2026-11-11T06:39:07Z",
   "articles": [
     {
-      "category": "Tech",
-      "source": "Google News · arstechnica.com",
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnRjN3NGMTVsYUEwN3doWE9hdEtVUjVuVHBLT19Sal9rUDRiSU94TDNxRTkwX1YyZ1FsMkNyajVRM0pVQUZCbHBWUDhYR3BXbmZkYzFJdXZuM1p0TWo0OUFyczN0X1EtdldubVhFbEFCRjdmWF90LWZ1NjNqMFUxbzA4SWloZzdxci1jcw?oc=5",
-      "summary": "Seagate’s new hybrid drive raises some old questions Ars Technica",
-      "published_at": "2026-11-10T23:30:56Z",
-      "image_url": "https://arstechnica.com/favicon.ico",
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "published_at": "2026-11-12T00:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-11T02:33:39Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "summary": "Seagate’s new hybrid drive raises some old questions Ars Technica",
+      "published_at": "2026-11-10T23:30:56Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/53a4b60491a0aec3.jpg"
     },
     {
       "category": "Tech",
@@ -24,6 +60,30 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/0ee7c123f003f7b3.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "How I Won Over Stakeholders Losing Their Jobs to Automation - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWTlGalV6cFdRamQ1bDBod3B1X3VTdjFSQUcyNnRmU1FHajRYN0N0ZG1ZX1NrX1paUEhkcnZscG83eWJsWWUyeFhyQncxbjNxSEpTWFdoMXE4OGFXNlpCSldLcWQ1TC1DVDNMSjJvdEd5T045QUxLaTJUcTdmNkpzcjI1cEc4el91aDlKUVRaVmVya0RYdGZfRWVUUU5aaVpFQmxWTUZsaXI?oc=5",
+      "summary": "How I Won Over Stakeholders Losing Their Jobs to Automation IIBA",
+      "published_at": "2026-11-10T22:59:58Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Use connected financial intelligence with Copilot in real financial workflows - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdzk2YTZvcmtrZXVWSFpoTEhna2JvcFNaODZLU24wVXNWVG16dDNzNGQzdENNVm54N2dHUE1hZXBBY3hXUVZBM2VpMHpVR2IyVDhrYTZGUWthQmJFemNiSFlESUpkV0s3Q2hfSkc0YjIxOGFQcmJTTXMwTnBSMElUTV9VdEhCVGk5LUo2MEI0M1hlRmRZc2R1Mk9QYXpjdUlGY0U2ZHdVWVByaXIzX04xVmk4Rl96LVlVdGZMRV9PVGdMYzl5WWZYUldSYS13eDdOcXNfUTRsUGgxQ2ZHYXhGZzF1bw?oc=5",
+      "summary": "Use connected financial intelligence with Copilot in real financial workflows Microsoft Community Hub",
+      "published_at": "2026-11-10T22:37:20Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -72,6 +132,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/75174f93be69b3f7.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-10T19:51:05Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -135,11 +207,35 @@
     },
     {
       "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing Businesses in ChatGPT - OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Introducing Businesses in ChatGPT OpenAI",
+      "published_at": "2026-11-10T18:10:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
       "source": "Google News · openai.com",
       "title": "Business Agents Policy - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jREpQOHZ0Yl9YN0U0MVdVZXJoejhRenVqVV9oSHBxeTBac2NNQldGN1BNU3ViZWoySEhRUVNYU0pNeXdyNDZZcmFUU25uVnZwOGZ3M2lRYWhOWVo3TmZWaQ?oc=5",
       "summary": "Business Agents Policy OpenAI",
       "published_at": "2026-11-10T18:10:25Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Pushing voice agents further: inside four GPT-Live builds - OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZXAzU3FfR0tNNjNzd1FJZWRDT21YdEtJSnlEZ3VySHdMc3g4dVlOTU5oYXRmWEFPLVpxa2ZudWhKNUZyYXhOZEpLd3JRUFRLdUxxTzVGRlZrUXh6eFVadFU2TEJ2NDQ2UkhtWGVLTC0?oc=5",
+      "summary": "Pushing voice agents further: inside four GPT-Live builds OpenAI Developers",
+      "published_at": "2026-11-10T18:05:07Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -161,7 +257,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
@@ -244,6 +340,18 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNzF2cktYLWZJeUVpUUVtcHhmVko4V1dxbnVkSGsyaHU4UGgwV0h6NENBenJTYkttcnZGRENySFVXcEhXT21kcGl2SHZmQnZWTVFtU3g2bFN2bV9UOGpzWDhMUHhVbmFaY01jWEcxOWJfTXpwRDg5SUYxbmxfTXc0dFV6blhUZlVqTGJ3ZnN1NUQ0cUxaNTN5b0dSVTFwN1IyQWtVanlCV0QtaDlsTUhBa21WS3VWbFp1bjk5X1hhMjVCVlBJM0lwbnJSMjlMWmZwa0p5S2NlNFpRcmo4cndLa29wVmZZMnJtOEQtOHFrTWdFWXV1V0ZSaXdtMTIxRk16?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T14:55:08Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
       "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
       "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
@@ -290,90 +398,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Founding Full Stack Software Engineer, Consulting - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0N2SVRUcjhfZnR6ejFQZ2hzTzZyUnpsZ0pfeVh3dWQwbjQ4WllpbFR3NnJBV1o5b3FremcyVVQ2Vm5aZW1xcHBNcF9iemlpdzhfM1luMXBhYXppZjdBTkw1ejhpSXVTMUNpb2pwWUJZbEVFLWhmaF9xNU5NMGhUNUhsdnFFNVdjX2dIZkd5NnFtRkhv?oc=5",
-      "summary": "Founding Full Stack Software Engineer, Consulting OpenAI",
-      "published_at": "2026-11-10T03:37:15Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-10T02:49:56Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV3lJV1pSYlJhZWZOZHBvV3Vwbkw4OGVVMXo3Zm9pUTYtcDRvRU9WSmtsc01XTS13eWtNcE5XakZhRlR2cGpJSGk1LV81YzB2SnpodklVeXU3MXNPTE1VUWxmZ2VXaHBWVzlQbHV6eDJsUjZHdUVkaS14WXp0SnVpZHp4TEtSUmtMUWJCUTYzX1VKNjgtMmN4WjZrTkVFNXluVFl3dlJn?oc=5",
-      "summary": "Community Zoom Community",
-      "published_at": "2026-11-09T22:44:19Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing Businesses in ChatGPT - OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Introducing Businesses in ChatGPT OpenAI",
-      "published_at": "2026-11-09T22:38:57Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure - OpenAI",
-      "url": "https://openai.com/index/control-room",
-      "summary": "Control Room: A central system to track and stop model workloads across our research infrastructure OpenAI",
-      "published_at": "2026-11-09T21:56:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "CodeRabbit scales agentic software development and ships 20x more - OpenAI",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "summary": "CodeRabbit scales agentic software development and ships 20x more OpenAI",
-      "published_at": "2026-11-09T21:25:05Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Building a retro handheld game with Codex and ModRetro Chromatic - OpenAI Developers",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85d3hjUHpqTlRtZmdOMF9uTG1GSnZZLVMwbFdzcVNPajVfaDBLU0w1ZlJNNTBDWDRUS04yU1dPSW54cm9fRFFYclJfeDZORk1TQVVqZmU3VHJMUXpqaUYwSXQxYTNvMU8tbVJhTERtVnc0R1VBSnFWakNZTQ?oc=5",
-      "summary": "Building a retro handheld game with Codex and ModRetro Chromatic OpenAI Developers",
-      "published_at": "2026-11-09T19:41:12Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Durable Task extension for Microsoft Agent Framework is now Generally Available - Microsoft Community Hub",
@@ -408,18 +432,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Securing the Non-Human Identity Attack Surface - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5",
-      "summary": "Securing the Non-Human Identity Attack Surface Microsoft Community Hub",
-      "published_at": "2026-11-08T20:19:04Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -590,18 +602,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Copilot, Microsoft 365 & Power Platform product updates call - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1VuMHlDVGUxcUxfSGNBR25QaDRMa2F3RXlkd1VIcmg3dFQwdjNyU3VEc0tnb2lZNU5IYTVkWUFORHFJZFhWNWxJN1J3YTYtOHhwWEZoVTN3MVcySDF3MHUxd1Z5Ui1qc0toVjNQelpzVGxUWWExTzB3Sl9BWld5cE5OSHdpajJBeGxGZnd4MUpiUUlfWjV3YWNqVV8yTjJ0SkNzZWlHbG50ZTNOck1oZkVNOXd6Nll3d21PcG93RDZEc2Ri?oc=5",
-      "summary": "Copilot, Microsoft 365 & Power Platform product updates call Microsoft Community Hub",
-      "published_at": "2026-11-05T16:04:04Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -636,18 +636,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Troubleshooting Video Issues - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
-      "summary": "Troubleshooting Video Issues Zoom",
-      "published_at": "2026-11-04T14:45:24Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -698,6 +686,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "SearchableObjDataSyncInfo for Life Sciences - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOWFRSlRad25USWNaZEZmTHJQRDFRTFRSQWsteUJEMFE1eWQ5WldLVmxRMjFjT3lzQkJOZTRyR1ZJcFF1YTBJZDNXcWVjNWZrWnVOV0V0VkxWcFV0NzRudVJkZ2hfd0hYQ0hQMzE4bW9WZ0xhalhjbkVhZUx0WFR2OXRZVjV6bDVzemlRaENkQXZuRFExZS03a2FMSkU2Q0ZCcWs4ekd5dXBGeWZBOTlOeXhhUXFoSlNlMGdFNk9Hb3pIZ2FueWJKcFVlQUNWQQ?oc=5",
+      "summary": "SearchableObjDataSyncInfo for Life Sciences Salesforce Developers",
+      "published_at": "2026-11-01T01:57:09Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a quality management system?",
@@ -746,18 +746,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "GenAiPromptTemplate - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3EyUHh3Z1l4Mm93ZW80N1hJWFVJdFI1Smc2REdZTW5BMW51M2NDb25iQmRWMWZoZWRsQm9UZGRvY2xJY0NOMzFRTkZKQW13SktZdHZoUVd3blZPRjlmOThuUW5JWVZ4REJFZ0wyM0g4SGluOXNEdURtT1RoVjJTcmdDSFVvNm01N0diWURnazRSMk8wdURQQjNpVjRjNmpkRHhJ?oc=5",
-      "summary": "GenAiPromptTemplate Salesforce Developers",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
@@ -768,6 +756,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
+      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
+      "published_at": "2026-10-30T07:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -794,16 +794,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "BA Connect Georgia 2026 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
-      "summary": "BA Connect Georgia 2026 IIBA",
-      "published_at": "2026-10-28T11:06:36Z",
-      "image_url": "https://iiba.org/favicon.ico",
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "The context layer every enterprise AI deployment is missing",
+      "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
+      "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
+      "published_at": "2026-10-27T16:03:25Z",
+      "image_url": "https://media.zoom.com/images/assets/The+context+layer+every+enterprise+AI+deployment+is+missing/Zz1iZWI5OTE2YWQyZTgxMWYxYmFkMmNhMDZjM2JjZWUyOA==",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/759e1e5aa845fd07.jpg"
     },
     {
       "category": "Business Analysis",
