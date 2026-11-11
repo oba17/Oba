@@ -1,17 +1,41 @@
 {
-  "updated_at": "2026-11-11T06:39:07Z",
+  "updated_at": "2026-11-11T15:21:32Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "published_at": "2026-11-11T14:08:57Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f22e6d58d7181307.jpg"
+    },
     {
       "category": "AI",
       "source": "OpenAI News",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "title": "Gilbert + Tobin rethinks the business of law with AI - OpenAI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "published_at": "2026-11-12T00:00:00Z",
+      "summary": "Gilbert + Tobin rethinks the business of law with AI OpenAI",
+      "published_at": "2026-11-11T11:57:38Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUxOblVpUENNeWR5aFdNMUs2djd1YVZrd0Rock94YVJNWnJuRU4xYkZoX2VEVVhIdVBPVnRhU1lzNDdvMUJQZXk0dWZjTEJGX3VyaTlKZjFFM2hPVENyUmctYWZjSTV1N1VIQkFfcnVuNmQzeU5rNU1NVTV1YW5sa3Z3TzFwbGprSHNmcEJOV0cxOVUzWnJUdUJCRzJWaHdBLU1mNkRfY09ING9QQUNrRy1CLTNyNDUtbHBCaWkzUWZydw?oc=5",
+      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
+      "published_at": "2026-11-11T10:29:19Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "AI",
@@ -27,11 +51,11 @@
     },
     {
       "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
-      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-11T02:33:39Z",
+      "source": "OpenAI News",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology - OpenAI",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "summary": "Singapore Airlines elevates travel & work with OpenAI technology OpenAI",
+      "published_at": "2026-11-11T05:47:55Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -98,6 +122,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/95042bdf4dffc031.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-10T22:34:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
@@ -108,6 +144,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ae7b03585499e869.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Introducing Businesses in ChatGPT in beta - Announcements - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeWc2aG1tWUROeTNHZ201cmVtVDNyZkpISldXcGJXT3VWVVBCTWtlTmE4R1ctdXpHbUJqLWMxNkhSeDB6S3J3SVpHcjJweUEwSGktWVBUaFdIeHMtV1h3QkVvMzBjaGtvNEpXaDJEN0laNmIwTWR4WFJjbmFkY3JfYzdsOXZiMlU?oc=5",
+      "summary": "Introducing Businesses in ChatGPT in beta - Announcements OpenAI Developer Community",
+      "published_at": "2026-11-10T21:16:54Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -139,7 +187,7 @@
       "title": "Setting up your business on ChatGPT - OpenAI Help Center",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
       "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-10T19:51:05Z",
+      "published_at": "2026-11-10T19:52:51Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -200,18 +248,6 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWmx6WE8wMXBOX05BMDBmdEhwYkNiMXoyYlJNM0o1TmpHTFJUMjVsVjk3V2hQOXVjQXV1VnF5c1htLXp6bnViN0MtRzBMay0yUnBzbmd5U2phNGdvUUNz?oc=5",
       "summary": "Businesses in ChatGPT: Claim Your Business OpenAI",
       "published_at": "2026-11-10T18:34:06Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing Businesses in ChatGPT - OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Introducing Businesses in ChatGPT OpenAI",
-      "published_at": "2026-11-10T18:10:37Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -288,18 +324,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/70f1195408e03efa.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Google News · arstechnica.com",
-      "title": "Carbon emissions are down this year—but that probably won’t last - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWFDM0pDTmhhRFZ5VENmcXJ3SENjWk83RkN1bmdvUnRsX0tPOWhHWFFKTFptZDNsT2ZNTDdybEdYVk1HTENPdkJqVjBBZ3MtUXI1YXFxSzF2R1lvYmN1aHE5S2lzTm9SM1BMVlRqNXVwUERES2wwS2dLVks0RENSZTBWZmhBYzh0T2tWdUsxU01lS2hsVV90Um0yX3dMOEgtSHgxMnBQaw?oc=5",
-      "summary": "Carbon emissions are down this year—but that probably won’t last Ars Technica",
-      "published_at": "2026-11-10T16:29:27Z",
-      "image_url": "https://arstechnica.com/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
     },
     {
       "category": "Salesforce",
@@ -386,16 +410,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Incorrect cost data in Costs API exports - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HVkJVTlFQYkozOTQ3c181X0JEbUdLLUdRWGtzRjlOaEN2eFg0MGM4bi1Sc0NOVG1iSjFiX0VBOUVKanNhYzc4TTZ4WG1fODhsWnhLTThMT3VadzZ3VUFyWXl1WVNNeERNdVJZZVpySQ?oc=5",
-      "summary": "Incorrect cost data in Costs API exports OpenAI Status",
-      "published_at": "2026-11-10T06:40:36Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "From Inbox to Audit Trail: Automating Compliant Email Export with Purview, Sentinel, and Logic Apps - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQ2poejR2WDNnT3JMWTNtbzdUdVVnZjFMWEZMeUQ4bFgxNTFCZFFwVnB3N3dKcnBRZnRjcG1UbUM4aW52OC1HbnVYNTNIYUdyRC1aZ0dCLXo3WlNJazhFQkRnTDFYOVFXY3Bpd0pOLWROS0xOd1RWYjM0UUk3ZUVKdE5WZVR5eHdIR3FBMXFieUgxaGdYTnNmcklPOVdQQzN1ekdkMC1VRG95Y0NGLWxUTHRzb0l1bUhBcUZQTHBVQVZKLUZyQU1JZFM2S2RpZTQ4M2pmbzlqR0N0a0R3UEVBYnFDNTNFVzYxUzNTaFR1QQ?oc=5",
+      "summary": "From Inbox to Audit Trail: Automating Compliant Email Export with Purview, Sentinel, and Logic Apps Microsoft Community Hub",
+      "published_at": "2026-11-09T18:23:41Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -432,6 +456,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Securing the Non-Human Identity Attack Surface - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcTZHTHdSSUswVm5tdGowUWs1VG42WlF4OXFjRUNVM2dtVEtFMng0bXB2YjRwX2JTNHdIQzg3dWlQYWlSSHdkMlRWajQ5SW1oblp3b252ekg4STc3Wm55WHl3RDl0Qk9pSnh1SW1zazlHcEx2ZmZZMy1kVkVLeHJfYkhrM0JrQlJkVVdiVFU1aVlFNXpod0ZlTTMtMmE5SzVJLTlnTnY2T3hTdjFsMnZzZmFNUDh5OVR0bm5tR2VJUHc0Smc?oc=5",
+      "summary": "Securing the Non-Human Identity Attack Surface Microsoft Community Hub",
+      "published_at": "2026-11-08T20:19:04Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -530,18 +566,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "Standard Objects | Object Reference for the Salesforce Platform - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkNYbjBfenNhZUFmZmVwM1hNbXpEaG91SGdfd1NDRGlBVFFyT3RzWmlsTDdlQ3hJUWgtR2x0NWxuRlg3UktabUtlTXN3aVhtZk1SaFoxeTNmb1NfN0trY0lKdE11SmYwZ1VTU2pIUlJiaU15S2VsVTJINGlRSVVnXzhsLV9raF9JWXBZOERrb18xS2tPQW42dFZsTGxzSFhBQTNjZFhPSTJGT0RXZ1JjbEtOeUd3eHh6TDB6T2tYdW9OTjRVdGRqYQ?oc=5",
-      "summary": "Standard Objects | Object Reference for the Salesforce Platform Salesforce Developers",
-      "published_at": "2026-11-06T03:58:45Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Three Perspectives From BA Digest Q4 - IIBA",
@@ -602,6 +626,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Copilot, Microsoft 365 & Power Platform product updates call - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1VuMHlDVGUxcUxfSGNBR25QaDRMa2F3RXlkd1VIcmg3dFQwdjNyU3VEc0tnb2lZNU5IYTVkWUFORHFJZFhWNWxJN1J3YTYtOHhwWEZoVTN3MVcySDF3MHUxd1Z5Ui1qc0toVjNQelpzVGxUWWExTzB3Sl9BWld5cE5OSHdpajJBeGxGZnd4MUpiUUlfWjV3YWNqVV8yTjJ0SkNzZWlHbG50ZTNOck1oZkVNOXd6Nll3d21PcG93RDZEc2Ri?oc=5",
+      "summary": "Copilot, Microsoft 365 & Power Platform product updates call Microsoft Community Hub",
+      "published_at": "2026-11-05T16:04:04Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -612,18 +648,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "Sales Agreement Product Details Input - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUhsMGwxc1RzcVVIT28wVmVfLTg0T29GMG83cllVX3l1WEFjWkxxSlBIZS1iSjlCWXRjbG1VZWdlSHZ0S2JlOXJkazdtRDN5NElvckE1TnpKbE96cGd4Z2tKMENvWmQ0b2tJTUtDOWZVUTMtY2Z6YThPRV9tN05US005ZW5WZW9JTVlKeUR5Mjlka3BrWkdRMnRGbkhTV1lTY0ItZVNneVV0UlY1UmRpQVFjM1NjdExvQl8wYmozT1hULUg2QTM5dzdvbw?oc=5",
-      "summary": "Sales Agreement Product Details Input Salesforce Developers",
-      "published_at": "2026-11-05T12:17:32Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -638,18 +662,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Introducing SharePoint tools in Work IQ - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSGhibW9GblFVbExEMm04R0hYbjVkZFVCb2RtSF9lMnJiUEtEem5neVhFN3dPWGRtTlJTVmE0SF83ZmJibllMSnNIemNPaGNpSkRQbWp5R0taUW1uMDd2SEZaN0RuSnJ0TzlpOVo1dG5WRnlrS09VVGdhNDVhejlaelo5ZGw4Ym5kZG1yZFBSd0VFbEdFckNLSmFxMA?oc=5",
-      "summary": "Introducing SharePoint tools in Work IQ Microsoft Community Hub",
-      "published_at": "2026-11-03T19:18:36Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The Requirement No One Asked For - IIBA",
@@ -660,18 +672,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "How Outlook Search is changing: ranking, resilience, and the feedback loop - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUVkxVDIxTVlraV93YmJvUFIxMHd3a2IwdlVreHFXY0EwRGl3MnFKYl9jMjNBLVhkZGpEckZnSGlRWW9oRlNaUnJ3RXg4c2hHa01ScVFFQVlUTWRtTTJDQjFKSjVZOFFmbDdoLVp1d2Y4ak5TMVlaM2V1Umg2TlM1c3NYWDZIZnVEbjM0U3Jra0VjVkJad08zU1hCMWM2LWlIUEZ6Zm16czBSNVpiUjY2VTFPbTRJaHpiVFp1YWxkeWRtTTJFRi13?oc=5",
-      "summary": "How Outlook Search is changing: ranking, resilience, and the feedback loop Microsoft Community Hub",
-      "published_at": "2026-11-03T16:34:35Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -746,6 +746,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "UnitOfMeasure for Remote Monitoring - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXNMaWNOTDZ2RWg3SjNkVVp3OEhlUFk5STNKekxTUjhINFpvWkh0c0hwSl9lT25nRW9aNXJ0TTIwdXpqLXFRQjFVUkF2STVmbWNnSmI3UXJwaE91YlhFbGlkcm1iR3pHanE5QThVUzd2WS1NQU92d1JPUU9hR2N2bkp5bU5sRExnVXh6SE1jXzRndWFsX2d1M1JIM0xMc1NSd1Y5OUh1QzRZOEhTOXNVMFdmZ2tSdFU5TFE?oc=5",
+      "summary": "UnitOfMeasure for Remote Monitoring Salesforce Developers",
+      "published_at": "2026-10-30T09:59:13Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
@@ -758,16 +770,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
-      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "MemberPlan for Pharmacy Benefits Verification - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUc0Q3FyallMbmxYZ3NoVkV3SVNRWHJyZExnelg0TXhnTlpreGxZQ2NhaFd3ZUY3UjRKc2RXTGVsZjd5UGxuUGlTd3czYUJESk93RkpHM0hBUGpIZldVMVFmM0dER3pXSmpZdjQ0ZVU2c0hadW1fYWhFNlNMUE9tLW94RUstcVpvLWN1d1A4TXRJUW9UVW90OE85SkRsY1NPbFByR1NYUTdQVHNKT1pRTDU3V1A2ajQ?oc=5",
+      "summary": "MemberPlan for Pharmacy Benefits Verification Salesforce Developers",
       "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Business Analysis",
@@ -794,16 +806,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "The context layer every enterprise AI deployment is missing",
-      "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
-      "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
-      "published_at": "2026-10-27T16:03:25Z",
-      "image_url": "https://media.zoom.com/images/assets/The+context+layer+every+enterprise+AI+deployment+is+missing/Zz1iZWI5OTE2YWQyZTgxMWYxYmFkMmNhMDZjM2JjZWUyOA==",
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "BA Connect Georgia 2026 - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
+      "summary": "BA Connect Georgia 2026 IIBA",
+      "published_at": "2026-10-28T11:06:36Z",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/759e1e5aa845fd07.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -848,18 +860,6 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeWpzZ1VabTJVVGMybERYQkFneFVtX2VvamlxRXl5cFpGRlBhYXhDOUJfT0MxZHl0N3k5YnB5VkgyeDRYa0FrQThYdjMwU1g4VWd1dlRHc3ZlTmxaTG96Rm1wME5xVndsQ3NkWmgyNG0wd2dyUHJFdVYwa2Mzb0Nja0k4UW1vejV1ZVRuNmtMcFNYTTllYll1MWlGRFJxVlpCNG9jV2k0VlU4VTVUbWdRUlY2YUsxU1E?oc=5",
       "summary": "IIBA Brisbane (In-Person) - Into the Tank: From Business Challenge to Business Impact IIBA Australia",
       "published_at": "2026-10-01T07:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Business Analysis in Agile: A Skill and a Role - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQnAyWk4tUmtVT0dVaXBVQ3I4eF9MajF0LTRUZktsOVY4ejdlZGlNem1lSzBfMmZMN01CLXU4SUt1cG1WMDMzNHdPd1R1ZFN3UGNwWURwRGltX0xsbnNuYThLV0xhSFVUVHdjaFVucXI4elFyZUhOWlN4a3ppN3JSNVllc3ZMN1M5Z2tUd2RfdFZuY3VNV2c?oc=5",
-      "summary": "Business Analysis in Agile: A Skill and a Role IIBA",
-      "published_at": "2026-09-24T07:00:00Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
