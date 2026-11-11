@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-11-10T20:47:39Z",
+  "updated_at": "2026-11-11T00:05:16Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Google News · arstechnica.com",
+      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnRjN3NGMTVsYUEwN3doWE9hdEtVUjVuVHBLT19Sal9rUDRiSU94TDNxRTkwX1YyZ1FsMkNyajVRM0pVQUZCbHBWUDhYR3BXbmZkYzFJdXZuM1p0TWo0OUFyczN0X1EtdldubVhFbEFCRjdmWF90LWZ1NjNqMFUxbzA4SWloZzdxci1jcw?oc=5",
+      "summary": "Seagate’s new hybrid drive raises some old questions Ars Technica",
+      "published_at": "2026-11-10T23:30:56Z",
+      "image_url": "https://arstechnica.com/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The US military seems to be getting nervous about the launch supply crunch",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "published_at": "2026-11-10T23:02:39Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0ee7c123f003f7b3.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "published_at": "2026-11-10T22:35:01Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/95042bdf4dffc031.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "published_at": "2026-11-10T21:55:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ae7b03585499e869.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "published_at": "2026-11-10T21:12:59Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/37efc6728b4e64ce.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "What happens to mathematics when AI becomes an oracle?",
+      "url": "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+      "summary": "Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World .",
+      "published_at": "2026-11-10T20:30:01Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/75174f93be69b3f7.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -12,6 +84,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/efea1daf2e7ab847.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Released: November 2026 Exchange Server Security Updates - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1hmWHdGSTkyR21aOGRHYXRURmJrRWJvaFpTNzNGdXQwX3EtZ1h3SnU0TnRVOHBzVmI4bGhXQ1RObU9OcHBzeFRIbVJaX3lTZ0dWeDNpVG5LbThEb1RyOTVaTUZLOF9YeUdIdWZNRFAwOGY3dWV5bDl4Q29EUG5JaldSQkt6TDFLaG5JSENkamRlMHh6Q0doYlFOTEhLbmFSRFlqSHdzQmVWalVTM3VrZ3VYSQ?oc=5",
+      "summary": "Released: November 2026 Exchange Server Security Updates Microsoft Community Hub",
+      "published_at": "2026-11-10T19:04:32Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -28,9 +112,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
-      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "summary": "Free video-streaming service Tubi lets users share curated watchlists now Ars Technica",
       "published_at": "2026-11-10T18:39:16Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
       "video_url": "",
@@ -39,11 +123,23 @@
     },
     {
       "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing Businesses in ChatGPT - OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Introducing Businesses in ChatGPT OpenAI",
-      "published_at": "2026-11-10T18:10:37Z",
+      "source": "Google News · openai.com",
+      "title": "Businesses in ChatGPT: Claim Your Business - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWWmx6WE8wMXBOX05BMDBmdEhwYkNiMXoyYlJNM0o1TmpHTFJUMjVsVjk3V2hQOXVjQXV1VnF5c1htLXp6bnViN0MtRzBMay0yUnBzbmd5U2phNGdvUUNz?oc=5",
+      "summary": "Businesses in ChatGPT: Claim Your Business OpenAI",
+      "published_at": "2026-11-10T18:34:06Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Business Agents Policy - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jREpQOHZ0Yl9YN0U0MVdVZXJoejhRenVqVV9oSHBxeTBac2NNQldGN1BNU3ViZWoySEhRUVNYU0pNeXdyNDZZcmFUU25uVnZwOGZ3M2lRYWhOWVo3TmZWaQ?oc=5",
+      "summary": "Business Agents Policy OpenAI",
+      "published_at": "2026-11-10T18:10:25Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -65,7 +161,7 @@
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUGFZSkVwQ2x5YWdjN0U2eDkzMTk1eFNSS3IwOWl0dDc4bDJDS3NvdlVOQnJ5b3B4ZVpNejBMbzdubVYxalRQVnAxODliMlZ1aDM3enhkWHZzSlZ1Qi1ncGgyQnRQQ2t0OWoyU3dicnRoWlFwVF9US0tBaWpuZmdSNFJVajNrN09aa3VHMXd2bzRldXhjeERTYjlONm5yenNsNEVCTWRB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRjBoVEZ3RzA5aWczVmpibzdZVEtrMzIwcFhqMlBWQ3A2M24xZGF3dHZQS0drUk9yMUlkWE5pdDFtWS1hUWxlelJqSklVdEpYa21QejctdGpCam11NDUxMGpDVDQ5cndyeVNSSXBDcHVfT19CMmotM282dWx3S3ZKVjdmc3pBNlNZek9JVWhHNjJLMHJXcHhxdGRXcWxGUnZkdVdGenV3?oc=5",
       "summary": "Community Zoom Community",
       "published_at": "2026-11-10T17:26:36Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
@@ -110,18 +206,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "One space station company sues another for copying its work",
-      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
-      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
-      "published_at": "2026-11-10T16:17:51Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/462a26ce1d097a27.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -158,54 +242,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "summary": "The new model is up to twice as successful at some tasks.",
-      "published_at": "2026-11-10T15:00:39Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b9b2cbe828bb1d61.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-      "published_at": "2026-11-10T14:53:05Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/97b296287b83a851.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
-      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
-      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
-      "published_at": "2026-11-10T14:43:49Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b8f5c5719f14d5d6.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Polestar has a new look with its Formula 2030 concept",
-      "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
-      "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
-      "published_at": "2026-11-10T14:22:02Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Polestar-260929-HBL_B0001178_v003-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/52c592459206ee73.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
@@ -216,18 +252,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-      "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
-      "published_at": "2026-11-10T12:15:32Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/7cb7420098e692d5.jpg"
     },
     {
       "category": "AI",
@@ -278,24 +302,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVmhybmVFVk01YlN2bmJid3VRTFhnU2o5NFlUX3RTV3RnNXpDaUI5bXBuSzhnRW1IaXE5eWhFV0RoTkVnN3ozcm4xbms4a3hQM21kYnhqaW4ydXZkaWJodEFoeG5NbE9aVWFpYUZ4b09GTG5yc2xkWFJzbk9UQ3lQeTUxMkhGVVJwdEFhUlNmekVFWmRNUmVXMXBrVTFwblRHUmtDYkpqQ2RWbndOSUFnZGFfVFYxdkZqOFNfVVJIamtEUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T03:29:05Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Elevated Errors On API - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13dUU3bFJlQkoyQXVfb1doRlVyVmtBYmtzZjVGeHREeG9WRDRDWVV2LUdNNW84RERfMG5fck5MTEFQWUE2dk45TDJBdkZnS0VhNVctdWdhV2tyclczY3Bqc1U0VmMxdXlpdHUzOXJabw?oc=5",
-      "summary": "Elevated Errors On API OpenAI Status",
-      "published_at": "2026-11-09T23:24:05Z",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-10T02:49:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -312,6 +324,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing Businesses in ChatGPT - OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Introducing Businesses in ChatGPT OpenAI",
+      "published_at": "2026-11-09T22:38:57Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -340,34 +364,10 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Build a retro handheld game with Codex and ModRetro Chromatic - OpenAI Developers",
+      "title": "Building a retro handheld game with Codex and ModRetro Chromatic - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85d3hjUHpqTlRtZmdOMF9uTG1GSnZZLVMwbFdzcVNPajVfaDBLU0w1ZlJNNTBDWDRUS04yU1dPSW54cm9fRFFYclJfeDZORk1TQVVqZmU3VHJMUXpqaUYwSXQxYTNvMU8tbVJhTERtVnc0R1VBSnFWakNZTQ?oc=5",
-      "summary": "Build a retro handheld game with Codex and ModRetro Chromatic OpenAI Developers",
+      "summary": "Building a retro handheld game with Codex and ModRetro Chromatic OpenAI Developers",
       "published_at": "2026-11-09T19:41:12Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Elevated ChatGPT Conversation Errors - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPdU9yODRSbER3dFFmNTV5dmtLMDh4bXY5MmRRLU1SX1VNMnlleHlQdWZCNkFHT1RfUTdSTHdXazJTRUctMllUSXJrOXRxTkYzNllYNE5SMA?oc=5",
-      "summary": "Elevated ChatGPT Conversation Errors OpenAI",
-      "published_at": "2026-11-09T19:31:11Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Kuken Industries searches 70 years of drawings in minutes - OpenAI",
-      "url": "https://openai.com/index/kuken",
-      "summary": "Kuken Industries searches 70 years of drawings in minutes OpenAI",
-      "published_at": "2026-11-09T19:19:41Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -590,6 +590,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Copilot, Microsoft 365 & Power Platform product updates call - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS1VuMHlDVGUxcUxfSGNBR25QaDRMa2F3RXlkd1VIcmg3dFQwdjNyU3VEc0tnb2lZNU5IYTVkWUFORHFJZFhWNWxJN1J3YTYtOHhwWEZoVTN3MVcySDF3MHUxd1Z5Ui1qc0toVjNQelpzVGxUWWExTzB3Sl9BWld5cE5OSHdpajJBeGxGZnd4MUpiUUlfWjV3YWNqVV8yTjJ0SkNzZWlHbG50ZTNOck1oZkVNOXd6Nll3d21PcG93RDZEc2Ri?oc=5",
+      "summary": "Copilot, Microsoft 365 & Power Platform product updates call Microsoft Community Hub",
+      "published_at": "2026-11-05T16:04:04Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -624,6 +636,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Troubleshooting Video Issues - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUDFpamhJOHB0dkpvenNYekxoUHAzdkxLNGNmYXVwbnRaZUxjTFJkZjVOS25MaU42RlMxR0dTc3RqOTRqeVpSb1F3a1cteXMyUnNWU2pMZ2tldi10dGVkeTNMQl90Tjg0Q1gyRDNqVUZxOXVlTi1YanpUdC1DTmtqR0RqMU5uaWdtam5IT2Frd21hb2UwM2JQckg2SUpTb3cyUk1XRXZBZFNsblU1NUItTWN5X3Zid0tiWWZENEVtRUhNdThKRV9HYlY2TnhtNjduc0F1VS1LWndza21iU2RFa0dWN3BkSVJGUWs3WW5lc2ZEZl9OTDVvV1JuczVlRmRp?oc=5",
+      "summary": "Troubleshooting Video Issues Zoom",
+      "published_at": "2026-11-04T14:45:24Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -734,18 +758,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Copilot | October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVjFsRVdqbEk0VVIxS0VFOEVLSGRTQTJHaXEyN3VGQWNsdXg5NGNYZC1ZOVVOalhqLUVKblRIZHRJZDMzTUhQQXdzZXI3VkFCTEZZa2tPTFFzNkhBMmZqdEhuZXJ1MUlxOWlheUM5NGNEQlRjUzM3ckhKR3FhR3J6T3JMUnRzaV9UaWxiWHdMTzg1bWtPclpGOEN5YjRwMVpJcDcxaEVKWkdCWXFvSGlWYUZuTWZCM0RoZ3F1Vy13ZE1SN1k?oc=5",
-      "summary": "What’s New in Microsoft Copilot | October 2026 Microsoft Community Hub",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
@@ -772,6 +784,18 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
+      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
+      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
+      "published_at": "2026-10-29T11:34:27Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
@@ -780,18 +804,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Windows CLAT is Now Generally Available - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVhELVV1Q19xOWprY1ZWcGZrOVJkcVhRWWFCRG5GdWRLcU5NNGFMa0VWZmRGNjB2cjJwZ1lHa0tyTDFwSkNTZHdXTlg1WEM2b0lISVdwT3hOa3JFdzNsU2d1b2IxTWdsalAwNjVaVnhLUjlleGRsSGFKMjRSUDVjTEpLVDJYMW9wajJXRV9NNzVhX1N0aGM2N2NxcXdHRkx3UGRNTFhR?oc=5",
-      "summary": "Windows CLAT is Now Generally Available Microsoft Community Hub",
-      "published_at": "2026-10-27T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -812,18 +824,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
       "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
       "published_at": "2026-10-20T10:04:57Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future - IIBA UK",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT1ZIaGcyU3FJLUhqdU94TXUxMjNoM2MxdklyOTJNdjJ4VlRjX3ZnNlBvY3JlQ1dmR3VOMnVKT1NCSjNrV3BTZnNFeU1CUUZ1MDV0MVVqR2JTQlFjbkZLMW42emxSRVdCcVBkbS1IYnJQQTNQR080bXkxZTlXOUJ2UE9lYThDakVvTEhKV3k3NlNVdjA5LWcxcThlaEZrWi1EaVhmcg?oc=5",
-      "summary": "(In person - Edinburgh) IIBA UK at 20: celebrating our past, shaping our future IIBA UK",
-      "published_at": "2026-10-18T18:10:11Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
