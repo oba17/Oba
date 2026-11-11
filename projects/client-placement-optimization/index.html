@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://oba17.github.io/Oba/projects/client-placement-optimization/">
+<title>Employment Services Placement Intelligence | Oba Adeleke</title>
+<meta name="description" content="Preview of a consulting-style Salesforce employment services data governance and job placement case study.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#051C2C;--blue:#225E83;--ink:#152F40;--muted:#4C6372;--line:#CFDEE7;--pale:#F3F7F9;--sky:#DBEFFF}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:var(--ink);font:400 16px/1.8 Inter,Arial,sans-serif;background:white}h1,h2,h3,p{margin-top:0}h1,h2{font-family:"Libre Baskerville",Georgia,serif;font-weight:400;letter-spacing:-.04em;line-height:1.27}h3{line-height:1.35}a{color:var(--blue)}a:focus-visible{outline:3px solid #63B3ED;outline-offset:3px}
+header{background:var(--navy);padding:18px max(24px,calc((100vw - 1240px)/2));display:flex;gap:18px;justify-content:space-between;align-items:center;flex-wrap:wrap}
+.brand{color:white;text-decoration:none;font-weight:800;font-size:1.17rem}.brand small{display:block;color:#C8DCE6;font-size:.64rem;font-weight:500;letter-spacing:.08em}
+nav{display:flex;gap:clamp(10px,2vw,25px);flex-wrap:wrap}nav a{color:#EFF7FB;font-size:.8rem;text-decoration:none;font-weight:600}
+.preview-marker{background:#E9F2FA;border-bottom:1px solid #C8DAE8;padding:9px 24px;font-size:.72rem;text-align:center;color:#244A63;font-weight:700;letter-spacing:.02em}
+.hero{background:linear-gradient(112deg,#051C2C,#164765 78%,#225E83);color:#fff;padding:clamp(55px,7vw,102px) max(24px,calc((100vw - 1200px)/2)) clamp(58px,6vw,90px)}
+.eyebrow,.sect-label{font-size:.7rem;letter-spacing:.16em;text-transform:uppercase;font-weight:800}.eyebrow{color:#A5DBFA;margin-bottom:22px}.hero h1{font-size:clamp(2.3rem,5vw,4.7rem);max-width:1050px}.hero .lead{color:#D6E7F1;max-width:850px;font-size:clamp(1.02rem,1.8vw,1.2rem)}
+.tags{display:flex;gap:10px;flex-wrap:wrap;margin-top:28px}.tags span{border:1px solid #87A7BC;padding:6px 12px;font-size:.71rem;font-weight:600;line-height:1.4}
+.kpis{max-width:1200px;margin:-24px auto 0;background:#E8F1F7;display:grid;grid-template-columns:repeat(4,1fr);position:relative;box-shadow:0 7px 28px #051C2C13}.kpis>div{padding:24px;border-right:1px solid #C3D4DF}.kpis>div:last-child{border:0}.kpis strong{font:400 clamp(2rem,3.5vw,3.1rem)/1.15 "Libre Baskerville",serif;color:#155A88;display:block;letter-spacing:-.05em}.kpis span{font-size:.73rem;display:block;line-height:1.55;margin-top:10px;font-weight:600;color:#314958}
+.wrap{max-width:1200px;padding:0 26px;margin:auto}.crumb{padding:25px 0;color:#617887;font-size:.76rem}.crumb a{text-decoration:none}
+.chapter{padding:62px 0;border-bottom:1px solid var(--line);scroll-margin-top:25px}.sect-label{color:#276F98;margin-bottom:12px}.chapter h2{font-size:clamp(1.8rem,3vw,2.65rem);max-width:980px}.intro{font-size:1.05rem;color:#435D6F;max-width:900px}
+.two{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(260px,.9fr);gap:40px;align-items:start}.panel{background:var(--pale);padding:26px;border-left:4px solid #296F99}.panel h3{font-size:1rem}.panel p,.panel li{font-size:.84rem}
+.three{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;margin:25px 0}.challenge-card{padding:23px;background:#F3F7F9;border-top:4px solid #225E83}.challenge-card h3{font-size:.94rem}.challenge-card p{font-size:.84rem;color:#566A77;margin:0}
+.process{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:25px 0}.step{padding:17px 13px;background:#EDF4F8;border-top:4px solid #2676A3;min-height:172px}.step.old{background:#F4F5F6;border-top-color:#9BAAB3}.step b{display:block;color:#286D96;font-size:.73rem;margin-bottom:9px}.step h3{font-size:.83rem;margin-bottom:7px}.step p{font-size:.72rem;line-height:1.55;margin:0;color:#4B6372}
+.media-figure{margin:27px 0;border:1px solid var(--line);background:#fff;display:none}.media-figure.ready{display:block}.media-figure img{width:100%;max-height:720px;object-fit:contain;display:block;background:#F6F8FA}.media-figure figcaption{padding:12px 17px;background:#F3F7FA;font-size:.76rem;color:#546B7B}.fallback{background:#EAF3F8;border-left:3px solid #4086AD;padding:16px 20px;font-size:.84rem;color:#38576A;margin:22px 0}.media-figure.ready+.fallback{display:none}
+.arch{display:grid;grid-template-columns:minmax(160px,.3fr) minmax(0,1fr);border:1px solid var(--line);margin:23px 0}.arch>strong{background:#0C344B;color:#fff;padding:17px;font-size:.8rem;border-bottom:1px solid #4E758B}.arch>div{display:flex;gap:10px;flex-wrap:wrap;padding:17px;background:#F2F7FA;border-bottom:1px solid #D3E0E7}.arch span{background:white;padding:8px 11px;border:1px solid #C8DCE7;font-size:.77rem;font-weight:600;line-height:1.5}
+.gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin-top:30px}.gallery-card{border:1px solid #CFDEE7;display:none;background:#FAFCFD}.gallery-card.ready{display:block}.gallery-card a{display:block;overflow:hidden;background:#EBF2F6}.gallery-card img{width:100%;height:240px;object-fit:contain;display:block;transition:transform .2s}.gallery-card img:hover{transform:scale(1.025)}.gallery-card div{padding:17px}.gallery-card h3{font:700 .92rem/1.4 Inter;margin:0 0 6px}.gallery-card p{font-size:.76rem;color:#587080;margin:0}
+.timeline{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:24px 0}.timeline article{border-left:3px solid #2F7CA9;padding:17px;background:#F2F7FA}.timeline b{display:block;color:#246F9B;font-size:.73rem;letter-spacing:.08em;margin-bottom:9px}.timeline h3{font-size:.95rem}.timeline p{font-size:.8rem;color:#506979;margin:0}
+.outcomes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:25px 0}.outcomes article{padding:24px;border:1px solid #CDDEE8}.outcomes strong{color:#205F87;display:block;font:400 2.2rem/1.2 "Libre Baskerville",serif;margin-bottom:12px}.outcomes p{font-size:.8rem;margin:0;color:#536978}
+.note{font-size:.77rem;color:#526E80;background:#F1F6F8;padding:17px;border-left:3px solid #7BAAC5;margin-top:24px}
+.cta{margin:40px 0 70px;padding:30px;background:#0C324A;color:white}.cta h2{font-size:1.5rem;color:white}.cta a{color:#B2E1FF}
+footer{background:#051C2C;color:#fff;text-align:center;font-size:.77rem;padding:27px}
+@media(max-width:830px){.kpis{grid-template-columns:repeat(2,1fr);margin:0}.two{grid-template-columns:1fr}.process{grid-template-columns:repeat(2,1fr)}.three,.outcomes{grid-template-columns:1fr 1fr}}
+@media(max-width:550px){.kpis>div{padding:15px}.wrap{padding:0 16px}.chapter{padding:42px 0}.three,.gallery,.timeline,.outcomes{grid-template-columns:1fr}.process{grid-template-columns:1fr 1fr}.arch{grid-template-columns:1fr}.arch>strong{padding:9px 15px}.gallery-card img{height:180px}}
+</style><!-- Preview publication retry: content unchanged; fresh GitHub Pages build requested 2026-11-11. -->
+</head>
+<body>
+<header><a class="brand" href="/Oba/">Oba Adeleke<small>SALESFORCE · BUSINESS ANALYSIS · TRANSFORMATION</small></a>
+<nav aria-label="Portfolio navigation"><a href="/Oba/">Home</a><a href="/Oba/projects/">Projects</a><a href="/Oba/certifications/">Certifications</a><a href="/Oba/contact/">Contact</a></nav></header>
+
+<main>
+<section class="hero">
+<p class="eyebrow">Employment Services / Data Strategy / Salesforce Transformation</p>
+<h1>Turning fragmented employment data into placement intelligence.</h1>
+<p class="lead">Designed and delivered a Salesforce-native, NOC-aligned occupational data foundation connecting client career goals, active employer opportunities, candidate submissions and measurable placement outcomes.</p>
+<div class="tags"><span>Senior Salesforce Technical Administrator</span><span>Project Lead</span><span>Solution Architect</span><span>9-person cross-functional team</span><span>3-month delivery</span></div>
+</section>
+<section class="kpis" aria-label="Reported outcomes">
+<div><strong>70%+</strong><span>Reported reduction in administrative effort</span></div>
+<div><strong>80%+</strong><span>Reported improvement in operational job matching</span></div>
+<div><strong>90%+</strong><span>Reported improvement in placements aligned with desired targets</span></div>
+<div><strong>NOC</strong><span>Standardized Canadian occupational classifications</span></div>
+</section>
+<div class="wrap">
+<p class="crumb"><a href="/Oba/projects/">Projects</a> / Employment Services Job Target Standardization &amp; Placement Intelligence</p>
+<section class="chapter" id="overview"><div class="two"><div>
+<p class="sect-label">01 / Executive perspective</p><h2>Solving a data governance problem at the heart of employment service delivery.</h2>
+<p>Before the transformation, staff captured occupational aspirations in free text. Around 40,000 historical manually entered titles contained inconsistent descriptions and duplicates, undermining data quality, client-goal tracking and funder reporting.</p>
+<p>I led requirements discovery, future-state process design, solution architecture and technical delivery to establish a reusable occupational reference model anchored to Canada's National Occupational Classification (NOC). Client-specific job targets, postings, candidate submissions and placements could then be connected through standardized records.</p></div>
+<aside class="panel"><h3>Project at a glance</h3>
+<p><strong>Role:</strong> Senior Salesforce Technical Administrator · Project Lead · Solution Architect</p>
+<p><strong>Team:</strong> Nine technical, functional and business contributors</p>
+<p><strong>Timeline:</strong> Three months, initiation through deployment and training</p>
+<p><strong>Platform:</strong> Salesforce Sales Cloud, Custom objects, Screen Flows, Record-triggered flows, Validation Rules, Permission sets, Formula fields, Reports and dashboards</p>
+</aside></div></section>
+<section class="chapter" id="challenge">
+<p class="sect-label">02 / Business challenge</p><h2>The organization could record employment aspirations—but could not reliably use them.</h2>
+<p class="intro">The issue was larger than inconsistent terminology. Free-text records limited reliable matching, a structured history of client goals, and defensible reporting to funding partners.</p>
+<div class="three">
+<article class="challenge-card"><h3>Fragmented occupational data</h3><p>Similar career aspirations were entered under different descriptions, creating duplicate values and inconsistent classifications.</p></article>
+<article class="challenge-card"><h3>Manual matching</h3><p>Staff interpreted client interests and employer opportunities without a dependable shared classification key.</p></article>
+<article class="challenge-card"><h3>Limited traceability</h3><p>Primary targets, candidate submissions and placements were difficult to reconcile against original employment goals.</p></article>
+</div>
+<p class="sect-label" style="margin-top:35px">The original operating process</p>
+<div class="process">
+<div class="step old"><b>01 / ASSESS</b><h3>Discuss client goals</h3><p>Career aspirations gathered through conversations.</p></div>
+<div class="step old"><b>02 / TYPE</b><h3>Free-text entry</h3><p>Inconsistent titles added to client records.</p></div>
+<div class="step old"><b>03 / INTERPRET</b><h3>Manual comparisons</h3><p>Employment Specialists infer relevant job postings.</p></div>
+<div class="step old"><b>04 / PLACE</b><h3>Weak linkage</h3><p>Outcomes not consistently traceable to desired goals.</p></div>
+<div class="step old"><b>05 / REPORT</b><h3>Reporting friction</h3><p>Duplicate titles complicate aggregation and funder outcomes.</p></div>
+</div>
+<figure class="media-figure"><img alt="As-Is swimlane process showing manual occupation entry and fragmented placement reporting" data-file="ChatGPT Image Nov 11, 2026, 01_55_26 PM-1.png"><figcaption>As-Is: free-text data entry, duplicated occupational titles and manual matching</figcaption></figure>
+<div class="fallback">The detailed As-Is process diagram will display here once its image is uploaded.</div>
+</section>
+<section class="chapter" id="process">
+<p class="sect-label">03 / Future-state transformation</p><h2>One governed pathway from occupational aspiration to employment outcome.</h2>
+<p class="intro">The new process connects a guided Screen Flow, NOC-aligned Job Targets, client-specific targets, automatically visible matching opportunities, candidate submissions and placement records.</p>
+<div class="process">
+<div class="step"><b>01 / CAPTURE</b><h3>Guided Screen Flow</h3><p>Career Advisor selects client, service plan and program component.</p></div>
+<div class="step"><b>02 / STANDARDIZE</b><h3>Select NOC targets</h3><p>Choose multiple standardized occupations in one interaction.</p></div>
+<div class="step"><b>03 / DESIGNATE</b><h3>Confirm primary goal</h3><p>Select ERA / funder-reportable job target.</p></div>
+<div class="step"><b>04 / MATCH</b><h3>Instant NOC visibility</h3><p>Matching active Client Job Targets appear under Job Posting related lists.</p></div>
+<div class="step"><b>05 / DELIVER</b><h3>Submission and placement</h3><p>Career Advisor submits candidate to the Employment Specialist or Employer Liaison team; placement links to targets and postings.</p></div>
+</div>
+<figure class="media-figure"><img alt="To-Be workflow showing Career Advisor candidate submission to Employment Specialist or Employer Liaison team" data-file="to_be_process_corrected.png"><figcaption>To-Be: guided target creation, immediate NOC-based matching, submission handoff and outcome tracking</figcaption></figure>
+<div class="fallback">The corrected To-Be process diagram will display here once uploaded.</div>
+</section>
+<section class="chapter" id="architecture">
+<p class="sect-label">04 / Salesforce solution architecture</p><h2>Separating occupational master data from client-specific goals unlocked reusable intelligence.</h2>
+<p class="intro">The standardized Job Target object provides the reference vocabulary. Client Job Target records represent each individual's employment goals; shared NOC codes enable posting alignment while preserving links to submissions and employment outcomes.</p>
+<div class="arch">
+<strong>People &amp; experience</strong><div><span>Career Advisors</span><span>Employment Specialists / Employer Liaison</span><span>Guided Screen Flow</span></div>
+<strong>Reference data</strong><div><span>Job Target · NOC code</span><span>Occupation title / TEER</span><span>Curated terminology and help text</span></div>
+<strong>Transactional model</strong><div><span>Account / Client</span><span>Service Element / Plan</span><span>Client Job Target</span><span>Job Posting</span><span>Candidate Submission</span><span>Placement</span></div>
+<strong>Rules &amp; governance</strong><div><span>Immediate NOC-code alignment</span><span>Screen / record-triggered flows</span><span>Validation rules</span><span>Role-based security</span><span>Primary ERA reporting target</span></div>
+<strong>Insights</strong><div><span>Active target reports</span><span>Matched postings</span><span>Candidate submission tracking</span><span>Employment outcome and funder reporting</span></div>
+</div>
+<figure class="media-figure"><img alt="Salesforce solution architecture integrating NOC reference data, Client Job Targets, Job Postings, submissions, placements, and analytics" data-file="solution_architecture_corrected.png"><figcaption>Salesforce solution architecture — Government NOC-aligned data foundation</figcaption></figure>
+<div class="fallback">The corrected Salesforce architecture diagram will appear here once uploaded.</div>
+</section>
+<section class="chapter" id="implementation">
+<p class="sect-label">05 / Implementation evidence</p><h2>Inside the delivered Salesforce experience.</h2>
+<p class="intro">Actual screenshots demonstrate the data model, guided selection and the related-list mechanism that makes NOC-based opportunities immediately visible. Click an image to open its full resolution.</p>
+<div class="gallery">
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Screen Flow User Interface 1.png" alt="Salesforce Screen Flow selects Client Account, service plan and program component"></a><div><h3>Guided intake</h3><p>Staff establish the client and service context.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Screen Flow User Interface 2.png" alt="Salesforce Screen Flow confirms selected standardized occupational targets"></a><div><h3>Target confirmation</h3><p>Selected NOC-aligned occupations reviewed before saving.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Screen Flow User Interface 3.png" alt="Screen Flow selects the Client Job Target for ERA funder reporting"></a><div><h3>Primary target selection</h3><p>Explicit reporting designation safeguards contractual data quality.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="List View NOC-aligned Job Target Reference Records.png" alt="Salesforce Job Target list containing standardized occupation names and NOC codes"></a><div><h3>Occupational reference data</h3><p>Consistent job titles, NOC classifications and TEER levels.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="NOC-aligned Job Target Reference Record 1.png" alt="NOC-aligned Job Target reference record"></a><div><h3>NOC reference record</h3><p>Curated occupational metadata and descriptive guidance.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Client Job Target Record.png" alt="Client Job Target record linked to client and occupation"></a><div><h3>Client-specific career goals</h3><p>Individual target records, status and associated NOC code.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Job Posting Related List.png" alt="Job Posting related list shows active matching Client Job Targets and candidate submissions"></a><div><h3>Immediate opportunity matching</h3><p>Related lists expose occupational matches and candidate submissions.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Candidate Submission Record.png" alt="Candidate submission with NOC Code Match field"></a><div><h3>Candidate submission handoff</h3><p>Career Advisor submits for the Employment Specialist / Employer Liaison team.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Placement Record Job Posting & Job Target Connection.png" alt="Employment placement links to Client Job Target and Job Posting"></a><div><h3>Employment outcome linkage</h3><p>Traceability from client aspiration to the employment record.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Job Target Dashboard.png" alt="Dashboard for active occupational targets and location distribution"></a><div><h3>Service delivery analytics</h3><p>Management visibility into occupational demand and trends.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Schema of Client Placement Solution.png" alt="Salesforce Schema Builder object relationships"></a><div><h3>Implemented data relationships</h3><p>Relationships supporting employment-service records and reporting.</p></div></article>
+<article class="gallery-card"><a data-image-link href="#"><img data-file="Job Posting Record.png" alt="Salesforce Job Posting detail record"></a><div><h3>Employer opportunity record</h3><p>Structured posting information and standardized occupational alignment.</p></div></article>
+</div><p id="gallery-fallback" class="fallback">The Salesforce screenshot gallery will populate automatically after the images are uploaded to the preview image folder.</p>
+<p style="font-size:.74rem;color:#627686;margin-top:20px">Existing technical source documentation: <a href="https://oba17.github.io/Client-Placement-Optimization-Project/" target="_blank" rel="noopener noreferrer">Original project diagrams, wireframes and dashboard mockups</a>. The original mockups are not represented as production screenshots.</p>
+</section>
+<section class="chapter" id="delivery"><p class="sect-label">06 / Delivery leadership</p><h2>From requirements discovery to deployment in three months.</h2>
+<div class="timeline">
+<article><b>PHASE 01</b><h3>Discover &amp; align</h3><p>Stakeholder research, As-Is mapping, business case, data quality and funder reporting requirements.</p></article>
+<article><b>PHASE 02</b><h3>Design &amp; implement</h3><p>NOC-aligned data model, guided multi-target experience, matching relationships, controls and automation.</p></article>
+<article><b>PHASE 03</b><h3>Validate &amp; adopt</h3><p>Staging tests, defect resolution, deployment readiness, training and operational handover.</p></article>
+</div>
+<p>As the Solution Architect &amp; technical lead, I coordinated a nine-person cross-functional delivery team spanning technical, functional and business disciplines. I led discovery, requirement validation, architecture decisions, backlog priorities, technical testing, and implementation readiness.</p>
+</section>
+<section class="chapter" id="outcomes"><p class="sect-label">07 / Outcomes &amp; operational scale</p><h2>Making matching faster, more consistent and measurable.</h2>
+<div class="outcomes">
+<article><strong>1,239</strong><p>Reported active client job targets</p></article>
+<article><strong>214</strong><p>Reported active job postings</p></article>
+<article><strong>439+</strong><p>Reported candidate submissions to open postings</p></article>
+</div>
+<div class="three">
+<article class="challenge-card"><h3>Reduced administration</h3><p>Guided multi-record capture reduced repeated navigation and manual data entry; the project reports more than a 70% reduction in administrative effort.</p></article>
+<article class="challenge-card"><h3>Instant occupational visibility</h3><p>When a Job Posting and an active Client Job Target share the relevant NOC code, related lists surface the match immediately. The project reports more than an 80% improvement in operational matching.</p></article>
+<article class="challenge-card"><h3>Traceable placement outcomes</h3><p>Linked Job Target, Posting, Submission and Placement records strengthen evidence that employment aligns with career goals. The project reports more than a 90% improvement in matching placements to desired targets.</p></article>
+</div>
+<p class="note"><strong>Measurement transparency:</strong> The percentages above are project-reported outcomes. Before/after benchmark datasets and measurement periods have not been supplied, so they are not reconstructed or treated as independently verified. Record counts are reported operational snapshots, not evidence of causal changes in placement success. NOC matching establishes occupational-code alignment, not by itself whether every candidate is suitable for a role.</p>
+</section>
+<section class="cta"><h2>Better occupational data. Stronger employment outcomes.</h2><p>The project connects process transformation, maintainable Salesforce architecture, and operational intelligence to serve clients, employment teams and funding partners.</p><p><a href="/Oba/projects/">Explore other portfolio projects</a> · <a href="/Oba/contact/">Contact me</a></p></section>
+</div></main>
+<footer>© 2026 Oba Adeleke. All rights reserved.</footer>
+<script>
+(()=>{const base="/Oba/previews/canadian/projects/client-placement-optimization/images/";
+document.querySelectorAll(".media-figure").forEach(frame=>{const img=frame.querySelector("img");const src=base+encodeURIComponent(img.dataset.file);img.addEventListener("load",()=>frame.classList.add("ready"),{once:true});img.src=src;});
+let ready=0;document.querySelectorAll(".gallery-card").forEach(card=>{const img=card.querySelector("img"),src=base+encodeURIComponent(img.dataset.file);img.addEventListener("load",()=>{card.classList.add("ready");ready++;document.getElementById("gallery-fallback").style.display="none"},{once:true});card.querySelector("a").href=src;img.src=src;});})();
+</script>
+</body></html>
