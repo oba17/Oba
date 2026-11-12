@@ -110,7 +110,11 @@
     <base href="/Oba/">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/Oba/assets/canadian-portfolio.css?v=20261110-launch">
-    </head>
+    <style>
+/* Fixed-size editorial cover bands: override generic project card content flex rules. */
+.project-card-v2 > .project-cover { flex: 0 0 200px !important; height: 200px !important; min-height: 200px; padding: 24px !important; }
+</style>
+</head>
 <body class="antialiased">
     <header class="site-header bg-[#2D3748] p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
@@ -152,7 +156,7 @@
             </div>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="project-card-v2">
-                    <div style="height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;background:linear-gradient(135deg,#051C2C,#245D7D);color:white"><span style="font:700 .66rem/1.4 Inter,sans-serif;letter-spacing:.13em;color:#C2E8FF">CASE STUDY / FINANCIAL OPERATIONS</span><strong style="font:400 1.58rem/1.35 Georgia,serif;margin-top:12px;color:#FFFFFF">Invoice accuracy, QA &amp; operational readiness</strong></div>
+                    <div class="project-cover" style="height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;background:linear-gradient(135deg,#051C2C,#245D7D);color:white"><span style="font:700 .66rem/1.4 Inter,sans-serif;letter-spacing:.13em;color:#C2E8FF">CASE STUDY / FINANCIAL OPERATIONS</span><strong style="font:400 1.58rem/1.35 Georgia,serif;margin-top:12px;color:#FFFFFF">Invoice accuracy, QA &amp; operational readiness</strong></div>
                     <div class="p-6">
                         <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Invoicing Automation System</h3>
                         <p class="mb-4 text-base" style="color: #6E6E73;">Contributed Salesforce configuration and QA leadership to a nine-month invoicing transformation; coordinated UAT, remediated 100,000+ legacy records and trained approximately 72 users.</p>
@@ -166,7 +170,7 @@
                 </div>
 
                 <div class="project-card-v2">
-                    <div style="height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;background:linear-gradient(135deg,#051C2C,#235E84);color:white;"><span style="font:700 .66rem/1.4 Inter,sans-serif;letter-spacing:.13em;color:#C2E8FF">CASE STUDY / EMPLOYMENT SERVICES</span><strong style="font:400 1.58rem/1.35 Georgia,serif;margin-top:12px;color:#FFFFFF">From fragmented job titles to placement intelligence</strong></div>
+                    <div class="project-cover" style="height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;background:linear-gradient(135deg,#051C2C,#235E84);color:white;"><span style="font:700 .66rem/1.4 Inter,sans-serif;letter-spacing:.13em;color:#C2E8FF">CASE STUDY / EMPLOYMENT SERVICES</span><strong style="font:400 1.58rem/1.35 Georgia,serif;margin-top:12px;color:#FFFFFF">From fragmented job titles to placement intelligence</strong></div>
                     <div class="p-6">
                         <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Employment Services Job Target &amp; Placement Intelligence</h3>
                         <p class="mb-4 text-base" style="color: #6E6E73;">A three-month, nine-person Salesforce transformation replaced inconsistent occupational data with NOC-aligned job targets, immediate opportunity matching and measurable funder-reportable outcomes.</p>
@@ -180,7 +184,7 @@
                 </div>
 
                 <div class="project-card-v2">
-                    <div style="background:linear-gradient(135deg,#051C2C,#225E83);height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;color:white;"><span style="font:700 .65rem/1.5 Inter,Arial,sans-serif;letter-spacing:.14em;color:#BBDFFF;">FEATURED CASE STUDY / SERVICE CLOUD</span><strong style="font:400 1.55rem/1.35 Georgia,serif;color:white;margin-top:10px;">From reactive support to measurable service excellence</strong></div>
+                    <div class="project-cover" style="background:linear-gradient(135deg,#051C2C,#225E83);height:200px;display:flex;flex-direction:column;justify-content:center;padding:24px;color:white;"><span style="font:700 .65rem/1.5 Inter,Arial,sans-serif;letter-spacing:.14em;color:#BBDFFF;">FEATURED CASE STUDY / SERVICE CLOUD</span><strong style="font:400 1.55rem/1.35 Georgia,serif;color:white;margin-top:10px;">From reactive support to measurable service excellence</strong></div>
                     <div class="p-6">
                         <h3 class="text-2xl font-bold" style="color: #1D1D1F;">Enterprise IT Support &amp; Service Management Transformation</h3>
                         <p class="mb-4 text-base" style="color: #6E6E73;">Led the analysis, architecture and delivery of a centralized Salesforce Service Cloud operation: 65% faster resolution, 45% less triage time and 100% routing accuracy.</p>
