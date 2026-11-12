@@ -42,6 +42,7 @@ function translate(){
   updating=false;
 }
 function setLang(lang){if(lang!=="en"&&lang!=="fr")return;current=lang;saveLang(lang);translate()}
+function wrapperForFrench(){return document.querySelector('.language-switch button[data-lang="fr"]')}
 function init(){
   const header=document.querySelector("header.site-header,header.topbar,body > header");
   const nav=header&&header.querySelector("nav");
@@ -54,7 +55,26 @@ function init(){
     nav.insertAdjacentElement("afterend",wrapper);
     header.classList.add("language-ready");
   }
+  // Use Google-generated, page-specific French dictionaries when available.
+  // Until Google Cloud authentication has produced those files, do not present
+  // the old partial handcrafted translations as a complete French page.
+  const frenchButton=wrapperForFrench();
+  if(frenchButton){frenchButton.disabled=true;frenchButton.title="French translation is being configured with Google Cloud Translation."}
+  current="en";
   translate();
+  const page=window.location.pathname.replace(/^\\/Oba\\/previews\\/canadian\\/?/,"").replace(/\\/$/,"");
+  const slug=page? page.replace(/\\/index\\.html$/,"").replace(/\\//g,"--") : "home";
+  fetch("/Oba/previews/canadian/assets/translations/"+encodeURIComponent(slug)+".json",{cache:"no-store"})
+    .then(response=>{if(!response.ok)throw new Error("Google translation pending");return response.json()})
+    .then(data=>{
+      if(data.source!=="Google Cloud Translation Advanced v3"||!data.translations)throw new Error("Unexpected translation data");
+      translations.clear();
+      for(const [english,french] of Object.entries(data.translations))translations.set(english,french);
+      if(frenchButton){frenchButton.disabled=false;frenchButton.title="Afficher cette page en français"}
+      current=getLang();
+      translate();
+    })
+    .catch(()=>{if(frenchButton)frenchButton.title="French preview unavailable until Google Cloud Translation setup is completed."});
   let pending=false;
   const observer=new MutationObserver(()=>{if(updating||pending)return;pending=true;requestAnimationFrame(()=>{pending=false;translate()})});
   observer.observe(document.body,{childList:true,subtree:true});
