@@ -682,7 +682,10 @@ main.page-shell > section.impact-stats .stat-description {
 }
 @media (max-width: 650px) {
   .ca-video-slide {
-    width:calc(100vw - 32px);
+    width:calc(100vw - 40px);
+    max-width:520px;
+    height:clamp(160px,42vw,230px);
+    aspect-ratio:auto;
     margin-bottom:32px;
   }
 }
