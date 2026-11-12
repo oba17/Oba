@@ -8,7 +8,7 @@ const LANG_KEY="oba_editorial_preview_language";
 const getLang=()=>{try{return localStorage.getItem(LANG_KEY)==="fr"?"fr":"en"}catch(_){return "en"}};
 const saveLang=(lang)=>{try{localStorage.setItem(LANG_KEY,lang)}catch(_){}};
 let current=getLang(),updating=false;
-const normalize=(v)=>v.replace(/\\s+/g," ").trim();
+const normalize=(v)=>v.replace(/\s+/g," ").trim();
 const isExcluded=(el)=>el.closest("script,style,noscript,svg,[data-no-translate],.language-switch")!=null;
 function translate(){
   updating=true;
@@ -22,7 +22,7 @@ function translate(){
     const raw=originals.get(node),key=normalize(raw);
     const val=translations.get(key);
     if(!val){if(current==="en"&&node.nodeValue!==raw)node.nodeValue=raw;continue}
-    const leading=raw.match(/^\\s*/)[0],trailing=raw.match(/\\s*$/)[0];
+    const leading=raw.match(/^\s*/)[0],trailing=raw.match(/\s*$/)[0];
     const output=current==="fr"?leading+val+trailing:raw;
     if(node.nodeValue!==output)node.nodeValue=output;
   }
