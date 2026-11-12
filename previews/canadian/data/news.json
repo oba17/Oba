@@ -1,13 +1,61 @@
 {
-  "updated_at": "2026-11-12T03:52:45Z",
+  "updated_at": "2026-11-12T12:51:43Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Review: Apple’s M6 iMac is pricey, but it’s still a good choice for a clean desk - Ars Technica",
+      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+      "summary": "Review: Apple’s M6 iMac is pricey, but it’s still a good choice for a clean desk Ars Technica",
+      "published_at": "2026-11-12T12:00:37Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/293560637bdca012.jpg"
+    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
-      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-12T00:42:07Z",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-12T10:19:18Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "published_at": "2026-11-12T09:30:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XeEs4YkU4T19TNG8wY0ZqbmFkdWQtVG8xX21IZzBzVkxzdFlBaGhfY0t0cXRWWm8yR0kwMUl1WEZULTZLR3RpVi1aRlFtMGpva1BjSFpqdnZMS0tZLWxCZ0ZHdXAyMVBXZnNacWF1bw?oc=5",
+      "summary": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate OpenAI Status",
+      "published_at": "2026-11-12T09:25:30Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "published_at": "2026-11-12T00:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -24,18 +72,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/41d4b8a358f4cfb9.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-11T22:46:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -84,6 +120,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
+      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
+      "published_at": "2026-11-11T19:49:02Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -146,18 +194,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/2adf2fdb75c5ed77.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Python support has arrived in the guided Copilot experience for VS Code - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcThJZ1RDei1pbm10WW1CYkcyQ2VnNVNteU5BcXVDQWhhSVRic0hFMVJpRkVJZHFIa19vMU9PT1JtX0RSUW9felhCV2F2NGFnWGJ3SDZOTm16SnRZcHdxa1BUUlBQeklzaE5nLTl1X28wSmxrZXZxb1A4SVQ3TUVwMFRMTHlJaFF3M09WWHRtWlF2ZWkzQXZrNGItYXAtWVZmX3VTYjlDRzBNTGRGeXNJdmxVWDBXVDNlSHludDUtUHBUSjZwdFlWbmtQYWJiQ3pzSHc?oc=5",
-      "summary": "Python support has arrived in the guided Copilot experience for VS Code Microsoft Community Hub",
-      "published_at": "2026-11-11T17:27:59Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Apple is shuttering its 28-year-old online community forum",
@@ -180,6 +216,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/d95d524bb0be391c.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Microsoft Tech Community",
+      "title": "What You’ll Learn, Explore, and Experience at ESPC 2026",
+      "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-you-ll-learn-explore-and-experience-at-espc-2026/ba-p/4572576",
+      "summary": "AI is changing the way organizations think about productivity, collaboration, knowledge, development, security, and business processes. But keeping up with the pace of change is only part of the challenge. The…",
+      "published_at": "2026-11-11T16:18:37Z",
+      "image_url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTcyNTc2LVkyN3RhTw?revision=1",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
     },
     {
       "category": "Microsoft",
@@ -267,11 +315,35 @@
     },
     {
       "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "What affects chain-of-thought monitorability across the model lifecycle? - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRWhCSnZabGY1Nk9pUl9tbGdsY1RTWGZ4bTV4SVFSSVB2aHhYX2F6cGpTUVZsQXRZR1Z6SXhrLTZuejZWUFpMdDZMQWlQX1VGbVJTQkJhUXdRdWFOSGFzVEg2SE1yb2FmZjNKSDVzb08?oc=5",
+      "summary": "What affects chain-of-thought monitorability across the model lifecycle? OpenAI",
+      "published_at": "2026-11-11T06:45:30Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
       "source": "OpenAI News",
       "title": "Singapore Airlines elevates travel & work with OpenAI technology - OpenAI",
       "url": "https://openai.com/index/singapore-airlines-travel-work",
       "summary": "Singapore Airlines elevates travel & work with OpenAI technology OpenAI",
       "published_at": "2026-11-11T05:47:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Retiring Advanced and Standard Voice in ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbW83bUFGTFBpOGlVOEZkWEwtbHMwcklsN3BwRzJtZjhTbVpkcXMzNVFFcDdZcXNpelpGcHpQTmFXLWF6YnNpYTQtYUV5Wm5EeFZRdDVHa0diNlppdXp3emotUlZNMmdXcnVCWVlPZmdGSmFRSk9MYXBfbDVfbVhWa1RrR0pYeTFwMmkwejZqdGZEVXZZTGJn?oc=5",
+      "summary": "Retiring Advanced and Standard Voice in ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-11T01:32:24Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -288,18 +360,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "summary": "Seagate’s new hybrid drive raises some old questions Ars Technica",
-      "published_at": "2026-11-10T23:30:56Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/53a4b60491a0aec3.jpg"
     },
     {
       "category": "Business Analysis",
@@ -350,30 +410,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Business Agents Policy - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jREpQOHZ0Yl9YN0U0MVdVZXJoejhRenVqVV9oSHBxeTBac2NNQldGN1BNU3ViZWoySEhRUVNYU0pNeXdyNDZZcmFUU25uVnZwOGZ3M2lRYWhOWVo3TmZWaQ?oc=5",
-      "summary": "Business Agents Policy OpenAI",
-      "published_at": "2026-11-10T18:10:25Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Pushing voice agents further: inside four GPT-Live builds - OpenAI Developers",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZXAzU3FfR0tNNjNzd1FJZWRDT21YdEtJSnlEZ3VySHdMc3g4dVlOTU5oYXRmWEFPLVpxa2ZudWhKNUZyYXhOZEpLd3JRUFRLdUxxTzVGRlZrUXh6eFVadFU2TEJ2NDQ2UkhtWGVLTC0?oc=5",
-      "summary": "Pushing voice agents further: inside four GPT-Live builds OpenAI Developers",
-      "published_at": "2026-11-10T18:05:07Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
@@ -410,18 +446,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Work at the Frontier: AI’s effect on freelance work - OpenAI",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "summary": "Work at the Frontier: AI’s effect on freelance work OpenAI",
-      "published_at": "2026-11-10T15:04:04Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
@@ -444,42 +468,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Helping caregivers use AI in everyday life - OpenAI",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "Helping caregivers use AI in everyday life OpenAI",
-      "published_at": "2026-11-10T12:07:52Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft 365 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uY1NVNWdHajFmaVRyN1ozOFcxRlJIZWxsZTlBS1h5N3hOeV9zeHlDbm5wTWFYMkoxT2ZvcEZOTEVhY25Pb2ZKdFY2SnBuV2xBRTVuWDNjWFNqaldBcmdUVldqT0FKR040?oc=5",
-      "summary": "Microsoft 365 Microsoft Community Hub",
-      "published_at": "2026-11-09T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
-      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
-      "published_at": "2026-11-09T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -674,6 +662,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Scale access controls with Microsoft Entra Conditional Access policy plans - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOXFYMkpCX0Z0M1k0ZlFGNUdLZmNaT2YtcjdLSERZYTU3eTRoOW5BNjloYld3ZXNsdVlxLVFIc1RUc2M4VXBCMTM1ZkhuWmtlWDNSSXRhcG1aVmd6TlF2Y05vblFENHMycTZvU1ZPSW9UdzF2bVdUbmZkYllFMWZ3dXBrczhEYmVBbXFFRzF4Skd2RWI0MmhMbU9sdlRFc2MyLVpiYnhiVFh4UERwcjN1M1VpQ1hZVkVpQlpMZUlrYi1nU2hDODFuM2JqMDFkWGxkSjZqbDZVYy03ZkZv?oc=5",
+      "summary": "Scale access controls with Microsoft Entra Conditional Access policy plans Microsoft Community Hub",
+      "published_at": "2026-11-04T17:08:58Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
@@ -720,6 +720,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6f96d4a5b108c146.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQbEtMNzRDaEE1RmF4OFNnNDBLUEtPcG1hRlEzUmdhNDJMQlpleE5JMi1idHVZdzNnNlVsZmF1Q3l3NnVLODBPX0xFX2dpNjFkNjNqUzNfRXpPRU9FRXdxOFVDYmQzYllkbE5QcFRQdUF3V2dURWo2M0xMXzV3SWpxN3Zud25yMXdyYVRrQktnRktNbWZwQ3dNaDJ0Ml9ucVNIMFRnY2FmZVNz?oc=5",
+      "summary": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide Salesforce Developers",
+      "published_at": "2026-10-30T11:38:08Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Salesforce",
@@ -780,18 +792,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "MemberPlan for Pharmacy Benefits Verification - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUc0Q3FyallMbmxYZ3NoVkV3SVNRWHJyZExnelg0TXhnTlpreGxZQ2NhaFd3ZUY3UjRKc2RXTGVsZjd5UGxuUGlTd3czYUJESk93RkpHM0hBUGpIZldVMVFmM0dER3pXSmpZdjQ0ZVU2c0hadW1fYWhFNlNMUE9tLW94RUstcVpvLWN1d1A4TXRJUW9UVW90OE85SkRsY1NPbFByR1NYUTdQVHNKT1pRTDU3V1A2ajQ?oc=5",
-      "summary": "MemberPlan for Pharmacy Benefits Verification Salesforce Developers",
-      "published_at": "2026-10-30T07:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Business Analysis",
