@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://oba17.github.io/Oba/contact/">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact | Oba Adeleke</title>
@@ -109,8 +107,25 @@
     </style>
     <base href="/Oba/">
     <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/Oba/assets/canadian-portfolio.css?v=20261110-launch">
-    </head>
+    <link rel="stylesheet" href="/Oba/assets/canadian-portfolio.css?v=20261111-mobile-video">
+    <meta name="robots" content="index,follow">
+<link rel="canonical" href="https://oba17.github.io/Oba/contact/">
+<style id="consulting-reach-preview">
+.location-maps .location-heading{max-width:100%;text-align:left;margin-bottom:30px}
+.location-maps .consult-locations-eyebrow{font:700 .7rem/1.5 Inter,sans-serif;letter-spacing:.15em;color:#28698F;text-transform:uppercase;margin:0 0 13px}
+.location-maps .location-heading h2{margin:0 0 12px}
+.location-maps .consult-locations-subtitle{font:400 clamp(1.25rem,2.7vw,1.8rem)/1.45 Georgia,serif;color:#164A68;margin:0 0 15px}
+.location-maps .consult-locations-description{font:400 .95rem/1.8 Inter,sans-serif;color:#455E70;max-width:850px;margin:0}
+.location-maps .map-details .consult-location-role{font-weight:700;color:#225F83;line-height:1.6;margin:12px 0 5px}
+.location-maps .consult-locations-availability{background:#EDF5F9;border-left:4px solid #286F99;color:#234A61;padding:17px 21px;font:500 .86rem/1.7 Inter,sans-serif;margin:25px 0 0}
+@media(max-width:650px){.location-maps .location-heading{margin-bottom:22px}.location-maps .consult-locations-description{font-size:.87rem}}
+</style>
+<style id="contact-icon-preview">
+#contact .contact-icon-heading{display:flex;align-items:center;justify-content:flex-start;text-align:left;margin-bottom:23px;padding-bottom:15px}
+#contact .contact-handshake-icon{display:inline-flex;align-items:center;justify-content:center;width:88px;height:88px;border:1px solid #C7DCE8;border-radius:50%;background:#EDF5F9;font:normal 46px/1 "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif}
+@media(max-width:650px){#contact .contact-handshake-icon{width:76px;height:76px;font-size:40px}}
+</style>
+</head>
 <body class="antialiased">
     <header class="site-header bg-[#2D3748] p-6 shadow-xl">
         <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
@@ -138,8 +153,8 @@
         <main class="page-shell container mx-auto px-4 py-12 md:py-16">
         <div class="ca-page-intro"><p class="ca-eyebrow">CONNECT / COLLABORATION</p><h2>Let’s Connect</h2><p>Business transformation begins with a conversation.</p></div>
 <section id="contact" class="bg-white p-8 md:p-12 rounded-2xl shadow-xl border border-gray-100">
-            <div class="section-header">
-                <h2 class="text-3xl md:text-4xl font-extrabold" style="color: #4A5568;">Let's Connect</h2>
+            <div class="section-header contact-icon-heading" aria-label="Connect and collaborate">
+                <span class="contact-handshake-icon" role="img" aria-label="Handshake">🤝</span>
             </div>
             <div class="max-w-xl mx-auto">
                 <p class="text-lg text-center mb-6" style="color: #6E6E73;">I'm always open to discussing new opportunities or collaborations. Feel free to contact me!</p>
@@ -160,7 +175,10 @@
 <!-- Interactive Canadian locations: one map visible at a time. -->
 <section class="location-maps" aria-labelledby="location-heading">
   <div class="location-heading">
-    <h2 id="location-heading">Explore Locations</h2>
+    <p class="consult-locations-eyebrow">CONSULTING REACH / CANADA &amp; BEYOND</p>
+    <h2 id="location-heading">Where I Work &amp; Consult</h2>
+    <p class="consult-locations-subtitle">Local presence. Broader impact.</p>
+    <p class="consult-locations-description">Based in Calgary, Alberta, I collaborate with organizations across Canada and internationally, delivering Salesforce solutions, business analysis, and technology transformation services. My availability extends beyond the locations highlighted below.</p>
   </div>
 
   <!-- One radio group controls the three map panels without JavaScript. -->
@@ -168,7 +186,7 @@
     <input type="radio" name="city-map" id="map-calgary" class="sr-only" checked>
     <label for="map-calgary">Calgary</label>
     <input type="radio" name="city-map" id="map-bc" class="sr-only">
-    <label for="map-bc">British Columbia</label>
+    <label for="map-bc">Vancouver</label>
     <input type="radio" name="city-map" id="map-toronto" class="sr-only">
     <label for="map-toronto">Toronto</label>
   </div>
@@ -176,8 +194,8 @@
   <div class="map-panels">
     <div class="map-panel" data-city="calgary">
       <div class="map-details">
-        <h3>Calgary</h3>
-        <p>Downtown Calgary, Alberta</p>
+        <h3>Calgary, Alberta</h3>
+        <p class="consult-location-role">Primary Base · Consulting &amp; Solution Delivery</p>
         <p>Canada</p>
         <a class="map-external" href="https://www.google.com/maps/place/Downtown,+Calgary,+AB/data=!4m2!3m1!1s0x53716ffb86200597:0x10c42af1e7df241e" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
       </div>
@@ -192,8 +210,8 @@
     </div>
     <div class="map-panel" data-city="british-columbia">
       <div class="map-details">
-        <h3>British Columbia</h3>
-        <p>Downtown Vancouver, British Columbia</p>
+        <h3>Vancouver, British Columbia</h3>
+        <p class="consult-location-role">Consulting &amp; Project Engagements</p>
         <p>Canada</p>
         <a class="map-external" href="https://www.google.com/maps/place/Downtown+Vancouver,+Vancouver,+BC/data=!4m2!3m1!1s0x5486717f41ba2fb1:0xc6952794560a44aa" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
       </div>
@@ -208,8 +226,8 @@
     </div>
     <div class="map-panel" data-city="toronto">
       <div class="map-details">
-        <h3>Toronto</h3>
-        <p>Downtown Toronto, Ontario</p>
+        <h3>Toronto, Ontario</h3>
+        <p class="consult-location-role">Consulting &amp; Project Engagements</p>
         <p>Canada</p>
         <a class="map-external" href="https://www.google.com/maps/place/Downtown+Toronto,+Toronto,+ON/data=!4m2!3m1!1s0x89d4cb34d27310bd:0xba15d20622070393" target="_blank" rel="noopener noreferrer">Open in Google Maps <span aria-hidden="true">↗</span></a>
       </div>
@@ -223,6 +241,7 @@
       </div>
     </div>
   </div>
+  <p class="consult-locations-availability">Available for consulting and project engagements across multiple locations, including opportunities beyond the cities highlighted above.</p>
 </section>
     </main>
     <footer class="p-6 text-center mt-12" style="background-color: #2D3748; color: #FFFFFF;">
