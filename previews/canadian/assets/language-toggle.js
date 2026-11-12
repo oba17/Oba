@@ -62,8 +62,8 @@ function init(){
   if(frenchButton){frenchButton.disabled=true;frenchButton.title="French translation is being configured with Google Cloud Translation."}
   current="en";
   translate();
-  const page=window.location.pathname.replace(/^\\/Oba\\/previews\\/canadian\\/?/,"").replace(/\\/$/,"");
-  const slug=page? page.replace(/\\/index\\.html$/,"").replace(/\\//g,"--") : "home";
+  const page=window.location.pathname.replace(/^\/Oba\/previews\/canadian\/?/,"").replace(/\/$/,"");
+  const slug=page ? page.replace(/\/index\.html$/,"").replace(/\//g,"--") : "home";
   fetch("/Oba/previews/canadian/assets/translations/"+encodeURIComponent(slug)+".json",{cache:"no-store"})
     .then(response=>{if(!response.ok)throw new Error("Google translation pending");return response.json()})
     .then(data=>{
