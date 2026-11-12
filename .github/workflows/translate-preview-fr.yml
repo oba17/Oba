@@ -1,0 +1,56 @@
+name: Generate French Portfolio Preview (Google Cloud Translation)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: french-preview-translation
+  cancel-in-progress: false
+
+jobs:
+  translate-preview:
+    name: Translate seven Canadian Editorial preview pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out portfolio
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Authenticate with Google Cloud (keyless)
+        uses: google-github-actions/auth@v3
+        with:
+          workload_identity_provider: ${{ secrets.GCP_WIF_PROVIDER }}
+          service_account: ${{ secrets.GCP_TRANSLATION_SERVICE_ACCOUNT }}
+          project_id: ${{ vars.GCP_TRANSLATION_PROJECT_ID }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: scripts/translation-requirements.txt
+
+      - name: Install translation dependencies
+        run: pip install -r scripts/translation-requirements.txt
+
+      - name: Generate complete French dictionaries for preview pages
+        run: python scripts/generate-french-preview.py --project-id "$GCP_PROJECT_ID"
+        env:
+          GCP_PROJECT_ID: ${{ vars.GCP_TRANSLATION_PROJECT_ID }}
+
+      - name: Commit only generated preview translations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add previews/canadian/assets/translations/*.json
+          if git diff --cached --quiet; then
+            echo "French previews already up to date"
+          else
+            git commit -m "Generate French preview dictionaries using Google Cloud Translation"
+            git push
+          fi
