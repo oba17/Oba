@@ -1,10 +1,46 @@
 {
-  "updated_at": "2026-11-13T01:55:11Z",
+  "updated_at": "2026-11-13T09:39:55Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-13T09:37:57Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Sites: Publishing failing - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhb0FJdkZMdDBPQU1qQTY3RDZoRE81RWRIOEdfZHlhQlBRNmQwYTU0dEhpZ0JQMVRwUVNZeVVOM29TYUdHLXR6MWcxS08xUTdPc0RhTFVQaFVPRERZeTlaVlJVN0MzdmszTnhKaTJLTQ?oc=5",
+      "summary": "Sites: Publishing failing OpenAI Status",
+      "published_at": "2026-11-13T04:06:42Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Gondola doubles revenue as its team builds more with Codex - OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola doubles revenue as its team builds more with Codex OpenAI",
+      "published_at": "2026-11-12T23:12:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
       "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "published_at": "2026-11-12T22:59:51Z",
@@ -110,6 +146,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/74e4e208fac1f3ab.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft 365 Outage Updates - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5Od1d1Q0ZOaWVkOVFicWlrYzZtdVRWRmY4ZGtjck5BR0RtcTFvU2t1YWtYZDI4WXVNUVd2NEtDaXRQenB4NU9ySmZ3bG9pZ2s5RXg5ZGw4YjB2OHl6bFhTWDFBemZVNU1JNGZYNGlfZjMycThFWWZNdGZLaXZrYUxVbjlqa1RPVUU0bnJsNGM2Z250NGd6amlmckRDdW8?oc=5",
+      "summary": "Microsoft 365 Outage Updates Microsoft Community Hub",
+      "published_at": "2026-11-12T19:05:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
@@ -132,6 +180,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/55ed119131abf388.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming - OpenAI Alignment Research Blog",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52RG9TNWRTQTg3OUJzMzhGbEUzSG1ZX0Rqek45b2ZaczE2UDVNZDNPaURwSlh2aEFBUmlvWEVWYzE5ckcySnlWMjJ6Y3NwaDlkUlVnSThxMU9GZw?oc=5",
+      "summary": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming OpenAI Alignment Research Blog",
+      "published_at": "2026-11-12T18:29:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -168,6 +228,30 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/77e63ce3a70107f3.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
+      "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
+      "published_at": "2026-11-12T17:59:35Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Register interest in Daybreak Red Team - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSG5lM19wbDlYdnR1czVxNXlpLW1ZaktTMHdJbU5SdldGYlROZk9YbVhjUWRnTUdkRXZESXJ5a2ZQYjdnY0FUYVpGY1MzbHpINWN2bw?oc=5",
+      "summary": "Register interest in Daybreak Red Team OpenAI",
+      "published_at": "2026-11-12T17:59:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -220,18 +304,6 @@
     {
       "category": "AI",
       "source": "OpenAI News",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "published_at": "2026-11-12T12:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
       "title": "Supporting research on AI and children’s safety - OpenAI",
       "url": "https://openai.com/index/children-first-declaration",
       "summary": "Supporting research on AI and children’s safety OpenAI",
@@ -248,54 +320,6 @@
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "summary": "Holiday Extras is rethinking what it can build with Codex OpenAI",
       "published_at": "2026-11-12T09:40:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XeEs4YkU4T19TNG8wY0ZqbmFkdWQtVG8xX21IZzBzVkxzdFlBaGhfY0t0cXRWWm8yR0kwMUl1WEZULTZLR3RpVi1aRlFtMGpva1BjSFpqdnZMS0tZLWxCZ0ZHdXAyMVBXZnNacWF1bw?oc=5",
-      "summary": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate OpenAI Status",
-      "published_at": "2026-11-12T09:25:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "How to scan documents to PDF? - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ3lHQ0JnZFdhSDhPTU5lU052allyOURlckxUUjJGSGJHZU9Md0hBVHQwTld4aDJudEpRejAzSUdxamZrZHEyMzBtSFU4djZETTlHR0tGVDV2WDYwTHhaQ0E1TGw4REtYdEd4emd1MHREQ2dHX3pCTTdvOFRlZzdjSXgyZzdqbGtzclNpcjF1RUwwQ2lEQUE4U0JB?oc=5",
-      "summary": "How to scan documents to PDF? Microsoft Community Hub",
-      "published_at": "2026-11-12T09:09:15Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "published_at": "2026-11-12T00:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Elevated errors affecting logins, sign-ups, and ChatGPT features - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GdEFtUS1DM05HcGkwS0lMSUpYYjdMY1JxNklscHBpdEM0QXlFR2t5ZF9UVWgxMWVxMnRya3JMSnoyMmxQNk1RSWV1c1owWFpvelJlSTg4dw?oc=5",
-      "summary": "Elevated errors affecting logins, sign-ups, and ChatGPT features OpenAI Status",
-      "published_at": "2026-11-11T21:48:54Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -326,6 +350,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBsNGsxQ3NjcXYzRktBbVA2LUh1Y2RQZ01MMGpfOVhINjJxTkhlb3pqRDZxLXFlbGZhZmoyXzNHaHZFdjN2amNiQ21oeEFDNzdMOUc5TXVjcXdpVUU5WnBDOG5jWG1tUWhyS2VaenBXd2dkRXl1WXMzQzNZekZOY2FXNGhaT3pKUUJvbmxZYlVFQmNTZG04aktPTlhuRHVYNEsyV1VmT1hXNmNUOFFvWkhXZS1PckZiWXhKbVdHYzVMM2laZXVKV0ZfLVZ3OXNi?oc=5",
+      "summary": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot Microsoft Community Hub",
+      "published_at": "2026-11-11T19:17:21Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Defender Vulnerability Management Blog - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWozU2NuUmhqbHltR09sVW1uTThEVndLa1VkWHAzZWJZUl9CRWVUUXpaMmgwekNKZnhDb3cwY28yekVwVldqYWRCUUZFdlN6cFl4VTZCbUVKQzBzTHprQVBtc0l6clV6UUZWT1VmX1ZKNzNkOVhiMkt1OF9OdHhVZ1ZKUWItc1c2X2ZGdVprRlY5Z1NncWQ1RE43b2N4UQ?oc=5",
+      "summary": "Microsoft Defender Vulnerability Management Blog Microsoft Community Hub",
+      "published_at": "2026-11-11T17:20:51Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
@@ -348,18 +396,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Copilot Connectors Update: October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYbEJqZExoNzcxNmZYOFNyS2owbUR0UGQ0dmdtT0FpVy1HeTdTX3BTcHFEbFB0dWRvLTVreVhuSnV6c1o4UzlFMU5UNHNMTXhYX0J5MmZiVjBXbDJWdXdETFZDMVM1ejdqVzZjUDNqZTF4MElBUWhfdDl1a3BLeHN4SEVRVWc2MEM3cTFhaXVBMGk4VVB2R1BxUHVCZVozeEJxYUh1M0JJTTBQUmU0WnpMVmlHSm1fMTk3LQ?oc=5",
-      "summary": "Microsoft Copilot Connectors Update: October 2026 Microsoft Community Hub",
-      "published_at": "2026-11-11T16:17:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -396,30 +432,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "What affects chain-of-thought monitorability across the model lifecycle? - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaRWhCSnZabGY1Nk9pUl9tbGdsY1RTWGZ4bTV4SVFSSVB2aHhYX2F6cGpTUVZsQXRZR1Z6SXhrLTZuejZWUFpMdDZMQWlQX1VGbVJTQkJhUXdRdWFOSGFzVEg2SE1yb2FmZjNKSDVzb08?oc=5",
-      "summary": "What affects chain-of-thought monitorability across the model lifecycle? OpenAI",
-      "published_at": "2026-11-11T06:45:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Business Analysis",
@@ -496,10 +508,10 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNzF2cktYLWZJeUVpUUVtcHhmVko4V1dxbnVkSGsyaHU4UGgwV0h6NENBenJTYkttcnZGRENySFVXcEhXT21kcGl2SHZmQnZWTVFtU3g2bFN2bV9UOGpzWDhMUHhVbmFaY01jWEcxOWJfTXpwRDg5SUYxbmxfTXc0dFV6blhUZlVqTGJ3ZnN1NUQ0cUxaNTN5b0dSVTFwN1IyQWtVanlCV0QtaDlsTUhBa21WS3VWbFp1bjk5X1hhMjVCVlBJM0lwbnJSMjlMWmZwa0p5S2NlNFpRcmo4cndLa29wVmZZMnJtOEQtOHFrTWdFWXV1V0ZSaXdtMTIxRk16?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T14:55:08Z",
+      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
+      "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
+      "published_at": "2026-11-10T14:08:39Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -508,10 +520,10 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
-      "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
-      "published_at": "2026-11-10T14:08:39Z",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZk5ONkVIREY4anhrSWF1N1FoVGkzREJPakx4eWpSVmRkOThvUTRFTUJfcGlBdkQ2SVV2OFcyNVZkdWNpY25BXzZSc3d2dHA5b2daOWN3TGY0d3l3ektBVVM4dkFOUTJEdjd0dkc4VDVGdGhsclY0V3BsOEh4MWJHR292aXF4bFg5M2N3U3BCOFN1UzdLY2s3WkZUTG1lcFU2d0JMVzNqZmctVWN2OHRUV2ItYW5GRGxBUnVjcy1HOC00eTlBMFNEY1Y2NmloMHVLUTh4a2JaOElJNFJRTDNuaUZra1BVdGdURHF1eU1yM2FOX05rMXpMend0ei1GeE9s?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T03:55:14Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -542,6 +554,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnNCSllJXy1kMVdvcmJUbmMzNlZlVkplRnJhczJNUjdwRklTTENmYmhJOVJ5V2FGTWx4REtvakFFNlgxWG81dENHeXNEdURSUGJnemRaNDVsR2tmSDBlSWE5WF83TkV0R0p0M3FhLWs0cUs0elRQT0tJZllndThGMWhYOWVMc0ZicVlZWExwalJudm50S3JiWnk2Y2d3QTRSdUNmNkg1ZFh6ejJEeUVsaFhuU1pYeHJsSTdxR2M2bG52NjJJLVB2RnFsVFpCQ2ZrQ1RSaEdrZFoxQU5nX1JXQmxYcw?oc=5",
+      "summary": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution Microsoft Community Hub",
+      "published_at": "2026-11-07T17:40:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Webinar marketing strategy: Zoomtopia 2026 recap - Zoom",
+      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
+      "summary": "Webinar marketing strategy: Zoomtopia 2026 recap Zoom",
+      "published_at": "2026-11-07T00:09:50Z",
+      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
@@ -552,18 +588,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Webinar marketing strategy: Zoomtopia 2026 recap",
-      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
-      "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
-      "published_at": "2026-11-06T23:24:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Microsoft",
@@ -638,30 +662,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzVJR2V1cTdfaWRGNWF1Q0ExLVBUUVlZaDhwckRTdTgySTJEak9HZEFrSi1ScXNyZ0h3TEg0YnlySUZiOWRRY05WZ0FNSXV3RjdFbTk0bVAxeVNoU3hYT0RGeGZXaTNoNnVUQUlFRVdfZlFMSWgxX2pmMl9DeDBjdW5PcVFHdjM5X2FIeEZhdFN3VkI2RmQzSExONTZzVzBOV01hTF9LVmRCcU9jYlQ1YjZlUnRnTThIYnhUbC03MGc0WGtsOXZOWmpTTzhCdw?oc=5",
-      "summary": "Moonshot AI’s Kimi K3.1 Pro comes to Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-05T19:55:20Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjktd09mM3Y3S2pXWGdEVGNTTzIzZkR6ZHBOTVV2VkpValF6bHpzZmh3d3FYZ0JRLXRiN29SZEZYQ0xQSXhSN25zRW9DUnVDQ3JlT01qeW44aF9rRmdhMVQwSHVUeC1DNWEyNU5QMzlXY05oaWRYSlp2bGFseURpQ1REeXRSZGFqUTVSc3kxZ05PTW14bElFY2JKTFl5SDJUNXRzVzJDQjZzLTFKUVp2Xy1lT0xNcHM1ZUlyT0YtajlFRG14b0JJc0lTRGozN1RqTUZzcG85d2dwbmpJeGVLYTg3dVUtQQ?oc=5",
-      "summary": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-05T18:07:52Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -724,18 +724,6 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "LearningProgram - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
-      "summary": "LearningProgram Salesforce Developers",
-      "published_at": "2026-10-30T13:16:22Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
       "title": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQbEtMNzRDaEE1RmF4OFNnNDBLUEtPcG1hRlEzUmdhNDJMQlpleE5JMi1idHVZdzNnNlVsZmF1Q3l3NnVLODBPX0xFX2dpNjFkNjNqUzNfRXpPRU9FRXdxOFVDYmQzYllkbE5QcFRQdUF3V2dURWo2M0xMXzV3SWpxN3Zud25yMXdyYVRrQktnRktNbWZwQ3dNaDJ0Ml9ucVNIMFRnY2FmZVNz?oc=5",
       "summary": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide Salesforce Developers",
@@ -764,6 +752,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
       "summary": "InsurancePolicyParticipant Salesforce Developers",
       "published_at": "2026-10-30T11:21:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "InsurancePolicyTransaction - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5oOEx5RGltVXMwVFZtcVdobXRKRkF3UlptemlIbmV2b0laUHNiRkdKcWV4aXlqQkdsSW1wSGlLQVhNU0JudGlGVV9WTTlDZi05Mi0tYWRfXzRhbHBncUZXOFhoZmplcWxSdGpLZDNnQVdkNUMxSTZ5TW85LUhwNlhYZm9JYmcxQXN2ZEE1RU5EbUt4OGF2cjF4ZjJRLW13cktmVHJqdm1LdnhfSk5yM080SlQ0bU5nenRR?oc=5",
+      "summary": "InsurancePolicyTransaction Salesforce Developers",
+      "published_at": "2026-10-30T11:06:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
