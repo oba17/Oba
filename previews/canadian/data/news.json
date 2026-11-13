@@ -1,13 +1,133 @@
 {
-  "updated_at": "2026-11-13T09:39:55Z",
+  "updated_at": "2026-11-13T17:50:08Z",
   "articles": [
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to track webinar analytics: metrics, tools, and a step-by-step guide - Zoom",
+      "url": "https://www.zoom.com/en/blog/how-to-track-webinar-analytics-metrics-tools-and-a-step-by-step-guide/",
+      "summary": "How to track webinar analytics: metrics, tools, and a step-by-step guide Zoom",
+      "published_at": "2026-11-13T17:39:39Z",
+      "image_url": "https://media.zoom.com/images/assets/Getty+computer/Zz1kNzBmMTQyY2RmODMxMWYxYjZjMDZlM2Y0ZTlkNWUzNw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "published_at": "2026-11-13T17:25:45Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/3adcad53aa2021b3.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "published_at": "2026-11-13T16:26:32Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "published_at": "2026-11-13T15:26:53Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/369f525cd5611d0f.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT Wallet - OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet OpenAI",
+      "published_at": "2026-11-13T15:15:30Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
+      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+      "published_at": "2026-11-13T15:09:39Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ddac38b57c7af7dc.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
+      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "published_at": "2026-11-13T14:45:04Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9cf814aff6251f37.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
+      "published_at": "2026-11-13T14:29:15Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/87647081bfd0dcd3.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "summary": "\"You can simplify it as a big tank feeding engines.\"",
+      "published_at": "2026-11-13T12:00:40Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a627b1cafa682c62.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
+      "summary": "Specialized’s second-fastest bike may be the smart buy.",
+      "published_at": "2026-11-13T11:50:38Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/96489eda1033e862.jpg"
+    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-13T09:37:57Z",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-13T11:11:25Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -122,30 +242,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "published_at": "2026-11-12T19:23:03Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2ce2b90d2aeff2d.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "published_at": "2026-11-12T19:09:57Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/74e4e208fac1f3ab.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Microsoft 365 Outage Updates - Microsoft Community Hub",
@@ -156,30 +252,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "published_at": "2026-11-12T18:57:45Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/1bd8989a3785962f.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Netflix releases new trailer for Ray Gunn",
-      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
-      "summary": "\"It's hard being the only honest players in a crooked game.\"",
-      "published_at": "2026-11-12T18:38:38Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/55ed119131abf388.jpg"
     },
     {
       "category": "AI",
@@ -206,30 +278,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Building a rocket is hard. AST SpaceMobile thinks it’s “simple.” - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
-      "summary": "Building a rocket is hard. AST SpaceMobile thinks it’s “simple.” Ars Technica",
-      "published_at": "2026-11-12T18:28:22Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/5c9b3e1cfb768412.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
-      "published_at": "2026-11-12T18:17:19Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/77e63ce3a70107f3.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
@@ -254,28 +302,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "The amazing disappearing exoplanet",
-      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "summary": "An exoplanet seems to have stopped transiting in front of its host star.",
-      "published_at": "2026-11-12T17:18:10Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/7793e7273f343264.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "A next step in the evolution of the Microsoft Data Governance strategy - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUdXQ2pPd2dkbkNuRGlTb3BIWFRCLUo5WUkzaGJERjBNN0QtOFVVLWVyM2N3THVJeDJyNHdxTFlobDdsY3hJZklfMzFnNzF1Y0k4dWZveDlaVlc3QlhwSDRXZDBJTWo5TFNKYlRZWGdjLVNTSDRJUVBqNEVXMl9Tb05xX2hwQnBJa1BVM3lUS0ZQMlJ3NS1hOS1DeFkwYU15OGxfZ21PQXpBZ0hnT3BBdnVLRHRBOEhzWHhGS3hZbmxBSjNYdUN2VE90RlNrdFgxanVDV3FaeXhsRVU?oc=5",
-      "summary": "A next step in the evolution of the Microsoft Data Governance strategy Microsoft Community Hub",
-      "published_at": "2026-11-12T17:15:21Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
+      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
+      "published_at": "2026-11-12T17:16:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Salesforce",
@@ -290,40 +326,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "url": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "published_at": "2026-11-12T14:50:17Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/56fb6bd6a143f5eb.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Supporting research on AI and children’s safety - OpenAI",
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "Supporting research on AI and children’s safety OpenAI",
-      "published_at": "2026-11-12T10:03:55Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHowZ2xjN09US2Z2LThVMDVNUVZka1d4a0Y1OTNYeWZ4OVlkckJuUGV3V3hYakdpTWk0WXNvb3FvZGhicUFjMGN0c2R3RFdMS1VZZzJ0ZGY4UTAzYnQ2N2xtSjBnZGZGZlAwWno0amFweTVTU1p6SWE2UmpqOEdwSFZfVHRaNG5xYVp2UHdyTHhOQ1B4NFlpdGJBTWg3N05GTmswbEd4a2dvXzhtaWhHeEUtdDRWQklTTF9WSkhqNVpUUQ?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-12T04:29:30Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Holiday Extras is rethinking what it can build with Codex - OpenAI",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "summary": "Holiday Extras is rethinking what it can build with Codex OpenAI",
-      "published_at": "2026-11-12T09:40:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Business Analysis",
@@ -356,18 +368,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBsNGsxQ3NjcXYzRktBbVA2LUh1Y2RQZ01MMGpfOVhINjJxTkhlb3pqRDZxLXFlbGZhZmoyXzNHaHZFdjN2amNiQ21oeEFDNzdMOUc5TXVjcXdpVUU5WnBDOG5jWG1tUWhyS2VaenBXd2dkRXl1WXMzQzNZekZOY2FXNGhaT3pKUUJvbmxZYlVFQmNTZG04aktPTlhuRHVYNEsyV1VmT1hXNmNUOFFvWkhXZS1PckZiWXhKbVdHYzVMM2laZXVKV0ZfLVZ3OXNi?oc=5",
       "summary": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot Microsoft Community Hub",
       "published_at": "2026-11-11T19:17:21Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Defender Vulnerability Management Blog - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWozU2NuUmhqbHltR09sVW1uTThEVndLa1VkWHAzZWJZUl9CRWVUUXpaMmgwekNKZnhDb3cwY28yekVwVldqYWRCUUZFdlN6cFl4VTZCbUVKQzBzTHprQVBtc0l6clV6UUZWT1VmX1ZKNzNkOVhiMkt1OF9OdHhVZ1ZKUWItc1c2X2ZGdVprRlY5Z1NncWQ1RE43b2N4UQ?oc=5",
-      "summary": "Microsoft Defender Vulnerability Management Blog Microsoft Community Hub",
-      "published_at": "2026-11-11T17:20:51Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -432,6 +432,42 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "A next step in the evolution of the Microsoft Data Governance strategy - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUdXQ2pPd2dkbkNuRGlTb3BIWFRCLUo5WUkzaGJERjBNN0QtOFVVLWVyM2N3THVJeDJyNHdxTFlobDdsY3hJZklfMzFnNzF1Y0k4dWZveDlaVlc3QlhwSDRXZDBJTWo5TFNKYlRZWGdjLVNTSDRJUVBqNEVXMl9Tb05xX2hwQnBJa1BVM3lUS0ZQMlJ3NS1hOS1DeFkwYU15OGxfZ21PQXpBZ0hnT3BBdnVLRHRBOEhzWHhGS3hZbmxBSjNYdUN2VE90RlNrdFgxanVDV3FaeXhsRVU?oc=5",
+      "summary": "A next step in the evolution of the Microsoft Data Governance strategy Microsoft Community Hub",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Granular controls for multiple updates in Windows Autopatch - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE9WdUhkdXRMejFzQW12S0JfRXRxS2x3dFo5b3JfM05abjBQbjlxTS1ZLTVNSnZTMmNuUXhXV2RtUko5anItMUE1aGRhWU9vSnktcUFJZkVPMW43ZE1PemJMTVVLNERaVUswZTVjRUdPWmp0b0hTanhRSUY1UG5vc0xhVVhpQl9pbDAtbzl0cy1ZLXdGVkFLZWl3Vm9XZmZhbWRUbFc2clItc3BvUnhmRFJTcjV2NTBNMVpOWmxmam93UW93d3c?oc=5",
+      "summary": "Granular controls for multiple updates in Windows Autopatch Microsoft Community Hub",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft 365 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uY1NVNWdHajFmaVRyN1ozOFcxRlJIZWxsZTlBS1h5N3hOeV9zeHlDbm5wTWFYMkoxT2ZvcEZOTEVhY25Pb2ZKdFY2SnBuV2xBRTVuWDNjWFNqaldBcmdUVldqT0FKR040?oc=5",
+      "summary": "Microsoft 365 Microsoft Community Hub",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -518,24 +554,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZk5ONkVIREY4anhrSWF1N1FoVGkzREJPakx4eWpSVmRkOThvUTRFTUJfcGlBdkQ2SVV2OFcyNVZkdWNpY25BXzZSc3d2dHA5b2daOWN3TGY0d3l3ektBVVM4dkFOUTJEdjd0dkc4VDVGdGhsclY0V3BsOEh4MWJHR292aXF4bFg5M2N3U3BCOFN1UzdLY2s3WkZUTG1lcFU2d0JMVzNqZmctVWN2OHRUV2ItYW5GRGxBUnVjcy1HOC00eTlBMFNEY1Y2NmloMHVLUTh4a2JaOElJNFJRTDNuaUZra1BVdGdURHF1eU1yM2FOX05rMXpMend0ei1GeE9s?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T03:55:14Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Turn Copilot insights into action with connector write capabilities - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORE44UTdGcHRWVWZpQUNEVVZRd0hzR0QwendQejZtUFgxNHJ4SHcwSVlHTjkzNFJTbkxuSkpNYVA5SWlnV1V3WlIzeVRoTWNMWHg3ZjlWVnViOF9IdmF1aTFtQzZVY2JSUHZDaHZZNHppOS1xRHRseGl0eGRkQkt3VXd4elk0dkRsTGVyc0hUbWgzSHRiR2xnRElZRlJzZ1dEUkE5VjItOXNIUnBpaHpMd09XWWk5RVJ2aGNULTFVZkV4TlZRejNIbExxRElNdEU4dVNVbmZn?oc=5",
-      "summary": "Turn Copilot insights into action with connector write capabilities Microsoft Community Hub",
-      "published_at": "2026-11-09T17:14:12Z",
+      "title": "Enhanced resilience with Windows settings backup and restore - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWWkxb19qSXlJS1lUOEJlejI3VWFXSFVWTlpaZGtKaG9fSkZfUGdEb1NadWNJQTVQaW9LZnFZdko5MUFvellNQU8wMTVwVUZjd18tMDkwYTljME9zdmROaFZFMVpjb3dZcWthS0VjMVVBTG1WeU5SeDNNb3FMVDJKWE5rcXo5a2RMOEk3NTlBRFdMb3FVZ3JRaGNpbUJWRzF5dVFOZ2JfWnB1dng2U0xJbTlBN0c2Nng5LVExby13QzFfRFZhUzVF?oc=5",
+      "summary": "Enhanced resilience with Windows settings backup and restore Microsoft Community Hub",
+      "published_at": "2026-11-09T19:49:55Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -650,18 +674,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF1SG9xRnhaMldQOEFhY0tfZ0NwdWd0eGxEMFRscEhTVmozS3FpLVhiQkNmWlpaWWJrbTU4RUhqWTVXUEI3b2hFcjZhUlhCWVBlMDZxV29WYlRoT0JPdDdiUDY0UmFINWo0YUZsdHYxV0pQVlV5TW42elk3WTlISUdkTE5LNUZLRUxoYjRwM0FybVB1V2RvWTBpNUxWN0p6cFVOVFZfNWIyeWlUaUVRbVFqSUFiYXhxdnNTOWxVSGpvMmdkNlBQNkdTcU1QakdnbEw0NFVzMnVWQVQwNG13Xw?oc=5",
-      "summary": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more Microsoft Community Hub",
-      "published_at": "2026-11-05T21:25:40Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -708,6 +720,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Modern Analyst",
+      "title": "Prediction: The Product Owner Role is Disappearing",
+      "url": "https://modernanalyst.substack.com/p/prediction-the-product-owner-role",
+      "summary": "The Product Owner role is disappearing.",
+      "published_at": "2026-11-02T15:42:06Z",
+      "image_url": "https://modernanalyst.substack.com/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/42735b18b0d0c3c9.jpg"
     },
     {
       "category": "Zoom",
@@ -818,36 +842,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "The context layer every enterprise AI deployment is missing",
-      "url": "https://www.zoom.com/en/blog/the-context-layer-enterprise-ai-is-missing/",
-      "summary": "How ZoomMate and Zoom's Unified Context Layer help close the gap between enterprise conversations and the outcomes that matter.",
-      "published_at": "2026-10-27T16:03:25Z",
-      "image_url": "https://media.zoom.com/images/assets/The+context+layer+every+enterprise+AI+deployment+is+missing/Zz1iZWI5OTE2YWQyZTgxMWYxYmFkMmNhMDZjM2JjZWUyOA==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/759e1e5aa845fd07.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "IIBA Sydney (In-Person) - EoY Networking Event - IIBA Australia",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZxVmptT0lDXy1pdVBDVlJsR250X1doV0JIUWVNbk5JVWZqYkFxdGMxSnVaLUdkQnN1YVhFZ01fMTJfNFZjdmh0MnhHVXdQUTEtem9ZVUlZd2FROUpfemppODdfQ1p4YWJJNlJvVHRaZDktOGFvY3JJeExsejJEbnN2U09IclVxLUdF?oc=5",
       "summary": "IIBA Sydney (In-Person) - EoY Networking Event IIBA Australia",
       "published_at": "2026-10-22T16:06:32Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech - IIBA Raleigh",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVFYOHdGLVlnT2I1QmI1VXBZLWFOT09oaV9KbmE0akhwUV9iOTllN1VMem9lMk9zY0hzWjVyc3djOFN2bDJtTVZlXzZ6dlNJdUNDWnF2Vm01WkQyX293S2VsRXBUNnZ0R3ZlamstbkNKaFU0c3l1TVQtMVR6UGdTZGc1UQ?oc=5",
-      "summary": "IIBA RTP-Raleigh Partner Event Nov 10 2026 - Tools-and-Tech IIBA Raleigh",
-      "published_at": "2026-10-20T10:04:57Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -872,6 +872,7 @@
     "AI",
     "Zoom",
     "Tech",
+    "Business Analysis",
     "Business Analysis",
     "Salesforce",
     "Microsoft",
