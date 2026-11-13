@@ -62,3 +62,23 @@ footer{background:var(--deep)!important;color:#DAE5EB!important;font:500 .78rem/
 @media(max-width:850px){.ca-hero{grid-template-columns:1fr;gap:35px}.ca-hero:after{display:none}.ca-hero-aside{max-width:640px}.ca-page-intro,.ca-hero{margin-left:-16px!important;margin-right:-16px!important}}
 @media(max-width:767px){header.site-header{padding:18px!important}.site-header>.container{align-items:flex-start!important}.site-header nav ul{justify-content:flex-start!important;gap:10px 16px!important}.site-header nav a{font-size:.72rem!important}.site-header img{width:60px!important;height:60px!important}.site-header h1{font-size:1.6rem!important}.ca-hero{min-height:auto;padding:52px 28px!important}.ca-hero h2{font-size:2.75rem!important}.ca-page-intro{padding:48px 28px!important}main.page-shell{padding:0 16px 65px!important}.skill-bubble{min-height:auto}#about,#certifications,#feedback,#contact{padding:30px 8px!important}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition-duration:.01ms!important;animation-duration:.01ms!important}}
+
+/* Homepage narrative and impact preview — Canadian Editorial */
+.ca-hero-signature h2{font-size:clamp(2.12rem,4.15vw,4.25rem)!important;line-height:1.22!important;letter-spacing:-.052em!important;max-width:770px}
+.ca-hero-signature{min-height:520px}
+.ca-section-kicker{font:600 clamp(.97rem,1.4vw,1.15rem)/1.6 var(--sans)!important;color:var(--blue)!important;letter-spacing:-.01em;margin:-14px 0 25px}
+.ca-editorial-prose{max-width:1000px;font:400 clamp(.94rem,1.2vw,1.04rem)/1.85 var(--sans);color:var(--ink)}
+.ca-editorial-prose p{margin:0 0 1.1rem!important;line-height:1.85!important}
+.ca-editorial-prose p:last-child{margin-bottom:0!important}
+.ca-editorial-prose strong{font-weight:700;color:var(--deep)}
+.ca-impact{border-top:1px solid var(--line);padding:clamp(32px,4.5vw,60px) clamp(12px,2vw,30px)}
+.ca-impact-intro{font-size:1rem;color:var(--muted);margin-bottom:26px}
+.ca-metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.ca-metrics>div{padding:28px 20px 26px;border-right:1px solid var(--line)}
+.ca-metrics>div:first-child{padding-left:0}
+.ca-metrics>div:last-child{border-right:none}
+.ca-metrics strong{font:400 clamp(2.1rem,3.4vw,3.5rem)/1.15 var(--display);color:var(--deep);display:block;letter-spacing:-.045em}
+.ca-metrics span{display:block;margin-top:12px;font:500 .82rem/1.6 var(--sans);color:var(--muted)}
+.ca-why{border-top:1px solid var(--line);padding:clamp(32px,4.5vw,60px) clamp(12px,2vw,30px)}
+@media(max-width:780px){.ca-metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.ca-metrics>div:nth-child(2){border-right:none}.ca-metrics>div:nth-child(-n+2){border-bottom:1px solid var(--line)}.ca-metrics>div:nth-child(3){padding-left:0}.ca-hero-signature h2{font-size:clamp(2.05rem,7vw,3.1rem)!important}}
+@media(max-width:480px){.ca-hero-signature h2{font-size:1.95rem!important}.ca-metrics strong{font-size:2rem}}
