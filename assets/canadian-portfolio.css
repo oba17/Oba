@@ -689,3 +689,11 @@ main.page-shell > section.impact-stats .stat-description {
     margin-bottom:32px;
   }
 }
+
+/* Approved homepage About Me and Why I Do This editorial prose */
+#about .ca-home-prose,.ca-why .ca-home-prose{max-width:1020px;font:400 clamp(.92rem,1.12vw,1.03rem)/1.8 'Inter',Arial,sans-serif;color:#142E40}
+#about .ca-home-prose p,.ca-why .ca-home-prose p{font-size:inherit!important;line-height:1.82!important;margin-bottom:1.1rem!important}
+#about .ca-home-prose p:last-child,.ca-why .ca-home-prose p:last-child{margin-bottom:0!important}
+#about .ca-section-kicker,.ca-why .ca-section-kicker{font:600 clamp(.98rem,1.35vw,1.15rem)/1.55 'Inter',Arial,sans-serif!important;color:#225E83!important;margin:-12px 0 23px!important}
+main.page-shell>section.ca-why{padding:clamp(34px,4.5vw,60px) clamp(12px,2vw,30px)!important;border-top:1px solid #CBD7DC;background:white!important}
+.ca-why strong{color:#051C2C;font-weight:700}
