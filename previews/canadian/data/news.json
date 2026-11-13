@@ -1,6 +1,210 @@
 {
-  "updated_at": "2026-11-13T17:50:08Z",
+  "updated_at": "2026-11-13T23:39:30Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "FAA orders third nationwide ground stop in its history",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "published_at": "2026-11-13T23:17:38Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9f268e4b1cc11846.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-13T22:23:07Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
+      "published_at": "2026-11-13T21:59:01Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/55737490adfb6632.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "published_at": "2026-11-13T21:20:47Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fb1282143880a0a1.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to write a proposal to provide a good or service - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0dTJLSzBWYThuTkVfcXJ1WXFJTmlvb2EtaWFHandxc1ZzbUtaal9BcXNCX1FPdnpFX1FiLXRFbVRPcGl6emJ0akVDdzMyM1hMTjRnR2NmRHZCUGZkUm9Iai1VZ3NwRUNXbTMxWnliNVpRdm44eDY5ZQ?oc=5",
+      "summary": "How to write a proposal to provide a good or service Zoom",
+      "published_at": "2026-11-13T20:34:10Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to ask someone to sign and return documents effectively - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdzJqMTBIVHJHOXg3NExxN3FESkt5ZWdzMFFZRXJXcTNFVDlYMFdLYzBMRlRjSzUzZmxYSlBOb0dHcU5BdHFKTE41cVFOR3lOOGpfc1lvSE0?oc=5",
+      "summary": "How to ask someone to sign and return documents effectively Zoom",
+      "published_at": "2026-11-13T20:34:10Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to write a marketing services proposal that wins clients - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Yjc3ekJYY0xtVkJDRXE0aDNkX3MycVpVU2t5Uml2aWQ1VkF4T0tTZmpheUVvYWY3OXRKRThKSUwzMEtoY1ZJb0ZrdDBoT1Q4N2RSY2haNmowWjZKNTB2MUlzQ3lrMFBS?oc=5",
+      "summary": "How to write a marketing services proposal that wins clients Zoom",
+      "published_at": "2026-11-13T20:34:10Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "In elephants, the resilience of communities has its limits",
+      "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+      "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
+      "published_at": "2026-11-13T20:03:13Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156609-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/cbdcf160b4cf19b4.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "published_at": "2026-11-13T19:49:16Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e1cc546b16b1165d.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to set up automatic payments for your business - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEdocjBWdEJIQ2VBd3plS2M0SVpGakZ6dW4xX09xV1RfYXpyOVh3SWt3VDBuTzlHSDFmVEREWDJqSUZtX2VJeFZ1WDhPSGRlSWJrV0pUbTRnRU51a2pnY3EtOHRYZm9od0x0bkZfRVFxeF9QSVh1SVBpR1NUa25Vb0VmcGNRTEk?oc=5",
+      "summary": "How to set up automatic payments for your business Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "CRM migration: a complete guide for freelancers and small businesses - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yY2h5dVZ4clZwOXFiNGdxbjlvRno5cXY3a3FwaWk5WDFWODN5RGdlTFd5emkwZUJDWEx0bnl1OXpBR1BRcFVYX2pmbHBDcVc1UXV3Ti13?oc=5",
+      "summary": "CRM migration: a complete guide for freelancers and small businesses Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Multi account management: a guide for small businesses - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2XzZfdGN1cXI0NnBtejdWRzNfbnk3ZnFMbzNLWGJnb3M3X3pxSE9mNThIU0s3R2lTWk1SZ3hYOEJnVW9KblNWb3A3bGNQcTFab1dWcXBhWTVxTXdjdjRSZTZnREU?oc=5",
+      "summary": "Multi account management: a guide for small businesses Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to write an overdue payment letter (with examples) - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZmtycFV2YTV2eGVGdUhxcXA3Q2dabVRpTkhEeEhXVkxTX2pxMG5UMjRLR190THozSlZCb3R6bktNeGp5SkFZVEN6RjVBRkZvMk1pWmVFN0hlem52UW9IOHBB?oc=5",
+      "summary": "How to write an overdue payment letter (with examples) Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to pay an invoice with a credit card: quick guide - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bFdLTDdFWlhqRk5ha2I1TnJxamVqaTZZYVgtNk5OLWM3Tk8yM2hqbmJrYTY2ZDJfTlRkZzVtUjd4MkJVNE83NzNfZEx3YW80aW5YZlJfV2liZ1p6THNXMld4d0htdndJSkE?oc=5",
+      "summary": "How to pay an invoice with a credit card: quick guide Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Invoice request guide: create one in 6 simple steps - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EUTF1dERQbDJsTjJfQ1pwTm42NnJyS3NhQTh0Q2ZJQ3hoZmZweTZFdWN1SjJiQUk3OHBjWF9JLTFHT3R5LWFPenhaSXhFTkV2S1dLQlQza18?oc=5",
+      "summary": "Invoice request guide: create one in 6 simple steps Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to build a client getting system that converts - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZ0NXQ016U1pGejViRGQzTUpZRlhhaXZ0VHY2VDAwYTRycWZjR1BYY0U4Z1VjcEdyUXpPeUJCS083WVFTMldiNjdEY3o5alU1VmdMUkxrSGg1N3NNNHdGeQ?oc=5",
+      "summary": "How to build a client getting system that converts Zoom",
+      "published_at": "2026-11-13T19:36:02Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is a webcast? A plain-English guide - Zoom",
+      "url": "https://www.zoom.com/en/blog/what-is-a-webcast-a-plain-english-guide/",
+      "summary": "What is a webcast? A plain-English guide Zoom",
+      "published_at": "2026-11-13T18:37:51Z",
+      "image_url": "https://media.zoom.com/images/assets/Webcast/Zz0wNzEyZDI1NmRmOGIxMWYxOGMzOWFhNTYxMTQxMmI0NQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6e61df4604292108.jpg"
+    },
     {
       "category": "Zoom",
       "source": "Zoom Blog",
@@ -16,9 +220,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away - Ars Technica",
       "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "summary": "OpenAI board member worries an AI \"takeover\" of society could be months away Ars Technica",
       "published_at": "2026-11-13T17:25:45Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
       "video_url": "",
@@ -36,6 +240,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-13T16:10:07Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -110,40 +326,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a627b1cafa682c62.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-      "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-      "summary": "Specialized’s second-fastest bike may be the smart buy.",
-      "published_at": "2026-11-13T11:50:38Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/96489eda1033e862.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-13T11:11:25Z",
+      "title": "Sites: Publishing failing - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OVG1KdE43SlEwc1lUUW1CUWg3NUZHU1ByRThlMzQzaFFHa0VobF90YllhTnI3U0pESHdSVkZadVdLcHlXSUJ4Z252dS1MSndaSm9TQXdzTQ?oc=5",
+      "summary": "Sites: Publishing failing OpenAI",
+      "published_at": "2026-11-13T08:37:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Sites: Publishing failing - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhb0FJdkZMdDBPQU1qQTY3RDZoRE81RWRIOEdfZHlhQlBRNmQwYTU0dEhpZ0JQMVRwUVNZeVVOM29TYUdHLXR6MWcxS08xUTdPc0RhTFVQaFVPRERZeTlaVlJVN0MzdmszTnhKaTJLTQ?oc=5",
-      "summary": "Sites: Publishing failing OpenAI Status",
-      "published_at": "2026-11-13T04:06:42Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft 365 Outage Updates - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUNldlRTR1BXUFdyNDJvTzhkamhiS1libjNCLURxcjZabnRoWjl6RUp0U0wxTnNwcTJvQjVJbWw2b0JmVWpDRm9LSzNjUUdtRVFXQndnMUE5d1R1elVteURuUmZoUmJQX2ZqQmFJNEVyOGlFVjR1Nkdjc29sYXV1UjBQSkJfRm53S184OW1wUVU1ZmVOWWZHTno3TlJHWHhBMDd2VWhOVVV6NEpFQTZ6a3cwUWY?oc=5",
+      "summary": "Microsoft 365 Outage Updates Microsoft Community Hub",
+      "published_at": "2026-11-13T02:47:47Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "AI",
@@ -158,30 +362,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "published_at": "2026-11-12T22:59:51Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/82b27dfbaab89493.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "published_at": "2026-11-12T22:28:47Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/fb1282143880a0a1.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
@@ -192,30 +372,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-      "published_at": "2026-11-12T19:59:59Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/f1acc93a3d794671.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
-      "url": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
-      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
-      "published_at": "2026-11-12T19:49:11Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/torch-hall-1152x648.webp",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/f7c518e1d70bdfb2.jpg"
     },
     {
       "category": "AI",
@@ -268,18 +424,6 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Elevated errors affecting the Microsoft 365 connector - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIcEtTTXBuVGpWVnctLTFEa1hVdUJ0UnRqekZYTHhkdjFjbWtZVjFrVVJwalB2VEZYX1UwM213Q2hYc1FiYkFYMFFrUEdaYnBET3RQWTRHUTQ5M1lUOFRYUTZobHo1TElEU2Y3UjFETQ?oc=5",
-      "summary": "Elevated errors affecting the Microsoft 365 connector OpenAI Status",
-      "published_at": "2026-11-12T18:29:14Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
       "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
@@ -302,18 +446,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Setting up your business on ChatGPT - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGs2WGtjd2laRGxleFNUREVpOXZkR0V5NDd0QkFSeDZhRmlSX2c1SkxfVlRpbC1CdC1CbDJTV0dyV1Q3cXFoZXREblJjOXgwZS1iY0dzN0pxUnRCNHQwbTdpODZUYk5INnV2Sy1xRGVXb1ZKOXFjMEE5LXJFMXZfWGh3V2s4Ymc?oc=5",
-      "summary": "Setting up your business on ChatGPT OpenAI Help Center",
-      "published_at": "2026-11-12T17:16:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "How HXL Widgets Render in Agentforce and MCP Clients",
@@ -326,16 +458,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHowZ2xjN09US2Z2LThVMDVNUVZka1d4a0Y1OTNYeWZ4OVlkckJuUGV3V3hYakdpTWk0WXNvb3FvZGhicUFjMGN0c2R3RFdMS1VZZzJ0ZGY4UTAzYnQ2N2xtSjBnZGZGZlAwWno0amFweTVTU1p6SWE2UmpqOEdwSFZfVHRaNG5xYVp2UHdyTHhOQ1B4NFlpdGJBTWg3N05GTmswbEd4a2dvXzhtaWhHeEUtdDRWQklTTF9WSkhqNVpUUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-12T04:29:30Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Supporting research on AI and children’s safety - OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "Supporting research on AI and children’s safety OpenAI",
+      "published_at": "2026-11-12T10:03:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Business Analysis",
@@ -374,16 +506,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnp1NTEwZEY1eFdZXzY2OTNYN19LNXJTSlNPcGN4YmZsN1p3V3paU25sb185aElXcktnZGQ4WlN5bWZVdWtZQ2U1WkQxUDliX1g1Y09qVWpnWjZKM3c1T3hUZFI2VkRwRlBOUC12cUVNYk52Y1Z0MkJWajFad3dFR3NPY0VoUGtXLVZYYTk2OXlINlNJMElDdlRxT1NIaFQ1dzRJSi04ZlEzWURxM0EwRklSWlF2OHh3c0t3NmxGdWdUZE1IT2hr?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-11T16:37:46Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Defender Vulnerability Management Blog - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWozU2NuUmhqbHltR09sVW1uTThEVndLa1VkWHAzZWJZUl9CRWVUUXpaMmgwekNKZnhDb3cwY28yekVwVldqYWRCUUZFdlN6cFl4VTZCbUVKQzBzTHprQVBtc0l6clV6UUZWT1VmX1ZKNzNkOVhiMkt1OF9OdHhVZ1ZKUWItc1c2X2ZGdVprRlY5Z1NncWQ1RE43b2N4UQ?oc=5",
+      "summary": "Microsoft Defender Vulnerability Management Blog Microsoft Community Hub",
+      "published_at": "2026-11-11T17:20:51Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -420,18 +552,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUxOblVpUENNeWR5aFdNMUs2djd1YVZrd0Rock94YVJNWnJuRU4xYkZoX2VEVVhIdVBPVnRhU1lzNDdvMUJQZXk0dWZjTEJGX3VyaTlKZjFFM2hPVENyUmctYWZjSTV1N1VIQkFfcnVuNmQzeU5rNU1NVTV1YW5sa3Z3TzFwbGprSHNmcEJOV0cxOVUzWnJUdUJCRzJWaHdBLU1mNkRfY09ING9QQUNrRy1CLTNyNDUtbHBCaWkzUWZydw?oc=5",
-      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
-      "published_at": "2026-11-11T10:29:19Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -494,30 +614,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T16:43:35Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Zoom AI Whitepaper - Zoom Technical Library",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvTDRMazFGRDRFaUt3X3dSdnYtSDJGQmtBVUdIRmwtTGpBU3JHcW0xQ3loX3FIRkR3SnRMRndoWS1uVWQybURnbEdyVldsSDhHZU0w?oc=5",
-      "summary": "Zoom AI Whitepaper Zoom Technical Library",
-      "published_at": "2026-11-10T16:30:32Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -528,30 +624,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
-      "url": "https://www.zoom.com/en/blog/defensible-yes-cx-leaders/",
-      "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
-      "published_at": "2026-11-10T15:21:17Z",
-      "image_url": "https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
-      "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
-      "published_at": "2026-11-10T14:08:39Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -578,30 +650,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYnNCSllJXy1kMVdvcmJUbmMzNlZlVkplRnJhczJNUjdwRklTTENmYmhJOVJ5V2FGTWx4REtvakFFNlgxWG81dENHeXNEdURSUGJnemRaNDVsR2tmSDBlSWE5WF83TkV0R0p0M3FhLWs0cUs0elRQT0tJZllndThGMWhYOWVMc0ZicVlZWExwalJudm50S3JiWnk2Y2d3QTRSdUNmNkg1ZFh6ejJEeUVsaFhuU1pYeHJsSTdxR2M2bG52NjJJLVB2RnFsVFpCQ2ZrQ1RSaEdrZFoxQU5nX1JXQmxYcw?oc=5",
-      "summary": "Paper: How utilizing the Microsoft Copilot harness in Copilot Studio enabled complex task execution Microsoft Community Hub",
-      "published_at": "2026-11-07T17:40:16Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Webinar marketing strategy: Zoomtopia 2026 recap - Zoom",
-      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
-      "summary": "Webinar marketing strategy: Zoomtopia 2026 recap Zoom",
-      "published_at": "2026-11-07T00:09:50Z",
-      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
@@ -612,42 +660,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s new in Microsoft Entra: November 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
-      "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-06T21:16:12Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "How to use AI for social media content as a small business",
-      "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
-      "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
-      "published_at": "2026-11-06T17:28:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Solopreneurflorist.jpg/Zz04ZTk5MjU1NmQ5ODUxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/8ae970d92e4224b0.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Zoom in on CX: Why Most AI in CX Fails Before It Even Launches",
-      "url": "https://www.zoom.com/en/blog/zoom-in-on-cx-episode-3/",
-      "summary": "Most AI transformations fail before they even launch — not because the technology is weak, but because no one asked the right question first. In this episode, Michelle Booth (Zoom) and Andy Kingston (Lloyds Ban…",
-      "published_at": "2026-11-06T14:00:00Z",
-      "image_url": "https://media.zoom.com/images/assets/EP3+Andy+Kingston+_+LP.webp/Zz0wYjRhYmJiMmQ5ZTcxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/d1bdb13a4787cc13.jpg"
     },
     {
       "category": "Business Analysis",
@@ -720,30 +732,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Modern Analyst",
-      "title": "Prediction: The Product Owner Role is Disappearing",
-      "url": "https://modernanalyst.substack.com/p/prediction-the-product-owner-role",
-      "summary": "The Product Owner role is disappearing.",
-      "published_at": "2026-11-02T15:42:06Z",
-      "image_url": "https://modernanalyst.substack.com/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/42735b18b0d0c3c9.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "What is a quality management system?",
-      "url": "https://www.zoom.com/en/blog/quality-management-system-guide/",
-      "summary": "Learn what a quality management system is, how it works in contact centers, and how to choose the right QMS software for your team.",
-      "published_at": "2026-10-30T19:55:09Z",
-      "image_url": "https://media.zoom.com/images/assets/quality-management-system-guide.webp/Zz04NzU5ZGYzYWQ0OWMxMWYxOWIwYzFlZTYwODA2YmZlNg==",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6f96d4a5b108c146.jpg"
     },
     {
       "category": "Salesforce",
@@ -832,6 +820,18 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
+      "title": "Purchase Your Exam - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXZvYUJvYm1jdmpqa042OFVJaDVoa0d4NndqdzhrTmtVdVM4Y292ai1lR09lSkxBV2hHRVNvcm9CNk5XZHhMQ3BNVXFaOTNUZ1FBVUx4VUI2LWpLaEJncmllYWlFSy1xbGVIVU9HOF8zZDZyeXdRdnhVN05oc3BvenB0MW90R3VybGg5ZzI5VURuN3lETmtncGNMYmVvVGZreGdBcUc1MmV3WnJIM3Vzb1pzQTNNVGc1bWZ1SjRTSzNzMjk4aGhSQTdRT0x0dWVTZ2ZVZ0JvZWFDSEJJR3lIczQ4NzM4UmM5OWV0V1Q4YUJTN1JR?oc=5",
+      "summary": "Purchase Your Exam IIBA",
+      "published_at": "2026-10-28T23:25:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
@@ -872,7 +872,6 @@
     "AI",
     "Zoom",
     "Tech",
-    "Business Analysis",
     "Business Analysis",
     "Salesforce",
     "Microsoft",
