@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-14T19:15:44Z",
+  "updated_at": "2026-11-14T23:08:07Z",
   "articles": [
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-14T17:30:10Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -62,6 +50,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-14T00:57:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
@@ -108,6 +108,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/55737490adfb6632.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft.Data.SqlClient 7.1.2, 7.0.4, and 6.1.8 are now available - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGVqZkhpX0xwWGF6dnJPMEZReWRKXzgzb1FhY1BkZ25rU2Y4X3dLZzJRU3lzbFNhMm9UQnk2bWJWNy13SDdXMmotaEZXS1c4cS1KT2tSTDc2dWJGLWdYYXhYeC01WE8zaG1FQTdtTXZnWnpZbUpuWF9ZWW9HRXcyNUdoV3dZOWJOZ29yVjhkYVRHVDQyczVzYUh0V0Z1RkFLWjFkS1NsSUNlamFGNUZXcG1MNC1nNi10U3ZncGQwLXo?oc=5",
+      "summary": "Microsoft.Data.SqlClient 7.1.2, 7.0.4, and 6.1.8 are now available Microsoft Community Hub",
+      "published_at": "2026-11-13T21:25:44Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -326,16 +338,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Elevated errors affecting the Microsoft 365 connector - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTnB1S3pNRU1oeTNDbF9Fc2h2S19haEhrTXFYUjV3QUtGX3dNWFY5S3Bycmp5X0I5VV9WQzRtSzYzN3ZMMHB2NEItZVlJSFdBdmhTWFdCTQ?oc=5",
-      "summary": "Elevated errors affecting the Microsoft 365 connector OpenAI",
-      "published_at": "2026-11-12T18:29:14Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Granular controls for multiple updates in Windows Autopatch - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE9WdUhkdXRMejFzQW12S0JfRXRxS2x3dFo5b3JfM05abjBQbjlxTS1ZLTVNSnZTMmNuUXhXV2RtUko5anItMUE1aGRhWU9vSnktcUFJZkVPMW43ZE1PemJMTVVLNERaVUswZTVjRUdPWmp0b0hTanhRSUY1UG5vc0xhVVhpQl9pbDAtbzl0cy1ZLXdGVkFLZWl3Vm9XZmZhbWRUbFc2clItc3BvUnhmRFJTcjV2NTBNMVpOWmxmam93UW93d3c?oc=5",
+      "summary": "Granular controls for multiple updates in Windows Autopatch Microsoft Community Hub",
+      "published_at": "2026-11-12T18:39:35Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "AI",
@@ -398,6 +410,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "published_at": "2026-11-12T00:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
@@ -458,18 +482,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Copilot Connectors Update: October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYbEJqZExoNzcxNmZYOFNyS2owbUR0UGQ0dmdtT0FpVy1HeTdTX3BTcHFEbFB0dWRvLTVreVhuSnV6c1o4UzlFMU5UNHNMTXhYX0J5MmZiVjBXbDJWdXdETFZDMVM1ejdqVzZjUDNqZTF4MElBUWhfdDl1a3BLeHN4SEVRVWc2MEM3cTFhaXVBMGk4VVB2R1BxUHVCZVozeEJxYUh1M0JJTTBQUmU0WnpMVmlHSm1fMTk3LQ?oc=5",
-      "summary": "Microsoft Copilot Connectors Update: October 2026 Microsoft Community Hub",
-      "published_at": "2026-11-11T16:17:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition",
@@ -506,30 +518,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUxOblVpUENNeWR5aFdNMUs2djd1YVZrd0Rock94YVJNWnJuRU4xYkZoX2VEVVhIdVBPVnRhU1lzNDdvMUJQZXk0dWZjTEJGX3VyaTlKZjFFM2hPVENyUmctYWZjSTV1N1VIQkFfcnVuNmQzeU5rNU1NVTV1YW5sa3Z3TzFwbGprSHNmcEJOV0cxOVUzWnJUdUJCRzJWaHdBLU1mNkRfY09ING9QQUNrRy1CLTNyNDUtbHBCaWkzUWZydw?oc=5",
-      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
-      "published_at": "2026-11-11T10:29:19Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Granular controls for multiple updates in Windows Autopatch - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE9WdUhkdXRMejFzQW12S0JfRXRxS2x3dFo5b3JfM05abjBQbjlxTS1ZLTVNSnZTMmNuUXhXV2RtUko5anItMUE1aGRhWU9vSnktcUFJZkVPMW43ZE1PemJMTVVLNERaVUswZTVjRUdPWmp0b0hTanhRSUY1UG5vc0xhVVhpQl9pbDAtbzl0cy1ZLXdGVkFLZWl3Vm9XZmZhbWRUbFc2clItc3BvUnhmRFJTcjV2NTBNMVpOWmxmam93UW93d3c?oc=5",
-      "summary": "Granular controls for multiple updates in Windows Autopatch Microsoft Community Hub",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "How I Won Over Stakeholders Losing Their Jobs to Automation - IIBA",
@@ -560,6 +548,18 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvTDRMazFGRDRFaUt3X3dSdnYtSDJGQmtBVUdIRmwtTGpBU3JHcW0xQ3loX3FIRkR3SnRMRndoWS1uVWQybURnbEdyVldsSDhHZU0w?oc=5",
       "summary": "Zoom AI Whitepaper Zoom Technical Library",
       "published_at": "2026-11-10T16:30:32Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "My Notes - Zoom Technical Library",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWTjFnWkFmc0NucHhsalpxeGZacUlFRjJkUG5HaVZ0d2d0QUVva3BENjF5ZWFUcmNrck9pWHdqM2xENkI0Rng4QVkxRDFhLUtsckd6UkhBb3lGMjhpS3ZZ?oc=5",
+      "summary": "My Notes Zoom Technical Library",
+      "published_at": "2026-11-10T16:26:46Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -602,6 +602,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "LOUIS AZEGBA - IIBA Directory",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYW5iamJPLVpCQmxualhTby1sVU1wWTJST2hOdklyVThuRl9RajBObHhXQmZvQm1rTTVjQXVQbGlRZXlxZnM2NU05b1V4NDdrcVdsZEZlSU81Zlk1UzNmR3Jvc3NlYlhzalFTRzVRT3Fsa2ZGREt2WkN4WUtfM1VnUjVXdWdfRnhvclhZUkZpRzZWQ1AwOU5yV3llMkNyMjdqdDRJQXRmbmhDM09ROE1SQ2h6OGJmb1BRUWFrcFZONC1sWnYwbU5UVA?oc=5",
+      "summary": "LOUIS AZEGBA IIBA Directory",
+      "published_at": "2026-11-10T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSWg4NFdoYWpseXVKRTFNLVNfWG9BSnBFNjJFOE9pYkMwcFE3UHZTaTREQXJpd2RfNDRSNjR2bGs4dVNLVXgyRUZzSmViR2pUbmVkRGpHVjlUY1Axbms4aENpa2QyTW91SHlYXzJRT0ZNWVpzOEpPbC1sWTEzeTNjSy1sYlQ3UzZ5NVE5bDBwSV9mZkFqRHBqZ041bXJPTHd1OTJRc2JGc0JOcklDdWkySjdzbjV5R0F5MFFONjFvX2lBdw?oc=5",
+      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
+      "published_at": "2026-11-09T08:59:48Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
@@ -612,18 +636,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Webinar marketing strategy: Zoomtopia 2026 recap - Zoom",
-      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
-      "summary": "Webinar marketing strategy: Zoomtopia 2026 recap Zoom",
-      "published_at": "2026-11-07T00:09:50Z",
-      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Salesforce",
@@ -640,14 +652,14 @@
     {
       "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "How to use AI for social media content as a small business",
-      "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
-      "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
-      "published_at": "2026-11-06T17:28:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Solopreneurflorist.jpg/Zz04ZTk5MjU1NmQ5ODUxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
+      "title": "Webinar marketing strategy: Zoomtopia 2026 recap",
+      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
+      "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
+      "published_at": "2026-11-06T23:24:00Z",
+      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
       "video_url": "",
       "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/8ae970d92e4224b0.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Microsoft",
@@ -852,18 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Bridging the Gap",
-      "title": "How to Use AI Prototyping to Accelerate User Interface Modeling",
-      "url": "https://www.bridging-the-gap.com/user-interface-modeling/",
-      "summary": "User interface models, particularly with AI prototyping, are one of the quickest way to gain buy in, to get stakeholder feedback and to help business stakeholders engage in the requirements process. I’ve been u…",
-      "published_at": "2026-10-13T12:16:32Z",
-      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
     }
   ],
   "sources_ok": [
