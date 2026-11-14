@@ -1,29 +1,41 @@
 {
-  "updated_at": "2026-11-13T23:39:30Z",
+  "updated_at": "2026-11-14T06:37:59Z",
   "articles": [
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "FAA orders third nationwide ground stop in its history",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
-      "published_at": "2026-11-13T23:17:38Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/9f268e4b1cc11846.jpg"
-    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
       "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-13T22:23:07Z",
+      "published_at": "2026-11-14T06:21:21Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "summary": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday Ars Technica",
+      "published_at": "2026-11-14T00:49:13Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a4c3de21ffb12cae.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+      "published_at": "2026-11-13T23:17:38Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9f268e4b1cc11846.jpg"
     },
     {
       "category": "Tech",
@@ -172,18 +184,6 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "Invoice request guide: create one in 6 simple steps - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EUTF1dERQbDJsTjJfQ1pwTm42NnJyS3NhQTh0Q2ZJQ3hoZmZweTZFdWN1SjJiQUk3OHBjWF9JLTFHT3R5LWFPenhaSXhFTkV2S1dLQlQza18?oc=5",
-      "summary": "Invoice request guide: create one in 6 simple steps Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
       "title": "How to build a client getting system that converts - Zoom",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZ0NXQ016U1pGejViRGQzTUpZRlhhaXZ0VHY2VDAwYTRycWZjR1BYY0U4Z1VjcEdyUXpPeUJCS083WVFTMldiNjdEY3o5alU1VmdMUkxrSGg1N3NNNHdGeQ?oc=5",
       "summary": "How to build a client getting system that converts Zoom",
@@ -192,6 +192,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Build faster apps: database caching patterns with Azure Managed Redis - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaUtWTjJSck9LdTYtdXE4dmxuNHRfd3hHRE93WXRtOE9ldmt5Q0s5VDUxTUlGMU9wMGNPN1h4NjJ4X2VyUHVPUmpkcTRuTUNNZ210czZfYTNhamx2M29KTDllcXRJd0VuNjJNcS1aUVpmdG5nZ1NCSFBRTEpiQTNPWUFuVFpRbkk5emZUQ05Ua0xLclRpSnF1dlpUSkFSLTRBWmFkdEJHaklLU0lDR1FqMk0zWHNVQkw0T2hiSUhOVmdyRmZxcU4zQi1GS0lqeTZZRkpj?oc=5",
+      "summary": "Build faster apps: database caching patterns with Azure Managed Redis Microsoft Community Hub",
+      "published_at": "2026-11-13T19:00:28Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -314,40 +326,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/87647081bfd0dcd3.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Rocket Report: Starship set for historic test flight; a century of Electron",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
-      "summary": "\"You can simplify it as a big tank feeding engines.\"",
-      "published_at": "2026-11-13T12:00:40Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a627b1cafa682c62.jpg"
-    },
-    {
       "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Sites: Publishing failing - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OVG1KdE43SlEwc1lUUW1CUWg3NUZHU1ByRThlMzQzaFFHa0VobF90YllhTnI3U0pESHdSVkZadVdLcHlXSUJ4Z252dS1MSndaSm9TQXdzTQ?oc=5",
-      "summary": "Sites: Publishing failing OpenAI",
-      "published_at": "2026-11-13T08:37:56Z",
+      "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "published_at": "2026-11-13T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft 365 Outage Updates - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUNldlRTR1BXUFdyNDJvTzhkamhiS1libjNCLURxcjZabnRoWjl6RUp0U0wxTnNwcTJvQjVJbWw2b0JmVWpDRm9LSzNjUUdtRVFXQndnMUE5d1R1elVteURuUmZoUmJQX2ZqQmFJNEVyOGlFVjR1Nkdjc29sYXV1UjBQSkJfRm53S184OW1wUVU1ZmVOWWZHTno3TlJHWHhBMDd2VWhOVVV6NEpFQTZ6a3cwUWY?oc=5",
-      "summary": "Microsoft 365 Outage Updates Microsoft Community Hub",
-      "published_at": "2026-11-13T02:47:47Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "ChatGPT Wallet terms - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWUlIS2xOR0k2WWpkNXNEeV9HY085SFByTlh1VGg4NWF0M19JeTVieVFtQ3o4MmVWOEt5dEdPdEFzYnF0S1hQanhsQTdzSzk0VEp6VXlPMHA5TTNXNFE?oc=5",
+      "summary": "ChatGPT Wallet terms OpenAI",
+      "published_at": "2026-11-13T05:48:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -412,10 +412,10 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming - OpenAI Alignment Research Blog",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52RG9TNWRTQTg3OUJzMzhGbEUzSG1ZX0Rqek45b2ZaczE2UDVNZDNPaURwSlh2aEFBUmlvWEVWYzE5ckcySnlWMjJ6Y3NwaDlkUlVnSThxMU9GZw?oc=5",
-      "summary": "Improving Fuzzy Robustness in LLM Safety with Automated Red Teaming OpenAI Alignment Research Blog",
-      "published_at": "2026-11-12T18:29:37Z",
+      "title": "Elevated errors affecting the Microsoft 365 connector - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTnB1S3pNRU1oeTNDbF9Fc2h2S19haEhrTXFYUjV3QUtGX3dNWFY5S3Bycmp5X0I5VV9WQzRtSzYzN3ZMMHB2NEItZVlJSFdBdmhTWFdCTQ?oc=5",
+      "summary": "Elevated errors affecting the Microsoft 365 connector OpenAI",
+      "published_at": "2026-11-12T18:29:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -458,16 +458,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Supporting research on AI and children’s safety - OpenAI",
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "Supporting research on AI and children’s safety OpenAI",
-      "published_at": "2026-11-12T10:03:55Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHowZ2xjN09US2Z2LThVMDVNUVZka1d4a0Y1OTNYeWZ4OVlkckJuUGV3V3hYakdpTWk0WXNvb3FvZGhicUFjMGN0c2R3RFdMS1VZZzJ0ZGY4UTAzYnQ2N2xtSjBnZGZGZlAwWno0amFweTVTU1p6SWE2UmpqOEdwSFZfVHRaNG5xYVp2UHdyTHhOQ1B4NFlpdGJBTWg3N05GTmswbEd4a2dvXzhtaWhHeEUtdDRWQklTTF9WSkhqNVpUUQ?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-12T04:29:30Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Business Analysis",
@@ -507,18 +507,6 @@
     },
     {
       "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Defender Vulnerability Management Blog - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWozU2NuUmhqbHltR09sVW1uTThEVndLa1VkWHAzZWJZUl9CRWVUUXpaMmgwekNKZnhDb3cwY28yekVwVldqYWRCUUZFdlN6cFl4VTZCbUVKQzBzTHprQVBtc0l6clV6UUZWT1VmX1ZKNzNkOVhiMkt1OF9OdHhVZ1ZKUWItc1c2X2ZGdVprRlY5Z1NncWQ1RE43b2N4UQ?oc=5",
-      "summary": "Microsoft Defender Vulnerability Management Blog Microsoft Community Hub",
-      "published_at": "2026-11-11T17:20:51Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
       "source": "Microsoft Tech Community",
       "title": "What You’ll Learn, Explore, and Experience at ESPC 2026",
       "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-you-ll-learn-explore-and-experience-at-espc-2026/ba-p/4572576",
@@ -528,6 +516,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Copilot Connectors Update: October 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYbEJqZExoNzcxNmZYOFNyS2owbUR0UGQ0dmdtT0FpVy1HeTdTX3BTcHFEbFB0dWRvLTVreVhuSnV6c1o4UzlFMU5UNHNMTXhYX0J5MmZiVjBXbDJWdXdETFZDMVM1ejdqVzZjUDNqZTF4MElBUWhfdDl1a3BLeHN4SEVRVWc2MEM3cTFhaXVBMGk4VVB2R1BxUHVCZVozeEJxYUh1M0JJTTBQUmU0WnpMVmlHSm1fMTk3LQ?oc=5",
+      "summary": "Microsoft Copilot Connectors Update: October 2026 Microsoft Community Hub",
+      "published_at": "2026-11-11T16:17:09Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
