@@ -1,25 +1,13 @@
 {
-  "updated_at": "2026-11-14T14:15:00Z",
+  "updated_at": "2026-11-14T19:15:44Z",
   "articles": [
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-14T14:00:05Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
       "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-14T13:14:03Z",
+      "published_at": "2026-11-14T17:30:10Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -50,6 +38,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/1cfe6d748402b6e1.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "From Purview Data Governance to the Fabric OneLake Catalog - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSURDSFlDLXFCZDRBVWJ5dG4zT1RtNDB1bHFLWGs4eTNqZWk1VllWdUZxYVhONnhGTmhmMW9DWGphdjNMV0d4MU9PVEFGYU5fZVBUX2d5azVHdTc3eFVnWHJCM2RMLW15Y0RKVEI1clZkSHdGU1p4WW9HdEFKS2ZaWE84UHZlMXpmYXRrc1V4eG1JZFJxakh1U05aX0JBMDc0MEpGTTVrMmdRc28zNU9LVDROcS1vVXI3UzFXbHIwbEM3QQ?oc=5",
+      "summary": "From Purview Data Governance to the Fabric OneLake Catalog Microsoft Community Hub",
+      "published_at": "2026-11-14T05:32:46Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Whiteboard featured topics - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUpWSkFDTjc1bGVyR3JueDZtN24xSHMzNXM3Rk5Va3lpLVNjZEZVa09RSmNrMER0THBGTnV5TzBSa19rMlZLWl9NX21xT2Q5RGZPeHBTZjV3VUxxcWRQbWJVVUdhd212VS11Z3Y3ZVBrNG9FLWxpOENjQmJZX0ZfNl9GLVJyQTZndTluWWVjWS1RQ0Nib1VZUlhkSW9XcHhpZWRlRUtrc2hPNjZueG9JTHJ4dTlZeTJNajJwaVZaMmV6Wl92elE?oc=5",
+      "summary": "Whiteboard featured topics Zoom",
+      "published_at": "2026-11-14T04:35:09Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
@@ -60,6 +72,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a4c3de21ffb12cae.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield helps technicians hand off legacy portal work with OpenAI OpenAI",
+      "published_at": "2026-11-14T00:20:12Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -96,42 +120,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/fb1282143880a0a1.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to write a proposal to provide a good or service - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0dTJLSzBWYThuTkVfcXJ1WXFJTmlvb2EtaWFHandxc1ZzbUtaal9BcXNCX1FPdnpFX1FiLXRFbVRPcGl6emJ0akVDdzMyM1hMTjRnR2NmRHZCUGZkUm9Iai1VZ3NwRUNXbTMxWnliNVpRdm44eDY5ZQ?oc=5",
-      "summary": "How to write a proposal to provide a good or service Zoom",
-      "published_at": "2026-11-13T20:34:10Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to ask someone to sign and return documents effectively - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FdzJqMTBIVHJHOXg3NExxN3FESkt5ZWdzMFFZRXJXcTNFVDlYMFdLYzBMRlRjSzUzZmxYSlBOb0dHcU5BdHFKTE41cVFOR3lOOGpfc1lvSE0?oc=5",
-      "summary": "How to ask someone to sign and return documents effectively Zoom",
-      "published_at": "2026-11-13T20:34:10Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to write a marketing services proposal that wins clients - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5Yjc3ekJYY0xtVkJDRXE0aDNkX3MycVpVU2t5Uml2aWQ1VkF4T0tTZmpheUVvYWY3OXRKRThKSUwzMEtoY1ZJb0ZrdDBoT1Q4N2RSY2haNmowWjZKNTB2MUlzQ3lrMFBS?oc=5",
-      "summary": "How to write a marketing services proposal that wins clients Zoom",
-      "published_at": "2026-11-13T20:34:10Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Tech",
@@ -206,6 +194,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-13T16:10:07Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
@@ -242,16 +242,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ddac38b57c7af7dc.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Could Adaptive, Capacity-Aware Recovery Orchestration Improve Exchange Online Resilience? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2p3MTdYRWJCWjAzUlg5VHRNRG9OWHFlSG85X0RhZ2dSQnRCZm5hc3NLZC1XUGlJLUFoSmR5OFNYX3QxRWl6eWVQNmpfV1pGT2drdl9nV2RjLWJUOEV4THpaU0dqZEhYUnFUdDBLZ2hyN3NFQktfMllVam4zb0RQMUlaWjVSMlhhWkZlQVBHQVQzb0lsaUF5b2plcUdsYWlwUi1HNnRPRC1mcU1XTUxxRGlJa0N1a1dYVlBWMFhjRjlEZldtVW83cGxZcy1vemtzNzZUczRUWnFtcFM3TUxpRThhTzg4U1Ey?oc=5",
+      "summary": "Could Adaptive, Capacity-Aware Recovery Orchestration Improve Exchange Online Resilience? Microsoft Community Hub",
       "published_at": "2026-11-13T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "AI",
@@ -272,18 +272,6 @@
       "url": "https://openai.com/business/customer-stories/gondola",
       "summary": "Gondola doubles revenue as its team builds more with Codex OpenAI",
       "published_at": "2026-11-12T23:12:37Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Global Sales Program Manager (SMB Sales) - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFEcVBEaUl1NmxSYjVjYUJDSGRHWG1nSmJKVXMtTlBlX3dVOTRaWU0yaFVnTTQ0dGVFSzJKS3lTb2drbHQ0WXFvdDRKMHhUeThta19iWG42bnUwQTFrdTNWNnNoSWt3cGdDNmhjMkxDOFgycE1ueFRPRDdsVnVvV0dtSklaTjQycUE?oc=5",
-      "summary": "Global Sales Program Manager (SMB Sales) OpenAI",
-      "published_at": "2026-11-12T22:08:01Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -386,6 +374,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "published_at": "2026-11-12T09:30:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Official Zoom Support | Help Center - Zoom",
@@ -412,6 +412,18 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
+      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
+      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
+      "published_at": "2026-11-11T19:49:02Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
       "title": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMTBsNGsxQ3NjcXYzRktBbVA2LUh1Y2RQZ01MMGpfOVhINjJxTkhlb3pqRDZxLXFlbGZhZmoyXzNHaHZFdjN2amNiQ21oeEFDNzdMOUc5TXVjcXdpVUU5WnBDOG5jWG1tUWhyS2VaenBXd2dkRXl1WXMzQzNZekZOY2FXNGhaT3pKUUJvbmxZYlVFQmNTZG04aktPTlhuRHVYNEsyV1VmT1hXNmNUOFFvWkhXZS1PckZiWXhKbVdHYzVMM2laZXVKV0ZfLVZ3OXNi?oc=5",
       "summary": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot Microsoft Community Hub",
@@ -420,6 +432,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "test - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQT3BuRzdTbkNIR0VaSEJqbWtVMV8zeFV2aEVqOUNGZEZtdkxvSUxVa1lVNEFVeTVqMUgxSm5CUlZlVjhJN284LWgwZWNxTHh3U0dOQ0NyX3NfX2hsN3NzQU0zLWUwQnFJUlJDbVQyZ3dJaDVQZGxTU3ZWcTdrNXhiU21DdWhvcHJjTUhTT3JkeUItX3E2R3A2S2RnNDlNcmQ2QWpkUkI2WDczWnc2Sk5MVkx3eXN3b1dfSEd5R3ZVSXdVWE5QWnBIRUExLVFmQ3Jjc3JpRURVRnM4WGR4clNybzg4SUdPRDFSdm9JRnptcEpGWk5YUFpZNzV2allXUjlM?oc=5",
+      "summary": "test Zoom",
+      "published_at": "2026-11-11T16:24:24Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -532,18 +556,6 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T16:43:35Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
       "title": "Zoom AI Whitepaper - Zoom Technical Library",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvTDRMazFGRDRFaUt3X3dSdnYtSDJGQmtBVUdIRmwtTGpBU3JHcW0xQ3loX3FIRkR3SnRMRndoWS1uVWQybURnbEdyVldsSDhHZU0w?oc=5",
       "summary": "Zoom AI Whitepaper Zoom Technical Library",
@@ -590,18 +602,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Claude Fable 5.2 and Mythos 5.2 bring frontier intelligence to Microsoft Foundry - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMlJPVXF3eHpZWlNCdmdSb3BYa0YxZGFLR1dNN2tPbERRclBuay00NjJBVk80WjdiVjhyd1NmVUJQSC1OQ0xnZldOMDJhcklOa0NBbXc3NlVoM21rakdKY0N1aFBnWFRzd2tLaW1MNVVhS3VyVTlRY0JaenpkRWpSck13blZyM2FsM0FJc2JsUkxacS1QSnE1ZWtBR3huSl93Q1BKQ2Q2TmF6SUFLYkhEem5jdU1UbVJkRUV1VnZic0pBXzhfdDBvdl9CSDZEVmlyNlMyQlJDZ0dNMDAwRVVEc2hTU1BCQQ?oc=5",
-      "summary": "Claude Fable 5.2 and Mythos 5.2 bring frontier intelligence to Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-09T19:50:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
@@ -612,6 +612,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ec331c48523fda12.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Webinar marketing strategy: Zoomtopia 2026 recap - Zoom",
+      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
+      "summary": "Webinar marketing strategy: Zoomtopia 2026 recap Zoom",
+      "published_at": "2026-11-07T00:09:50Z",
+      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Salesforce",
@@ -626,12 +638,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to use AI for social media content as a small business",
+      "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
+      "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
+      "published_at": "2026-11-06T17:28:00Z",
+      "image_url": "https://media.zoom.com/images/assets/Solopreneurflorist.jpg/Zz04ZTk5MjU1NmQ5ODUxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8ae970d92e4224b0.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What’s new in Microsoft Entra: November 2026 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
       "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-06T21:16:12Z",
+      "published_at": "2026-11-06T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -662,18 +686,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjktd09mM3Y3S2pXWGdEVGNTTzIzZkR6ZHBOTVV2VkpValF6bHpzZmh3d3FYZ0JRLXRiN29SZEZYQ0xQSXhSN25zRW9DUnVDQ3JlT01qeW44aF9rRmdhMVQwSHVUeC1DNWEyNU5QMzlXY05oaWRYSlp2bGFseURpQ1REeXRSZGFqUTVSc3kxZ05PTW14bElFY2JKTFl5SDJUNXRzVzJDQjZzLTFKUVp2Xy1lT0xNcHM1ZUlyT0YtajlFRG14b0JJc0lTRGozN1RqTUZzcG85d2dwbmpJeGVLYTg3dVUtQQ?oc=5",
-      "summary": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry Microsoft Community Hub",
-      "published_at": "2026-11-05T18:07:52Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -684,18 +696,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF1SG9xRnhaMldQOEFhY0tfZ0NwdWd0eGxEMFRscEhTVmozS3FpLVhiQkNmWlpaWWJrbTU4RUhqWTVXUEI3b2hFcjZhUlhCWVBlMDZxV29WYlRoT0JPdDdiUDY0UmFINWo0YUZsdHYxV0pQVlV5TW42elk3WTlISUdkTE5LNUZLRUxoYjRwM0FybVB1V2RvWTBpNUxWN0p6cFVOVFZfNWIyeWlUaUVRbVFqSUFiYXhxdnNTOWxVSGpvMmdkNlBQNkdTcU1QakdnbEw0NFVzMnVWQVQwNG13Xw?oc=5",
-      "summary": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more Microsoft Community Hub",
-      "published_at": "2026-11-05T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -832,18 +832,6 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
-      "title": "Before You Start - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjV4NTV6VjdRUGRycFhtVG9VcnAxRUVremN3Sm1xYThzS2VzZmVjUjh1RmFzeWhHZE5NeUNHbkdNbXUxWHNaWmFCWm1NMTZlamZLem1xbmlfeno2U1ZuZWl2UVEwc0loaFpjdUZ2aW9wblFMZGFtcEVPWXV0bS1GVVdfN3RxWXJ4RGlSTkM2VXJONEVCcXpQRmxUaVFPWGQ4QUI5ckpleXdtdDdzU3NRRG9DbEtpMXZ1LTRVQ2s2LVl2Z3JGNEVtN1hqUlZvTFktUlNGcE9B?oc=5",
-      "summary": "Before You Start IIBA",
-      "published_at": "2026-10-28T22:04:30Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
@@ -864,6 +852,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Bridging the Gap",
+      "title": "How to Use AI Prototyping to Accelerate User Interface Modeling",
+      "url": "https://www.bridging-the-gap.com/user-interface-modeling/",
+      "summary": "User interface models, particularly with AI prototyping, are one of the quickest way to gain buy in, to get stakeholder feedback and to help business stakeholders engage in the requirements process. I’ve been u…",
+      "published_at": "2026-10-13T12:16:32Z",
+      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
     }
   ],
   "sources_ok": [
