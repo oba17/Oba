@@ -1,17 +1,53 @@
 {
-  "updated_at": "2026-11-14T06:37:59Z",
+  "updated_at": "2026-11-14T14:15:00Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-14T14:00:05Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
     {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
       "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-14T06:21:21Z",
+      "published_at": "2026-11-14T13:14:03Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "James Webb telescope finds ice older than the star it orbits - Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "summary": "James Webb telescope finds ice older than the star it orbits Ars Technica",
+      "published_at": "2026-11-14T12:15:48Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/5411c8bcfe7794a0.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "published_at": "2026-11-14T12:05:51Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/1cfe6d748402b6e1.jpg"
     },
     {
       "category": "Tech",
@@ -123,111 +159,15 @@
     },
     {
       "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to set up automatic payments for your business - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEdocjBWdEJIQ2VBd3plS2M0SVpGakZ6dW4xX09xV1RfYXpyOVh3SWt3VDBuTzlHSDFmVEREWDJqSUZtX2VJeFZ1WDhPSGRlSWJrV0pUbTRnRU51a2pnY3EtOHRYZm9od0x0bkZfRVFxeF9QSVh1SVBpR1NUa25Vb0VmcGNRTEk?oc=5",
-      "summary": "How to set up automatic payments for your business Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "CRM migration: a complete guide for freelancers and small businesses - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yY2h5dVZ4clZwOXFiNGdxbjlvRno5cXY3a3FwaWk5WDFWODN5RGdlTFd5emkwZUJDWEx0bnl1OXpBR1BRcFVYX2pmbHBDcVc1UXV3Ti13?oc=5",
-      "summary": "CRM migration: a complete guide for freelancers and small businesses Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Multi account management: a guide for small businesses - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2XzZfdGN1cXI0NnBtejdWRzNfbnk3ZnFMbzNLWGJnb3M3X3pxSE9mNThIU0s3R2lTWk1SZ3hYOEJnVW9KblNWb3A3bGNQcTFab1dWcXBhWTVxTXdjdjRSZTZnREU?oc=5",
-      "summary": "Multi account management: a guide for small businesses Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to write an overdue payment letter (with examples) - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZZmtycFV2YTV2eGVGdUhxcXA3Q2dabVRpTkhEeEhXVkxTX2pxMG5UMjRLR190THozSlZCb3R6bktNeGp5SkFZVEN6RjVBRkZvMk1pWmVFN0hlem52UW9IOHBB?oc=5",
-      "summary": "How to write an overdue payment letter (with examples) Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to pay an invoice with a credit card: quick guide - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4bFdLTDdFWlhqRk5ha2I1TnJxamVqaTZZYVgtNk5OLWM3Tk8yM2hqbmJrYTY2ZDJfTlRkZzVtUjd4MkJVNE83NzNfZEx3YW80aW5YZlJfV2liZ1p6THNXMld4d0htdndJSkE?oc=5",
-      "summary": "How to pay an invoice with a credit card: quick guide Zoom",
-      "published_at": "2026-11-13T19:36:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to build a client getting system that converts - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZ0NXQ016U1pGejViRGQzTUpZRlhhaXZ0VHY2VDAwYTRycWZjR1BYY0U4Z1VjcEdyUXpPeUJCS083WVFTMldiNjdEY3o5alU1VmdMUkxrSGg1N3NNNHdGeQ?oc=5",
-      "summary": "How to build a client getting system that converts Zoom",
-      "published_at": "2026-11-13T19:36:02Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Build faster apps: database caching patterns with Azure Managed Redis - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaUtWTjJSck9LdTYtdXE4dmxuNHRfd3hHRE93WXRtOE9ldmt5Q0s5VDUxTUlGMU9wMGNPN1h4NjJ4X2VyUHVPUmpkcTRuTUNNZ210czZfYTNhamx2M29KTDllcXRJd0VuNjJNcS1aUVpmdG5nZ1NCSFBRTEpiQTNPWUFuVFpRbkk5emZUQ05Ua0xLclRpSnF1dlpUSkFSLTRBWmFkdEJHaklLU0lDR1FqMk0zWHNVQkw0T2hiSUhOVmdyRmZxcU4zQi1GS0lqeTZZRkpj?oc=5",
-      "summary": "Build faster apps: database caching patterns with Azure Managed Redis Microsoft Community Hub",
-      "published_at": "2026-11-13T19:00:28Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "What is a webcast? A plain-English guide - Zoom",
+      "title": "What is a webcast? A plain-English guide",
       "url": "https://www.zoom.com/en/blog/what-is-a-webcast-a-plain-english-guide/",
-      "summary": "What is a webcast? A plain-English guide Zoom",
-      "published_at": "2026-11-13T18:37:51Z",
+      "summary": "What is a webcast? Learn how webcasting works, how it differs from a webinar, and how to host one with Zoom Webinars & Events.",
+      "published_at": "2026-11-13T18:08:00Z",
       "image_url": "https://media.zoom.com/images/assets/Webcast/Zz0wNzEyZDI1NmRmOGIxMWYxOGMzOWFhNTYxMTQxMmI0NQ==",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6e61df4604292108.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "How to track webinar analytics: metrics, tools, and a step-by-step guide - Zoom",
-      "url": "https://www.zoom.com/en/blog/how-to-track-webinar-analytics-metrics-tools-and-a-step-by-step-guide/",
-      "summary": "How to track webinar analytics: metrics, tools, and a step-by-step guide Zoom",
-      "published_at": "2026-11-13T17:39:39Z",
-      "image_url": "https://media.zoom.com/images/assets/Getty+computer/Zz1kNzBmMTQyY2RmODMxMWYxYjZjMDZlM2Y0ZTlkNWUzNw==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
     },
     {
       "category": "Tech",
@@ -242,6 +182,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3adcad53aa2021b3.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to track webinar analytics: metrics, tools, and a step-by-step guide",
+      "url": "https://www.zoom.com/en/blog/how-to-track-webinar-analytics-metrics-tools-and-a-step-by-step-guide/",
+      "summary": "Learn how to track webinar analytics using key metrics, simple formulas, and a six-step process to review results and plan future events.",
+      "published_at": "2026-11-13T17:10:00Z",
+      "image_url": "https://media.zoom.com/images/assets/Getty+computer/Zz1kNzBmMTQyY2RmODMxMWYxYjZjMDZlM2Y0ZTlkNWUzNw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
@@ -252,18 +204,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-13T16:10:07Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -302,30 +242,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ddac38b57c7af7dc.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
-      "published_at": "2026-11-13T14:45:04Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/9cf814aff6251f37.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-      "published_at": "2026-11-13T14:29:15Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/87647081bfd0dcd3.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
@@ -356,6 +272,18 @@
       "url": "https://openai.com/business/customer-stories/gondola",
       "summary": "Gondola doubles revenue as its team builds more with Codex OpenAI",
       "published_at": "2026-11-12T23:12:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Global Sales Program Manager (SMB Sales) - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFEcVBEaUl1NmxSYjVjYUJDSGRHWG1nSmJKVXMtTlBlX3dVOTRaWU0yaFVnTTQ0dGVFSzJKS3lTb2drbHQ0WXFvdDRKMHhUeThta19iWG42bnUwQTFrdTNWNnNoSWt3cGdDNmhjMkxDOFgycE1ueFRPRDdsVnVvV0dtSklaTjQycUE?oc=5",
+      "summary": "Global Sales Program Manager (SMB Sales) OpenAI",
+      "published_at": "2026-11-12T22:08:01Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -434,16 +362,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Register interest in Daybreak Red Team - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSG5lM19wbDlYdnR1czVxNXlpLW1ZaktTMHdJbU5SdldGYlROZk9YbVhjUWRnTUdkRXZESXJ5a2ZQYjdnY0FUYVpGY1MzbHpINWN2bw?oc=5",
-      "summary": "Register interest in Daybreak Red Team OpenAI",
-      "published_at": "2026-11-12T17:59:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "A next step in the evolution of the Microsoft Data Governance strategy - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUdXQ2pPd2dkbkNuRGlTb3BIWFRCLUo5WUkzaGJERjBNN0QtOFVVLWVyM2N3THVJeDJyNHdxTFlobDdsY3hJZklfMzFnNzF1Y0k4dWZveDlaVlc3QlhwSDRXZDBJTWo5TFNKYlRZWGdjLVNTSDRJUVBqNEVXMl9Tb05xX2hwQnBJa1BVM3lUS0ZQMlJ3NS1hOS1DeFkwYU15OGxfZ21PQXpBZ0hnT3BBdnVLRHRBOEhzWHhGS3hZbmxBSjNYdUN2VE90RlNrdFgxanVDV3FaeXhsRVU?oc=5",
+      "summary": "A next step in the evolution of the Microsoft Data Governance strategy Microsoft Community Hub",
+      "published_at": "2026-11-12T17:15:21Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -480,18 +408,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
-      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
-      "published_at": "2026-11-11T19:49:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -554,16 +470,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "A next step in the evolution of the Microsoft Data Governance strategy - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUdXQ2pPd2dkbkNuRGlTb3BIWFRCLUo5WUkzaGJERjBNN0QtOFVVLWVyM2N3THVJeDJyNHdxTFlobDdsY3hJZklfMzFnNzF1Y0k4dWZveDlaVlc3QlhwSDRXZDBJTWo5TFNKYlRZWGdjLVNTSDRJUVBqNEVXMl9Tb05xX2hwQnBJa1BVM3lUS0ZQMlJ3NS1hOS1DeFkwYU15OGxfZ21PQXpBZ0hnT3BBdnVLRHRBOEhzWHhGS3hZbmxBSjNYdUN2VE90RlNrdFgxanVDV3FaeXhsRVU?oc=5",
-      "summary": "A next step in the evolution of the Microsoft Data Governance strategy Microsoft Community Hub",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWxteVROY2Joai1GNGRaUExab1VRM0lQVFY5N3pfb1lxdjNXN19LTUZjSXFFODhDYjFfUmZtbmowdVpBUDZGaVVESENJZ3hNNmhjSWlDdlpUTUZMU1NjNmlUWEowRnQ5SnFDdkgyS2NWMEFwQWk3UThWZ0UtWGRyWGpVVGdqbm9TS0dXa09tZVBGaWx2OHZCNnZ1aW82THpSM3JDUmVHeUcwSENRdWZ4dzEzdjhEbWVTTkhaMzFkSzJoUQ?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-11T12:31:02Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUxOblVpUENNeWR5aFdNMUs2djd1YVZrd0Rock94YVJNWnJuRU4xYkZoX2VEVVhIdVBPVnRhU1lzNDdvMUJQZXk0dWZjTEJGX3VyaTlKZjFFM2hPVENyUmctYWZjSTV1N1VIQkFfcnVuNmQzeU5rNU1NVTV1YW5sa3Z3TzFwbGprSHNmcEJOV0cxOVUzWnJUdUJCRzJWaHdBLU1mNkRfY09ING9QQUNrRy1CLTNyNDUtbHBCaWkzUWZydw?oc=5",
+      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
+      "published_at": "2026-11-11T10:29:19Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -571,18 +499,6 @@
       "title": "Granular controls for multiple updates in Windows Autopatch - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE9WdUhkdXRMejFzQW12S0JfRXRxS2x3dFo5b3JfM05abjBQbjlxTS1ZLTVNSnZTMmNuUXhXV2RtUko5anItMUE1aGRhWU9vSnktcUFJZkVPMW43ZE1PemJMTVVLNERaVUswZTVjRUdPWmp0b0hTanhRSUY1UG5vc0xhVVhpQl9pbDAtbzl0cy1ZLXdGVkFLZWl3Vm9XZmZhbWRUbFc2clItc3BvUnhmRFJTcjV2NTBNMVpOWmxmam93UW93d3c?oc=5",
       "summary": "Granular controls for multiple updates in Windows Autopatch Microsoft Community Hub",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft 365 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uY1NVNWdHajFmaVRyN1ozOFcxRlJIZWxsZTlBS1h5N3hOeV9zeHlDbm5wTWFYMkoxT2ZvcEZOTEVhY25Pb2ZKdFY2SnBuV2xBRTVuWDNjWFNqaldBcmdUVldqT0FKR040?oc=5",
-      "summary": "Microsoft 365 Microsoft Community Hub",
       "published_at": "2026-11-11T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
@@ -614,6 +530,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T16:43:35Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Zoom AI Whitepaper - Zoom Technical Library",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvTDRMazFGRDRFaUt3X3dSdnYtSDJGQmtBVUdIRmwtTGpBU3JHcW0xQ3loX3FIRkR3SnRMRndoWS1uVWQybURnbEdyVldsSDhHZU0w?oc=5",
+      "summary": "Zoom AI Whitepaper Zoom Technical Library",
+      "published_at": "2026-11-10T16:30:32Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -626,12 +566,36 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
+      "url": "https://www.zoom.com/en/blog/defensible-yes-cx-leaders/",
+      "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
+      "published_at": "2026-11-10T15:21:17Z",
+      "image_url": "https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
+      "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
+      "published_at": "2026-11-10T14:08:39Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Enhanced resilience with Windows settings backup and restore - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWWkxb19qSXlJS1lUOEJlejI3VWFXSFVWTlpaZGtKaG9fSkZfUGdEb1NadWNJQTVQaW9LZnFZdko5MUFvellNQU8wMTVwVUZjd18tMDkwYTljME9zdmROaFZFMVpjb3dZcWthS0VjMVVBTG1WeU5SeDNNb3FMVDJKWE5rcXo5a2RMOEk3NTlBRFdMb3FVZ3JRaGNpbUJWRzF5dVFOZ2JfWnB1dng2U0xJbTlBN0c2Nng5LVExby13QzFfRFZhUzVF?oc=5",
-      "summary": "Enhanced resilience with Windows settings backup and restore Microsoft Community Hub",
-      "published_at": "2026-11-09T19:49:55Z",
+      "title": "Claude Fable 5.2 and Mythos 5.2 bring frontier intelligence to Microsoft Foundry - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMlJPVXF3eHpZWlNCdmdSb3BYa0YxZGFLR1dNN2tPbERRclBuay00NjJBVk80WjdiVjhyd1NmVUJQSC1OQ0xnZldOMDJhcklOa0NBbXc3NlVoM21rakdKY0N1aFBnWFRzd2tLaW1MNVVhS3VyVTlRY0JaenpkRWpSck13blZyM2FsM0FJc2JsUkxacS1QSnE1ZWtBR3huSl93Q1BKQ2Q2TmF6SUFLYkhEem5jdU1UbVJkRUV1VnZic0pBXzhfdDBvdl9CSDZEVmlyNlMyQlJDZ0dNMDAwRVVEc2hTU1BCQQ?oc=5",
+      "summary": "Claude Fable 5.2 and Mythos 5.2 bring frontier intelligence to Microsoft Foundry Microsoft Community Hub",
+      "published_at": "2026-11-09T19:50:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -662,6 +626,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s new in Microsoft Entra: November 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
+      "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
+      "published_at": "2026-11-06T21:16:12Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "IIBA Global Business Analysis Day 2026 - IIBA Vancouver Chapter",
@@ -686,6 +662,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjktd09mM3Y3S2pXWGdEVGNTTzIzZkR6ZHBOTVV2VkpValF6bHpzZmh3d3FYZ0JRLXRiN29SZEZYQ0xQSXhSN25zRW9DUnVDQ3JlT01qeW44aF9rRmdhMVQwSHVUeC1DNWEyNU5QMzlXY05oaWRYSlp2bGFseURpQ1REeXRSZGFqUTVSc3kxZ05PTW14bElFY2JKTFl5SDJUNXRzVzJDQjZzLTFKUVp2Xy1lT0xNcHM1ZUlyT0YtajlFRG14b0JJc0lTRGozN1RqTUZzcG85d2dwbmpJeGVLYTg3dVUtQQ?oc=5",
+      "summary": "Building the next generation of multimodal AI experiences with fal in Microsoft Foundry Microsoft Community Hub",
+      "published_at": "2026-11-05T18:07:52Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -696,6 +684,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF1SG9xRnhaMldQOEFhY0tfZ0NwdWd0eGxEMFRscEhTVmozS3FpLVhiQkNmWlpaWWJrbTU4RUhqWTVXUEI3b2hFcjZhUlhCWVBlMDZxV29WYlRoT0JPdDdiUDY0UmFINWo0YUZsdHYxV0pQVlV5TW42elk3WTlISUdkTE5LNUZLRUxoYjRwM0FybVB1V2RvWTBpNUxWN0p6cFVOVFZfNWIyeWlUaUVRbVFqSUFiYXhxdnNTOWxVSGpvMmdkNlBQNkdTcU1QakdnbEw0NFVzMnVWQVQwNG13Xw?oc=5",
+      "summary": "Autoruns for Linux, ProcExp for macOS, macOS tools, Linux tools, ProExp, ProcMon, PsTools, and more Microsoft Community Hub",
+      "published_at": "2026-11-05T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -736,6 +736,18 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
+      "title": "LearningProgram - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
+      "summary": "LearningProgram Salesforce Developers",
+      "published_at": "2026-10-30T13:16:22Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
       "title": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQbEtMNzRDaEE1RmF4OFNnNDBLUEtPcG1hRlEzUmdhNDJMQlpleE5JMi1idHVZdzNnNlVsZmF1Q3l3NnVLODBPX0xFX2dpNjFkNjNqUzNfRXpPRU9FRXdxOFVDYmQzYllkbE5QcFRQdUF3V2dURWo2M0xMXzV3SWpxN3Zud25yMXdyYVRrQktnRktNbWZwQ3dNaDJ0Ml9ucVNIMFRnY2FmZVNz?oc=5",
       "summary": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide Salesforce Developers",
@@ -764,18 +776,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
       "summary": "InsurancePolicyParticipant Salesforce Developers",
       "published_at": "2026-10-30T11:21:16Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "InsurancePolicyTransaction - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUU5oOEx5RGltVXMwVFZtcVdobXRKRkF3UlptemlIbmV2b0laUHNiRkdKcWV4aXlqQkdsSW1wSGlLQVhNU0JudGlGVV9WTTlDZi05Mi0tYWRfXzRhbHBncUZXOFhoZmplcWxSdGpLZDNnQVdkNUMxSTZ5TW85LUhwNlhYZm9JYmcxQXN2ZEE1RU5EbUt4OGF2cjF4ZjJRLW13cktmVHJqdm1LdnhfSk5yM080SlQ0bU5nenRR?oc=5",
-      "summary": "InsurancePolicyTransaction Salesforce Developers",
-      "published_at": "2026-10-30T11:06:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -832,6 +832,18 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
+      "title": "Before You Start - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdjV4NTV6VjdRUGRycFhtVG9VcnAxRUVremN3Sm1xYThzS2VzZmVjUjh1RmFzeWhHZE5NeUNHbkdNbXUxWHNaWmFCWm1NMTZlamZLem1xbmlfeno2U1ZuZWl2UVEwc0loaFpjdUZ2aW9wblFMZGFtcEVPWXV0bS1GVVdfN3RxWXJ4RGlSTkM2VXJONEVCcXpQRmxUaVFPWGQ4QUI5ckpleXdtdDdzU3NRRG9DbEtpMXZ1LTRVQ2s2LVl2Z3JGNEVtN1hqUlZvTFktUlNGcE9B?oc=5",
+      "summary": "Before You Start IIBA",
+      "published_at": "2026-10-28T22:04:30Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
       "title": "BA Connect Georgia 2026 - IIBA",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
       "summary": "BA Connect Georgia 2026 IIBA",
@@ -852,18 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Bridging the Gap",
-      "title": "How to Use AI Prototyping to Accelerate User Interface Modeling",
-      "url": "https://www.bridging-the-gap.com/user-interface-modeling/",
-      "summary": "User interface models, particularly with AI prototyping, are one of the quickest way to gain buy in, to get stakeholder feedback and to help business stakeholders engage in the requirements process. I’ve been u…",
-      "published_at": "2026-10-13T12:16:32Z",
-      "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
     }
   ],
   "sources_ok": [
