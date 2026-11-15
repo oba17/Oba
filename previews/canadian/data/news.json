@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-11-15T11:07:57Z",
+  "updated_at": "2026-11-15T17:49:05Z",
   "articles": [
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-15T08:14:23Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA® Member • Clement Mukuralinda • IIBA Business Analysis Certifications - Emeritus",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11SVUzN21QMmZBM3lvNVo0eTZMLW9LTkljaEpqcVM4UzJ4TXItWS01ckU0U0hJaV9SZERXU2xzT2VJMWdySnFmak1oQ05xa1FyVV82VE55Zk9EZElic3Y5d09QZFN6Nnp2eW96aQ?oc=5",
+      "summary": "IIBA® Member • Clement Mukuralinda • IIBA Business Analysis Certifications Emeritus",
+      "published_at": "2026-11-15T14:11:53Z",
+      "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "How the world’s fires changed while humanity hit pause - Ars Technica",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "summary": "How the world’s fires changed while humanity hit pause Ars Technica",
+      "published_at": "2026-11-15T12:07:34Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6b481e63d9478731.jpg"
     },
     {
       "category": "Zoom",
@@ -48,18 +60,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Simon Naber's Credentials wallet • International Institute of Business Analysis™ | IIBA® - Emeritus",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uTzdZd21CdHctQ2hSeGhqR2ZwcVY5Rkx3aE93SnJfR3dxeXByNmRsclNsa2dPNVYtMXAyT0JCYm85Rm44WENzX2NCSzVjV0ZlN19acXI2eG5XOVJjSDRnV3JldWJBQQ?oc=5",
-      "summary": "Simon Naber's Credentials wallet • International Institute of Business Analysis™ | IIBA® Emeritus",
-      "published_at": "2026-11-14T23:22:13Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Tech",
@@ -156,6 +156,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/55737490adfb6632.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield helps technicians hand off legacy portal work with OpenAI OpenAI",
+      "published_at": "2026-11-13T21:21:02Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -266,36 +278,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
-      "published_at": "2026-11-13T15:26:53Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/369f525cd5611d0f.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "Introducing ChatGPT Wallet - OpenAI",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "summary": "Introducing ChatGPT Wallet OpenAI",
       "published_at": "2026-11-13T15:15:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "published_at": "2026-11-13T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -362,24 +350,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Granular controls for multiple updates in Windows Autopatch - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE9WdUhkdXRMejFzQW12S0JfRXRxS2x3dFo5b3JfM05abjBQbjlxTS1ZLTVNSnZTMmNuUXhXV2RtUko5anItMUE1aGRhWU9vSnktcUFJZkVPMW43ZE1PemJMTVVLNERaVUswZTVjRUdPWmp0b0hTanhRSUY1UG5vc0xhVVhpQl9pbDAtbzl0cy1ZLXdGVkFLZWl3Vm9XZmZhbWRUbFc2clItc3BvUnhmRFJTcjV2NTBNMVpOWmxmam93UW93d3c?oc=5",
-      "summary": "Granular controls for multiple updates in Windows Autopatch Microsoft Community Hub",
-      "published_at": "2026-11-12T18:39:35Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
       "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
       "published_at": "2026-11-12T17:59:35Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Register interest in Daybreak Red Team - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSG5lM19wbDlYdnR1czVxNXlpLW1ZaktTMHdJbU5SdldGYlROZk9YbVhjUWRnTUdkRXZESXJ5a2ZQYjdnY0FUYVpGY1MzbHpINWN2bw?oc=5",
+      "summary": "Register interest in Daybreak Red Team OpenAI",
+      "published_at": "2026-11-12T17:59:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -436,10 +424,10 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
-      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
-      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
-      "published_at": "2026-11-11T20:09:39Z",
+      "title": "IIBA® Member • Aneta Cruz-Kaciak • IIBA Business Analysis Certifications - Emeritus",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZ3hkN25SQmI1V0g2TFR6OURSdS1IRzE0U3dnMmtwYTdKbVVFVWVPZ0R5Mkk1VkpibkJoT2J3MjNIRTJOSEs5cmJmNHZxT00zcFFxT2xsdTBtbGo4UGtNX3ZMd3lndlFSQVJLTQ?oc=5",
+      "summary": "IIBA® Member • Aneta Cruz-Kaciak • IIBA Business Analysis Certifications Emeritus",
+      "published_at": "2026-11-12T08:00:00Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -448,14 +436,38 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
-      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
-      "published_at": "2026-11-11T19:49:02Z",
+      "title": "Ask your database estate a question: Copilot in Database Hub is now in public preview - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU3FPalROR20wQjhhY0FHcTBXWEFhUXZwTTQ1YlFydjZzTnZCMUduVEVsOTczTnFpV1VxX2VMVVh0aGRQX2hzcmdINlBPcjhQQXpMbW5yMFpSSGppOXhBS0FqdVBWcHRSaDVPLXh3ZDlNUENrSmdLcy1MWDFZTjVNMjJHUTJEbUJGd1dSNS1VVzFFeVRxQjBFWkxzUGlDRnhvT1djdDlDcEtFZW4zTWtGczZ1cXhpNzZheGJhdmFDaFI0T2RoZFR4QXRvVnNFMVFUUHFMZUdRcU5NUQ?oc=5",
+      "summary": "Ask your database estate a question: Copilot in Database Hub is now in public preview Microsoft Community Hub",
+      "published_at": "2026-11-12T06:57:33Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Spotify download mp3 for tracks and playlists on Windows 11? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0U1d3RrcHdmNzVuVC1TUGdmcFlDVGtRam82SDdzeTh1a0tHb0xuTXAxSU1haG5ZRXd2RlVNVlJBQkZLazg3NVBOTXpfMUJJbjkzVFdlcHVFMFJDQ2dLRWdJSzFUWDVkbHNVSTByYlFHb0pqRVhuNTRISE9KaGQ3R2U2eUw1c2lPMXNuSTFyb2R4VXFDX3Z6OVBnUXlZUWlWSE9PZXR1bGJHSHU1QW9sR0otV21NeGk5R09ZWmcyb0JYcFE?oc=5",
+      "summary": "Spotify download mp3 for tracks and playlists on Windows 11? Microsoft Community Hub",
+      "published_at": "2026-11-12T06:15:31Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
+      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
+      "published_at": "2026-11-11T20:09:39Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Microsoft",
@@ -470,16 +482,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "test - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQT3BuRzdTbkNIR0VaSEJqbWtVMV8zeFV2aEVqOUNGZEZtdkxvSUxVa1lVNEFVeTVqMUgxSm5CUlZlVjhJN284LWgwZWNxTHh3U0dOQ0NyX3NfX2hsN3NzQU0zLWUwQnFJUlJDbVQyZ3dJaDVQZGxTU3ZWcTdrNXhiU21DdWhvcHJjTUhTT3JkeUItX3E2R3A2S2RnNDlNcmQ2QWpkUkI2WDczWnc2Sk5MVkx3eXN3b1dfSEd5R3ZVSXdVWE5QWnBIRUExLVFmQ3Jjc3JpRURVRnM4WGR4clNybzg4SUdPRDFSdm9JRnptcEpGWk5YUFpZNzV2allXUjlM?oc=5",
-      "summary": "test Zoom",
-      "published_at": "2026-11-11T16:24:24Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "HLK October Refresh Release for Windows 11, Version 25H2, Version 26H1, and Windows Server 2025 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMUFUb1VtTzJWZjFNdzlBVkx2Q253WVNhNFNNaUJkOXh0Tkc4bGVuY0R3SFUycnc3aDBNM0JTRHVEVmYwQ3MwWTFhRkRWRjVtRkZaN2Mzc1hPVTQ4VFRDVl9kREJTVV9kVXotY1Vva0tCS0pQdjRyMlhhcmdCN2hLamtCN3dsVm82MjRrejkya3FzUE5ocC13bi1hTEJWdm1XblFleGQ4Z3lQWHJEemxOTk93dk1fSzU1NXJRMms4dEVKLXhxelM3YUlqUy1kS2FzWUdXYlNudWs0X1dzQi1udE4wdWJNS0QxRXI4YVNEUVhldw?oc=5",
+      "summary": "HLK October Refresh Release for Windows 11, Version 25H2, Version 26H1, and Windows Server 2025 Microsoft Community Hub",
+      "published_at": "2026-11-11T17:12:44Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -492,18 +504,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Copilot Connectors Update: October 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYbEJqZExoNzcxNmZYOFNyS2owbUR0UGQ0dmdtT0FpVy1HeTdTX3BTcHFEbFB0dWRvLTVreVhuSnV6c1o4UzlFMU5UNHNMTXhYX0J5MmZiVjBXbDJWdXdETFZDMVM1ejdqVzZjUDNqZTF4MElBUWhfdDl1a3BLeHN4SEVRVWc2MEM3cTFhaXVBMGk4VVB2R1BxUHVCZVozeEJxYUh1M0JJTTBQUmU0WnpMVmlHSm1fMTk3LQ?oc=5",
-      "summary": "Microsoft Copilot Connectors Update: October 2026 Microsoft Community Hub",
-      "published_at": "2026-11-11T16:17:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -554,6 +554,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "microsoft visual c++ error - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzNaRDlIRHYyR19OMlluQUZOVUh2QkVfQXBRUzk1RTktWGFCYlJxcV9XbnUtQVBvSEVxN1pRYjdqSUhZNlAzQno5ZHZLUVNyWm9SaF9tNUVkbWw2bk5DZlNGM0lJVHJnMnNKYWJNRWtYcGtGdFJvM0VDM1cxdllZeUVRUUpNc0lxN2dTc3NNT1FaRC1f?oc=5",
+      "summary": "microsoft visual c++ error Microsoft Community Hub",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "How I Won Over Stakeholders Losing Their Jobs to Automation - IIBA",
@@ -576,6 +588,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T16:43:35Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -650,18 +674,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Closing a monitoring blind spot: version store read metrics - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObm1hUlZxTlJ0azdoVWVXdGJNWi1LTGwtTk9kbXpLdmFlOG16LVJwYUx0aldqdHV2YWFYSnI5VUdCUGhLSEpnQmV2aXVXcXlScVZWUGI0cFhFVVZ6bl9XSHdtbGh3UU1sb055LWJYdmlzX2Y5ZEk2bWh0WHVEVWdYY05XTkVJdFZJbFliWkJvUExsSEd0NnRITEJIOUNZcmxiNlJKdExHVm8tRlFmLWlTSzM3d01GZ2JxZ1FkRQ?oc=5",
-      "summary": "Closing a monitoring blind spot: version store read metrics Microsoft Community Hub",
-      "published_at": "2026-11-09T21:13:11Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Getting Help from Zoom Support | Contact Us - Zoom",
@@ -672,18 +684,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA® Member • Kashish Sinduria • IIBA Business Analysis Certifications - Emeritus",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BZW0zRFFxMnhGV0M4TGJWeGpBeWVCdmtEa1hsZTJFazY5Z3gtbXJHRHAxMkItTVduTmRJSXBlcUl1Q3VlVlRWV2xYQVpGWVlwa09kb2MtV0FqM1lyUS1fMU5ZdEI4VHN4b0h2Vw?oc=5",
-      "summary": "IIBA® Member • Kashish Sinduria • IIBA Business Analysis Certifications Emeritus",
-      "published_at": "2026-11-09T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -708,18 +708,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Global Business Analysis Day 2026 - IIBA Vancouver Chapter",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0QzbkxNVENLNlVhVHNiUkRabUhudnJXY25XWkk1LVFicGd6bFY1ZTlaMENXNnluNlowZjlEaENLVmdocEFCZ19qYWJ3Ukdkb25WOWE1alFnMzZzX2dJcko3NVdCSVhVZnZXblNVSnlRb19ScnRKdDkwaXBQRUk3V2l0dkhVb2xtMmZRVGx3?oc=5",
-      "summary": "IIBA Global Business Analysis Day 2026 IIBA Vancouver Chapter",
-      "published_at": "2026-11-06T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -808,18 +796,6 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "FinancialAccountParty - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
-      "summary": "FinancialAccountParty Salesforce Developers",
-      "published_at": "2026-10-30T11:26:42Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
       "title": "ApplicationForm - Salesforce Developers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JaVUdNN3BZbVRmNU00NFY1OHNVQmlwOWJaZXhSUE5SMjE2ZWxPREstXzZIR3hTT3pKdDI3RTU2ZzdQdWdrZVBoU19WM1hyblRfcXpNWUVJNTNGMW1ZTnh3SGFaeDBtYUhVVFJpb2JhNHVFU3QwaTlFMHJRam1FLUdQelYyUjBsOHl4OTU2aGVmczFMU05JUUFtbHNtUUNaSXVONmpnZUg1OHZi?oc=5",
       "summary": "ApplicationForm Salesforce Developers",
@@ -836,6 +812,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
       "summary": "InsurancePolicyParticipant Salesforce Developers",
       "published_at": "2026-10-30T11:21:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ClaimParticipant - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFSSTlraW9xRG5yaGZHOGpEc182bWNldjd2M0pfMWRTRF8yd21iNm5XYmVQMHlwcnBBX3dLUF9USndpdVJCTG1GRWE0Wm9CQ0g3MEMtMGdFR1hGTDdndmZDaWZZNFMyRzA1ZXFsT19EUHgzYVpBNHlKemUzUjFLNVFNTGF6Ukx3NVJHM2lWQml3aE9GUENCNjZkSm8xSzVZaUxGWXBtQ0FSeEJxSnc?oc=5",
+      "summary": "ClaimParticipant Salesforce Developers",
+      "published_at": "2026-10-30T11:08:40Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -860,6 +848,18 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
       "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
       "published_at": "2026-10-29T21:20:03Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Purchase Your Exam - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXZvYUJvYm1jdmpqa042OFVJaDVoa0d4NndqdzhrTmtVdVM4Y292ai1lR09lSkxBV2hHRVNvcm9CNk5XZHhMQ3BNVXFaOTNUZ1FBVUx4VUI2LWpLaEJncmllYWlFSy1xbGVIVU9HOF8zZDZyeXdRdnhVN05oc3BvenB0MW90R3VybGg5ZzI5VURuN3lETmtncGNMYmVvVGZreGdBcUc1MmV3WnJIM3Vzb1pzQTNNVGc1bWZ1SjRTSzNzMjk4aGhSQTdRT0x0dWVTZ2ZVZ0JvZWFDSEJJR3lIczQ4NzM4UmM5OWV0V1Q4YUJTN1JR?oc=5",
+      "summary": "Purchase Your Exam IIBA",
+      "published_at": "2026-10-28T23:25:00Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
