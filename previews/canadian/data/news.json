@@ -1,17 +1,29 @@
 {
-  "updated_at": "2026-11-15T02:47:06Z",
+  "updated_at": "2026-11-15T11:07:57Z",
   "articles": [
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-15T02:00:05Z",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-15T08:14:23Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdlcwRmtzbGVHZktqeEViN1BpX1FUc3d6dDM0akJRbWFfYlotMWF2NWctbURwcTlpNFpwM3pOM1RXdV9LRVR2bjM0RmNza0JXY1k4UTI0SUxESHA0TFNnTzZVRHA0WHlIR2t3cktVLURVUk9rd0xiakY3cjBieXlvVmp2Uk5PSTEzVTFCV2R5dDQtaEFGNkc1RkdXSlZCU0M3V1dUUHJSYVRkOERqRHV5SnhmR1M4UnFMYjlmQjFLbXJpcV9GaTJHSVFrLXpVb1RXUmYzZnpOdFdweWd0Y3lRWjRTazZ4U1lfZjJjQWhwWjh1RmtMbFp3TDhVLW1OUldl?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-15T02:53:10Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Tech",
@@ -24,6 +36,30 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6eb4fab1e689e740.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-15T00:00:05Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Simon Naber's Credentials wallet • International Institute of Business Analysis™ | IIBA® - Emeritus",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uTzdZd21CdHctQ2hSeGhqR2ZwcVY5Rkx3aE93SnJfR3dxeXByNmRsclNsa2dPNVYtMXAyT0JCYm85Rm44WENzX2NCSzVjV0ZlN19acXI2eG5XOVJjSDRnV3JldWJBQQ?oc=5",
+      "summary": "Simon Naber's Credentials wallet • International Institute of Business Analysis™ | IIBA® Emeritus",
+      "published_at": "2026-11-14T23:22:13Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Tech",
@@ -50,6 +86,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/1cfe6d748402b6e1.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Adaptive US",
+      "title": "AI Experiments to Business Results: Building a Scalable AI Strategy",
+      "url": "https://www.adaptiveus.com/blog/build-scalable-ai-strategy/",
+      "summary": "AI is no longer the question for most companies. Turning it into measurable business value is. McKinsey's State of AI in 2026 survey of 1,719 respondents shows nearly nine in ten organizations now use AI regula…",
+      "published_at": "2026-11-14T08:29:18Z",
+      "image_url": "https://7768311.fs1.hubspotusercontent-na1.net/hubfs/7768311/Scalable%20AI%20Strategy.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/3c9e897b765a8f1a.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "From Purview Data Governance to the Fabric OneLake Catalog - Microsoft Community Hub",
@@ -62,16 +110,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Whiteboard featured topics - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdUpWSkFDTjc1bGVyR3JueDZtN24xSHMzNXM3Rk5Va3lpLVNjZEZVa09RSmNrMER0THBGTnV5TzBSa19rMlZLWl9NX21xT2Q5RGZPeHBTZjV3VUxxcWRQbWJVVUdhd212VS11Z3Y3ZVBrNG9FLWxpOENjQmJZX0ZfNl9GLVJyQTZndTluWWVjWS1RQ0Nib1VZUlhkSW9XcHhpZWRlRUtrc2hPNjZueG9JTHJ4dTlZeTJNajJwaVZaMmV6Wl92elE?oc=5",
-      "summary": "Whiteboard featured topics Zoom",
-      "published_at": "2026-11-14T04:35:09Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Elevated errors with ChatGPT billing and Ads billing - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Sa1RFbXNZNmFiZU4tMDdWTHllbVdFMzNwam03aGh0aWNwdWRnc3AySmRZYk40WXVqMXdsYlQ3a3ViT015ZUQ5Z1A5ZEtqb2ZpMHpWQWlFTFZJOFRDbEVFMFFUOEJnWFhLYUpOeXhlTQ?oc=5",
+      "summary": "Elevated errors with ChatGPT billing and Ads billing OpenAI",
+      "published_at": "2026-11-14T04:17:32Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -84,18 +132,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a4c3de21ffb12cae.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield helps technicians hand off legacy portal work with OpenAI OpenAI",
-      "published_at": "2026-11-14T00:20:12Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -159,15 +195,51 @@
     },
     {
       "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "CRM migration: a complete guide for freelancers and small businesses - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yY2h5dVZ4clZwOXFiNGdxbjlvRno5cXY3a3FwaWk5WDFWODN5RGdlTFd5emkwZUJDWEx0bnl1OXpBR1BRcFVYX2pmbHBDcVc1UXV3Ti13?oc=5",
+      "summary": "CRM migration: a complete guide for freelancers and small businesses Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Invoice request guide: create one in 6 simple steps - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EUTF1dERQbDJsTjJfQ1pwTm42NnJyS3NhQTh0Q2ZJQ3hoZmZweTZFdWN1SjJiQUk3OHBjWF9JLTFHT3R5LWFPenhaSXhFTkV2S1dLQlQza18?oc=5",
+      "summary": "Invoice request guide: create one in 6 simple steps Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "What is a webcast? A plain-English guide",
+      "title": "What is a webcast? A plain-English guide - Zoom",
       "url": "https://www.zoom.com/en/blog/what-is-a-webcast-a-plain-english-guide/",
-      "summary": "What is a webcast? Learn how webcasting works, how it differs from a webinar, and how to host one with Zoom Webinars & Events.",
-      "published_at": "2026-11-13T18:08:00Z",
+      "summary": "What is a webcast? A plain-English guide Zoom",
+      "published_at": "2026-11-13T18:37:51Z",
       "image_url": "https://media.zoom.com/images/assets/Webcast/Zz0wNzEyZDI1NmRmOGIxMWYxOGMzOWFhNTYxMTQxMmI0NQ==",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6e61df4604292108.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "How to track webinar analytics: metrics, tools, and a step-by-step guide - Zoom",
+      "url": "https://www.zoom.com/en/blog/how-to-track-webinar-analytics-metrics-tools-and-a-step-by-step-guide/",
+      "summary": "How to track webinar analytics: metrics, tools, and a step-by-step guide Zoom",
+      "published_at": "2026-11-13T17:39:39Z",
+      "image_url": "https://media.zoom.com/images/assets/Getty+computer/Zz1kNzBmMTQyY2RmODMxMWYxYjZjMDZlM2Y0ZTlkNWUzNw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
     },
     {
       "category": "Tech",
@@ -180,18 +252,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3adcad53aa2021b3.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "How to track webinar analytics: metrics, tools, and a step-by-step guide",
-      "url": "https://www.zoom.com/en/blog/how-to-track-webinar-analytics-metrics-tools-and-a-step-by-step-guide/",
-      "summary": "Learn how to track webinar analytics using key metrics, simple formulas, and a six-step process to review results and plan future events.",
-      "published_at": "2026-11-13T17:10:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Getty+computer/Zz1kNzBmMTQyY2RmODMxMWYxYjZjMDZlM2Y0ZTlkNWUzNw==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
     },
     {
       "category": "Tech",
@@ -230,24 +290,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Could Adaptive, Capacity-Aware Recovery Orchestration Improve Exchange Online Resilience? - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON2p3MTdYRWJCWjAzUlg5VHRNRG9OWHFlSG85X0RhZ2dSQnRCZm5hc3NLZC1XUGlJLUFoSmR5OFNYX3QxRWl6eWVQNmpfV1pGT2drdl9nV2RjLWJUOEV4THpaU0dqZEhYUnFUdDBLZ2hyN3NFQktfMllVam4zb0RQMUlaWjVSMlhhWkZlQVBHQVQzb0lsaUF5b2plcUdsYWlwUi1HNnRPRC1mcU1XTUxxRGlJa0N1a1dYVlBWMFhjRjlEZldtVW83cGxZcy1vemtzNzZUczRUWnFtcFM3TUxpRThhTzg4U1Ey?oc=5",
-      "summary": "Could Adaptive, Capacity-Aware Recovery Orchestration Improve Exchange Online Resilience? Microsoft Community Hub",
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "published_at": "2026-11-13T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-13T04:59:58Z",
+      "title": "Global Sales Program Manager (SMB Sales) - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFEcVBEaUl1NmxSYjVjYUJDSGRHWG1nSmJKVXMtTlBlX3dVOTRaWU0yaFVnTTQ0dGVFSzJKS3lTb2drbHQ0WXFvdDRKMHhUeThta19iWG42bnUwQTFrdTNWNnNoSWt3cGdDNmhjMkxDOFgycE1ueFRPRDdsVnVvV0dtSklaTjQycUE?oc=5",
+      "summary": "Global Sales Program Manager (SMB Sales) OpenAI",
+      "published_at": "2026-11-12T22:08:01Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -316,18 +376,6 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Elevated errors affecting the Microsoft 365 connector - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTnB1S3pNRU1oeTNDbF9Fc2h2S19haEhrTXFYUjV3QUtGX3dNWFY5S3Bycmp5X0I5VV9WQzRtSzYzN3ZMMHB2NEItZVlJSFdBdmhTWFdCTQ?oc=5",
-      "summary": "Elevated errors affecting the Microsoft 365 connector OpenAI",
-      "published_at": "2026-11-12T18:29:14Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
       "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
@@ -380,30 +428,6 @@
       "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "published_at": "2026-11-12T09:30:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHowZ2xjN09US2Z2LThVMDVNUVZka1d4a0Y1OTNYeWZ4OVlkckJuUGV3V3hYakdpTWk0WXNvb3FvZGhicUFjMGN0c2R3RFdMS1VZZzJ0ZGY4UTAzYnQ2N2xtSjBnZGZGZlAwWno0amFweTVTU1p6SWE2UmpqOEdwSFZfVHRaNG5xYVp2UHdyTHhOQ1B4NFlpdGJBTWg3N05GTmswbEd4a2dvXzhtaWhHeEUtdDRWQklTTF9WSkhqNVpUUQ?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-12T04:29:30Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "published_at": "2026-11-12T00:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -496,6 +520,18 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
+      "title": "Secure Linux desktops with Microsoft Defender - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEV3aWhLX1JldGNBRTRSWkE5MHV4Q3I1bFJaMGE2ZVJkZ2gxVm5HSHROQzlWMEJ4TUxVc1VwNVkyUUczSHJqT3F5eVZsamViZnJURnp0UmdLWFJ4cGZZN2MtSXVqbjZaNi1rRkwxa1dOeERaRUg2LWZ5MXJZSTk0c3pUMHNIZnM0eXpCdkYtOHJBLXBqSXNybzB0ZndiWG5ULTdKQTFxMzNvSFRPLVZYT2s2TmtiYVZCel9OVEdZcE4wZw?oc=5",
+      "summary": "Secure Linux desktops with Microsoft Defender Microsoft Community Hub",
+      "published_at": "2026-11-11T15:48:31Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
       "title": "Introducing Microsoft Classroom: A new experience built for teaching and learning - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT0ZNUGRILUtrR1Fyc1c5S1haYlRVRnZrNzdRbEFNMk1EbDJrSDRsdW1qN2hzbS1YM2FreFpqMVdiQ1Nma21YZEIxUjd1SnlBblRpSC1lRlBzMjJOaVE2WVFVUjJSZ2JJc2dTaWFEUmpxU3ZHMWdTdUQ2aG9MTWFMS1JZOGgxQmx3Nnc5MVZYdGYxbUpNWHVJdVhIUXRfQ2FnV0IzQnZOS281TGN1SXZFeFFwVVhYZHdwQS03dU5WZEFZY3FOaWRyQmRfY184ZG9VN3NWMHN6QWZZZkE?oc=5",
       "summary": "Introducing Microsoft Classroom: A new experience built for teaching and learning Microsoft Community Hub",
@@ -554,18 +590,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "My Notes - Zoom Technical Library",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWTjFnWkFmc0NucHhsalpxeGZacUlFRjJkUG5HaVZ0d2d0QUVva3BENjF5ZWFUcmNrck9pWHdqM2xENkI0Rng4QVkxRDFhLUtsckd6UkhBb3lGMjhpS3ZZ?oc=5",
-      "summary": "My Notes Zoom Technical Library",
-      "published_at": "2026-11-10T16:26:46Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -614,12 +638,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZk5ONkVIREY4anhrSWF1N1FoVGkzREJPakx4eWpSVmRkOThvUTRFTUJfcGlBdkQ2SVV2OFcyNVZkdWNpY25BXzZSc3d2dHA5b2daOWN3TGY0d3l3ektBVVM4dkFOUTJEdjd0dkc4VDVGdGhsclY0V3BsOEh4MWJHR292aXF4bFg5M2N3U3BCOFN1UzdLY2s3WkZUTG1lcFU2d0JMVzNqZmctVWN2OHRUV2ItYW5GRGxBUnVjcy1HOC00eTlBMFNEY1Y2NmloMHVLUTh4a2JaOElJNFJRTDNuaUZra1BVdGdURHF1eU1yM2FOX05rMXpMend0ei1GeE9s?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T03:55:14Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Turn Copilot insights into action with connector write capabilities - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORE44UTdGcHRWVWZpQUNEVVZRd0hzR0QwendQejZtUFgxNHJ4SHcwSVlHTjkzNFJTbkxuSkpNYVA5SWlnV1V3WlIzeVRoTWNMWHg3ZjlWVnViOF9IdmF1aTFtQzZVY2JSUHZDaHZZNHppOS1xRHRseGl0eGRkQkt3VXd4elk0dkRsTGVyc0hUbWgzSHRiR2xnRElZRlJzZ1dEUkE5VjItOXNIUnBpaHpMd09XWWk5RVJ2aGNULTFVZkV4TlZRejNIbExxRElNdEU4dVNVbmZn?oc=5",
-      "summary": "Turn Copilot insights into action with connector write capabilities Microsoft Community Hub",
-      "published_at": "2026-11-09T17:14:12Z",
+      "title": "Closing a monitoring blind spot: version store read metrics - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObm1hUlZxTlJ0azdoVWVXdGJNWi1LTGwtTk9kbXpLdmFlOG16LVJwYUx0aldqdHV2YWFYSnI5VUdCUGhLSEpnQmV2aXVXcXlScVZWUGI0cFhFVVZ6bl9XSHdtbGh3UU1sb055LWJYdmlzX2Y5ZEk2bWh0WHVEVWdYY05XTkVJdFZJbFliWkJvUExsSEd0NnRITEJIOUNZcmxiNlJKdExHVm8tRlFmLWlTSzM3d01GZ2JxZ1FkRQ?oc=5",
+      "summary": "Closing a monitoring blind spot: version store read metrics Microsoft Community Hub",
+      "published_at": "2026-11-09T21:13:11Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -636,6 +672,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA® Member • Kashish Sinduria • IIBA Business Analysis Certifications - Emeritus",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BZW0zRFFxMnhGV0M4TGJWeGpBeWVCdmtEa1hsZTJFazY5Z3gtbXJHRHAxMkItTVduTmRJSXBlcUl1Q3VlVlRWV2xYQVpGWVlwa09kb2MtV0FqM1lyUS1fMU5ZdEI4VHN4b0h2Vw?oc=5",
+      "summary": "IIBA® Member • Kashish Sinduria • IIBA Business Analysis Certifications Emeritus",
+      "published_at": "2026-11-09T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -660,18 +708,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Webinar marketing strategy: Zoomtopia 2026 recap",
-      "url": "https://www.zoom.com/en/blog/webinar-marketing-strategy-zoomtopia-2026-recap/",
-      "summary": "Zoomtopia 2026 recap: learn how to host a webinar well, repurpose recordings fast, and use audience signals to give marketing and sales shared context.",
-      "published_at": "2026-11-06T23:24:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Zoomtopia+recap+blog+webinar/Zz1jMWFiOTE5MmRhMzcxMWYxYjU4NTUyMTYzNTQ5NjA5ZQ==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
       "category": "Business Analysis",
@@ -723,6 +759,18 @@
     },
     {
       "category": "Business Analysis",
+      "source": "Adaptive US",
+      "title": "Data Analysis with Microsoft Excel: Guide for Business Analysts",
+      "url": "https://www.adaptiveus.com/blog/data-analysis-in-excel-for-business-analysts/",
+      "summary": "Every year, a new wave of \"Excel killers\" hits the market — Power BI, Tableau, Python, R, and a dozen AI-powered analytics platforms all promise to make the humble spreadsheet obsolete. And yet, walk into almos…",
+      "published_at": "2026-11-04T06:30:00Z",
+      "image_url": "https://www.adaptiveus.com/hubfs/Data%20Analysis%20using%20Excel.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca51e75ce5614bab.jpg"
+    },
+    {
+      "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The Requirement No One Asked For - IIBA",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
@@ -760,10 +808,10 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSzNQbEtMNzRDaEE1RmF4OFNnNDBLUEtPcG1hRlEzUmdhNDJMQlpleE5JMi1idHVZdzNnNlVsZmF1Q3l3NnVLODBPX0xFX2dpNjFkNjNqUzNfRXpPRU9FRXdxOFVDYmQzYllkbE5QcFRQdUF3V2dURWo2M0xMXzV3SWpxN3Zud25yMXdyYVRrQktnRktNbWZwQ3dNaDJ0Ml9ucVNIMFRnY2FmZVNz?oc=5",
-      "summary": "InsurancePolicy | Standard Objects | Financial Services Cloud Developer Guide Salesforce Developers",
-      "published_at": "2026-10-30T11:38:08Z",
+      "title": "FinancialAccountParty - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
+      "summary": "FinancialAccountParty Salesforce Developers",
+      "published_at": "2026-10-30T11:26:42Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -772,10 +820,10 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "FinancialAccountParty - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0RlaFoybTBaa3duMl9DYkdld0NnaHhNWE1pRHVRYnAtdFdNeUNobUhFeUhmeHkyYlFhMlZwX2ZUT1Y1UEtTTElaVkx6RlZ0dEdrRkJjcWg0ejlMaTFGZnlGX21hV2hFUE1rNjBxQ2ptUmMzUnhGQkNmanVSYVl0UFU2elNZQ3kySFROMDYxeUp6bWFBS0dpTFRBdl9wNm1SM1JtRlVGS3hMYkl5ejhhbE9wY1hlUFBaUEE?oc=5",
-      "summary": "FinancialAccountParty Salesforce Developers",
-      "published_at": "2026-10-30T11:26:42Z",
+      "title": "ApplicationForm - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JaVUdNN3BZbVRmNU00NFY1OHNVQmlwOWJaZXhSUE5SMjE2ZWxPREstXzZIR3hTT3pKdDI3RTU2ZzdQdWdrZVBoU19WM1hyblRfcXpNWUVJNTNGMW1ZTnh3SGFaeDBtYUhVVFJpb2JhNHVFU3QwaTlFMHJRam1FLUdQelYyUjBsOHl4OTU2aGVmczFMU05JUUFtbHNtUUNaSXVONmpnZUg1OHZi?oc=5",
+      "summary": "ApplicationForm Salesforce Developers",
+      "published_at": "2026-10-30T11:23:20Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -816,54 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Australia Chapter Annual General Meeting 2026 - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2VhQlVHTnhfbktLaWhDVzV1TUF3bGs1dTFNM1pQejZhTTVaSUZpbU1keFhMTXFMVFVQRHpvTXdnVGtzY1RxTHdKVng4RzJUd2FoZGdzZk5XR0ZjM2pwVHpmNVllZnJPOTQwX3dGbmpwejZ1UE5xZVV3TUJqWHpZZG1MRDIxdi1HZG9kSFp4SWpOSFRnX1pjcA?oc=5",
-      "summary": "IIBA Australia Chapter Annual General Meeting 2026 IIBA Australia",
-      "published_at": "2026-10-29T11:34:27Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Purchase Your Exam - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXZvYUJvYm1jdmpqa042OFVJaDVoa0d4NndqdzhrTmtVdVM4Y292ai1lR09lSkxBV2hHRVNvcm9CNk5XZHhMQ3BNVXFaOTNUZ1FBVUx4VUI2LWpLaEJncmllYWlFSy1xbGVIVU9HOF8zZDZyeXdRdnhVN05oc3BvenB0MW90R3VybGg5ZzI5VURuN3lETmtncGNMYmVvVGZreGdBcUc1MmV3WnJIM3Vzb1pzQTNNVGc1bWZ1SjRTSzNzMjk4aGhSQTdRT0x0dWVTZ2ZVZ0JvZWFDSEJJR3lIczQ4NzM4UmM5OWV0V1Q4YUJTN1JR?oc=5",
-      "summary": "Purchase Your Exam IIBA",
-      "published_at": "2026-10-28T23:25:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "BA Connect Georgia 2026 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oRlRUaFBvcE1qLUJ2ZlNyd2gwdEx0Q2tRakxtVTNDcEwyQWd2czR5bDk2Z3ZsYUtXU1VLWDJvZm5SemdUZ2dhMHdIODNUbzdNYmhfVzRxV24tRnlJVlVPNEY1UndidU0?oc=5",
-      "summary": "BA Connect Georgia 2026 IIBA",
-      "published_at": "2026-10-28T11:06:36Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "IIBA Sydney (In-Person) - EoY Networking Event - IIBA Australia",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSjZxVmptT0lDXy1pdVBDVlJsR250X1doV0JIUWVNbk5JVWZqYkFxdGMxSnVaLUdkQnN1YVhFZ01fMTJfNFZjdmh0MnhHVXdQUTEtem9ZVUlZd2FROUpfemppODdfQ1p4YWJJNlJvVHRaZDktOGFvY3JJeExsejJEbnN2U09IclVxLUdF?oc=5",
-      "summary": "IIBA Sydney (In-Person) - EoY Networking Event IIBA Australia",
-      "published_at": "2026-10-22T16:06:32Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
@@ -872,6 +872,7 @@
     "AI",
     "Zoom",
     "Tech",
+    "Business Analysis",
     "Business Analysis",
     "Salesforce",
     "Microsoft",
