@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-11-14T23:08:07Z",
+  "updated_at": "2026-11-15T02:47:06Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-15T02:00:05Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "summary": "It felt like stepping into the future.",
+      "published_at": "2026-11-15T00:40:59Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6eb4fab1e689e740.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -50,18 +74,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-14T00:57:16Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
@@ -108,18 +120,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/55737490adfb6632.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft.Data.SqlClient 7.1.2, 7.0.4, and 6.1.8 are now available - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdGVqZkhpX0xwWGF6dnJPMEZReWRKXzgzb1FhY1BkZ25rU2Y4X3dLZzJRU3lzbFNhMm9UQnk2bWJWNy13SDdXMmotaEZXS1c4cS1KT2tSTDc2dWJGLWdYYXhYeC01WE8zaG1FQTdtTXZnWnpZbUpuWF9ZWW9HRXcyNUdoV3dZOWJOZ29yVjhkYVRHVDQyczVzYUh0V0Z1RkFLWjFkS1NsSUNlamFGNUZXcG1MNC1nNi10U3ZncGQwLXo?oc=5",
-      "summary": "Microsoft.Data.SqlClient 7.1.2, 7.0.4, and 6.1.8 are now available Microsoft Community Hub",
-      "published_at": "2026-11-13T21:25:44Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -206,18 +206,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-13T16:10:07Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
@@ -242,18 +230,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "It's the end of the world as we know it, per a physicist's 1960 prediction",
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
-      "published_at": "2026-11-13T15:09:39Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ddac38b57c7af7dc.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Could Adaptive, Capacity-Aware Recovery Orchestration Improve Exchange Online Resilience? - Microsoft Community Hub",
@@ -268,22 +244,10 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "ChatGPT Wallet terms - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWUlIS2xOR0k2WWpkNXNEeV9HY085SFByTlh1VGg4NWF0M19JeTVieVFtQ3o4MmVWOEt5dEdPdEFzYnF0S1hQanhsQTdzSzk0VEp6VXlPMHA5TTNXNFE?oc=5",
-      "summary": "ChatGPT Wallet terms OpenAI",
-      "published_at": "2026-11-13T05:48:16Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Gondola doubles revenue as its team builds more with Codex - OpenAI",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "summary": "Gondola doubles revenue as its team builds more with Codex OpenAI",
-      "published_at": "2026-11-12T23:12:37Z",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-13T04:59:58Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -352,6 +316,18 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
+      "title": "Elevated errors affecting the Microsoft 365 connector - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTnB1S3pNRU1oeTNDbF9Fc2h2S19haEhrTXFYUjV3QUtGX3dNWFY5S3Bycmp5X0I5VV9WQzRtSzYzN3ZMMHB2NEItZVlJSFdBdmhTWFdCTQ?oc=5",
+      "summary": "Elevated errors affecting the Microsoft 365 connector OpenAI",
+      "published_at": "2026-11-12T18:29:14Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
       "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
@@ -384,6 +360,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "published_at": "2026-11-12T12:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -480,6 +468,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Copilot Connectors Update: October 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTlhYbEJqZExoNzcxNmZYOFNyS2owbUR0UGQ0dmdtT0FpVy1HeTdTX3BTcHFEbFB0dWRvLTVreVhuSnV6c1o4UzlFMU5UNHNMTXhYX0J5MmZiVjBXbDJWdXdETFZDMVM1ejdqVzZjUDNqZTF4MElBUWhfdDl1a3BLeHN4SEVRVWc2MEM3cTFhaXVBMGk4VVB2R1BxUHVCZVozeEJxYUh1M0JJTTBQUmU0WnpMVmlHSm1fMTk3LQ?oc=5",
+      "summary": "Microsoft Copilot Connectors Update: October 2026 Microsoft Community Hub",
+      "published_at": "2026-11-11T16:17:09Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -614,6 +614,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Turn Copilot insights into action with connector write capabilities - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORE44UTdGcHRWVWZpQUNEVVZRd0hzR0QwendQejZtUFgxNHJ4SHcwSVlHTjkzNFJTbkxuSkpNYVA5SWlnV1V3WlIzeVRoTWNMWHg3ZjlWVnViOF9IdmF1aTFtQzZVY2JSUHZDaHZZNHppOS1xRHRseGl0eGRkQkt3VXd4elk0dkRsTGVyc0hUbWgzSHRiR2xnRElZRlJzZ1dEUkE5VjItOXNIUnBpaHpMd09XWWk5RVJ2aGNULTFVZkV4TlZRejNIbExxRElNdEU4dVNVbmZn?oc=5",
+      "summary": "Turn Copilot insights into action with connector write capabilities Microsoft Community Hub",
+      "published_at": "2026-11-09T17:14:12Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "Getting Help from Zoom Support | Contact Us - Zoom",
@@ -660,18 +672,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s new in Microsoft Entra: November 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWpLbzNyMzN4Y3NUZGh3MzRYeUs4T0xiN2ZlUXpPajNPS1QyZ2hIUUxLSFJLQVhxTERBYzA0dDB4TEZKRkxiTmszZTY1OEdiODVIQ2dHVnY1TzdJeElqd3h5WTdlV3BSYzVpY0FMNTFlY05MQTZiZmFEOUZvWWw0WGlTTjg5VWlCSkUtX0hpMk16TS0zRGRuQTNZeTZ1TUQ2bzZKMks0UUllbUFaVEVZX1ZwdjQ0LThOaHRkTzRR?oc=5",
-      "summary": "What’s new in Microsoft Entra: November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-06T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
