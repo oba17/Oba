@@ -1,13 +1,49 @@
 {
-  "updated_at": "2026-11-15T22:55:59Z",
+  "updated_at": "2026-11-16T02:49:21Z",
   "articles": [
     {
       "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
+      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
+      "published_at": "2026-11-16T02:29:33Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI",
+      "published_at": "2026-11-16T00:00:05Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+      "published_at": "2026-11-15T23:11:54Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fcdd61c25e1ed726.jpg"
+    },
+    {
+      "category": "AI",
       "source": "OpenAI News",
-      "title": "A step toward defining the Standard Model on a lattice",
+      "title": "A step toward defining the Standard Model on a lattice - OpenAI",
       "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "published_at": "2026-11-15T22:00:01Z",
+      "summary": "A step toward defining the Standard Model on a lattice OpenAI",
+      "published_at": "2026-11-15T22:29:40Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -16,10 +52,10 @@
     {
       "category": "AI",
       "source": "OpenAI News",
-      "title": "Our new blog for science",
+      "title": "Our new blog for science - OpenAI",
       "url": "https://openai.com/index/our-new-blog-for-science",
-      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "published_at": "2026-11-15T22:00:00Z",
+      "summary": "Our new blog for science OpenAI",
+      "published_at": "2026-11-15T22:29:38Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -74,30 +110,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6eb4fab1e689e740.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-15T00:00:05Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-14T23:44:13Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Migrating an Entra Connect Sync custom source anchor - Microsoft Community Hub",
@@ -144,18 +156,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3c9e897b765a8f1a.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "OpenAI Platform - OpenAI Platform",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sXzBiVE5teVh6VDVXb1RuNHBzazl0Z1B4bnIzZDJCSW1mM25na3RUN3IxckZGc2ZwNVFPMkE2eS15OGFBUFVfeTNJOGhnMjFOSS1MTVln?oc=5",
-      "summary": "OpenAI Platform OpenAI Platform",
-      "published_at": "2026-11-14T05:41:07Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -230,6 +230,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/fb1282143880a0a1.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Migrate NuGet-based Logic Apps Standard apps and custom built-in connectors to .NET 10 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObzZ2TFM4ajhPT192am1JRndvdEp5Z1ZwTF9uSC1DaWFqZTQ0ZkZYX0ZfOTNLX01xWlFJdVNSQlcxWU9BelRmeDA5cnRFd3BDZ21BQnB5WGV6MS1nbWF1U0NCZmlvWjZMRTYzMmtXSlp4TmRzaGVOTGxERVgxWmtfWVZfdkQybFBzTUJYWnJ4NXpkWWg4LTY0OUVMM2dPR3RVUFJVZk0ycEZudUZfVTgyR2dNT0lKRjhsVlhZR2JSYTVEUDlGTFhtNGVScEh4bUZBQVdnMTROQW5Sck40TDJZeVhKeHdGb0Vm?oc=5",
+      "summary": "Migrate NuGet-based Logic Apps Standard apps and custom built-in connectors to .NET 10 Microsoft Community Hub",
+      "published_at": "2026-11-13T20:36:36Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Google News · zoom.com",
       "title": "How to write a proposal to provide a good or service - Zoom",
@@ -302,18 +314,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "published_at": "2026-11-13T16:26:32Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d56562060a9559.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "Introducing ChatGPT Wallet - OpenAI",
@@ -328,26 +328,14 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Excel Chart Copy/Paste Resolution - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ0JYWnl5T0U4WnJuZDZ1RUZHVE45YnF0NldLcEg4WFhXX3FhbWFfSGx1RWpReG5HaVlrWV9walR3bEF6WENra3JHQnJTWnFTbzQ2cHc0Zy1tYm9UclM1VmE5TlFxYVBiX2JnN19SUl9BbDN5T25NdFF5QmV6S0EwT1ZWc0NSOHJHZmtybGVYS09ZNkVrU25YSXY3R1FNbTZiazhV?oc=5",
-      "summary": "Excel Chart Copy/Paste Resolution Microsoft Community Hub",
-      "published_at": "2026-11-13T12:48:07Z",
+      "title": "Why can't I sign in to any Microsoft app because of a \"too many requests\" error? - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdFZzb09XcW9HRGEtUVZXaUoxZVV5U3Rna2ZHc28td240ZWFqdjlhLTJNR2pPRHc5Y0NGYXB5X0NVUU9jajNkeVpEQ3JiQTdpeUVBaHdDbFozWjV5Si05MEUyNExtMFNKemkwYURCUHExeHFuVU9IcmNlZjN4amRpaTJsUDUyTjZQMXduTXc5OWxVTG5RV2dLb0tab0RNVXhmWThvbU50VFBINldNUmJ3MnM3Q3hEdEdjWEpVZ0FPUkZ6ZTdxakh4TU43cEprbGxfWnlVbVJsZ1JpZw?oc=5",
+      "summary": "Why can't I sign in to any Microsoft app because of a \"too many requests\" error? Microsoft Community Hub",
+      "published_at": "2026-11-13T12:22:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Global Sales Program Manager (SMB Sales) - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORlFEcVBEaUl1NmxSYjVjYUJDSGRHWG1nSmJKVXMtTlBlX3dVOTRaWU0yaFVnTTQ0dGVFSzJKS3lTb2drbHQ0WXFvdDRKMHhUeThta19iWG42bnUwQTFrdTNWNnNoSWt3cGdDNmhjMkxDOFgycE1ueFRPRDdsVnVvV0dtSklaTjQycUE?oc=5",
-      "summary": "Global Sales Program Manager (SMB Sales) OpenAI",
-      "published_at": "2026-11-12T22:08:01Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "AI",
@@ -364,9 +352,9 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Daybreak Red Team | AI Penetration Testing - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2R0hiUV9ZSm9KZmsxSHp4bzhPcWFEWm9IOC1GTHhYeWNWbDRNRmRpbG9fUWR3NFctbmpWTzFOZEU1WWZYQzB3ODlCblc4dw?oc=5",
-      "summary": "Daybreak Red Team | AI Penetration Testing OpenAI",
+      "title": "Daybreak Defense Factory | AI Vulnerability Remediation - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNDJSSkkyU05reFJxTUJsXzM0V1dJRld0VTVIT28xZ21ZVzdhMTI1RkJqUnBwZkpoSkRIbGNPUmI2OGlPY2V2OTNXZ0k1OFNQNHZ1d3Z4NA?oc=5",
+      "summary": "Daybreak Defense Factory | AI Vulnerability Remediation OpenAI",
       "published_at": "2026-11-12T19:30:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
@@ -376,9 +364,9 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Daybreak Defense Factory | AI Vulnerability Remediation - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNDJSSkkyU05reFJxTUJsXzM0V1dJRld0VTVIT28xZ21ZVzdhMTI1RkJqUnBwZkpoSkRIbGNPUmI2OGlPY2V2OTNXZ0k1OFNQNHZ1d3Z4NA?oc=5",
-      "summary": "Daybreak Defense Factory | AI Vulnerability Remediation OpenAI",
+      "title": "Daybreak Red Team | AI Penetration Testing - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2R0hiUV9ZSm9KZmsxSHp4bzhPcWFEWm9IOC1GTHhYeWNWbDRNRmRpbG9fUWR3NFctbmpWTzFOZEU1WWZYQzB3ODlCblc4dw?oc=5",
+      "summary": "Daybreak Red Team | AI Penetration Testing OpenAI",
       "published_at": "2026-11-12T19:30:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
@@ -398,12 +386,36 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Plugins at Microsoft Ignite 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFJWV3VtQ2VRWUEzM1Q0VnJHVFFWMElGMHo5NU5CZ3QybTBrUHpzV2NHeUgxSzdtdGg5SkIwR0FReFktWkRFT1RxdHE3dnRXQW16SC1qbkwyVjNYdWR0QmlFU3pqQkY2dVVwRU9HWUE0a2oxM09LTklmc3lpc19oN1pycXp1LWYwOTVIUnBMcEdOWTVQc0laUmlGelFRczVzd2hveWoyMA?oc=5",
+      "summary": "Plugins at Microsoft Ignite 2026 Microsoft Community Hub",
+      "published_at": "2026-11-12T18:26:20Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Securing persistent agents like OpenClaw at OpenAI - OpenAI Developers",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnQtTHNDclZ0QWNRdDhqOUxZWXB6NzBJQWZwVXFyOXM1ZlUtR1pSdjk1M0Frb0tMbUM4MzZRZVdUc1dUWTRORGhJRWhlWTlKR2VmRENsWVZZZ0JNWUF0eFFXc0dVUTBTSlBfblZwVTFBeTRQZXpGdTQ0VHpHazJubUktNGFXb0F2NFpJdlN3?oc=5",
       "summary": "Securing persistent agents like OpenClaw at OpenAI OpenAI Developers",
       "published_at": "2026-11-12T17:59:35Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Register interest in Daybreak Red Team - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hSG5lM19wbDlYdnR1czVxNXlpLW1ZaktTMHdJbU5SdldGYlROZk9YbVhjUWRnTUdkRXZESXJ5a2ZQYjdnY0FUYVpGY1MzbHpINWN2bw?oc=5",
+      "summary": "Register interest in Daybreak Red Team OpenAI",
+      "published_at": "2026-11-12T17:59:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -432,6 +444,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "published_at": "2026-11-12T12:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Business Analysis",
@@ -470,6 +494,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition - Salesforce Developers",
+      "url": "https://developer.salesforce.com/blogs/2026/11/agentforce-metadata-types-in-winter-27-dive-into-aiagentdefinition",
+      "summary": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition Salesforce Developers",
+      "published_at": "2026-11-11T19:53:53Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261110110101/Generic-B-8-e1794337302733.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Available today: Anthropic Claude Fable 5.2 in Microsoft Copilot - Microsoft Community Hub",
@@ -484,10 +520,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "HLK October Refresh Release for Windows 11, Version 25H2, Version 26H1, and Windows Server 2025 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMUFUb1VtTzJWZjFNdzlBVkx2Q253WVNhNFNNaUJkOXh0Tkc4bGVuY0R3SFUycnc3aDBNM0JTRHVEVmYwQ3MwWTFhRkRWRjVtRkZaN2Mzc1hPVTQ4VFRDVl9kREJTVV9kVXotY1Vva0tCS0pQdjRyMlhhcmdCN2hLamtCN3dsVm82MjRrejkya3FzUE5ocC13bi1hTEJWdm1XblFleGQ4Z3lQWHJEemxOTk93dk1fSzU1NXJRMms4dEVKLXhxelM3YUlqUy1kS2FzWUdXYlNudWs0X1dzQi1udE4wdWJNS0QxRXI4YVNEUVhldw?oc=5",
-      "summary": "HLK October Refresh Release for Windows 11, Version 25H2, Version 26H1, and Windows Server 2025 Microsoft Community Hub",
-      "published_at": "2026-11-11T17:12:44Z",
+      "title": "Deploying an AI Application on Azure Container Apps - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXpEdmFzUnlGWVhxdENUeVR2REEzMGFuUGFjVlczQVJuTF8tSklCc1pxUHdjcFdqbDc4TG1PNnNNa1p3LWJZQzdLSFVDRUpjdkpCUjBvMlV1SjFNUFlHdlNuV010X2VESGxrSjIzS3d2VWlpZHlxYWtnX2dMVnFLTzc2Yjg2TG1GZzRBVFRwNHZ4YS1NUEFfN1FONy1pYmIyTUk1bW9Lcm05RjBpX3pUWlBoUXNfZS1xVF82RUNuU1FkUQ?oc=5",
+      "summary": "Deploying an AI Application on Azure Container Apps Microsoft Community Hub",
+      "published_at": "2026-11-11T19:17:21Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -506,36 +542,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition",
-      "url": "https://developer.salesforce.com/blogs/2026/11/agentforce-metadata-types-in-winter-27-dive-into-aiagentdefinition",
-      "summary": "Explore two new Agentforce metadata types in Winter ’27 that simplify managing, retrieving, and deploying agents across Salesforce orgs. Learn how these enhancements streamline agent versioning and development…",
-      "published_at": "2026-11-11T16:00:42Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261110110101/Generic-B-8-e1794337302733.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Secure Linux desktops with Microsoft Defender - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEV3aWhLX1JldGNBRTRSWkE5MHV4Q3I1bFJaMGE2ZVJkZ2gxVm5HSHROQzlWMEJ4TUxVc1VwNVkyUUczSHJqT3F5eVZsamViZnJURnp0UmdLWFJ4cGZZN2MtSXVqbjZaNi1rRkwxa1dOeERaRUg2LWZ5MXJZSTk0c3pUMHNIZnM0eXpCdkYtOHJBLXBqSXNybzB0ZndiWG5ULTdKQTFxMzNvSFRPLVZYT2s2TmtiYVZCel9OVEdZcE4wZw?oc=5",
       "summary": "Secure Linux desktops with Microsoft Defender Microsoft Community Hub",
       "published_at": "2026-11-11T15:48:31Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Introducing Microsoft Classroom: A new experience built for teaching and learning - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQT0ZNUGRILUtrR1Fyc1c5S1haYlRVRnZrNzdRbEFNMk1EbDJrSDRsdW1qN2hzbS1YM2FreFpqMVdiQ1Nma21YZEIxUjd1SnlBblRpSC1lRlBzMjJOaVE2WVFVUjJSZ2JJc2dTaWFEUmpxU3ZHMWdTdUQ2aG9MTWFMS1JZOGgxQmx3Nnc5MVZYdGYxbUpNWHVJdVhIUXRfQ2FnV0IzQnZOS281TGN1SXZFeFFwVVhYZHdwQS03dU5WZEFZY3FOaWRyQmRfY184ZG9VN3NWMHN6QWZZZkE?oc=5",
-      "summary": "Introducing Microsoft Classroom: A new experience built for teaching and learning Microsoft Community Hub",
-      "published_at": "2026-11-11T14:21:06Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -552,18 +564,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "microsoft visual c++ error - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRzNaRDlIRHYyR19OMlluQUZOVUh2QkVfQXBRUzk1RTktWGFCYlJxcV9XbnUtQVBvSEVxN1pRYjdqSUhZNlAzQno5ZHZLUVNyWm9SaF9tNUVkbWw2bk5DZlNGM0lJVHJnMnNKYWJNRWtYcGtGdFJvM0VDM1cxdllZeUVRUUpNc0lxN2dTc3NNT1FaRC1f?oc=5",
-      "summary": "microsoft visual c++ error Microsoft Community Hub",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -782,6 +782,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Modern Analyst",
+      "title": "Prediction: The Product Owner Role is Disappearing",
+      "url": "https://modernanalyst.substack.com/p/prediction-the-product-owner-role",
+      "summary": "The Product Owner role is disappearing.",
+      "published_at": "2026-11-02T15:42:06Z",
+      "image_url": "https://modernanalyst.substack.com/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/42735b18b0d0c3c9.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "BusinessLicense - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcksxYjdFYm1QNnpmeWs1NHZnOFpjQUhBdDJzMktyUDJYbWNDVHE2YS1VUkxlXzlNT1dTTU9zc01BMXdJN3FOYzFpeG9Jc0xfUmdOc0dseFlmaHRkX0NwaUZudklCVG1kcTd1S2RtZVFobWNQOGh2NTh2MDFXOWdJSzFpa2MzX3lpTkxSbTl5ckMxa0VQeERZSFVLd05KaGlOcFhzQVE2dDhsaElt?oc=5",
+      "summary": "BusinessLicense Salesforce Developers",
+      "published_at": "2026-10-30T13:19:29Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "LearningProgram - Salesforce Developers",
@@ -818,18 +842,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ClaimParticipant - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbFFSSTlraW9xRG5yaGZHOGpEc182bWNldjd2M0pfMWRTRF8yd21iNm5XYmVQMHlwcnBBX3dLUF9USndpdVJCTG1GRWE0Wm9CQ0g3MEMtMGdFR1hGTDdndmZDaWZZNFMyRzA1ZXFsT19EUHgzYVpBNHlKemUzUjFLNVFNTGF6Ukx3NVJHM2lWQml3aE9GUENCNjZkSm8xSzVZaUxGWXBtQ0FSeEJxSnc?oc=5",
-      "summary": "ClaimParticipant Salesforce Developers",
-      "published_at": "2026-10-30T11:08:40Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Who Can See What? Cracking the Access Puzzle in Complex Organizations - IIBA",
@@ -852,18 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Purchase Your Exam - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdXZvYUJvYm1jdmpqa042OFVJaDVoa0d4NndqdzhrTmtVdVM4Y292ai1lR09lSkxBV2hHRVNvcm9CNk5XZHhMQ3BNVXFaOTNUZ1FBVUx4VUI2LWpLaEJncmllYWlFSy1xbGVIVU9HOF8zZDZyeXdRdnhVN05oc3BvenB0MW90R3VybGg5ZzI5VURuN3lETmtncGNMYmVvVGZreGdBcUc1MmV3WnJIM3Vzb1pzQTNNVGc1bWZ1SjRTSzNzMjk4aGhSQTdRT0x0dWVTZ2ZVZ0JvZWFDSEJJR3lIczQ4NzM4UmM5OWV0V1Q4YUJTN1JR?oc=5",
-      "summary": "Purchase Your Exam IIBA",
-      "published_at": "2026-10-28T23:25:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
@@ -872,6 +872,7 @@
     "AI",
     "Zoom",
     "Tech",
+    "Business Analysis",
     "Business Analysis",
     "Business Analysis",
     "Salesforce",
