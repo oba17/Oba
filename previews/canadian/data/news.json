@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-11-16T02:49:21Z",
+  "updated_at": "2026-11-16T11:37:35Z",
   "articles": [
     {
       "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Making purchases with ChatGPT Wallet - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelJhRTJ5YjExZkJKUllxcWI5TVZnUEp4MGpTSDdXMGQzbGt1dHJ5dkFkM1dqaHpkRkNjcFR0LXJ2SS1FTTJJbE5EU1dKZGFLTXF6eGlnMEQyVkROb3piVEwzUk94NnZnZWtWMzN6dlJQTnVUQUVHYl9aNkJSc3dqQkdZXzdOeE9J?oc=5",
-      "summary": "Making purchases with ChatGPT Wallet OpenAI Help Center",
-      "published_at": "2026-11-16T02:29:33Z",
+      "source": "OpenAI News",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI - OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "summary": "LVMH’s Media Division announces strategic partnership with OpenAI OpenAI",
+      "published_at": "2026-11-16T09:09:45Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Delayed Costs Data in the Compliance API - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
-      "summary": "Delayed Costs Data in the Compliance API OpenAI",
-      "published_at": "2026-11-16T00:00:05Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Designing a Reliable AI Workflow on Azure: Production Lessons from Translation Automation - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYkJKSnk4bS04N253X01GY190MHo5ZTZyRlhZdmk1V3o2aVlEd21TX1dGd3RKcG9wdXVWLUhRQU95VnZ2U21IXzEzWndnaFJDWHdieEdxenJGRGN6dHNZSlY1b0FfQjZVNGZoTnV3bWpNZHowT2xBQk5fYlpwM2h1YjNpZDh1UUVNNmdaamdtVktrMVdld05EaTRFMFNhaUMxYUthNHJnY0RBZ3FiRXI3enBmXy1UWXZ2U3JWcS1LeG42UTFod0FkekdYdXZJSjJrLVJpc2ZFTlhNV1FIcEk1YmtLYnBudw?oc=5",
+      "summary": "Designing a Reliable AI Workflow on Azure: Production Lessons from Translation Automation Microsoft Community Hub",
+      "published_at": "2026-11-16T08:19:19Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Debugging SEO for a bilingual nonprofit site with Bing Webmaster Tools and Microsoft Clarity - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbER3SjhtbkItVzl4YnR4S2RJR2haejAyVS1SMDhjWkM0Z1lOaEhNX3ZycFpjRUVFdHNLQTFsT0NFSWRYWGxrc1ZMV21iXzFMTDRXQk8tMmRQZVdBcEU2eHdPV3ZYakVDOGI5c3ZPaXJSYnhTZVUwclFYUkxYSmo4MkpJWFZDN1BIMmw3T0VwU2FZYjFlVjBIcDR1a3VXRk5GNjd4aFpvcFloYWV4V2ctVEhjWFlsZnl3WFFGVnpmUklWVDFmbENEdXR4WkkwSDdlNDZKM2FraDFZUU5XRHktNWhhdkpSUQ?oc=5",
+      "summary": "Debugging SEO for a bilingual nonprofit site with Bing Webmaster Tools and Microsoft Clarity Microsoft Community Hub",
+      "published_at": "2026-11-16T08:19:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Adaptive US",
+      "title": "A Business Analyst’s Guide to High-Impact Reports and Presentations",
+      "url": "https://www.adaptiveus.com/blog/business-analyst-high-impact-reports-presentations/",
+      "summary": "Business analysts often find themselves spending a considerable amount of their time turning complicated information into insights. The insights they pull from various sources help their organizations make bett…",
+      "published_at": "2026-11-16T04:15:26Z",
+      "image_url": "https://7768311.fs1.hubspotusercontent-na1.net/hubfs/7768311/BA%20Presentation.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/74dbc13da4143893.jpg"
     },
     {
       "category": "Tech",
@@ -110,6 +134,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6eb4fab1e689e740.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA® Member • Aditi Maheshwari • IIBA Business Analysis Certifications - Emeritus",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KOEhYTHh5SXAwRUlLLWpmbk5WVTV4aVpELU5hS094RXVtMVlmMGdWQTY3RHEwbXBBX2NJM1hzQVdJRTR0VUZ2NTNKM19Idm1naXdYcmdUNnRmQjhOVHpYU3lCQ09udUJ2dUdZQQ?oc=5",
+      "summary": "IIBA® Member • Aditi Maheshwari • IIBA Business Analysis Certifications Emeritus",
+      "published_at": "2026-11-14T16:37:06Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Migrating an Entra Connect Sync custom source anchor - Microsoft Community Hub",
@@ -158,18 +194,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3c9e897b765a8f1a.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "From Purview Data Governance to the Fabric OneLake Catalog - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSURDSFlDLXFCZDRBVWJ5dG4zT1RtNDB1bHFLWGs4eTNqZWk1VllWdUZxYVhONnhGTmhmMW9DWGphdjNMV0d4MU9PVEFGYU5fZVBUX2d5azVHdTc3eFVnWHJCM2RMLW15Y0RKVEI1clZkSHdGU1p4WW9HdEFKS2ZaWE84UHZlMXpmYXRrc1V4eG1JZFJxakh1U05aX0JBMDc0MEpGTTVrMmdRc28zNU9LVDROcS1vVXI3UzFXbHIwbEM3QQ?oc=5",
-      "summary": "From Purview Data Governance to the Fabric OneLake Catalog Microsoft Community Hub",
-      "published_at": "2026-11-14T05:32:46Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday - Ars Technica",
@@ -206,18 +230,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/55737490adfb6632.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI - OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "summary": "Shield helps technicians hand off legacy portal work with OpenAI OpenAI",
-      "published_at": "2026-11-13T21:21:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
@@ -242,18 +254,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "How to write a proposal to provide a good or service - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0dTJLSzBWYThuTkVfcXJ1WXFJTmlvb2EtaWFHandxc1ZzbUtaal9BcXNCX1FPdnpFX1FiLXRFbVRPcGl6emJ0akVDdzMyM1hMTjRnR2NmRHZCUGZkUm9Iai1VZ3NwRUNXbTMxWnliNVpRdm44eDY5ZQ?oc=5",
-      "summary": "How to write a proposal to provide a good or service Zoom",
-      "published_at": "2026-11-13T20:34:10Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "In elephants, the resilience of communities has its limits",
@@ -276,6 +276,30 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e1cc546b16b1165d.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to set up automatic payments for your business - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcEdocjBWdEJIQ2VBd3plS2M0SVpGakZ6dW4xX09xV1RfYXpyOVh3SWt3VDBuTzlHSDFmVEREWDJqSUZtX2VJeFZ1WDhPSGRlSWJrV0pUbTRnRU51a2pnY3EtOHRYZm9od0x0bkZfRVFxeF9QSVh1SVBpR1NUa25Vb0VmcGNRTEk?oc=5",
+      "summary": "How to set up automatic payments for your business Zoom",
+      "published_at": "2026-11-13T19:36:03Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "How to build a client getting system that converts - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TZ0NXQ016U1pGejViRGQzTUpZRlhhaXZ0VHY2VDAwYTRycWZjR1BYY0U4Z1VjcEdyUXpPeUJCS083WVFTMldiNjdEY3o5alU1VmdMUkxrSGg1N3NNNHdGeQ?oc=5",
+      "summary": "How to build a client getting system that converts Zoom",
+      "published_at": "2026-11-13T19:36:02Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -315,6 +339,18 @@
     },
     {
       "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Delayed Costs Data in the Compliance API - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WSWlkVnVzS1FfZmt0Skg1VkxpRWljejREUXZOdnFTMzlfdkxvQmlpVFJBX2ZxMXZKbHNaX2RYQ1JKT01RY3FzN2JFOFFTQnRISEtUYS1pRlQtc0JVZzEzT0c0OXlzWnNSbVJqb2gwRQ?oc=5",
+      "summary": "Delayed Costs Data in the Compliance API OpenAI Status",
+      "published_at": "2026-11-13T16:10:07Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
       "source": "OpenAI News",
       "title": "Introducing ChatGPT Wallet - OpenAI",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -340,6 +376,18 @@
     {
       "category": "AI",
       "source": "OpenAI News",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "published_at": "2026-11-13T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
@@ -352,9 +400,9 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Daybreak Defense Factory | AI Vulnerability Remediation - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNDJSSkkyU05reFJxTUJsXzM0V1dJRld0VTVIT28xZ21ZVzdhMTI1RkJqUnBwZkpoSkRIbGNPUmI2OGlPY2V2OTNXZ0k1OFNQNHZ1d3Z4NA?oc=5",
-      "summary": "Daybreak Defense Factory | AI Vulnerability Remediation OpenAI",
+      "title": "Daybreak Red Team | AI Penetration Testing - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2R0hiUV9ZSm9KZmsxSHp4bzhPcWFEWm9IOC1GTHhYeWNWbDRNRmRpbG9fUWR3NFctbmpWTzFOZEU1WWZYQzB3ODlCblc4dw?oc=5",
+      "summary": "Daybreak Red Team | AI Penetration Testing OpenAI",
       "published_at": "2026-11-12T19:30:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
@@ -364,9 +412,9 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Daybreak Red Team | AI Penetration Testing - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB2R0hiUV9ZSm9KZmsxSHp4bzhPcWFEWm9IOC1GTHhYeWNWbDRNRmRpbG9fUWR3NFctbmpWTzFOZEU1WWZYQzB3ODlCblc4dw?oc=5",
-      "summary": "Daybreak Red Team | AI Penetration Testing OpenAI",
+      "title": "Daybreak Defense Factory | AI Vulnerability Remediation - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BNDJSSkkyU05reFJxTUJsXzM0V1dJRld0VTVIT28xZ21ZVzdhMTI1RkJqUnBwZkpoSkRIbGNPUmI2OGlPY2V2OTNXZ0k1OFNQNHZ1d3Z4NA?oc=5",
+      "summary": "Daybreak Defense Factory | AI Vulnerability Remediation OpenAI",
       "published_at": "2026-11-12T19:30:14Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
@@ -470,18 +518,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Spotify download mp3 for tracks and playlists on Windows 11? - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0U1d3RrcHdmNzVuVC1TUGdmcFlDVGtRam82SDdzeTh1a0tHb0xuTXAxSU1haG5ZRXd2RlVNVlJBQkZLazg3NVBOTXpfMUJJbjkzVFdlcHVFMFJDQ2dLRWdJSzFUWDVkbHNVSTByYlFHb0pqRVhuNTRISE9KaGQ3R2U2eUw1c2lPMXNuSTFyb2R4VXFDX3Z6OVBnUXlZUWlWSE9PZXR1bGJHSHU1QW9sR0otV21NeGk5R09ZWmcyb0JYcFE?oc=5",
-      "summary": "Spotify download mp3 for tracks and playlists on Windows 11? Microsoft Community Hub",
-      "published_at": "2026-11-12T06:15:31Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
@@ -531,6 +567,18 @@
     },
     {
       "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Ignite 2026: New Sentinel Connectors Announcement - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVZfajAtakhtYV93V3ZBTUdBN1VsbkFnd0NJWkNleGlpQkt6T2ZULUQ2aVptVXNLTUx4NGEyMWI1WGQ5SEpOblRHRXBYMnREQS0talpWRkxRc3RyazA5NUUtWVRfZzBzUVREYUp4Mks3MDYtcnlNQkVpeks0V0NOTFhSRTVKUVNYZUZkR3VHRWJGZGszMnJOZE5jYTJ0dm5tTFB0RkpqbG1WaGZoTDlaN3RTWEU4cnduTzVpYmlYTzV6MzYzaVdLVA?oc=5",
+      "summary": "Microsoft Ignite 2026: New Sentinel Connectors Announcement Microsoft Community Hub",
+      "published_at": "2026-11-11T17:12:40Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
       "source": "Microsoft Tech Community",
       "title": "What You’ll Learn, Explore, and Experience at ESPC 2026",
       "url": "https://techcommunity.microsoft.com/t5/microsoft-365-blog/what-you-ll-learn-explore-and-experience-at-espc-2026/ba-p/4572576",
@@ -540,18 +588,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6590fbeb50f7ceed.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Secure Linux desktops with Microsoft Defender - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOEV3aWhLX1JldGNBRTRSWkE5MHV4Q3I1bFJaMGE2ZVJkZ2gxVm5HSHROQzlWMEJ4TUxVc1VwNVkyUUczSHJqT3F5eVZsamViZnJURnp0UmdLWFJ4cGZZN2MtSXVqbjZaNi1rRkwxa1dOeERaRUg2LWZ5MXJZSTk0c3pUMHNIZnM0eXpCdkYtOHJBLXBqSXNybzB0ZndiWG5ULTdKQTFxMzNvSFRPLVZYT2s2TmtiYVZCel9OVEdZcE4wZw?oc=5",
-      "summary": "Secure Linux desktops with Microsoft Defender Microsoft Community Hub",
-      "published_at": "2026-11-11T15:48:31Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -698,18 +734,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6241fd84b157e6a3.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "How to use AI for social media content as a small business",
-      "url": "https://www.zoom.com/en/blog/ai-for-social-media-content/",
-      "summary": "Learn how to use AI for social media content — from expert strategy frameworks to automated workflows that turn your meetings into ready-to-post copy for your review.",
-      "published_at": "2026-11-06T17:28:00Z",
-      "image_url": "https://media.zoom.com/images/assets/Solopreneurflorist.jpg/Zz04ZTk5MjU1NmQ5ODUxMWYxODRmMzIyZDUzMzcyZTA0Nw==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/8ae970d92e4224b0.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "Three Perspectives From BA Digest Q4 - IIBA",
@@ -782,18 +806,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Modern Analyst",
-      "title": "Prediction: The Product Owner Role is Disappearing",
-      "url": "https://modernanalyst.substack.com/p/prediction-the-product-owner-role",
-      "summary": "The Product Owner role is disappearing.",
-      "published_at": "2026-11-02T15:42:06Z",
-      "image_url": "https://modernanalyst.substack.com/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/42735b18b0d0c3c9.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
       "title": "BusinessLicense - Salesforce Developers",
@@ -852,18 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXFqT2toZHBISjhwOEduZG9PeUdUQUlGYkswRzRGZEJXcnljMjNta2JSQnBZWUYtekhSeFVyZjY5d2QxTW1UQlJPNlVETUpXcWpvS0VBMDhNbFRwTUl2MzZJSjdfajVGSlBPbkJ3OGJzYU1WTHd6YkZ6RmhvZHZYUFQzOVJJS09Oa1pvdS1WdU5IUkgxUWkySHNQbDhXRHc1ZkNPOTAtYmpJUUR1ZkNrMzZLdmVKRGs?oc=5",
-      "summary": "Introducing the ECBA Accelerator: Build Confidence One Module at a Time IIBA",
-      "published_at": "2026-10-29T21:20:03Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
@@ -872,7 +872,6 @@
     "AI",
     "Zoom",
     "Tech",
-    "Business Analysis",
     "Business Analysis",
     "Business Analysis",
     "Salesforce",
