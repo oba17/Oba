@@ -1,6 +1,222 @@
 {
-  "updated_at": "2026-11-17T14:35:03Z",
+  "updated_at": "2026-11-17T22:57:33Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
+      "published_at": "2026-11-17T22:44:46Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2addae51dc99eb20.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
+      "published_at": "2026-11-17T22:32:16Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/efb02d81f83d1c70.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What's new with Microsoft Perception at Ignite 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0xOeVBITHl6LWhZajNxc1h0clR6Y092YUFBS1FHWHU2ZkdnNVIxT2tlRjBpV0dIUzF3Tjc4bDZ6LXhhcElkbkRCN3V2bUdEMHhnYm42UDJoMVhmbUVlWFJlQnhPdVJNWEFNVnRSUnVUbTZyYmV1RmQ0QTlQTi1YZFdhYnhyal9tbFpvU3NjbEtranBuckZYVlRmTlhhYlAwUzRnM3Fpa18wbTZ6VUVFbGpvdE5EUQ?oc=5",
+      "summary": "What's new with Microsoft Perception at Ignite 2026 Microsoft Community Hub",
+      "published_at": "2026-11-17T21:48:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "published_at": "2026-11-17T20:32:55Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/4afa3d71ba52aad8.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "summary": "Studio head Heather Hazen is among those departing.",
+      "published_at": "2026-11-17T19:45:25Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/29f91ce9df6db5d9.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "published_at": "2026-11-17T18:26:26Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/baedbf6d871c7cd9.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "published_at": "2026-11-17T18:13:34Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/cf3d24aee36b7690.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "published_at": "2026-11-17T18:00:51Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/794b8e72c0551f83.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "GPT-6.2 Astra and Sol are now available - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3N4NmpZN3RkOGdXZ1NNSE9aMDd5Q3VhSllORFFSVWJQMjBFX0JRQlUwd2p0U0pEZjRtaUgyMVNsUmV4UUNmRlB1S21tSTY2dW96RjBWTEVaMzc1MGQxcUNMNzJTQ2ZROFFTN3VRVkd6MHVmNlljSHR1em54Q3JzQXc2LWg?oc=5",
+      "summary": "GPT-6.2 Astra and Sol are now available OpenAI Developer Community",
+      "published_at": "2026-11-17T18:00:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Costs API data is delayed - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVGFpOUlBWUJoSXNTaDZnM2ZnMi0tYXVTUm1KWTlGcERiRjRlUnludTZRdGVHblZwVnk0NVpyZVVFbkFtaEx4eDY5c19GN0FUWTZkbUpFTjNWblBnOUxpVzBZQUFHUE9FTVdZNWN5NA?oc=5",
+      "summary": "Costs API data is delayed OpenAI Status",
+      "published_at": "2026-11-17T17:59:51Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "GPT-6.2 System Card - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52UXFzaWFSVDk1Q2FCazZZanV6NzF5em1fMWp0S05nSkp2Wkl5TjlickU4ZkIyOXR5aUI3VGRtcUxVT2NZTmotXzNkV083a3NOQkpEel9Rei10Y2ZfMzI4Yk5wOA?oc=5",
+      "summary": "GPT-6.2 System Card OpenAI",
+      "published_at": "2026-11-17T17:59:46Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Astra for Law leads in legal intelligence - OpenAI",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law leads in legal intelligence OpenAI",
+      "published_at": "2026-11-17T17:49:36Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Keep the prefix unchanged - OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPZmlCYXpHdTlCazNrS0NtSG9vQ2E0QlRrZmQzYTFlMlhSRlRQWktGbkI0cWQ2b2hqMWctX3V3OXZmUXBiaVpJWEl5bE5VQV9xNVBPeUVaUHRWSVRlblJoNl9mbEpHNVIwTmxYcEdDUHNETGtZY0E?oc=5",
+      "summary": "Keep the prefix unchanged OpenAI Developers",
+      "published_at": "2026-11-17T17:48:06Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing GPT-6.2 Astra and Sol - OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT-6.2 Astra and Sol OpenAI",
+      "published_at": "2026-11-17T17:47:15Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "published_at": "2026-11-17T16:50:10Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/dd4967a0cb6a83ec.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server",
+      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
+      "summary": "Configure Slackbot to render Headless Experience Layer (HXL) widgets from a custom Salesforce MCP server. Org connection setup, tool permissions, and fixes. The post Expose HXL Widgets to Slackbot with a Custom…",
+      "published_at": "2026-11-17T16:00:14Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "published_at": "2026-11-17T15:32:43Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e33ecc770c6332c9.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "published_at": "2026-11-17T15:28:59Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f1acc93a3d794671.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -17,13 +233,25 @@
       "category": "Business Analysis",
       "source": "Bridging the Gap",
       "title": "How to Build a Strong Business Analysis Practice: 3 Essential Components",
-      "url": "https://www.bridging-the-gap.com/business-analyst-practice/",
+      "url": "https://www.bridging-the-gap.com/business-analysis-practice/",
       "summary": "A strong business analysis practice rests on three essential components: role clarity, supporting infrastructure, and a defined process for how business analysis work flows. Get these three in place, and your b…",
       "published_at": "2026-11-17T13:53:40Z",
       "image_url": "https://www.bridging-the-gap.com/wp-content/uploads/2021/04/cropped-logo-header1.jpg",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing OpenAI for Chile - OpenAI",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "Introducing OpenAI for Chile OpenAI",
+      "published_at": "2026-11-17T13:19:22Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -52,6 +280,18 @@
     {
       "category": "AI",
       "source": "OpenAI News",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "published_at": "2026-11-17T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
       "title": "Strengthening NATO and allied cyber defenses with AI - OpenAI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "summary": "Strengthening NATO and allied cyber defenses with AI OpenAI",
@@ -64,26 +304,26 @@
     {
       "category": "AI",
       "source": "OpenAI News",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "published_at": "2026-11-17T00:00:00Z",
+      "title": "How Revolut raises ambition without lowering the bar - OpenAI",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "summary": "How Revolut raises ambition without lowering the bar OpenAI",
+      "published_at": "2026-11-17T06:01:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "published_at": "2026-11-16T22:58:27Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Virtualization Mode in Windows Admin Center is now generally available! - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVE9URHJyaE9SR0IySkdCbDR2YS1ZdVpzSEdBbkJvWHZtbTdlWUtyZzM2bU95ZklfbnpZczlfVWtOdmp4a1NKaGp1N1lBVHNTUkkxX0xzZkRFcmlVaS1kdVF4bVhnWGdFbVJCU1Q2RmNwVkJYNGVFSFdTRmltRmtNWFlSNnpoN0x1RG9NNXpQaV9Rc2w5eVVFR092dEd1YmctS0hPQzE4MHZzZW1fUXJ0TWF4dWdNMmItajdEMmZFRGMwYUhIVVJVREpMTjJBeVRPaF9DdGw0M09DemhHMkE?oc=5",
+      "summary": "Virtualization Mode in Windows Admin Center is now generally available! Microsoft Community Hub",
+      "published_at": "2026-11-16T22:38:58Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/814c6dbc4b3280e7.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -98,18 +338,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Three small failures combined to take down Microsoft 365",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "published_at": "2026-11-16T21:56:39Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/fdb880ae2a6fd1e0.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a marketing campaign? A plain-English guide",
@@ -120,42 +348,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3c2438b35df26269.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Hyperscale data centers use 2% of US electricity - Ars Technica",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "summary": "Hyperscale data centers use 2% of US electricity Ars Technica",
-      "published_at": "2026-11-16T20:52:10Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/7498a3dd267c7c9d.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "published_at": "2026-11-16T20:37:47Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e3cab5833c7b42fd.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "summary": "AT&T demands Comcast give AT&T profits it made from advertising cable as fiber.",
-      "published_at": "2026-11-16T20:27:58Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/5b73c1fb3cb8ad9c.jpg"
     },
     {
       "category": "Zoom",
@@ -170,30 +362,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c8e3ac0343e9a8ea.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "published_at": "2026-11-16T19:54:21Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568-1024x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ec19f7ca9ea81aa7.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "When will humans actually fly on Starship?",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "published_at": "2026-11-16T19:46:08Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b852fade49f4387e.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "Customer onboarding: a 6-step guide",
@@ -204,42 +372,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/f34e1fbbf930c14f.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "published_at": "2026-11-16T19:36:25Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/dc5ee258b3049b7e.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "US moves to cut China’s remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "summary": "Trump bets China won’t mind US blocking remote access to AI chips.",
-      "published_at": "2026-11-16T19:10:09Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303586820-1024x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/2a996582464a42d3.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "When SQL Performance Changes Without a Code Change: Read the Actual Execution Plan Before Tuning - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb1FPWmJGZkdST2tVekZNdFRoWWVha2MxOVU5VmFzakNJMElHSGFaNk1KaTFQY3lVOC1FeUFOVU5EQXhKbjVOWTVFOGlGUFNEc08wblpnYWNjZGMyWk1fczZiN0REUzFldGo3T2ZObGNQZEsySHc4Q3NSV3B6eDNJaWg3amU3SnZoSEtvZ2MxUl9DTDcwcXF5YUNORXFoeF9NX0hudEtSbkNXYzJpNU1jUGxTaEl2MGlxdXBMcWZwZ2F6Xy0xdUl6dzhkWHVZSDFobmp3V1NRV0lkYjU1?oc=5",
-      "summary": "When SQL Performance Changes Without a Code Change: Read the Actual Execution Plan Before Tuning Microsoft Community Hub",
-      "published_at": "2026-11-16T18:09:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -255,47 +387,11 @@
     },
     {
       "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Plans and programs for researchers - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9oVkxkeGNPVjRTQkJpbms0MHVVYi1hczg1d21qNnVxclRYOUpWOHA0QVdYRUc5RE1mUWw0c1F5cGREeV9sSmdWbXZBT2NiczdaUE9WWHBEaFg?oc=5",
-      "summary": "Plans and programs for researchers OpenAI",
-      "published_at": "2026-11-16T17:33:51Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
       "source": "OpenAI News",
       "title": "Strengthening the fight against online child sexual abuse with new tools and support - OpenAI",
       "url": "https://openai.com/index/strengthening-online-child-safety",
       "summary": "Strengthening the fight against online child sexual abuse with new tools and support OpenAI",
       "published_at": "2026-11-16T17:19:12Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Broadening access to AI for scientists - OpenAI",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "summary": "Broadening access to AI for scientists OpenAI",
-      "published_at": "2026-11-16T17:15:16Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Advancing computer-use agents for healthcare teams - OpenAI",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "summary": "Advancing computer-use agents for healthcare teams OpenAI",
-      "published_at": "2026-11-16T17:03:24Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -314,30 +410,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10",
-      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "summary": "International authorities will announce US lost its elimination status Tuesday.",
-      "published_at": "2026-11-16T16:39:29Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6dfbd8085cc1ea2f.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Our first phase of embedded assessments - OpenAI",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "summary": "Our first phase of embedded assessments OpenAI",
-      "published_at": "2026-11-16T16:14:13Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "The rise of personal agents: is your contact center ready?",
@@ -348,54 +420,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/9f2b1424549bfb6c.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "More ways to move care forward with ChatGPT for Healthcare - OpenAI",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "summary": "More ways to move care forward with ChatGPT for Healthcare OpenAI",
-      "published_at": "2026-11-16T14:13:03Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "The King’s Trust and OpenAI launch £1m partnership - OpenAI",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "summary": "The King’s Trust and OpenAI launch £1m partnership OpenAI",
-      "published_at": "2026-11-16T11:35:27Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
-      "published_at": "2026-11-16T09:30:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI - OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "summary": "LVMH’s Media Division announces strategic partnership with OpenAI OpenAI",
-      "published_at": "2026-11-16T09:09:45Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -482,6 +506,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s new in the Azure Resource Manager MCP server at Ignite 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMG91djNpLWRXNnF4cW13VkZTTDZCS2pMSXV4bldyWUFUazA5MGoyT2Q4ZEtfemVJNGZLNGEweGF5dHJZb0lpRnM2ampYQ2Z1UVZZZkxzU1lyYjlFTGEzVXlqTktOcmduTTl4LTljVTlDOHh4MFhfd2ZRRjExSzBpTHotRW5Gb3hjOUlxVmhCeE4wWVNBd3RSU2tWbVctLU8zX0VRXzdCNFNoMTlsZVVRWExzZGhKOXV5LWNFTlpIYUFERE9VU3h4dm1NeWpNLUtsZlN3N1hqV3M3WmV4WWYyLW1DN2Ixc1R3clgwaA?oc=5",
+      "summary": "What’s new in the Azure Resource Manager MCP server at Ignite 2026 Microsoft Community Hub",
+      "published_at": "2026-11-13T19:16:30Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a webcast? A plain-English guide",
@@ -492,18 +528,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6e61df4604292108.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Device economics: Making Surface compute count - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUENIeDM3aFJBS1F5X1RyaEVPSG5zazNVNlRzOEpHZ3hWaHBmY1Iwbm1tYkdGeVR3emJnSy05QnN3UjlmTVBDdWVKSG5ZLUdXLURqZ1llSkx5UzZ5SEJkMy1lRGFkWDJ3Y0VEUk4tamtGNE14aEk2QjVPcGNobVlDaS1POHpBMXd0LWdjY0Zoelk3elE1NXFGRTM0dXJhWDV4U0FrenhZamFNRmc?oc=5",
-      "summary": "Device economics: Making Surface compute count Microsoft Community Hub",
-      "published_at": "2026-11-13T17:58:19Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -602,18 +626,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Best practices for building agentic AI applications with Foundry Agent Service - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjVzQ0VTZlc5UkNKbE9Nb0w5WVVQRDJXZl9pRGUyd0Q3RmZkU3o4RlJOakpUd21TZUNGVVlFOVoySjQyc2JYTkZRWVJ6RTdFT0oybjRRY3dwbUZwR2JnV25rQU1tSHhxX0NWQzlLemx4R3hyRHZkWlotdmR4LTZNV1hTOFdGQkN0MmdfcG90R21KeUtuUGF1NFZ1WTN6d1NvVUhOYWE0REF2SldWOWc1OVdteEwtMmV5Y2h2Sjd2bXRqSlZ2UU9LSmREemtKVVVjRG54WGJpVkJYeFFkakEwQjk1VQ?oc=5",
-      "summary": "Best practices for building agentic AI applications with Foundry Agent Service Microsoft Community Hub",
-      "published_at": "2026-11-11T19:49:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition",
@@ -698,18 +710,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zRDRUaXdNY3R1X29SaVJydWY2ZFlqNFpkanNkdXFkcG10SUltVkk4TWs0TlFpLTYxRDZyVVprVklYb3JuRVBOa2xMOHVBWkFvOWc?oc=5",
-      "summary": "Zoom's new AI Launchpad offers up to $150K in complimentary credits to build next-gen apps Zoom",
-      "published_at": "2026-11-10T14:08:39Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "LOUIS AZEGBA - IIBA Directory",
@@ -720,6 +720,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZk5ONkVIREY4anhrSWF1N1FoVGkzREJPakx4eWpSVmRkOThvUTRFTUJfcGlBdkQ2SVV2OFcyNVZkdWNpY25BXzZSc3d2dHA5b2daOWN3TGY0d3l3ektBVVM4dkFOUTJEdjd0dkc4VDVGdGhsclY0V3BsOEh4MWJHR292aXF4bFg5M2N3U3BCOFN1UzdLY2s3WkZUTG1lcFU2d0JMVzNqZmctVWN2OHRUV2ItYW5GRGxBUnVjcy1HOC00eTlBMFNEY1Y2NmloMHVLUTh4a2JaOElJNFJRTDNuaUZra1BVdGdURHF1eU1yM2FOX05rMXpMend0ei1GeE9s?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-10T03:55:14Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Salesforce",
@@ -848,18 +860,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JaVUdNN3BZbVRmNU00NFY1OHNVQmlwOWJaZXhSUE5SMjE2ZWxPREstXzZIR3hTT3pKdDI3RTU2ZzdQdWdrZVBoU19WM1hyblRfcXpNWUVJNTNGMW1ZTnh3SGFaeDBtYUhVVFJpb2JhNHVFU3QwaTlFMHJRam1FLUdQelYyUjBsOHl4OTU2aGVmczFMU05JUUFtbHNtUUNaSXVONmpnZUg1OHZi?oc=5",
       "summary": "ApplicationForm Salesforce Developers",
       "published_at": "2026-10-30T11:23:20Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "InsurancePolicyParticipant - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGpUakxRUDM1RFJfaFNqZWlEb2RKLTdLQzdwSVlLMElCSTFBM09FcFpjN3RWYm1HcHktcW52Vkxxb3g1a0paaXljdkZhallEYTRGZGswY0hMbDh0Y2FMaTB3bjlrenlmMnJZQ3VqWk8yRVVqek55eW1CMnJ5MEhsUkE0dXN4RVZwT1FIZnBqR3p4ZGN0MVVYYlNUYlZvaXJubEFPUVNiWkRYT3JVYXU2LUs0MnVOSDNfSFd3?oc=5",
-      "summary": "InsurancePolicyParticipant Salesforce Developers",
-      "published_at": "2026-10-30T11:21:16Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
