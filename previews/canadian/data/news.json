@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-17T22:57:33Z",
+  "updated_at": "2026-11-18T04:30:21Z",
   "articles": [
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server - Salesforce Developers",
+      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
+      "summary": "Expose HXL Widgets to Slackbot with a Custom MCP Server Salesforce Developers",
+      "published_at": "2026-11-18T00:35:17Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+      "published_at": "2026-11-18T00:27:29Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a1d88731a0e0136d.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0g1SzY4TlVTR1VYQVJFU2tqTDlZQ2ZyOElVR1JndFdBZjRUaGc1U0ZGRk0xNVY2djktNWtKMFVqTGtGdTBSUUdfWVFyM2VTX3dmVzVBYVM4bF8zMUlCSFJZY3NwdVdkVWN2Z2xlSXFSOUxxNm1Mc2VEUjVWNDE5V2pKZEZDdkdTOWc0VDd2b0JGczBYbkJWUWo1Wlhud3BQOEZJ?oc=5",
+      "summary": "The 6 Practices of Teams That Won an IIBA Partner Award IIBA",
+      "published_at": "2026-11-17T23:59:49Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "San Diego dumps both Flock cameras and smart streetlights",
+      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
+      "published_at": "2026-11-17T23:09:09Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a89b86079f8fae95.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -26,12 +74,72 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/efb02d81f83d1c70.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT for Sales - OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Introducing ChatGPT for Sales OpenAI",
+      "published_at": "2026-11-17T22:26:04Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What's new with Microsoft Perception at Ignite 2026 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT0xOeVBITHl6LWhZajNxc1h0clR6Y092YUFBS1FHWHU2ZkdnNVIxT2tlRjBpV0dIUzF3Tjc4bDZ6LXhhcElkbkRCN3V2bUdEMHhnYm42UDJoMVhmbUVlWFJlQnhPdVJNWEFNVnRSUnVUbTZyYmV1RmQ0QTlQTi1YZFdhYnhyal9tbFpvU3NjbEtranBuckZYVlRmTlhhYlAwUzRnM3Fpa18wbTZ6VUVFbGpvdE5EUQ?oc=5",
       "summary": "What's new with Microsoft Perception at Ignite 2026 Microsoft Community Hub",
       "published_at": "2026-11-17T21:48:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Autopilot: meet your trusted personal teammate - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDFRbGQ1cEpiUnk3QThzbGhncURWRWF2NlVmdmVPRUhydVRfUUR6dml5S0pLZlhsZVo0MEhJemppd1NBRTJzbEs4dEZmem9sQ1BLMGdLckJzNjlxbHIwdnVuUmlHTWNNMkZhWlJMY3F1TzNWRFNSNWFRWldzS2VCSVBCMmVQb01Wd2VGM2JjUC1LdUdjOHQ3Mm12cVBudEFHM3QtZTQ2TFNQeVlpMUhJMjh6OTA1Nml1?oc=5",
+      "summary": "Autopilot: meet your trusted personal teammate Microsoft Community Hub",
+      "published_at": "2026-11-17T21:45:57Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s New in Microsoft Intune at Ignite - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVzc2Q2ZtQnkxWl9UX0xXLU9yTjQtOFZpYTdUaGpJNzZvWDhDV3NoOUhZajNYbHIwdkJUbmItNmJDVGpheUgxeUlGRWRvLXhwWGhsTXk5RFlMMjlrdWN1bl95WVE4RWZWVHE4M29kNWhGNGpqV0hTSENIMXVZVmhFMnhhdV8zcjJiSGhZb1NFNzFwZTI4eUg0bHk2MjJrV0xCTzdnUVJLU1BTcHpiZHU0LUtWTUFTRlJF?oc=5",
+      "summary": "What’s New in Microsoft Intune at Ignite Microsoft Community Hub",
+      "published_at": "2026-11-17T21:12:09Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Manage Windows Servers alongside PCs with Microsoft Intune - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFl1S2hlUG5JaEdqNFFxZ2lfRjVDa0lFbl9uQVNmWlhRN2tlemlpNjd4Q0JMUklKem52ZlN6T2xpUUUzSjZzaExkUVY0WmhOemxabDVoVWxrdFllTTNZR0N1dEpqNFBBM3JqbU1udUh0aXNocXZwQ3p3ZkxHTWUzY0U1ZXRpbk1wN2NXZ1BVdUtvWFJoYWVMRjg1YXNfejNiZklha3NhWGZJbWVsR3JKZ3otNmkxSkwwdHVOSV9sZmhRWDhNUGdtTQ?oc=5",
+      "summary": "Manage Windows Servers alongside PCs with Microsoft Intune Microsoft Community Hub",
+      "published_at": "2026-11-17T21:07:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What's new in Microsoft Agent 365: Ignite 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUhheUtCRkVCYm9ucjFGZk9OS29hVUs3S3NEMjVPU0xpZ0dfdEpkQmRkLUJMZHFaZ2tNUndWTDVCSW44cmJTVk5zQkx4bWdVTnJxOEU5TG83ZXZnb0psNlluOHlrNzV1RDZRVGxwelRpOUhNdk9XazVrTzFyNlMyb0t2VG5KLW9DQi1ndFFEeVl5TEhIYVNEd2pYejgzNTZ3MWtPRUFOZDRSc2xL?oc=5",
+      "summary": "What's new in Microsoft Agent 365: Ignite 2026 Microsoft Community Hub",
+      "published_at": "2026-11-17T20:58:44Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -50,6 +158,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/4afa3d71ba52aad8.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Windows Server 2028: A trusted foundation for an evolving enterprise - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRFEwYVJ4RGJHWFIxbjJkUnBybkthZzNvbTBOZzZLLXRGOWJsR1dFNGhxcHdTS3RJUTF5RWVlT3QzN21zWS00SzZhTWh5ZTFMOXMwa0VJNGFuVzZUNDUzLVVVbHRnVlFvcDEyVU5tVGVEdHdzWnJ3bmV6bVVpZ3RHbENJSDRtSmZXY2dHbkVLUlJOSGE1T0lEZ0RELTVUSXMwZ2NiWkdBamRZeU1VNGR5V3dHaHlrUGpQeVFRNmtyeVhmVWFaREpDOGt2VVFxczBCai02aFRZYk9mTFhZTlByaGxPcnE?oc=5",
+      "summary": "Windows Server 2028: A trusted foundation for an evolving enterprise Microsoft Community Hub",
+      "published_at": "2026-11-17T20:11:54Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Civilization studio Firaxis Games lays off a third of staff",
@@ -60,6 +180,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/29f91ce9df6db5d9.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "HorizonDB: PostgreSQL for enterprises, developers, and agents on Azure and Fabric - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdkM1VkRJU2g5dnJlRllqVEdta1VtQU5hVHNaMFlDQjZPSUFvR3I4bEFtZTl4RFlGa3lFQjBXZE1uX0pwZEg3LU9nTl84b1VGS3VFRXRtYWMtT0NpWkFSYkJNZGZQS2JLQzVjenBvcG5tSGl5b2I0Z2p1Ry1RMzIzc0l4cGVVb3BjbTJVMFg2VHJ0S0hYLUpWbFFicmY5dzBSY1JFdG5rSWZ0MGExU21Cc2tkX1hIeU0ycWppeS1BNmtKUjBhd1JWblE4V2JIN09fRjBaVGJfREpJUHc?oc=5",
+      "summary": "HorizonDB: PostgreSQL for enterprises, developers, and agents on Azure and Fabric Microsoft Community Hub",
+      "published_at": "2026-11-17T18:41:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -86,6 +218,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/cf3d24aee36b7690.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "GPT-6.2 Astra and Sol system card - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQThxYjhaTGVjRTYyaFR3UGw4VVBnM3pOYjNsTzdhb2RkN2ZfWWg2aFV2Vk11cnpIb2ZCSElXblVnWUZYWE1uNU1zNE9ZVnlWVXJGUWhZWU5FLVZKZDJaUklYdXItM21yRmFXdnRvZDhyelVkRDNueVlEbnFtUnE2OQ?oc=5",
+      "summary": "GPT-6.2 Astra and Sol system card OpenAI",
+      "published_at": "2026-11-17T18:05:36Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
@@ -104,18 +248,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3N4NmpZN3RkOGdXZ1NNSE9aMDd5Q3VhSllORFFSVWJQMjBFX0JRQlUwd2p0U0pEZjRtaUgyMVNsUmV4UUNmRlB1S21tSTY2dW96RjBWTEVaMzc1MGQxcUNMNzJTQ2ZROFFTN3VRVkd6MHVmNlljSHR1em54Q3JzQXc2LWg?oc=5",
       "summary": "GPT-6.2 Astra and Sol are now available OpenAI Developer Community",
       "published_at": "2026-11-17T18:00:37Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Costs API data is delayed - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVGFpOUlBWUJoSXNTaDZnM2ZnMi0tYXVTUm1KWTlGcERiRjRlUnludTZRdGVHblZwVnk0NVpyZVVFbkFtaEx4eDY5c19GN0FUWTZkbUpFTjNWblBnOUxpVzBZQUFHUE9FTVdZNWN5NA?oc=5",
-      "summary": "Costs API data is delayed OpenAI Status",
-      "published_at": "2026-11-17T17:59:51Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -170,6 +302,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft 365 Copilot and AI Agent readiness and resiliency with SharePoint Content Governance - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVJNTERjdmpESUhFNHFWSzZVTkhIWG82bG9PZFR6Rms2UXpxb1RIU0d6dXVQbm5nRXFfeG9qamQ4RGRpQkxWTEtuQzBuaVcxSHB3OFR4dEduWDQwLUVDaGVwOXhYaVluZzFoODRydmtDRHdnLXFVR3hUeUJQS0tEZkxUV3VNLWhWWk1oYVRVY29CWUlPaUV2eWRlMkd2eWpxcnNlOG93NXJEQlV4NUlfcE81UWdiQ3RsaDZucEtCdktlcktndUUxOTlRQmZKMXlZYWc?oc=5",
+      "summary": "Microsoft 365 Copilot and AI Agent readiness and resiliency with SharePoint Content Governance Microsoft Community Hub",
+      "published_at": "2026-11-17T17:06:07Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Tech",
       "source": "Ars Technica",
       "title": "Google makes it easier to use Gemini without training AI on your data",
@@ -182,16 +326,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/dd4967a0cb6a83ec.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server",
-      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
-      "summary": "Configure Slackbot to render Headless Experience Layer (HXL) widgets from a custom Salesforce MCP server. Org connection setup, tool permissions, and fixes. The post Expose HXL Widgets to Slackbot with a Custom…",
-      "published_at": "2026-11-17T16:00:14Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Microsoft Entra news announcements from Microsoft Ignite November 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjNkaHlnV3kzY2Y3MURxcDlSSC1xUnk5OV93NFR2azJRVHk5Y1pQa3VyMzBaMWZYNGFia2l2SkVlWmh3UXlTM1h4VFd6ZU15WnlMVmtNYU9hbnZSLVY5elJCX1lCdE1JZDdSclNCLXpNQnhncU5NTUJVa3FQYnFVakNlTVJTV0NDMTVndmY3dGl0X2ZuSGtESkRsTlNiR2IzRndwM2pwRXVFREFzUE1YMkF5d1dkRm9INUFSM2htTXpmQnU0dUE?oc=5",
+      "summary": "Microsoft Entra news announcements from Microsoft Ignite November 2026 Microsoft Community Hub",
+      "published_at": "2026-11-17T16:02:45Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Tech",
@@ -218,18 +362,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/f1acc93a3d794671.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
-      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "published_at": "2026-11-17T14:00:29Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-bot-barfs-code-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/323bd46cffcfa335.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Bridging the Gap",
       "title": "How to Build a Strong Business Analysis Practice: 3 Essential Components",
@@ -254,18 +386,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Artist brings old Space Shuttle tank back to life",
-      "url": "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
-      "summary": "\"It's definitely the largest art project I've ever worked on.\"",
-      "published_at": "2026-11-17T12:15:54Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111326aa-lg-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/73fd22d4177b4198.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Careers - OpenAI",
@@ -280,34 +400,10 @@
     {
       "category": "AI",
       "source": "OpenAI News",
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
-      "published_at": "2026-11-17T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
       "title": "Strengthening NATO and allied cyber defenses with AI - OpenAI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "summary": "Strengthening NATO and allied cyber defenses with AI OpenAI",
       "published_at": "2026-11-17T07:50:38Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "How Revolut raises ambition without lowering the bar - OpenAI",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "summary": "How Revolut raises ambition without lowering the bar OpenAI",
-      "published_at": "2026-11-17T06:01:56Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -398,16 +494,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Ignite 2026: Session guides for startups and digital-native teams - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN0p2Yy13TjRlRU1XdkdCZWF1NjRsNmJCNXphcDdwd0NTVFVlYTY1NnkxQkdVRXRMQ0xmbnAxLUw0QlJOWl9VTGVWZF9nSVF6NFVjQkN2OVY4UEU4ZGdtNll1MUZOZkFWRWM5VFFxdHQ5UHFkbEN5b1B2SDFVeWxPLWIwaWxMdnFnZ09fZ3NBU0FMOExKUUpsWGxVLXAyMlA4Sm1LR3ZZRms1cGRsb3dRNEprQnRtMHh6WGJvSE85bmFIaHpIbndzaTZ5V0pWUUt5WFNTcG5IZ1hXTTdOd3hvdg?oc=5",
-      "summary": "Microsoft Ignite 2026: Session guides for startups and digital-native teams Microsoft Community Hub",
-      "published_at": "2026-11-16T16:53:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Science at the Frontier: How scientists use ChatGPT - OpenAI",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "summary": "Science at the Frontier: How scientists use ChatGPT OpenAI",
+      "published_at": "2026-11-16T17:19:12Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Zoom",
@@ -420,18 +516,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/9f2b1424549bfb6c.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Ignite \"Book of News\" - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGpDRnRVMzRadE14X0FHSmZ0aFZUb2JtTXBndTZTV2kzRURHdFA4UzhVWnotX2dhcWM2dElTVndMVGxzQ1F6SW4tTUFEN0RTVVNqWTBmTURzVi1oZzBIdXlSTUNZeWdYMERVZXJBbUxGQjl3LXVEUTN0cjA1ZW9MeE9WQTRVN1dfekJzR05SajI2UF81Y3JYUFVWV3k2YmFBSktrZ3hn?oc=5",
-      "summary": "Microsoft Ignite \"Book of News\" Microsoft Community Hub",
-      "published_at": "2026-11-16T07:49:49Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -494,30 +578,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "From Purview Data Governance to the Fabric OneLake Catalog - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSURDSFlDLXFCZDRBVWJ5dG4zT1RtNDB1bHFLWGs4eTNqZWk1VllWdUZxYVhONnhGTmhmMW9DWGphdjNMV0d4MU9PVEFGYU5fZVBUX2d5azVHdTc3eFVnWHJCM2RMLW15Y0RKVEI1clZkSHdGU1p4WW9HdEFKS2ZaWE84UHZlMXpmYXRrc1V4eG1JZFJxakh1U05aX0JBMDc0MEpGTTVrMmdRc28zNU9LVDROcS1vVXI3UzFXbHIwbEM3QQ?oc=5",
-      "summary": "From Purview Data Governance to the Fabric OneLake Catalog Microsoft Community Hub",
-      "published_at": "2026-11-14T05:32:46Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s new in the Azure Resource Manager MCP server at Ignite 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMG91djNpLWRXNnF4cW13VkZTTDZCS2pMSXV4bldyWUFUazA5MGoyT2Q4ZEtfemVJNGZLNGEweGF5dHJZb0lpRnM2ampYQ2Z1UVZZZkxzU1lyYjlFTGEzVXlqTktOcmduTTl4LTljVTlDOHh4MFhfd2ZRRjExSzBpTHotRW5Gb3hjOUlxVmhCeE4wWVNBd3RSU2tWbVctLU8zX0VRXzdCNFNoMTlsZVVRWExzZGhKOXV5LWNFTlpIYUFERE9VU3h4dm1NeWpNLUtsZlN3N1hqV3M3WmV4WWYyLW1DN2Ixc1R3clgwaA?oc=5",
-      "summary": "What’s new in the Azure Resource Manager MCP server at Ignite 2026 Microsoft Community Hub",
-      "published_at": "2026-11-13T19:16:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a webcast? A plain-English guide",
@@ -540,54 +600,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Copilot that understands your organization: Introducing people and org context in Work IQ - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZVB5T3lBX1hNNkc0eDA3enZxbWhCbFdIMnBnRm1PNVAyNExEODdHNUFab1NRbXpkcXppWF9uNi1Vel9ibURhLTdYY2xiajFaY0hvZzRZdkVmXy1BazZGWTQxWFEwbGZMd29jcFcxVHlQcjRvZkhxekFGSVhTc0tGOHZhSmptUXUyQWFnZk0wWnhkR0hoSGU2QUZjUXUtZWlDS1VqUGs2LWdtU3VJLWJveUVva3BNSUJtc3Q1MDQzR3JDUk1feXdYUVgwRGx6azdZX3YxUnFFZHVxbnJycjNwSl9PQk1uNlU?oc=5",
-      "summary": "Copilot that understands your organization: Introducing people and org context in Work IQ Microsoft Community Hub",
-      "published_at": "2026-11-13T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft 365 Outage Updates - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUE5Od1d1Q0ZOaWVkOVFicWlrYzZtdVRWRmY4ZGtjck5BR0RtcTFvU2t1YWtYZDI4WXVNUVd2NEtDaXRQenB4NU9ySmZ3bG9pZ2s5RXg5ZGw4YjB2OHl6bFhTWDFBemZVNU1JNGZYNGlfZjMycThFWWZNdGZLaXZrYUxVbjlqa1RPVUU0bnJsNGM2Z250NGd6amlmckRDdW8?oc=5",
-      "summary": "Microsoft 365 Outage Updates Microsoft Community Hub",
-      "published_at": "2026-11-12T19:05:37Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Plugins at Microsoft Ignite 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFJWV3VtQ2VRWUEzM1Q0VnJHVFFWMElGMHo5NU5CZ3QybTBrUHpzV2NHeUgxSzdtdGg5SkIwR0FReFktWkRFT1RxdHE3dnRXQW16SC1qbkwyVjNYdWR0QmlFU3pqQkY2dVVwRU9HWUE0a2oxM09LTklmc3lpc19oN1pycXp1LWYwOTVIUnBMcEdOWTVQc0laUmlGelFRczVzd2hveWoyMA?oc=5",
-      "summary": "Plugins at Microsoft Ignite 2026 Microsoft Community Hub",
-      "published_at": "2026-11-12T18:26:20Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "A next step in the evolution of the Microsoft Data Governance strategy - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMUdXQ2pPd2dkbkNuRGlTb3BIWFRCLUo5WUkzaGJERjBNN0QtOFVVLWVyM2N3THVJeDJyNHdxTFlobDdsY3hJZklfMzFnNzF1Y0k4dWZveDlaVlc3QlhwSDRXZDBJTWo5TFNKYlRZWGdjLVNTSDRJUVBqNEVXMl9Tb05xX2hwQnBJa1BVM3lUS0ZQMlJ3NS1hOS1DeFkwYU15OGxfZ21PQXpBZ0hnT3BBdnVLRHRBOEhzWHhGS3hZbmxBSjNYdUN2VE90RlNrdFgxanVDV3FaeXhsRVU?oc=5",
-      "summary": "A next step in the evolution of the Microsoft Data Governance strategy Microsoft Community Hub",
-      "published_at": "2026-11-12T17:15:21Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Salesforce",
@@ -804,18 +816,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Adaptive US",
-      "title": "Data Analysis with Microsoft Excel: Guide for Business Analysts",
-      "url": "https://www.adaptiveus.com/blog/data-analysis-in-excel-for-business-analysts/",
-      "summary": "Every year, a new wave of \"Excel killers\" hits the market — Power BI, Tableau, Python, R, and a dozen AI-powered analytics platforms all promise to make the humble spreadsheet obsolete. And yet, walk into almos…",
-      "published_at": "2026-11-04T06:30:00Z",
-      "image_url": "https://www.adaptiveus.com/hubfs/Data%20Analysis%20using%20Excel.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca51e75ce5614bab.jpg"
     },
     {
       "category": "Salesforce",
