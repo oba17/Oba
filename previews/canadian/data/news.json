@@ -1,10 +1,190 @@
 {
-  "updated_at": "2026-11-18T14:11:21Z",
+  "updated_at": "2026-11-18T22:04:28Z",
   "articles": [
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Tesla will sell you a Cybercab for $30,000. Then charge $299 a month to use it.",
+      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
+      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
+      "published_at": "2026-11-18T21:29:24Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f3e11ed552e4d037.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "published_at": "2026-11-18T20:41:12Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0a57263c9c5e687c.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Managing frontier AI risk: From training to deployment - OpenAI",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "Managing frontier AI risk: From training to deployment OpenAI",
+      "published_at": "2026-11-18T20:09:34Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "summary": "Popular titles like The Odyssey are being “sold & shipped by Best Buy.\"",
+      "published_at": "2026-11-18T19:31:17Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odyssey16-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fdea8f1baec41c17.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show - Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+      "summary": "Muse privacy invasions are freaking out Meta staffers, internal chats show Ars Technica",
+      "published_at": "2026-11-18T19:19:33Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2299665210-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9ffd76b80dfa5f91.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Async meeting best practices: how to run productive meetings without the scheduling chaos",
+      "url": "https://www.zoom.com/en/blog/async-meeting-best-practices/",
+      "summary": "Learn eight async meeting best practices that help remote teams collaborate without scheduling conflicts, using Zoom Clips and Canvas to stay aligned.",
+      "published_at": "2026-11-18T18:58:39Z",
+      "image_url": "https://media.zoom.com/images/assets/async-meeting-best-practices.webp/Zz1kNjQzZDA1MmUzODIxMWYxOWNiYmY2Nzg2ODFiMjljOQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8a36a2c1928019e1.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Trump admin orders Kalshi to halt wagers on what words Trump will say",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+      "summary": "CFTC: Kalshi bets may violate US ban on contracts that can be easily manipulated.",
+      "published_at": "2026-11-18T18:46:08Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/trump-teleprompter-1152x648-1795023886.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/d95b62b3c960fd14.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The \"shameful\" measles data that lost the US its elimination status",
+      "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/",
+      "summary": "Measles became endemic in the US months ago—and it's only accelerating.",
+      "published_at": "2026-11-18T18:30:23Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2017/08/Medical_diagnosis_for_the_student_and_practitioner_1922_14761731976-e1708401738329-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/813f7901180ff98b.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Will Wright's next simulation will use AI to mine content from your memories",
+      "url": "https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/",
+      "summary": "With MyMems , Wright says he wants to \"turn the simulation inward.\"",
+      "published_at": "2026-11-18T18:10:33Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Moonlit-walk-1152x648.png",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/4d8a431c7d800ea6.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "The Silent Consensus - OpenAI",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "The Silent Consensus OpenAI",
+      "published_at": "2026-11-18T18:06:16Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Inside the Codex sandbox - OpenAI",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "Inside the Codex sandbox OpenAI",
+      "published_at": "2026-11-18T18:06:15Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/it-shouldnt-be-this-easy-to-pedal-25-mph-specializeds-turbo-vado-3-evo/",
+      "summary": "It shouldn’t be this easy to pedal 25 mph: Specialized’s Turbo Vado 3 Evo Ars Technica",
+      "published_at": "2026-11-18T17:53:59Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PXL_20261114_225616002-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fac3e3c9bff83d47.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Advancing chip design with OpenAI models - OpenAI",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "summary": "Advancing chip design with OpenAI models OpenAI",
+      "published_at": "2026-11-18T17:06:03Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-failure-caused-by-inadequate-fuel-supply-to-engines-ula-says/",
+      "summary": "\"ULA is a valued partner, and we look forward to Vulcan's return to flight.\"",
+      "published_at": "2026-11-18T16:58:32Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/fcdd61c25e1ed726.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
+      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
+      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
+      "published_at": "2026-11-18T16:24:34Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/4726572a8d8693ed.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
       "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
       "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
       "published_at": "2026-11-18T14:01:45Z",
@@ -12,6 +192,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/f96233fa647c317f.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Elevated conversation errors for Free and Go users - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bb2ROemZXbHkxWjJSWG1nTjFKTFM0bFFDV1ZZb0ZUdE8wYTEteDJfRDUxay1oU1dBek16SW14NGRyV3pVTV83eDB2ZnRxaVhmcEdPNDc0LXB4Y2h6dXh6Vl9Famx0VmpWWHJSRUxUSQ?oc=5",
+      "summary": "Elevated conversation errors for Free and Go users OpenAI Status",
+      "published_at": "2026-11-18T13:09:52Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Tech",
@@ -24,18 +216,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/8c84f0b3239312b0.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Grand Theft Auto VI: The Ars Technica review",
-      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
-      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
-      "published_at": "2026-11-18T11:00:27Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Grand-Theft-Auto-VI_20261102162743-1152x648-1794953901.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6c97cafee5ed963f.jpg"
     },
     {
       "category": "AI",
@@ -52,10 +232,22 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
+      "title": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaWpvdjRCWHV5SmRoTmJ4bG5telZaRm95eTZmdk1iRW94VmMtcU1iZ3F3VmprMG5ob2ZOaVNmYXI3TlZEN1lfcDBzUTZpMFhqRmZpcHR1SC1lTWpKVmhDYTBPSGlkMG92N1l1NFBUVVhpVWpTT19hWFZ0aHU5Q2YtTVNadkxYVDFVMFdZQ2R1dFA1ckVFSmdxZEtJUlNHdGZWTElHSGtjcU5RazV2NFdPcDQ3WlhhUkgwQmdwQWtFWF8xdEMyajBJeHlXakRUQXZtZGVaNFNGNHk2U2xzQnp3dE03bU15RFdxYVE?oc=5",
+      "summary": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations Microsoft Community Hub",
+      "published_at": "2026-11-18T08:21:29Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
       "title": "Microsoft Entra news announcements from Microsoft Ignite November 2026 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVGgxRnpKd2Y4LWhTOEQweVVyM0ZsR3pWYU1hcEVEbXI1QlZQRVNQX0NrUW9XdDhfbFNJSnMyNC10cElrLXNFM2VnN1owRnNXUlFwS004U01EaDNyZzM1Q0JrdU9OUlpCNVN4bnVHWUZFdDd4WU5pU3ZJcmJWZFBYN3RWZG1FTzd0YmVod1dSajV3QU9veHhVRXBRX0dVVWU1TVljb09MN3pDa0lkR1hDb0RKQWdWY19rWERabnloSTBocThlNFFVWVRaVU9aYngxdW93?oc=5",
       "summary": "Microsoft Entra news announcements from Microsoft Ignite November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-18T08:34:48Z",
+      "published_at": "2026-11-18T06:56:53Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -74,30 +266,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server - Salesforce Developers",
-      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
-      "summary": "Expose HXL Widgets to Slackbot with a Custom MCP Server Salesforce Developers",
-      "published_at": "2026-11-18T00:35:17Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
-      "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-      "published_at": "2026-11-18T00:27:29Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a1d88731a0e0136d.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
@@ -110,40 +278,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "San Diego dumps both Flock cameras and smart streetlights",
-      "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
-      "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
-      "published_at": "2026-11-17T23:09:09Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT for Sales - OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Introducing ChatGPT for Sales OpenAI",
+      "published_at": "2026-11-17T22:26:04Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a89b86079f8fae95.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
-      "url": "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
-      "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
-      "published_at": "2026-11-17T22:44:46Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/2addae51dc99eb20.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
-      "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "published_at": "2026-11-17T22:32:16Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/efb02d81f83d1c70.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -168,18 +312,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing ChatGPT for Sales - OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "summary": "Introducing ChatGPT for Sales OpenAI",
-      "published_at": "2026-11-17T21:27:46Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -230,36 +362,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
-      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
-      "published_at": "2026-11-17T20:32:55Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP-1100x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/4afa3d71ba52aad8.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Windows Server 2028: A trusted foundation for an evolving enterprise - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRFEwYVJ4RGJHWFIxbjJkUnBybkthZzNvbTBOZzZLLXRGOWJsR1dFNGhxcHdTS3RJUTF5RWVlT3QzN21zWS00SzZhTWh5ZTFMOXMwa0VJNGFuVzZUNDUzLVVVbHRnVlFvcDEyVU5tVGVEdHdzWnJ3bmV6bVVpZ3RHbENJSDRtSmZXY2dHbkVLUlJOSGE1T0lEZ0RELTVUSXMwZ2NiWkdBamRZeU1VNGR5V3dHaHlrUGpQeVFRNmtyeVhmVWFaREpDOGt2VVFxczBCai02aFRZYk9mTFhZTlByaGxPcnE?oc=5",
       "summary": "Windows Server 2028: A trusted foundation for an evolving enterprise Microsoft Community Hub",
       "published_at": "2026-11-17T20:11:54Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What's new in Copilot Cowork at Ignite 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0RWbGNIVHlVTEJkcTRaNzQ2dlJIbVBibzRwSzJmU05WcTU2T1ZRUXJxalNYdFF6TG1wNGJ4NEFPeUVoZGd0MGJZa2tQVXk3SGJPM2lNZmlydE50a3Y4Q3ZFeldSOFg2QmxkR1owZHItc0hrX3hUbVAyNUVVLVh6R0Z0RnlTZjZiTVNTS0dVdklUODJzNjJrYlozeW54SHotOVVYbFpjcnFnbDdjeW5WWEl3RjQ?oc=5",
-      "summary": "What's new in Copilot Cowork at Ignite 2026 Microsoft Community Hub",
-      "published_at": "2026-11-17T19:59:27Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -278,18 +386,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Civilization studio Firaxis Games lays off a third of staff",
-      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-      "summary": "Studio head Heather Hazen is among those departing.",
-      "published_at": "2026-11-17T19:45:25Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/29f91ce9df6db5d9.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Ignite 2026: What's new in Microsoft Defender & Sentinel - Microsoft Community Hub",
@@ -304,38 +400,14 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjBQUnJQV1k4NHEtRFdNTGRHeFN3Yld6blVxNlhrS1dvbElKSjY0Rm9FMVVnSUpTaVUtdC1GbjVlYmVJVmtHbklBS0VIZW54d3k4V3A3cVMyQ2c2SjhDSnZqaHlublJwbHFPYXJxekNLLU1uRHBBQ21BOVFZZk9zdG9ObDBMeHlkUlRUS3FFekNfSDk1YWJHcDZIWEltdGlxeWdEM2xLXzFXY1V3UllnOHlrclYwYWRCZm1NcU5QZDNqOW1LRlNzNzZaWVFsNnFIa3RCS1F4Z1Y1WWxQ?oc=5",
-      "summary": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value Microsoft Community Hub",
-      "published_at": "2026-11-17T19:28:36Z",
+      "title": "Vulnerability shielding: Protect the time before the patch - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSURscllZZVVpd2NhVWdJUXBUMnpiOU5qR25NTUoxOWVjbTNENUlOQVQwQlpUOUtxZm5YeUN1aUo0Q3NyZGhqU1l4VmdUcWEzMlN4Nm4wMmxHRzJwOXNGbzlwcUVySlBNZm40ZHpxZlRqMnc0RkFIQjI1X3ltaURhZkpiem9IVVlLSlRLMUx2dlVYZGpucm8tUFdPRjZMRkhpcDdZd0RUQUV1ak5kVmVydEt4dEN5cVdheHhEVlAtNUpBcGtQeWdma0V2S01JRzc4OEE?oc=5",
+      "summary": "Vulnerability shielding: Protect the time before the patch Microsoft Community Hub",
+      "published_at": "2026-11-17T19:45:23Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-      "published_at": "2026-11-17T18:26:26Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/baedbf6d871c7cd9.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "published_at": "2026-11-17T18:13:34Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/cf3d24aee36b7690.jpg"
     },
     {
       "category": "AI",
@@ -350,36 +422,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
-      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
-      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
-      "published_at": "2026-11-17T18:00:51Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/794b8e72c0551f83.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "GPT-6.2 Astra and Sol are now available - Announcements - OpenAI Developer Community",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3N4NmpZN3RkOGdXZ1NNSE9aMDd5Q3VhSllORFFSVWJQMjBFX0JRQlUwd2p0U0pEZjRtaUgyMVNsUmV4UUNmRlB1S21tSTY2dW96RjBWTEVaMzc1MGQxcUNMNzJTQ2ZROFFTN3VRVkd6MHVmNlljSHR1em54Q3JzQXc2LWg?oc=5",
       "summary": "GPT-6.2 Astra and Sol are now available - Announcements OpenAI Developer Community",
       "published_at": "2026-11-17T18:00:37Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Costs API data is delayed - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xVGFpOUlBWUJoSXNTaDZnM2ZnMi0tYXVTUm1KWTlGcERiRjRlUnludTZRdGVHblZwVnk0NVpyZVVFbkFtaEx4eDY5c19GN0FUWTZkbUpFTjNWblBnOUxpVzBZQUFHUE9FTVdZNWN5NA?oc=5",
-      "summary": "Costs API data is delayed OpenAI",
-      "published_at": "2026-11-17T17:59:51Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -410,16 +458,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Keep the prefix unchanged | OpenAI API - OpenAI Developers",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPZmlCYXpHdTlCazNrS0NtSG9vQ2E0QlRrZmQzYTFlMlhSRlRQWktGbkI0cWQ2b2hqMWctX3V3OXZmUXBiaVpJWEl5bE5VQV9xNVBPeUVaUHRWSVRlblJoNl9mbEpHNVIwTmxYcEdDUHNETGtZY0E?oc=5",
-      "summary": "Keep the prefix unchanged | OpenAI API OpenAI Developers",
-      "published_at": "2026-11-17T17:48:06Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server",
+      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
+      "summary": "Configure Slackbot to render Headless Experience Layer (HXL) widgets from a custom Salesforce MCP server. Org connection setup, tool permissions, and fixes. The post Expose HXL Widgets to Slackbot with a Custom…",
+      "published_at": "2026-11-17T16:00:14Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
     },
     {
       "category": "Business Analysis",
@@ -432,42 +480,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/2091dfc1a07c60b5.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing OpenAI for Chile - OpenAI",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "Introducing OpenAI for Chile OpenAI",
-      "published_at": "2026-11-17T13:19:22Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Careers - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MNEFsZXNfS2cwOGdrRVlwaVpLbktubmthR3lkdjBqNUotdDFNNFVwNlR4R0JMcnAxNk5GaG4zbjJOc0o4bnN0VzJGRHFyNmJ2ekpZU0hsQjU?oc=5",
-      "summary": "Careers OpenAI",
-      "published_at": "2026-11-17T08:16:39Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Strengthening NATO and allied cyber defenses with AI - OpenAI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "summary": "Strengthening NATO and allied cyber defenses with AI OpenAI",
-      "published_at": "2026-11-17T07:50:38Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Zoom",
@@ -602,6 +614,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c3c03ee6eebad2ef.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "10 webinar tactics to improve results in 2027",
+      "url": "https://www.zoom.com/en/blog/webinar-tactics-to-improve-results/",
+      "summary": "Ten practical webinar tactics Jay Schwedelson shared to improve registrations, live attendance, and audience engagement.",
+      "published_at": "2026-11-13T15:13:13Z",
+      "image_url": "https://media.zoom.com/images/assets/Jay+title+image/Zz0wMjM5ZWI0MmRmNzgxMWYxODkxNjMyYzQ0NTU4M2E1ZQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ba3d191df783414c.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "How HXL Widgets Render in Agentforce and MCP Clients",
@@ -636,6 +660,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMkdZWUR4Tl9KUklpRGpfdmQ3UWJEQVoxeWhwY1NBSm84cmpqS3IzTVJzQ0RwM181UVBkY0VjdG8tckhURWFKTndncFl4LUp6UGJRYlZFc3NENEw5aHJId1Z4ZUlnai1NYkczQWs4THlkS01OSzNZUWhuNVJucnNmVFB6ZEcteEtwTGRXVkVETmppTXFROEYzWHUyaXZNbGt2amk2WTdiUm5DTUczYno5OFBPN1NzcnNsWXRMN0NxWnNQcU9mQTA1QlNsZVI1dmNqbzlVZlBnREM1YjQwZGIwd3lSdjlnRldB?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-11T18:24:18Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Salesforce",
@@ -674,30 +710,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQVR0UmZYMGJYcEd1eU1QTWlHSjFUN1dfSk53VGlROTZnRmJvc21tblE1cVJldWpfYmwwdnI5SG5FWmNjZWdma0RaMVgwb3dhTTNMMl81TDlOV2RCeWduaGJpa0Q2Y3dCVXM0amZlX21RTnRRZXM2d05rODV2c1pPOXVobVUyUm5GOWhodUI2SGhqTnZTSG14bEhEY3NlbWpFQi04dDk4clZzY205MUdBWkxMTS1rd2g3MngxTzBPTk41VzA5dUJJUzk5Y0hMUjk1VlAySWM5V0pnRURId3EwMk9LUFlsTU1PcnVVeE9pMFRvMjB1cFl5UXMxbzlVd0dx?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-10T16:43:35Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Zoom AI Whitepaper - Zoom Technical Library",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvTDRMazFGRDRFaUt3X3dSdnYtSDJGQmtBVUdIRmwtTGpBU3JHcW0xQ3loX3FIRkR3SnRMRndoWS1uVWQybURnbEdyVldsSDhHZU0w?oc=5",
-      "summary": "Zoom AI Whitepaper Zoom Technical Library",
-      "published_at": "2026-11-10T16:30:32Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -708,18 +720,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "The defensible yes: How CX leaders break the cycle of AI FOMO and fatigue",
-      "url": "https://www.zoom.com/en/blog/defensible-yes-cx-leaders/",
-      "summary": "A practical framework CX leaders can use to choose one AI use case, assign ownership, and show measurable results with confidence.",
-      "published_at": "2026-11-10T15:21:17Z",
-      "image_url": "https://media.zoom.com/images/assets/social-card.jpg/Zz0xNjhhMGZhZWZhNGUxMWVkYTk3Mjk2NmU4NWE0ZDk2ZA==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
       "category": "Business Analysis",
@@ -747,6 +747,78 @@
     },
     {
       "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "cgcloud__Visit_Template__c - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDlNdkdyRTNOZ2lzdmlocUZJcEJWMW8ya1lQOWdfM2pjOWZMX1RnTHFNeXlnckZGc1A0U1k2bVFhczl6Q0FHVXBlWFdWYWZlVVFOOVpSMGNSM1I2MG9zWjNEVFlpZ1AzY19PT3duQ3pDMjEwb1dhQ20zVjhjNnRsUGVjSnBqc3FmdUpQZkR4ZTMxS1dpa0RDdV9xZld1RDA1MWVNOHdOZ3lXYmV0QW5id0NjTVo5TUU?oc=5",
+      "summary": "cgcloud__Visit_Template__c Salesforce Developers",
+      "published_at": "2026-11-08T11:55:10Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ProductRequest - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDVROExSTVNkMDkzOFpFb1pORThoYmk5bzBGZVV6R1ZLLXdFZjlYTF8wMnk4d0QyR1pyUlpmLVU5Qmx0R0hQNVgweDBWUDVvUmdKV2loMXNsQWwwWTRSYmpjQ21aWUt6REtySnVlb1l2LUlLZ0ZHUDBIb1l6SmNSZUxCRjM3ckh3dmNhMXh4ZGlsUlNnY3JnN05UYUQzU2llYmQ3SWlNRldVWDRBZE4w?oc=5",
+      "summary": "ProductRequest Salesforce Developers",
+      "published_at": "2026-11-07T22:20:13Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ApplicationStageDefinition - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzhXc1VEcWotODd0T2t6STVELXFNUTZBSEIyWGNuZWQxUUVOZW9ZendxdXVWRVVUNlVGdkh2X2k5NXNGTkcwRk50d3hVSkNlMnBmUy03YmlPX0ZpY1JIMzhMZEdHQm1ibF9wdlhRdkg1VVZPc05hX0hBVW5KZFFNRWVER2g1a2lnNmtCZFBwYldaNVNCLWZ0eFcya1haMVRwN01HMTFlaFJzTXJRWU94Z3hzSGxwSGkwQVpKSU1SOTdDT0E?oc=5",
+      "summary": "ApplicationStageDefinition Salesforce Developers",
+      "published_at": "2026-11-07T04:17:09Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "EducCharacteristicType - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWs4bXU5akJFZmhGVEEtWHdhRU9xZllBOTB5UzNjWUpDbDlFSzFhelFIUGlWSk5nUWRPUE5wdk1QaUJpc1JUbWFoN1BzLUItVTZNdk9xMzQ4UFVHX0FySUs2UGhxS1lEVGJMNkhQWHYzSE9NNXlLemlrY09ZbjdqaE91VFF0MnI4MV9wUUpuNTlsb2g4UmRxc3hLc2hKOFpaSjY1OFVsSFE3LTFOWkotZXNBeVlyVUphbDBuZl9B?oc=5",
+      "summary": "EducCharacteristicType Salesforce Developers",
+      "published_at": "2026-11-07T01:36:39Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "LearningOutcomeItem - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTl80UU5aV2lUbUxBSnpaVWJBLUNtUlNGc1hKSTRSSi1NTENva3MtSTFwT1VWb3I5YnZfMjdVRVlGRGxrYTVUY055Uy0ybE5ybDdKMWU2M3FKTllLYzQwNzhoenJwMVhwWVhSdUk3QzhRWmN4MXlTZmdFUUNOZ2dqc0lTd1hYSWcwMDRQUU5Md2c2ZnlnaklKQ2FFSDRMUXU4MF9wQ2FFS0dPUWVXbUJIMFk4TFc4RUJCVUE?oc=5",
+      "summary": "LearningOutcomeItem Salesforce Developers",
+      "published_at": "2026-11-07T00:38:24Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "LearningRule - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGJZel9GMGVCU0Vqd0dzUnNxcUhNUjNHbUtSUXFIMWc4RTEzYXhOVkJ6X01TZ2Q5ZUlrdllLcFZKcnJQa1c0RUExSkJ6VUUzdFFyTlFEUl9VdF9mWjQxVlhDTjk4TDcxOXVWYktjZU9fQ20wdGp3bFMyTkFNQzFVY3QzRGlJV044SEhrb0xEaEJUMHBtSUw3YThrX2dWa1hSRGY2Q2FOVFkwUU85ZlVkUg?oc=5",
+      "summary": "LearningRule Salesforce Developers",
+      "published_at": "2026-11-07T00:32:39Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
       "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
@@ -768,30 +840,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
-      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
-      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
-      "published_at": "2026-11-05T16:00:55Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
-      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
-      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
-      "published_at": "2026-11-04T16:00:34Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -816,54 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Protect Your Salesforce Commerce API (SCAPI) from Bots and AI Agents with eCDN",
-      "url": "https://developer.salesforce.com/blogs/2026/11/protect-your-salesforce-commerce-api-scapi-from-bots-and-ai-agents-with-ecdn",
-      "summary": "Learn how to secure your Salesforce Commerce API (SCAPI) with B2C Commerce eCDN. Explore how to restrict API access to trusted integrations, strengthen SLAS security, and manage AI crawler and shopping agent tr…",
-      "published_at": "2026-11-03T16:00:54Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029112113/Generic-D-8-e1793298086874.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "BusinessLicense - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcksxYjdFYm1QNnpmeWs1NHZnOFpjQUhBdDJzMktyUDJYbWNDVHE2YS1VUkxlXzlNT1dTTU9zc01BMXdJN3FOYzFpeG9Jc0xfUmdOc0dseFlmaHRkX0NwaUZudklCVG1kcTd1S2RtZVFobWNQOGh2NTh2MDFXOWdJSzFpa2MzX3lpTkxSbTl5ckMxa0VQeERZSFVLd05KaGlOcFhzQVE2dDhsaElt?oc=5",
-      "summary": "BusinessLicense Salesforce Developers",
-      "published_at": "2026-10-30T13:19:29Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "LearningProgram - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
-      "summary": "LearningProgram Salesforce Developers",
-      "published_at": "2026-10-30T13:16:22Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ApplicationForm - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JaVUdNN3BZbVRmNU00NFY1OHNVQmlwOWJaZXhSUE5SMjE2ZWxPREstXzZIR3hTT3pKdDI3RTU2ZzdQdWdrZVBoU19WM1hyblRfcXpNWUVJNTNGMW1ZTnh3SGFaeDBtYUhVVFJpb2JhNHVFU3QwaTlFMHJRam1FLUdQelYyUjBsOHl4OTU2aGVmczFMU05JUUFtbHNtUUNaSXVONmpnZUg1OHZi?oc=5",
-      "summary": "ApplicationForm Salesforce Developers",
-      "published_at": "2026-10-30T11:23:20Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     }
   ],
   "sources_ok": [
@@ -872,6 +872,7 @@
     "AI",
     "Zoom",
     "Tech",
+    "Business Analysis",
     "Business Analysis",
     "Business Analysis",
     "Salesforce",
