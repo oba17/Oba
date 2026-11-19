@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-18T22:04:28Z",
+  "updated_at": "2026-11-19T03:37:55Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Research acceleration: The jagged frontier - OpenAI",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "Research acceleration: The jagged frontier OpenAI",
+      "published_at": "2026-11-19T02:03:46Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
+      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+      "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
+      "published_at": "2026-11-18T23:25:04Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/ted-cruz-1152x648-1738093202.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/76f0b742fdc5a03d.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+      "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
+      "published_at": "2026-11-18T23:10:39Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8d1a3c31be2c1a53.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
+      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+      "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
+      "published_at": "2026-11-18T22:08:57Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/9b82dd51c2b1cd17.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -170,52 +218,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/fcdd61c25e1ed726.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Waymo has stopped its robotaxis from driving on the freeway—here’s why",
-      "url": "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
-      "summary": "Robotaxis already had to be recalled in May after they entered highway construction zones.",
-      "published_at": "2026-11-18T16:24:34Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305151172-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/4726572a8d8693ed.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Tesla’s $30,000 Cybercab comes with a $299 monthly catch",
-      "url": "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
-      "summary": "Tesla can restrict where Cybercabs drive and even block owners from reselling them.",
-      "published_at": "2026-11-18T14:01:45Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cybercab-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/f96233fa647c317f.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Elevated conversation errors for Free and Go users - OpenAI Status",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bb2ROemZXbHkxWjJSWG1nTjFKTFM0bFFDV1ZZb0ZUdE8wYTEteDJfRDUxay1oU1dBek16SW14NGRyV3pVTV83eDB2ZnRxaVhmcEdPNDc0LXB4Y2h6dXh6Vl9Famx0VmpWWHJSRUxUSQ?oc=5",
       "summary": "Elevated conversation errors for Free and Go users OpenAI Status",
-      "published_at": "2026-11-18T13:09:52Z",
+      "published_at": "2026-11-18T12:15:02Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
-      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
-      "published_at": "2026-11-18T12:15:44Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-111826a-lg-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/8c84f0b3239312b0.jpg"
     },
     {
       "category": "AI",
@@ -242,6 +254,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "published_at": "2026-11-18T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Microsoft Entra news announcements from Microsoft Ignite November 2026 - Microsoft Community Hub",
@@ -254,18 +278,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "OpenAI Platform - OpenAI Platform",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sTjdnV0RhWURLN2o3VXZqenRFZG5xUFFMUjlnSjNKVVVoQ0Q3SThneUMzQVFVOEZtS3gxZGc5YW1DX09ZM1UyY3VIcW52UGUwajJSekZfeGh5QQ?oc=5",
-      "summary": "OpenAI Platform OpenAI Platform",
-      "published_at": "2026-11-18T05:49:58Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
@@ -276,18 +288,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Introducing ChatGPT for Sales - OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "summary": "Introducing ChatGPT for Sales OpenAI",
-      "published_at": "2026-11-17T22:26:04Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -314,6 +314,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Introducing ChatGPT for Sales - OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Introducing ChatGPT for Sales OpenAI",
+      "published_at": "2026-11-17T21:27:46Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What’s New in Microsoft Intune at Ignite - Microsoft Community Hub",
@@ -332,18 +344,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1g0cUowcFkyNlFhUmR5TUw2QUUyWU9uQ2I2ZlNDdlpJd1FqRF9qOHE0NHhzMHRWR2w1ZVZDVnF0T0JHVmtpV3M2RDdEOUZ4b2N2ZTRnYTFHT2FqZ1ExdDNMY3NlQlZIbEFuUmhVYjFLTDBlZHYtd0RBZ0FmWFlFR0Q0d2h3RjFsam9UMDU5VkhwWWJWVzdnY3NrZWdiU3hsQ09FQk50ZUtQVnUy?oc=5",
       "summary": "Azure Linux 4 is generally available Microsoft Community Hub",
       "published_at": "2026-11-17T21:08:58Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Manage Windows Servers alongside PCs with Microsoft Intune - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFl1S2hlUG5JaEdqNFFxZ2lfRjVDa0lFbl9uQVNmWlhRN2tlemlpNjd4Q0JMUklKem52ZlN6T2xpUUUzSjZzaExkUVY0WmhOemxabDVoVWxrdFllTTNZR0N1dEpqNFBBM3JqbU1udUh0aXNocXZwQ3p3ZkxHTWUzY0U1ZXRpbk1wN2NXZ1BVdUtvWFJoYWVMRjg1YXNfejNiZklha3NhWGZJbWVsR3JKZ3otNmkxSkwwdHVOSV9sZmhRWDhNUGdtTQ?oc=5",
-      "summary": "Manage Windows Servers alongside PCs with Microsoft Intune Microsoft Community Hub",
-      "published_at": "2026-11-17T21:07:37Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -410,24 +410,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjBQUnJQV1k4NHEtRFdNTGRHeFN3Yld6blVxNlhrS1dvbElKSjY0Rm9FMVVnSUpTaVUtdC1GbjVlYmVJVmtHbklBS0VIZW54d3k4V3A3cVMyQ2c2SjhDSnZqaHlublJwbHFPYXJxekNLLU1uRHBBQ21BOVFZZk9zdG9ObDBMeHlkUlRUS3FFekNfSDk1YWJHcDZIWEltdGlxeWdEM2xLXzFXY1V3UllnOHlrclYwYWRCZm1NcU5QZDNqOW1LRlNzNzZaWVFsNnFIa3RCS1F4Z1Y1WWxQ?oc=5",
+      "summary": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value Microsoft Community Hub",
+      "published_at": "2026-11-17T19:28:36Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "GPT-6.2 Astra and Sol system card - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQThxYjhaTGVjRTYyaFR3UGw4VVBnM3pOYjNsTzdhb2RkN2ZfWWg2aFV2Vk11cnpIb2ZCSElXblVnWUZYWE1uNU1zNE9ZVnlWVXJGUWhZWU5FLVZKZDJaUklYdXItM21yRmFXdnRvZDhyelVkRDNueVlEbnFtUnE2OQ?oc=5",
       "summary": "GPT-6.2 Astra and Sol system card OpenAI",
       "published_at": "2026-11-17T18:05:36Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "GPT-6.2 Astra and Sol are now available - Announcements - OpenAI Developer Community",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ3N4NmpZN3RkOGdXZ1NNSE9aMDd5Q3VhSllORFFSVWJQMjBFX0JRQlUwd2p0U0pEZjRtaUgyMVNsUmV4UUNmRlB1S21tSTY2dW96RjBWTEVaMzc1MGQxcUNMNzJTQ2ZROFFTN3VRVkd6MHVmNlljSHR1em54Q3JzQXc2LWg?oc=5",
-      "summary": "GPT-6.2 Astra and Sol are now available - Announcements OpenAI Developer Community",
-      "published_at": "2026-11-17T18:00:37Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -640,18 +640,6 @@
     {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
-      "title": "IIBA® Member • Aneta Cruz-Kaciak • IIBA Business Analysis Certifications - Emeritus",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZ3hkN25SQmI1V0g2TFR6OURSdS1IRzE0U3dnMmtwYTdKbVVFVWVPZ0R5Mkk1VkpibkJoT2J3MjNIRTJOSEs5cmJmNHZxT00zcFFxT2xsdTBtbGo4UGtNX3ZMd3lndlFSQVJLTQ?oc=5",
-      "summary": "IIBA® Member • Aneta Cruz-Kaciak • IIBA Business Analysis Certifications Emeritus",
-      "published_at": "2026-11-12T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
       "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
       "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
@@ -710,6 +698,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Study and Prepare - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlneHNBNkdmMDVJTFU0V0NIbVFCam5qdFpDaFVRTi0wVFVIdUtZb0RXMkt6THFVX2ZZTjFsWi1IMXkxajhqM0hhbVZ1bDJkazZMYkVGX3VIUDVhMURTbWVjQU9VQVhLTmFxZG5ScTkyUjdIS1IyMF9WTHRNRUtvU0M1eXI1TWMzb0U5U2JZSHNiSGZHU3ZycVM2alpOdmwweHpfOFlRTnFhVEJKT1UtSm45aVl3RmpsVnBQV0E4bXBYMkN4UjJRM09hM0VoZHQzc2V0RXd0UQ?oc=5",
+      "summary": "Study and Prepare IIBA",
+      "published_at": "2026-11-10T19:39:22Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -747,78 +747,6 @@
     },
     {
       "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "cgcloud__Visit_Template__c - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDlNdkdyRTNOZ2lzdmlocUZJcEJWMW8ya1lQOWdfM2pjOWZMX1RnTHFNeXlnckZGc1A0U1k2bVFhczl6Q0FHVXBlWFdWYWZlVVFOOVpSMGNSM1I2MG9zWjNEVFlpZ1AzY19PT3duQ3pDMjEwb1dhQ20zVjhjNnRsUGVjSnBqc3FmdUpQZkR4ZTMxS1dpa0RDdV9xZld1RDA1MWVNOHdOZ3lXYmV0QW5id0NjTVo5TUU?oc=5",
-      "summary": "cgcloud__Visit_Template__c Salesforce Developers",
-      "published_at": "2026-11-08T11:55:10Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ProductRequest - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSDVROExSTVNkMDkzOFpFb1pORThoYmk5bzBGZVV6R1ZLLXdFZjlYTF8wMnk4d0QyR1pyUlpmLVU5Qmx0R0hQNVgweDBWUDVvUmdKV2loMXNsQWwwWTRSYmpjQ21aWUt6REtySnVlb1l2LUlLZ0ZHUDBIb1l6SmNSZUxCRjM3ckh3dmNhMXh4ZGlsUlNnY3JnN05UYUQzU2llYmQ3SWlNRldVWDRBZE4w?oc=5",
-      "summary": "ProductRequest Salesforce Developers",
-      "published_at": "2026-11-07T22:20:13Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "ApplicationStageDefinition - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzhXc1VEcWotODd0T2t6STVELXFNUTZBSEIyWGNuZWQxUUVOZW9ZendxdXVWRVVUNlVGdkh2X2k5NXNGTkcwRk50d3hVSkNlMnBmUy03YmlPX0ZpY1JIMzhMZEdHQm1ibF9wdlhRdkg1VVZPc05hX0hBVW5KZFFNRWVER2g1a2lnNmtCZFBwYldaNVNCLWZ0eFcya1haMVRwN01HMTFlaFJzTXJRWU94Z3hzSGxwSGkwQVpKSU1SOTdDT0E?oc=5",
-      "summary": "ApplicationStageDefinition Salesforce Developers",
-      "published_at": "2026-11-07T04:17:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "EducCharacteristicType - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObWs4bXU5akJFZmhGVEEtWHdhRU9xZllBOTB5UzNjWUpDbDlFSzFhelFIUGlWSk5nUWRPUE5wdk1QaUJpc1JUbWFoN1BzLUItVTZNdk9xMzQ4UFVHX0FySUs2UGhxS1lEVGJMNkhQWHYzSE9NNXlLemlrY09ZbjdqaE91VFF0MnI4MV9wUUpuNTlsb2g4UmRxc3hLc2hKOFpaSjY1OFVsSFE3LTFOWkotZXNBeVlyVUphbDBuZl9B?oc=5",
-      "summary": "EducCharacteristicType Salesforce Developers",
-      "published_at": "2026-11-07T01:36:39Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "LearningOutcomeItem - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTl80UU5aV2lUbUxBSnpaVWJBLUNtUlNGc1hKSTRSSi1NTENva3MtSTFwT1VWb3I5YnZfMjdVRVlGRGxrYTVUY055Uy0ybE5ybDdKMWU2M3FKTllLYzQwNzhoenJwMVhwWVhSdUk3QzhRWmN4MXlTZmdFUUNOZ2dqc0lTd1hYSWcwMDRQUU5Md2c2ZnlnaklKQ2FFSDRMUXU4MF9wQ2FFS0dPUWVXbUJIMFk4TFc4RUJCVUE?oc=5",
-      "summary": "LearningOutcomeItem Salesforce Developers",
-      "published_at": "2026-11-07T00:38:24Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "LearningRule - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGJZel9GMGVCU0Vqd0dzUnNxcUhNUjNHbUtSUXFIMWc4RTEzYXhOVkJ6X01TZ2Q5ZUlrdllLcFZKcnJQa1c0RUExSkJ6VUUzdFFyTlFEUl9VdF9mWjQxVlhDTjk4TDcxOXVWYktjZU9fQ20wdGp3bFMyTkFNQzFVY3QzRGlJV044SEhrb0xEaEJUMHBtSUw3YThrX2dWa1hSRGY2Q2FOVFkwUU85ZlVkUg?oc=5",
-      "summary": "LearningRule Salesforce Developers",
-      "published_at": "2026-11-07T00:32:39Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
       "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
@@ -840,6 +768,30 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
+      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
+      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
+      "published_at": "2026-11-05T16:00:55Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
+      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
+      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
+      "published_at": "2026-11-04T16:00:34Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -864,6 +816,54 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Protect Your Salesforce Commerce API (SCAPI) from Bots and AI Agents with eCDN",
+      "url": "https://developer.salesforce.com/blogs/2026/11/protect-your-salesforce-commerce-api-scapi-from-bots-and-ai-agents-with-ecdn",
+      "summary": "Learn how to secure your Salesforce Commerce API (SCAPI) with B2C Commerce eCDN. Explore how to restrict API access to trusted integrations, strengthen SLAS security, and manage AI crawler and shopping agent tr…",
+      "published_at": "2026-11-03T16:00:54Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029112113/Generic-D-8-e1793298086874.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "BusinessLicense - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcksxYjdFYm1QNnpmeWs1NHZnOFpjQUhBdDJzMktyUDJYbWNDVHE2YS1VUkxlXzlNT1dTTU9zc01BMXdJN3FOYzFpeG9Jc0xfUmdOc0dseFlmaHRkX0NwaUZudklCVG1kcTd1S2RtZVFobWNQOGh2NTh2MDFXOWdJSzFpa2MzX3lpTkxSbTl5ckMxa0VQeERZSFVLd05KaGlOcFhzQVE2dDhsaElt?oc=5",
+      "summary": "BusinessLicense Salesforce Developers",
+      "published_at": "2026-10-30T13:19:29Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "LearningProgram - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
+      "summary": "LearningProgram Salesforce Developers",
+      "published_at": "2026-10-30T13:16:22Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "ApplicationForm - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb0JaVUdNN3BZbVRmNU00NFY1OHNVQmlwOWJaZXhSUE5SMjE2ZWxPREstXzZIR3hTT3pKdDI3RTU2ZzdQdWdrZVBoU19WM1hyblRfcXpNWUVJNTNGMW1ZTnh3SGFaeDBtYUhVVFJpb2JhNHVFU3QwaTlFMHJRam1FLUdQelYyUjBsOHl4OTU2aGVmczFMU05JUUFtbHNtUUNaSXVONmpnZUg1OHZi?oc=5",
+      "summary": "ApplicationForm Salesforce Developers",
+      "published_at": "2026-10-30T11:23:20Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     }
   ],
   "sources_ok": [
@@ -872,7 +872,6 @@
     "AI",
     "Zoom",
     "Tech",
-    "Business Analysis",
     "Business Analysis",
     "Business Analysis",
     "Salesforce",
