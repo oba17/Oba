@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-11-20T21:15:10Z",
+  "updated_at": "2026-11-21T02:31:44Z",
   "articles": [
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+      "published_at": "2026-11-20T22:28:24Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/240305582a143d0d.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "published_at": "2026-11-20T22:16:51Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8a47fdb57855253f.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Google rolls out new search homepage with AI chat history and no search button - Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "summary": "Google rolls out new search homepage with AI chat history and no search button Ars Technica",
+      "published_at": "2026-11-20T21:58:29Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f3c2cc99d50d7203.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "published_at": "2026-11-20T21:47:10Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a7006ac6a49ae8fe.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. - Ars Technica",
       "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "summary": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. Ars Technica",
       "published_at": "2026-11-20T20:59:08Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
       "video_url": "",
@@ -16,9 +64,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Watching as a giant star swallowed its neighbor and exploded",
+      "title": "Watching as a giant star swallowed its neighbor and exploded - Ars Technica",
       "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "summary": "A recent brightening turned out to be from a star orbiting inside another.",
+      "summary": "Watching as a giant star swallowed its neighbor and exploded Ars Technica",
       "published_at": "2026-11-20T20:41:17Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
       "video_url": "",
@@ -52,9 +100,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too. - Ars Technica",
       "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
-      "summary": "CTIA said jamming test showed \"interference... up to two and a half miles away.\"",
+      "summary": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too. Ars Technica",
       "published_at": "2026-11-20T19:52:59Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/prison-barbed-wire-1152x648-1767732268.jpg",
       "video_url": "",
@@ -76,9 +124,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger - Ars Technica",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
       "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "summary": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger Ars Technica",
+      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
       "published_at": "2026-11-20T19:21:50Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
       "video_url": "",
@@ -146,54 +194,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3888a050ada12c10.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone - Ars Technica",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-      "summary": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone Ars Technica",
-      "published_at": "2026-11-20T13:35:45Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e2e4bfead8571e44.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "summary": "Gambling? We're just swapping contracts!",
-      "published_at": "2026-11-20T12:30:29Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/5c932f099527cfed.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Science has a home here at Ars—please help keep it that way - Ars Technica",
-      "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
-      "summary": "Science has a home here at Ars—please help keep it that way Ars Technica",
-      "published_at": "2026-11-20T12:15:36Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-petri-dish-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/6f989f6cfc4aeb32.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Trump admin still won’t let Wi-Fi giant TP-Link sell its latest routers in US - Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/",
-      "summary": "Trump admin still won’t let Wi-Fi giant TP-Link sell its latest routers in US Ars Technica",
-      "published_at": "2026-11-20T12:00:43Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/tp-link-wi-fi-8-1152x648-1795123696.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c75655a132c4f2d4.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "GPT-Live-1.1 has arrived in the API - OpenAI Developer Community",
@@ -240,6 +240,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "PostgreSQL 19 on Azure: Day-One Preview, MVU & Extensions - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR3ZJUGczdmljSTJKYzY3TURFNmRQaVdwX3hBRjJ1WWc0QWh0a2hXbElBeGhNTC0wR1EycEN5d1g1QTJnVnVZSW91WHEzS3EyMGJ1LXhQQ3o5dUhPeVFvb0VpZjVpQ0RUbkJRS2VaOGFRbGUyREdJLXU1ZzNvbWhpQWFJbFdwUEVMN3J2V3BuSmxCcVloUC1WYlVtWkt3dnRrOXVhTTV3b3dWYUI1Qm1lX1M1WFVjNnVjSWkxTEhmX0plQWI1bGViXw?oc=5",
+      "summary": "PostgreSQL 19 on Azure: Day-One Preview, MVU & Extensions Microsoft Community Hub",
+      "published_at": "2026-11-19T22:52:50Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -326,6 +338,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/541e6255fb68b4d7.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is first contact resolution? - Zoom",
+      "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
+      "summary": "What is first contact resolution? Zoom",
+      "published_at": "2026-11-19T14:58:49Z",
+      "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What's new with Microsoft Perception at Ignite 2026 - Microsoft Community Hub",
@@ -348,18 +372,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/557a2c8374c705a9.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "What is first contact resolution?",
-      "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
-      "summary": "Discover how first contact resolution (FCR) impacts customer satisfaction, the formula to calculate it, and strategies to boost resolution rates.",
-      "published_at": "2026-11-19T14:32:37Z",
-      "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
     },
     {
       "category": "Zoom",
@@ -532,6 +544,18 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s new in Azure SRE Agent at Microsoft Ignite 2026 - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWY1S0dJTFNuUmk3OXUtVGk3ejBneUI5bm92REg2YjE3SjZfRHh5RVdYa3hKeWk2NjJYWUpvTDdYUEZTcHU0UV9VdXRBNTlSTEV5emFLd0lvVXV6LUlSNElmUDlVMUhsMmRXWGl0UFRKbEs4b1pkQTdQWjcydk8yRkdFNHFDZ2ZrUW1sVEYwZHczWmFLZHREZnd2dG4wNWRKUTJjVWkwNXBLR25CY2pDeGgzZjZtZWMxMVZkVXRGbllXT1NNZmc?oc=5",
+      "summary": "What’s new in Azure SRE Agent at Microsoft Ignite 2026 Microsoft Community Hub",
+      "published_at": "2026-11-17T21:49:29Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
       "title": "Announcing SQL Server Management Studio 22.12.1 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGVSY2NERjF1QjdTdTJ6dl9qQm1FbkRNUmdnT29CSGNhY19PTWNScWRyWERtTkVnY2pEUXVwWk9UalZvc0FmOTNtYm14ak9aSmU0VlkwZEZiY3I1VmhkSlJyS2xQUWxtUHREblAwTWsyTF9BZkNUcGl6eVZFZllmTTRuNEVIaklUT2ZIY01UYU1zVXYwcHhGZmRrQUdSVnFFN01JT0haYy1zZw?oc=5",
       "summary": "Announcing SQL Server Management Studio 22.12.1 Microsoft Community Hub",
@@ -548,30 +572,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
       "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
       "published_at": "2026-11-17T21:12:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Manage Windows Servers alongside PCs with Microsoft Intune - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFl1S2hlUG5JaEdqNFFxZ2lfRjVDa0lFbl9uQVNmWlhRN2tlemlpNjd4Q0JMUklKem52ZlN6T2xpUUUzSjZzaExkUVY0WmhOemxabDVoVWxrdFllTTNZR0N1dEpqNFBBM3JqbU1udUh0aXNocXZwQ3p3ZkxHTWUzY0U1ZXRpbk1wN2NXZ1BVdUtvWFJoYWVMRjg1YXNfejNiZklha3NhWGZJbWVsR3JKZ3otNmkxSkwwdHVOSV9sZmhRWDhNUGdtTQ?oc=5",
-      "summary": "Manage Windows Servers alongside PCs with Microsoft Intune Microsoft Community Hub",
-      "published_at": "2026-11-17T21:07:37Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Copilot Managed Runtime is now generally available, with additional new preview features - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdHNzZ1N1TEs2M2VMbjB3YzZnaklNZW9LcDlhM05zS0kxLWhDRHJnSFNIYW9DTnZrZldnUllUNmxUMEF5WHZmb1pmb3BfS3Q0UC1HMW9tMkFCOHBEOFhNaERTUVBNbW9NY0c2aFBGSENMUEpzUldpVjJvSzJwM29WNnFqdlV6LThEdEgwVG83eHVTVVBjZGdrOVU5Q0JkSWYzcm5PVDVZeDNCQTlzY0pzb094aDRCRXV4Q1dlNTlKZmFjWHdaOEt1anN1WTJxRUlpZ052UEZsUnFwTXcwSXE1dTNoOHZmMXJGWGFBMGpjdw?oc=5",
-      "summary": "Copilot Managed Runtime is now generally available, with additional new preview features Microsoft Community Hub",
-      "published_at": "2026-11-17T20:58:44Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -603,6 +603,18 @@
     },
     {
       "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "More on \"Insights & Trends\" - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxORnBNdEZ6RzhkRlBVcHRzMk53NkhxZlBSZTVXbmkzRGVDMWprcDF0aWljNFpXZzhDV1dEUk5QRmxBOVQ0dUdWSy04UXI4ZHlkZnJhUnpfU3dfU2s4eDExX0I4Nnd6eml0MHc2NGpIY3NPWUl2WmNwdU9RSzhCV0FDNjMtcTd1SndvTFlUd2F3Rm4wQjdmSi1YUC1rSFd3WlRaWTl5cEV0Nkh1OGdTTF9nZy1QSE1oank2aENKRlhLSlltNW9DZWxzT05qNU8wS1hDdFZ0Q2NrNGZrU1VpdXAzVFZEM3pMU29ZZ1U5NFVMOUZvRjRxWUdCUC1UQTJhQl9ZX0tobGhSdVJ2eURGTjJ0TXNPeXplbVNSRjgwUkZEd1lWMERId2hYTTdUamtORUdiYWxjT2RxVlY0eWgxTFVCdFdrbWh1V2FFdzZra0VMSQ?oc=5",
+      "summary": "More on \"Insights & Trends\" Zoom",
+      "published_at": "2026-11-17T03:54:24Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a marketing campaign? A plain-English guide",
       "url": "https://www.zoom.com/en/blog/what-is-a-marketing-campaign-a-plain-english-guide/",
@@ -624,18 +636,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c8e3ac0343e9a8ea.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "Customer onboarding: a 6-step guide",
-      "url": "https://www.zoom.com/en/blog/customer-onboarding-a-6-step-guide/",
-      "summary": "Build a customer onboarding process that moves new customers to value with clear milestones, practical training, and timely follow-up.",
-      "published_at": "2026-11-16T19:40:00Z",
-      "image_url": "https://media.zoom.com/images/assets/getty+onboarding/Zz1kOTk0NGJjMGUxZWMxMWYxOTc2Yzc2OGM2NWQ4NzUzMA==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/f34e1fbbf930c14f.jpg"
     },
     {
       "category": "Business Analysis",
