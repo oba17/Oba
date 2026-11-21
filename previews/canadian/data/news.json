@@ -1,29 +1,53 @@
 {
-  "updated_at": "2026-11-21T11:18:43Z",
+  "updated_at": "2026-11-21T19:25:07Z",
   "articles": [
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What’s New in Microsoft Intune at Microsoft Ignite - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
+      "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
+      "published_at": "2026-11-21T16:34:30Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "published_at": "2026-11-21T12:01:13Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/14081cbeee58d0a1.jpg"
+    },
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "CX Gartner VOC Reprint - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmVRTmh5d3VhN0hNLV9KV2dQSnhMU3FldUlxdmZxT0Y4MWV4VDVSTkNzTFFnTnRfUkZMazFKUW9DVmhqYXF2SlFMT2g3Ukk1R18zN3pHM0VZWnJKVWpKbFFsZ2dzMkgyem1YUTJqd200bzZFWFRiR29vYTBJX0VLOUM3QWRVb2FNMnRtR2htaGhpd05UbU1Zdm1heF95U19LaGJLUGRvTzNTTXpDVW1MNUFtcw?oc=5",
-      "summary": "CX Gartner VOC Reprint Zoom",
-      "published_at": "2026-11-21T09:02:57Z",
+      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbVZ0aUk1Q0VQT0ZzRTBHMFl0TDRJb1pGMVVsVTJFM0JzeC02WWNQcjlEVlkwb3RxRjBLSGg2RWgweFZSRzlLS2xzR0VOQ1pqX0R2czFrNFR4VVp5NmxNTFBPV2xCRTdwQVYwemx1Ty1Vcm5QdzUySmVqY1U5cy1XNVE4TzdWTHFzZEYzSnIxa2h3STVMR24wMzBaT1BlT1B4VVFqc0xKSDBkLURXMUhQaEh0UkRTT2dfVGdTcTNhQXVZUQ?oc=5",
+      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
+      "published_at": "2026-11-21T09:26:51Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Getting Help from Zoom Support | Contact Us - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMUhMcktzVkFMcHV5bE5BTldfSjVtb0VlNGZuT1RvM0pYbmgyOEU0NE9WNW8wSXN0dmNEem50UUVES05qb0xjQmI1NkNJMVpKeUs5eC1uUTk5ek4wZ2xzTE5UTnpnNDU3dmxjMDRXcG84TDVGX3cxVUJQWHBVcE11YmpKNE1pQjNnUTQ1ZXREZUdxZGhYRkc2U0VpbC12a3JGQjJfa204VzNJcjJ4RGRjZ2lWSTJRQ0hBU2NBOEdPZkI0TkhOeUJj?oc=5",
-      "summary": "Getting Help from Zoom Support | Contact Us Zoom",
-      "published_at": "2026-11-21T09:02:52Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Using the new experience in the ChatGPT mobile app - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+      "summary": "Using the new experience in the ChatGPT mobile app OpenAI Help Center",
+      "published_at": "2026-11-21T01:30:46Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Tech",
@@ -40,9 +64,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "title": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business - Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "summary": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business Ars Technica",
       "published_at": "2026-11-20T22:16:51Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
       "video_url": "",
@@ -160,9 +184,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger - Ars Technica",
       "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "summary": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger Ars Technica",
       "published_at": "2026-11-20T19:21:50Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
       "video_url": "",
@@ -194,6 +218,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Introducing Autopilot, your personal and proactive agent - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWdWV0lmNUVQN1FfRDhLSzBQTFRYckc3ZDBQMjhQcGVZRzNMems4ME83Q3hFeUs5TjY0QzlZMEdxMVpMU0o5THZKREdCUVF1X0JYWkVkN1FJRGQ4LTJBM1pGSlJreXE2dDNpd0E1SUE5RXFUdkRzcXpxQW1MeE1KZjcwbWVoOEhpYm5EVGdvQzJ5Z2tva2I0OWpZTjRCNzZVR21EMFVEVmFFMEZHdkd3N3FROGxROWZrdnpDNGhoMTJxRVAwcWc?oc=5",
+      "summary": "Introducing Autopilot, your personal and proactive agent Microsoft Community Hub",
+      "published_at": "2026-11-20T17:04:38Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Zoom",
       "source": "Zoom Blog",
       "title": "How multi-location businesses scale AI virtual agents with one central team",
@@ -208,9 +244,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines - Ars Technica",
       "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "summary": "Valve says it might have to raise the price of supply-limited Steam Machines Ars Technica",
       "published_at": "2026-11-20T16:11:21Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
       "video_url": "",
@@ -220,26 +256,14 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "US will soon announce root cause behind FAA nationwide ground stop - Ars Technica",
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
       "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "summary": "US will soon announce root cause behind FAA nationwide ground stop Ars Technica",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
       "published_at": "2026-11-20T14:52:51Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/9692ebd0be050543.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
-      "published_at": "2026-11-20T14:15:21Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/3888a050ada12c10.jpg"
     },
     {
       "category": "AI",
@@ -260,18 +284,6 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTjZuejdLMjY0cEVldjdQaktobUU1V0hIVDgtX0tCbklXdGRObG8xcWpPX0lSMWhyNzJLUlpnMFQ5WS14T0NvbXYxb1VhM3ZuRlQ2UUlCSHhSX3RtSFNhbjFxdjZCQ0F0eW9ybldDMDRyWENGY0ZTa2pydlVBckNOVDhrYzhfNms0dEdoVk1kLW9zY19NTy1lRmpPa2JyUV9FdXVF?oc=5",
       "summary": "Software Security Architect, Operating Systems | Consumer Devices OpenAI",
       "published_at": "2026-11-19T23:55:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Deploying Daybreak Red - OpenAI",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "summary": "Deploying Daybreak Red OpenAI",
-      "published_at": "2026-11-19T23:52:49Z",
       "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -554,16 +566,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft Entra news announcements from Microsoft Ignite November 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVGgxRnpKd2Y4LWhTOEQweVVyM0ZsR3pWYU1hcEVEbXI1QlZQRVNQX0NrUW9XdDhfbFNJSnMyNC10cElrLXNFM2VnN1owRnNXUlFwS004U01EaDNyZzM1Q0JrdU9OUlpCNVN4bnVHWUZFdDd4WU5pU3ZJcmJWZFBYN3RWZG1FTzd0YmVod1dSajV3QU9veHhVRXBRX0dVVWU1TVljb09MN3pDa0lkR1hDb0RKQWdWY19rWERabnloSTBocThlNFFVWVRaVU9aYngxdW93?oc=5",
-      "summary": "Microsoft Entra news announcements from Microsoft Ignite November 2026 Microsoft Community Hub",
-      "published_at": "2026-11-18T06:56:53Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWTE2MXQ1ZktkSjVKZXZNeVBzNFhIVjExd1lIQXBQR1Q0SHlwYUpMRTV1MkdCNXdteDVEX0c1UVZNR2NKMkU2S3YtazlnYUVxam9uYXpvc2d4Smtwbm02a3pjeDRQWkFnX3E0bmxtblpmT05BeEdSUE16bGhlOF9lek5BSVFoWXc3bG5ITzdyNm1IU3JpWjN3LWNvSTFLdHZseUZzTlVlOHduVnk4QXNtUzI2Sm1hSG5OSzk3Y3NHeTgzTHh6VWUwSWhRSk42WGRybXZoRFduTHNtWjZKUFAzcEFfU1pjTWN1TS1KaWg3Szhjek5DUmtiU2RDTG9mR2dx?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-18T07:27:45Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Business Analysis",
@@ -596,18 +608,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGVSY2NERjF1QjdTdTJ6dl9qQm1FbkRNUmdnT29CSGNhY19PTWNScWRyWERtTkVnY2pEUXVwWk9UalZvc0FmOTNtYm14ak9aSmU0VlkwZEZiY3I1VmhkSlJyS2xQUWxtUHREblAwTWsyTF9BZkNUcGl6eVZFZllmTTRuNEVIaklUT2ZIY01UYU1zVXYwcHhGZmRrQUdSVnFFN01JT0haYy1zZw?oc=5",
       "summary": "Announcing SQL Server Management Studio 22.12.1 Microsoft Community Hub",
       "published_at": "2026-11-17T21:26:59Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Intune at Microsoft Ignite - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
-      "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
-      "published_at": "2026-11-17T21:12:09Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -746,18 +746,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Mohammed Dhafir Alqarni's Credentials wallet • International Institute of Business Analysis™ | IIBA® - Emeritus",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KUjI0aEVPNUpaZE5OZ2g5LUtmOTdPdmw5RnRJMmgtSm9uRUUtNmRlX2JGRnF1cTRPdkI1U1BOT0pZTXFZdmVXUmtNWURkZVFMMDI4dWdkZE1mc0RQTmtVNmp6Xzg5Snd3djRwYWNTQnJTb3It?oc=5",
-      "summary": "Mohammed Dhafir Alqarni's Credentials wallet • International Institute of Business Analysis™ | IIBA® Emeritus",
-      "published_at": "2026-11-09T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Quick Pages (Beta) を Developer Edition で試す : 有効化からページの作成まで",
@@ -782,18 +770,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Three Perspectives From BA Digest Q4 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
-      "summary": "Three Perspectives From BA Digest Q4 IIBA",
-      "published_at": "2026-11-05T21:30:33Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
@@ -804,6 +780,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Three Perspectives From BA Digest Q4 - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
+      "summary": "Three Perspectives From BA Digest Q4 IIBA",
+      "published_at": "2026-11-05T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -840,6 +828,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "The Requirement No One Asked For - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
+      "summary": "The Requirement No One Asked For IIBA",
+      "published_at": "2026-11-03T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
