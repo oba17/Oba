@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:25:07Z",
+  "updated_at": "2026-11-22T00:23:44Z",
   "articles": [
     {
       "category": "Microsoft",
@@ -7,11 +7,35 @@
       "title": "What’s New in Microsoft Intune at Microsoft Ignite - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
       "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
-      "published_at": "2026-11-21T16:34:30Z",
+      "published_at": "2026-11-21T22:44:09Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "published_at": "2026-11-21T22:12:41Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/godzillaTOP-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/4f3c5c772cc611d2.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Google News · arstechnica.com",
+      "title": "Review: Godzilla Minus Zero is everything we could want in a sequel - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1dCcGIwTGZUSUpkVXlOYjc5ZXRGa0lWT2JMRVpsUlhpLVNhZ2xlQ1RTVVlfd1lSMmluMnBXVmZTV3g3eWdMb1BpWklaSzVFdVRQc3Zfd1UxNGFocXBoeDNUVHpXSG1TRWRERXFZTGN6cFF0T2daS1lSRkhlQmZBcl9lMkVHX1hTMWxaOF9fdTVVb1hfaFdKWUdvdWROV25ib0xzRlRCRWFkSVk?oc=5",
+      "summary": "Review: Godzilla Minus Zero is everything we could want in a sequel Ars Technica",
+      "published_at": "2026-11-21T22:12:41Z",
+      "image_url": "https://arstechnica.com/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
     },
     {
       "category": "Tech",
@@ -64,9 +88,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business - Ars Technica",
+      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
       "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "summary": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business Ars Technica",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
       "published_at": "2026-11-20T22:16:51Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
       "video_url": "",
@@ -88,9 +112,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers - Ars Technica",
       "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "summary": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers Ars Technica",
       "published_at": "2026-11-20T21:47:10Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg",
       "video_url": "",
@@ -184,9 +208,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger - Ars Technica",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
       "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "summary": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger Ars Technica",
+      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
       "published_at": "2026-11-20T19:21:50Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
       "video_url": "",
@@ -242,28 +266,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines - Ars Technica",
-      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "summary": "Valve says it might have to raise the price of supply-limited Steam Machines Ars Technica",
-      "published_at": "2026-11-20T16:11:21Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Time awareness and async input for personal agents - OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0VNWnFnbENzSHJLc3l2Z2xuQXhqQktUX09OVnAtNFBUOE9KR0FXb015a3M3OEY5UDAtS2JDTWZVTWdIOE0wOHF0SmJtYUhHNVBXWHZHWmxkZjFqeU1CbDhnVjlETjFXdG9qSXdDVFdoZEkwNG1TYXF0RXV4WmlUcDVvbmVxQVZtTWJJUWVB?oc=5",
+      "summary": "Time awareness and async input for personal agents OpenAI Developers",
+      "published_at": "2026-11-20T16:08:34Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/f70d698805799e2a.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-      "published_at": "2026-11-20T14:52:51Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/9692ebd0be050543.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "AI",
@@ -276,18 +288,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6386e0a7d6b64daa.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Software Security Architect, Operating Systems | Consumer Devices - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTjZuejdLMjY0cEVldjdQaktobUU1V0hIVDgtX0tCbklXdGRObG8xcWpPX0lSMWhyNzJLUlpnMFQ5WS14T0NvbXYxb1VhM3ZuRlQ2UUlCSHhSX3RtSFNhbjFxdjZCQ0F0eW9ybldDMDRyWENGY0ZTa2pydlVBckNOVDhrYzhfNms0dEdoVk1kLW9zY19NTy1lRmpPa2JyUV9FdXVF?oc=5",
-      "summary": "Software Security Architect, Operating Systems | Consumer Devices OpenAI",
-      "published_at": "2026-11-19T23:55:02Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
       "category": "Microsoft",
@@ -312,30 +312,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "GPT-Live-1.1 Model - OpenAI Developers",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZUZERmNVVURmNUlydjVlNWdZTlY5cjRNQnB0bWxycF94MWN0OWtxOTRDX3ZILWFFVEhqWkM3ZENTUXJnQlJPaVRJczBPXzhNOGlvRFM1Um5tSF9QV211dEJwcEZIclp0RWc?oc=5",
-      "summary": "GPT-Live-1.1 Model OpenAI Developers",
-      "published_at": "2026-11-19T20:08:14Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=openai.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Announcing the Inside the Game Developer Hackathon winners - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDE5TkRLQV9ERFY3SGFVam5NZENtRFlHbjZMeDI5eEhEZmRVVS1xU0g1TXN1VFlrR0FTNG9iU1EzX29FRHBGMXc4VC15YmNET0stV3RVSEFJaFRXX19IVVVucG10VmROVk5wRTBfVEJ0blR3TGNSbkFvU1BXZVBkaV9rTW9qSWhFY0d3dGJMTTI1Ty1MZDJwTk01UWgxQmtsM0dMbEpvZ183QWJxc3lWeFFvb29saEpNWmJNeA?oc=5",
-      "summary": "Announcing the Inside the Game Developer Hackathon winners Microsoft Community Hub",
-      "published_at": "2026-11-19T20:00:41Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "AI",
@@ -506,6 +482,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
+      "category": "AI",
+      "source": "OpenAI News",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "published_at": "2026-11-19T00:00:00Z",
+      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/2a367520a0f392b6.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Microsoft Tech Community",
       "title": "What's new in Work IQ at Ignite 2026: agents that get work done",
@@ -516,18 +504,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a62869b7a7fd43c0.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Intune’s journey to faster device management - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYlMwOWlBc2dRcnFQS05xQ2lGZGFmaEFrV19EUVFoci0xcGdBWTUzcXF0Vk5VUFNqWU1HRTZMYTBrY1BhZDB6OW1PdjFBTlVvQXNtLTk1UGJSS052Rzl3cjBLZ05faXN4Y3BrRHVfX0hDd3A5TXdUUC1TRFJGWk1vcGp4WUEtZzVOS21IX3dtai1SNXBRVEpLQngxZEQ1Q2lBc1FPdFBMb1VfYkNkVEVEdmtCMUtZcjIzVTRybl9B?oc=5",
-      "summary": "Intune’s journey to faster device management Microsoft Community Hub",
-      "published_at": "2026-11-18T21:30:41Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -614,6 +590,30 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Azure Linux 4 is generally available - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1g0cUowcFkyNlFhUmR5TUw2QUUyWU9uQ2I2ZlNDdlpJd1FqRF9qOHE0NHhzMHRWR2w1ZVZDVnF0T0JHVmtpV3M2RDdEOUZ4b2N2ZTRnYTFHT2FqZ1ExdDNMY3NlQlZIbEFuUmhVYjFLTDBlZHYtd0RBZ0FmWFlFR0Q0d2h3RjFsam9UMDU5VkhwWWJWVzdnY3NrZWdiU3hsQ09FQk50ZUtQVnUy?oc=5",
+      "summary": "Azure Linux 4 is generally available Microsoft Community Hub",
+      "published_at": "2026-11-17T21:08:58Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Manage Windows Servers alongside PCs with Microsoft Intune - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFl1S2hlUG5JaEdqNFFxZ2lfRjVDa0lFbl9uQVNmWlhRN2tlemlpNjd4Q0JMUklKem52ZlN6T2xpUUUzSjZzaExkUVY0WmhOemxabDVoVWxrdFllTTNZR0N1dEpqNFBBM3JqbU1udUh0aXNocXZwQ3p3ZkxHTWUzY0U1ZXRpbk1wN2NXZ1BVdUtvWFJoYWVMRjg1YXNfejNiZklha3NhWGZJbWVsR3JKZ3otNmkxSkwwdHVOSV9sZmhRWDhNUGdtTQ?oc=5",
+      "summary": "Manage Windows Servers alongside PCs with Microsoft Intune Microsoft Community Hub",
+      "published_at": "2026-11-17T21:07:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server",
@@ -674,18 +674,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/71444f54a83fd1c7.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
-      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
-      "published_at": "2026-11-11T20:09:39Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Agentforce Metadata Types in Winter ’27: Dive into AiAgentDefinition",
@@ -696,6 +684,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
+      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
+      "published_at": "2026-11-11T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
