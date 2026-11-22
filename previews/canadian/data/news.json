@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-11-22T00:23:44Z",
+  "updated_at": "2026-11-22T08:04:54Z",
   "articles": [
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s New in Microsoft Intune at Microsoft Ignite - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
-      "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
-      "published_at": "2026-11-21T22:44:09Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -26,16 +14,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/4f3c5c772cc611d2.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Google News · arstechnica.com",
-      "title": "Review: Godzilla Minus Zero is everything we could want in a sequel - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV1dCcGIwTGZUSUpkVXlOYjc5ZXRGa0lWT2JMRVpsUlhpLVNhZ2xlQ1RTVVlfd1lSMmluMnBXVmZTV3g3eWdMb1BpWklaSzVFdVRQc3Zfd1UxNGFocXBoeDNUVHpXSG1TRWRERXFZTGN6cFF0T2daS1lSRkhlQmZBcl9lMkVHX1hTMWxaOF9fdTVVb1hfaFdKWUdvdWROV25ib0xzRlRCRWFkSVk?oc=5",
-      "summary": "Review: Godzilla Minus Zero is everything we could want in a sequel Ars Technica",
-      "published_at": "2026-11-21T22:12:41Z",
-      "image_url": "https://arstechnica.com/favicon.ico",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Community - Zoom Community",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcXRkTjR2TmNTUFptRTZid1RqY3FzVUJ0cmVIdDJpTnNfd0lfWHllT3NtSWVabHFFQ0o1MEY3NEFiQzdCUUp4WUxEZUNzVE50YVlmek9TOThtS1dfYldwVWp6WnBsYmtoOWgtLUhyT290UzNwUFRZU2poSHJwaHFmN3lyeEo4cW9yRmRrVkNMMWExUTZYd0dDeUNiQ2FQbnRRa01PeGx3?oc=5",
+      "summary": "Community Zoom Community",
+      "published_at": "2026-11-21T22:03:49Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Using the new experience in the ChatGPT mobile app - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
+      "summary": "Using the new experience in the ChatGPT mobile app OpenAI Help Center",
+      "published_at": "2026-11-21T22:01:17Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Tech",
@@ -62,16 +62,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Using the new experience in the ChatGPT mobile app - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3B3NDU4RTRjc0ZYNFFqNTAtVnA5VlExQ1BGWWhKUFk2eWt5QmVpMXYxNTktNXBabGc1UTd4WnlKMFMtSWpramp3enV4N3ltby1LclZtZnZuTm1RZUJmcnc0RS1BeUtZOEk4TXZ0dlRPNElWQzd6bUQtaDItal9HU0FiSVVmYXNKcDBCRzVGQnVLREtCelkxQnUwaw?oc=5",
-      "summary": "Using the new experience in the ChatGPT mobile app OpenAI Help Center",
-      "published_at": "2026-11-21T01:30:46Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1FsOVdndWxJeFFBTnpnMkNpWElrajRYcFZDRjFhRTBKelRMaVZJaTdHWDNTbXE1MGZtZTBiXy1VcWVzQUVuMzBSazc5US1pbUdZaHhVa1dVaV9tSjNGZ3hVbWQySlBqZnp3U00zY1FMVUZxdEpkbWZ5LWNRYXktTEhLRjBKV0NZdTV0Mi1XaDYxaXVjelFRUWtWZGM3TC1FTjlrc3pzZEdJOVhtV19HY25YdzFhZnh0?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-21T02:06:34Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Tech",
@@ -88,9 +88,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
+      "title": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business - Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
+      "summary": "SpaceX’s Starshield troubles in Ukraine could threaten its broader military business Ars Technica",
       "published_at": "2026-11-20T22:16:51Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
       "video_url": "",
@@ -208,9 +208,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger - Ars Technica",
       "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "summary": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger Ars Technica",
       "published_at": "2026-11-20T19:21:50Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751-1024x648.jpg",
       "video_url": "",
@@ -228,18 +228,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/459dc5c3bd8aa691.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Community - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFdkVXItUzNBUEJzWXhCeVpnbkRKT0JTcm9RMndxNDJYb2lsTlNvTlBWWHhnS1hRbEVERjdvTTY2NnVMQXlxVlVYRnZzb0JmOGZUc0ZybHdEdWZLWXgtTzFNaHVwSnpmeDZLUkItWVdmRk5vTlFhWVpVck9DUDdLREhSUC1HYVo2dEl2TURqaTA1c0pKa3lDRXZzeHIzbnFFYlRmOWVR?oc=5",
-      "summary": "Community Zoom Community",
-      "published_at": "2026-11-20T17:59:29Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -264,6 +252,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines - Ars Technica",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "summary": "Valve says it might have to raise the price of supply-limited Steam Machines Ars Technica",
+      "published_at": "2026-11-20T16:11:21Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f70d698805799e2a.jpg"
     },
     {
       "category": "AI",
@@ -312,6 +312,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "GPT-Live-1.1 Model - OpenAI Developers",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mZUZERmNVVURmNUlydjVlNWdZTlY5cjRNQnB0bWxycF94MWN0OWtxOTRDX3ZILWFFVEhqWkM3ZENTUXJnQlJPaVRJczBPXzhNOGlvRFM1Um5tSF9QV211dEJwcEZIclp0RWc?oc=5",
+      "summary": "GPT-Live-1.1 Model OpenAI Developers",
+      "published_at": "2026-11-19T20:08:14Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "AI",
@@ -482,18 +494,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e5460982b9e61766.jpg"
     },
     {
-      "category": "AI",
-      "source": "OpenAI News",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "published_at": "2026-11-19T00:00:00Z",
-      "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3oYqbsFOI2UIoDU3S2uqWu/0611437db2ca3c09777cb5ef36c2a812/deploying-daybreak-red-social.png?w=1600&h=900&fit=fill",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/2a367520a0f392b6.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Microsoft Tech Community",
       "title": "What's new in Work IQ at Ignite 2026: agents that get work done",
@@ -542,18 +542,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWTE2MXQ1ZktkSjVKZXZNeVBzNFhIVjExd1lIQXBQR1Q0SHlwYUpMRTV1MkdCNXdteDVEX0c1UVZNR2NKMkU2S3YtazlnYUVxam9uYXpvc2d4Smtwbm02a3pjeDRQWkFnX3E0bmxtblpmT05BeEdSUE16bGhlOF9lek5BSVFoWXc3bG5ITzdyNm1IU3JpWjN3LWNvSTFLdHZseUZzTlVlOHduVnk4QXNtUzI2Sm1hSG5OSzk3Y3NHeTgzTHh6VWUwSWhRSk42WGRybXZoRFduTHNtWjZKUFAzcEFfU1pjTWN1TS1KaWg3Szhjek5DUmtiU2RDTG9mR2dx?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-18T07:27:45Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
@@ -580,10 +568,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Announcing SQL Server Management Studio 22.12.1 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGVSY2NERjF1QjdTdTJ6dl9qQm1FbkRNUmdnT29CSGNhY19PTWNScWRyWERtTkVnY2pEUXVwWk9UalZvc0FmOTNtYm14ak9aSmU0VlkwZEZiY3I1VmhkSlJyS2xQUWxtUHREblAwTWsyTF9BZkNUcGl6eVZFZllmTTRuNEVIaklUT2ZIY01UYU1zVXYwcHhGZmRrQUdSVnFFN01JT0haYy1zZw?oc=5",
-      "summary": "Announcing SQL Server Management Studio 22.12.1 Microsoft Community Hub",
-      "published_at": "2026-11-17T21:26:59Z",
+      "title": "What’s New in Microsoft Intune at Microsoft Ignite - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXNRVmN0Y3dMdnpiWVlzWnY5ZjZoVk8tcFNjVUppelNLQXZSbURESi1Bc0tSVW9nQVpnU3pSbFlub3hadVRwVzlOa3BCLTdla0UtV1lsb3IxY2s1WEV4cTI5aERfMWQ2LXZwZmhGcVJzSW4ySUgwSkhVNHN4SVozZ0U5WS1vY2x3bHNfQWdCWTEzVXFMRWVwOFRqc1lwT1FQY2VDZzdoVzV6d0p1TUVBdzJjRHpzU0xldlYwR2xtYzZwZzM5aFE?oc=5",
+      "summary": "What’s New in Microsoft Intune at Microsoft Ignite Microsoft Community Hub",
+      "published_at": "2026-11-17T21:12:09Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -608,6 +596,18 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWFl1S2hlUG5JaEdqNFFxZ2lfRjVDa0lFbl9uQVNmWlhRN2tlemlpNjd4Q0JMUklKem52ZlN6T2xpUUUzSjZzaExkUVY0WmhOemxabDVoVWxrdFllTTNZR0N1dEpqNFBBM3JqbU1udUh0aXNocXZwQ3p3ZkxHTWUzY0U1ZXRpbk1wN2NXZ1BVdUtvWFJoYWVMRjg1YXNfejNiZklha3NhWGZJbWVsR3JKZ3otNmkxSkwwdHVOSV9sZmhRWDhNUGdtTQ?oc=5",
       "summary": "Manage Windows Servers alongside PCs with Microsoft Intune Microsoft Community Hub",
       "published_at": "2026-11-17T21:07:37Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Copilot Managed Runtime is now generally available, with additional new preview features - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdHNzZ1N1TEs2M2VMbjB3YzZnaklNZW9LcDlhM05zS0kxLWhDRHJnSFNIYW9DTnZrZldnUllUNmxUMEF5WHZmb1pmb3BfS3Q0UC1HMW9tMkFCOHBEOFhNaERTUVBNbW9NY0c2aFBGSENMUEpzUldpVjJvSzJwM29WNnFqdlV6LThEdEgwVG83eHVTVVBjZGdrOVU5Q0JkSWYzcm5PVDVZeDNCQTlzY0pzb094aDRCRXV4Q1dlNTlKZmFjWHdaOEt1anN1WTJxRUlpZ052UEZsUnFwTXcwSXE1dTNoOHZmMXJGWGFBMGpjdw?oc=5",
+      "summary": "Copilot Managed Runtime is now generally available, with additional new preview features Microsoft Community Hub",
+      "published_at": "2026-11-17T20:58:44Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -818,6 +818,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ca51e75ce5614bab.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "The Requirement No One Asked For - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
+      "summary": "The Requirement No One Asked For IIBA",
+      "published_at": "2026-11-03T18:00:54Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Protect Your Salesforce Commerce API (SCAPI) from Bots and AI Agents with eCDN",
@@ -828,18 +840,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6fa3a0a2ba460d97.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "The Requirement No One Asked For - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
-      "summary": "The Requirement No One Asked For IIBA",
-      "published_at": "2026-11-03T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
