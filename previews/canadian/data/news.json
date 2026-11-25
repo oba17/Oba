@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-24T23:04:17Z",
+  "updated_at": "2026-11-25T05:29:18Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "How to apply to OpenWorks and follow up on your application - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "summary": "How to apply to OpenWorks and follow up on your application OpenAI Help Center",
+      "published_at": "2026-11-25T00:52:15Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Stop Taking Orders: What Stakeholder Whispering Teaches Business Analysts - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXZWTDV2Y3I1YThmc2ZCVHRiOFlQNWlwdTJqaGgtYWUxcEdxOXFpa3hsOU13RGhpRUtHNEtFM2NMT1d4M2JDVTNtZXNFVFFwYmtKWEE4LUthNzhRU3BYdTYzUkdweG8wbllJckJ6eTlYQTduNm1rMFFpUEZCQVUtLTRORHhLSjhiTFJPNTR5YnlJV0VqcFJuWVN5S1RxZ193QkxoZTY0eW5qUUVKR3JGWVR5REQ4dEhEenc?oc=5",
+      "summary": "Stop Taking Orders: What Stakeholder Whispering Teaches Business Analysts IIBA",
+      "published_at": "2026-11-24T23:46:50Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "title": "Half of NASA’s aging Mars fleet knocked offline by technical issues - Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "summary": "Half of NASA’s aging Mars fleet knocked offline by technical issues Ars Technica",
       "published_at": "2026-11-24T22:50:11Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
       "video_url": "",
@@ -31,7 +55,7 @@
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities OpenAI",
-      "published_at": "2026-11-24T21:03:41Z",
+      "published_at": "2026-11-24T21:06:37Z",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
       "video_url": "",
       "image_kind": "article",
@@ -40,9 +64,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "What's going on with the Riemann hypothesis? - Ars Technica",
+      "title": "What's going on with the Riemann hypothesis?",
       "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "summary": "What's going on with the Riemann hypothesis? Ars Technica",
+      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
       "published_at": "2026-11-24T20:34:53Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
       "video_url": "",
@@ -60,18 +84,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/53fd637ec7cdd9a3.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Google News · arstechnica.com",
-      "title": "Measles death toll rises to 14 as national case tally nears 6,000 - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2t5S0pNSHRlQzg4QkpTUXJjQW56UXlvSlQ5SjR2aElpTWZvS3VQZ2pwczg2bTNjZlRRN0FQY25uNzFYdjFCYzZOaWZ5c1E3SDJzbFV0WUdKR0tTSE9xMHZTNVY4cktEOHR2dmM3SVVMbFBZMjIyS09RVXhlcHdZRkd0YnhSak1yOTlyMHh5LW9XcVFpVklGcldubkRFT21GVGVEeE9aVQ?oc=5",
-      "summary": "Measles death toll rises to 14 as national case tally nears 6,000 Ars Technica",
-      "published_at": "2026-11-24T20:00:18Z",
-      "image_url": "https://arstechnica.com/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
     },
     {
       "category": "AI",
@@ -136,9 +148,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+      "title": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted - Ars Technica",
       "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "summary": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero.",
+      "summary": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted Ars Technica",
       "published_at": "2026-11-24T17:34:34Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1083228790-1152x648.jpg",
       "video_url": "",
@@ -168,6 +180,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/de7e4a9c791e38f8.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
+      "url": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+      "summary": "\"Without this funding, activities would be delayed.\"",
+      "published_at": "2026-11-24T16:12:46Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/NHQ202604010115orig-1152x648-1793950034.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/55ea19c999b757b1.jpg"
     },
     {
       "category": "Salesforce",
@@ -240,18 +264,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b5aee8f4defd676c.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "How to apply to OpenWorks and follow up on your application - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "summary": "How to apply to OpenWorks and follow up on your application OpenAI Help Center",
-      "published_at": "2026-11-23T23:59:50Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Microsoft",
@@ -360,6 +372,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/7900ce55eeaf2b6f.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSWpkY1ZTSHpCYlFySXVueGc1ZTJ2UGR4eHB5TmFYRGhmeWhnNC12TEJjSWZZeHNhRHdoa000QWFoYUlDbzUxQl94WnBaV1dwaDAwdlFuSVdhWXdub1kydzcxbVdQcGtsWEFsMkV1dUJfRDNlN0paaW0yUEYwWk94LWt1NFp6YmE3aXRBdHZsdk5NQklGXzBQOTJfdGI3YlBUbnZIM1pXVERzVUVyRTQ4U05CN0xndElUbTh2Wnk2NlVQUDdEV3N3M2Qwd0VuS3JkUGMxMklwblEtSnY0RllZ?oc=5",
+      "summary": "Available today: OpenAI's GPT-6.2 Sol and GPT-6.2 Astra in Microsoft Copilot Microsoft Community Hub",
+      "published_at": "2026-11-20T19:17:50Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
@@ -554,18 +578,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft and SAP at Ignite 2026: Connecting SAP customers to AI agents, data, and security - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRVZXdExHenlVN3hzSXNGa0EzNnIxaTFMOWxjdVJnbG5HaFVoMVNwcWFIdGhLbDl4V0F6bk01U1FrUFh0WVNBNmNacy1qYlM0Mmx3UC1NaENPTkVNQTM4a2hXa2hvVDZrbFNNT3dIUHpnOHFmLXFfOFJoUW1kRkQ4OGQxNEFKRlNCSWR6cUdkVzNsZWRrVkxscUdFZE9vTHNDLVZkSmRNb0lqMV8zVW5iaTVTQnhFMVM5UzhhcGdXRTRoa3FuWTNudHlWUXdOOTJhRmtqU2tTVkNQRmVJTkE?oc=5",
-      "summary": "Microsoft and SAP at Ignite 2026: Connecting SAP customers to AI agents, data, and security Microsoft Community Hub",
-      "published_at": "2026-11-18T00:26:24Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
@@ -604,10 +616,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Vulnerability shielding: Protect the time before the patch - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSURscllZZVVpd2NhVWdJUXBUMnpiOU5qR25NTUoxOWVjbTNENUlOQVQwQlpUOUtxZm5YeUN1aUo0Q3NyZGhqU1l4VmdUcWEzMlN4Nm4wMmxHRzJwOXNGbzlwcUVySlBNZm40ZHpxZlRqMnc0RkFIQjI1X3ltaURhZkpiem9IVVlLSlRLMUx2dlVYZGpucm8tUFdPRjZMRkhpcDdZd0RUQUV1ak5kVmVydEt4dEN5cVdheHhEVlAtNUpBcGtQeWdma0V2S01JRzc4OEE?oc=5",
-      "summary": "Vulnerability shielding: Protect the time before the patch Microsoft Community Hub",
-      "published_at": "2026-11-17T19:45:23Z",
+      "title": "Accelerate Zero Trust for AI: Expanded SecOps coverage and new guides to turn insights into action - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQczB1aktpMHJOM2xYRDJnVjJzM0Y2Ql9hdHl4TXh5Q2s5ZnJReXFFVDc0eVhIOUJESmdtMUxrOEI4Yk9OUHl3YTFfenQ4dDQzS2EtT2VwX3NURm1oLVlXem41SU5YaW5JZGR4X3ZzNGxoRVQ5R081WElSOEJiWjN4b2F5dkpPaWVNejVZZVlsYkxNUUIyRlh6ZzhJTF9hSGZmMGU0MU5aSEpkYkpMdVFOWlRFRURDaGh3MUpNYXlkU002M19mVFo3QU5qT004UTJUZV9ZU09IelkwOWstbmJnS0lzdDU3RFh6?oc=5",
+      "summary": "Accelerate Zero Trust for AI: Expanded SecOps coverage and new guides to turn insights into action Microsoft Community Hub",
+      "published_at": "2026-11-17T19:56:09Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -616,10 +628,10 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
-      "title": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjBQUnJQV1k4NHEtRFdNTGRHeFN3Yld6blVxNlhrS1dvbElKSjY0Rm9FMVVnSUpTaVUtdC1GbjVlYmVJVmtHbklBS0VIZW54d3k4V3A3cVMyQ2c2SjhDSnZqaHlublJwbHFPYXJxekNLLU1uRHBBQ21BOVFZZk9zdG9ObDBMeHlkUlRUS3FFekNfSDk1YWJHcDZIWEltdGlxeWdEM2xLXzFXY1V3UllnOHlrclYwYWRCZm1NcU5QZDNqOW1LRlNzNzZaWVFsNnFIa3RCS1F4Z1Y1WWxQ?oc=5",
-      "summary": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value Microsoft Community Hub",
-      "published_at": "2026-11-17T19:28:36Z",
+      "title": "Vulnerability shielding: Protect the time before the patch - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSURscllZZVVpd2NhVWdJUXBUMnpiOU5qR25NTUoxOWVjbTNENUlOQVQwQlpUOUtxZm5YeUN1aUo0Q3NyZGhqU1l4VmdUcWEzMlN4Nm4wMmxHRzJwOXNGbzlwcUVySlBNZm40ZHpxZlRqMnc0RkFIQjI1X3ltaURhZkpiem9IVVlLSlRLMUx2dlVYZGpucm8tUFdPRjZMRkhpcDdZd0RUQUV1ak5kVmVydEt4dEN5cVdheHhEVlAtNUpBcGtQeWdma0V2S01JRzc4OEE?oc=5",
+      "summary": "Vulnerability shielding: Protect the time before the patch Microsoft Community Hub",
+      "published_at": "2026-11-17T19:45:23Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -776,18 +788,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGFCbkd1aEtCMjFpU3RTbl9kMnZkb1R2c0dNX1gxRHdIQ3g2aTVfVGVEMm1nMm9ONkIyRE41alV4ZFVWRXYyZU00OEhNVkpaTDRfYmNKQjNaMklQUlVLcHBmTDRvQ1VVUm9jRnZZay1EM0lCTDg4SzFxWVU1SExaLXJFY09UaUdP?oc=5",
       "summary": "Events IIBA UK",
       "published_at": "2026-11-09T11:49:22Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Mohammed Dhafir Alqarni's Credentials wallet • International Institute of Business Analysis™ | IIBA® - Emeritus",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KUjI0aEVPNUpaZE5OZ2g5LUtmOTdPdmw5RnRJMmgtSm9uRUUtNmRlX2JGRnF1cTRPdkI1U1BOT0pZTXFZdmVXUmtNWURkZVFMMDI4dWdkZE1mc0RQTmtVNmp6Xzg5Snd3djRwYWNTQnJTb3It?oc=5",
-      "summary": "Mohammed Dhafir Alqarni's Credentials wallet • International Institute of Business Analysis™ | IIBA® Emeritus",
-      "published_at": "2026-11-09T08:00:00Z",
       "image_url": "https://iiba.org/favicon.ico",
       "video_url": "",
       "image_kind": "publisher_logo",
