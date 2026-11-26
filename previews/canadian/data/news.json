@@ -1,6 +1,66 @@
 {
-  "updated_at": "2026-11-25T17:22:11Z",
+  "updated_at": "2026-11-26T01:49:27Z",
   "articles": [
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "published_at": "2026-11-25T22:36:45Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/559d1e1c94462ff9.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "published_at": "2026-11-25T20:57:09Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/7ed5ab0ad3880031.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "published_at": "2026-11-25T18:38:29Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f3e5cfa965ca4080.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites - Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "summary": "The FCC has authorized SpaceX to deploy 1 million satellites Ars Technica",
+      "published_at": "2026-11-25T18:22:38Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c49217ce0571b09e.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "Ladybird browser’s first downloadable alpha is surprisingly capable - Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "summary": "Ladybird browser’s first downloadable alpha is surprisingly capable Ars Technica",
+      "published_at": "2026-11-25T17:33:30Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/3621d5ef2c334ebb.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -38,23 +98,23 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/bbcf669cd267e59d.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Rotating credentials in Azure API Management - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUpYZEsyVUZucmRMZ3kxRjkxa3F3bU9ldW1iNHZiS2h2Z2ZkclNBSnY5VGhsLXl1MWpwdFZBR1pPMjN3X1hZLWNvYVFRSGMxVmZLazlkUUY3LTNMYi1sQmtCeWdrNHlreldNV2hyT2NpQmZLdVpIa1NYcnAxcndzLUl1SDhlUmFEUk9xN29zZjZEZGdXdGI2TWdQUFNBVHRjdHBoWm5BX2RvT1NGaGx0c2c2YkxNM3Ji?oc=5",
-      "summary": "Rotating credentials in Azure API Management Microsoft Community Hub",
-      "published_at": "2026-11-25T16:19:30Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Elevated errors with Codex GitHub reviews and pull request merges - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmX0U4UjkycEFuVUFUakgtanRJaXk4XzRtckU5ZjRPczZfelpsUmxQNTFFOTNJbUpHc2Y0akJIYllPNDF2QTAwdWVkcUZtYkFUS3hGeXJtTk1BYUdpYThzYUxGYlV6amFnQ2hxZEVDSQ?oc=5",
+      "summary": "Elevated errors with Codex GitHub reviews and pull request merges OpenAI",
+      "published_at": "2026-11-25T16:27:02Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl - Ars Technica",
       "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "summary": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl Ars Technica",
       "published_at": "2026-11-25T15:35:17Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
       "video_url": "",
@@ -62,24 +122,12 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/9ae4d1db0efe7994.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Google News · arstechnica.com",
-      "title": "Army detonates tons of lead azide as local residents brace for toxic plume - Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnlnSF9xVGtQbGJHNWJWNkI0VDA2cm1iNm14Mk9FSGFvdXBFTk44dVEyWDJrZHI0MFdtTWpQNXZPcURreFl3TVFQQVlyV1ptdzZDdkM1aS1SV0ZPY0lXcGRRN0djekczVFVjVHhMdWxWdndvTnNURFp5WXVOcUNOZ3IxM3JDTHY0NFZXZVpTeVJUWnRrekRvdzVNbHQySnNIVUhvaUMtRHI1dGt0WVhRckdLOUo?oc=5",
-      "summary": "Army detonates tons of lead azide as local residents brace for toxic plume Ars Technica",
-      "published_at": "2026-11-25T15:35:17Z",
-      "image_url": "https://arstechnica.com/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/269c9b816b6ee7ec.jpg"
-    },
-    {
       "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "Why context is the missing piece in revenue automation - Zoom",
+      "title": "Why context is the missing piece in revenue automation",
       "url": "https://www.zoom.com/en/blog/zra-webinar-replay-nov18/",
-      "summary": "Why context is the missing piece in revenue automation Zoom",
-      "published_at": "2026-11-25T14:42:58Z",
+      "summary": "Most revenue teams have plenty of automation. What they’re missing is context. Erin Kriese and Jared Wexler share a 4-question test for every automation you run and illustrate how one buyer signal can be carrie…",
+      "published_at": "2026-11-25T15:00:00Z",
       "image_url": "https://media.zoom.com/images/assets/ZRA+Teaser+blog+post+recording+webinar+.webp/Zz0wNWFiZDk5ZWU4ZGMxMWYxYTEzZDMyNGU5NGM5MDg1ZA==",
       "video_url": "",
       "image_kind": "article",
@@ -110,35 +158,11 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a669e0635407ff50.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "How to apply to OpenWorks and follow up on your application - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "summary": "How to apply to OpenWorks and follow up on your application OpenAI Help Center",
-      "published_at": "2026-11-25T13:04:56Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Partner Locator - Zoom Partners",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbE1qY0Z2aTdDUVBldWRrX0gybE1yWEJXZXVoQjc4al9kNmFtcF92R1kxWXRRRWJzQU5NbXhranBrTWQ0MHNmSHYzcjNzTDAwaklhMnJiYjhQT25tVTV0YUZGdVNTTHVUWTlIQ2xfZUMwb2JlLWo2c1FwM0ZYU29lVVk0eF9kV1F4ckw4Z1hXTnpKTEtadW9rRWZ2MEs0N0NPR2FXRzBKdEp6UWVGaV9YcnlaYW1xN1k?oc=5",
-      "summary": "Partner Locator Zoom Partners",
-      "published_at": "2026-11-25T12:09:36Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "AI may soon change what it means to be a theoretical physicist",
+      "title": "AI may soon change what it means to be a theoretical physicist - Ars Technica",
       "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "summary": "AI may soon change what it means to be a theoretical physicist Ars Technica",
       "published_at": "2026-11-25T12:00:28Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/physics-and-ai-1152x648.jpg",
       "video_url": "",
@@ -148,14 +172,26 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors - OpenAI Status",
+      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWWtJdlhoM3hwT3lCbDd2cXZERjlDOFcxVnpzQ2xCOU1ZMmxUa1ZWak8xX3VFVTJYdHlPOHhGMEk0QWlKMGFuMENPRHZUWVduSVhnQ3JRTDdhYzVTQWxzZ3F6U0lHRHNvZ2NUSXpNYw?oc=5",
-      "summary": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors OpenAI Status",
-      "published_at": "2026-11-24T23:55:05Z",
+      "summary": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors OpenAI",
+      "published_at": "2026-11-25T11:48:13Z",
       "image_url": "https://openai.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "What's New in Excel (November 2026) - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnFWSm82VXllNTZYUmt0Rl9sbV9wMURhS1YyS1AwZzFITGpkREYzdWdreHBOb3ZScnVFSlhsZUd5T0l6aVp4UFJrRmF4cl9NeWlwS2E1SEJnTkQzeHdGUlAyejhRSXdyY0JoMnpMTExxaEpXVW4xUEVxdkdaWV9lREJ5TTVheXUzc2xHbW9rM01HSTdwekE?oc=5",
+      "summary": "What's New in Excel (November 2026) Microsoft Community Hub",
+      "published_at": "2026-11-25T00:57:59Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Business Analysis",
@@ -184,9 +220,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Half of NASA’s aging Mars fleet knocked offline by technical issues - Ars Technica",
+      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
       "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "summary": "Half of NASA’s aging Mars fleet knocked offline by technical issues Ars Technica",
+      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
       "published_at": "2026-11-24T22:50:11Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
       "video_url": "",
@@ -194,40 +230,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6569073ab912dea3.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Microsoft’s historic cloud outage exposed an engineering “fog of war” - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "summary": "Microsoft’s historic cloud outage exposed an engineering “fog of war” Ars Technica",
-      "published_at": "2026-11-24T22:36:28Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Microsoft_CDOC_featured-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/fc68541253b67c91.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "summary": "GPT-6 models demonstrate intrinsic protein-design capabilities OpenAI",
-      "published_at": "2026-11-24T21:06:37Z",
+      "published_at": "2026-11-24T21:03:41Z",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/8d04592f2b994fdb.jpg"
-    },
-    {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "What’s going on with the Riemann hypothesis? - Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "summary": "What’s going on with the Riemann hypothesis? Ars Technica",
-      "published_at": "2026-11-24T20:34:53Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-220180413-1152x648.jpeg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/0758ce21921ff248.jpg"
     },
     {
       "category": "Salesforce",
@@ -242,40 +254,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e3b68edb7f9c182c.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-      "published_at": "2026-11-24T20:00:18Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2152300024-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/53fd637ec7cdd9a3.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "Searching for distant planets with Astra - OpenAI",
       "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "summary": "Searching for distant planets with Astra OpenAI",
-      "published_at": "2026-11-24T19:42:58Z",
+      "published_at": "2026-11-24T19:08:50Z",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/7a2e7fcf8082432b.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "published_at": "2026-11-24T18:30:36Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/HSH9kiAbUAAzHdZ-1152x648.jpg",
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_at": "2026-11-24T10:10:12Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/56aadab47124ff93.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Business Analysis",
@@ -338,18 +338,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b5aee8f4defd676c.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "My Notes vs. Granola: Which AI Note Taker Fits You? - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdUpjaVlKcnd2RjVoaXVJbEdIVGRuVkx2b0cwWUFFbzZSRUk5dk51Z0JLVVJYbjZxZzU4LTVTSy1HVGlLRlNpUmJ2YXJwUDdsbWZzRnNIakx5YnFY?oc=5",
-      "summary": "My Notes vs. Granola: Which AI Note Taker Fits You? Zoom",
-      "published_at": "2026-11-23T22:45:27Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Maintenance windows for cloud-managed systems - Windows IT Pro Blog - Microsoft Community Hub",
@@ -386,24 +374,24 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Introducing OpenWorks - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3dnpudUxOQ0JOd0pNZ1Q3Qm5qM1plZTBTQ1pwZkg4NFVxUlViTmZRd25PVTkwSEdtNmF0dnFUUUxNalk?oc=5",
-      "summary": "Introducing OpenWorks OpenAI",
-      "published_at": "2026-11-23T18:15:12Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Rotating credentials in Azure API Management - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUpYZEsyVUZucmRMZ3kxRjkxa3F3bU9ldW1iNHZiS2h2Z2ZkclNBSnY5VGhsLXl1MWpwdFZBR1pPMjN3X1hZLWNvYVFRSGMxVmZLazlkUUY3LTNMYi1sQmtCeWdrNHlreldNV2hyT2NpQmZLdVpIa1NYcnAxcndzLUl1SDhlUmFEUk9xN29zZjZEZGdXdGI2TWdQUFNBVHRjdHBoWm5BX2RvT1NGaGx0c2c2YkxNM3Ji?oc=5",
+      "summary": "Rotating credentials in Azure API Management Microsoft Community Hub",
+      "published_at": "2026-11-21T22:15:59Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "chill - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adWZDUHp2UkNtbHhkZkcwNWtxMnl4eGR2TUJEamZvRE9FM3IwLTc0OEdMeXpiaWlyRnZZYXZoRkt5TXNYaTYyLXhDb21IVzJ5WkZ5c09xNVZTNFFSM0E?oc=5",
-      "summary": "chill Zoom Community",
-      "published_at": "2026-11-22T04:22:21Z",
+      "title": "Official Zoom Support | Help Center - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc1FsOVdndWxJeFFBTnpnMkNpWElrajRYcFZDRjFhRTBKelRMaVZJaTdHWDNTbXE1MGZtZTBiXy1VcWVzQUVuMzBSazc5US1pbUdZaHhVa1dVaV9tSjNGZ3hVbWQySlBqZnp3U00zY1FMVUZxdEpkbWZ5LWNRYXktTEhLRjBKV0NZdTV0Mi1XaDYxaXVjelFRUWtWZGM3TC1FTjlrc3pzZEdJOVhtV19HY25YdzFhZnh0?oc=5",
+      "summary": "Official Zoom Support | Help Center Zoom",
+      "published_at": "2026-11-21T02:06:34Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -458,18 +446,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "What’s new in Azure SRE Agent at Microsoft Ignite 2026 - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWY1S0dJTFNuUmk3OXUtVGk3ejBneUI5bm92REg2YjE3SjZfRHh5RVdYa3hKeWk2NjJYWUpvTDdYUEZTcHU0UV9VdXRBNTlSTEV5emFLd0lvVXV6LUlSNElmUDlVMUhsMmRXWGl0UFRKbEs4b1pkQTdQWjcydk8yRkdFNHFDZ2ZrUW1sVEYwZHczWmFLZHREZnd2dG4wNWRKUTJjVWkwNXBLR25CY2pDeGgzZjZtZWMxMVZkVXRGbllXT1NNZmc?oc=5",
-      "summary": "What’s new in Azure SRE Agent at Microsoft Ignite 2026 Microsoft Community Hub",
-      "published_at": "2026-11-20T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "How AI Helps Me Ask Better Questions as a Business Analyst - IIBA",
@@ -519,30 +495,6 @@
     },
     {
       "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Deepfake Risk Detection - Zoom Technical Library",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoQk1mMmwzQ2g1VmttcUdFQ3U5SWN0anFWbXVGUUNCWUlBZGZfeUlWRWZRWGEtS1dJU2F5d3Blc0NHcmtSMGxIZUd4cm1WMUZlRTJwcTZ1cVJjWEZZU2RFTQ?oc=5",
-      "summary": "Deepfake Risk Detection Zoom Technical Library",
-      "published_at": "2026-11-19T15:33:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Zoom Blog",
-      "title": "What is first contact resolution? - Zoom",
-      "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
-      "summary": "What is first contact resolution? Zoom",
-      "published_at": "2026-11-19T14:58:49Z",
-      "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
-      "video_url": "",
-      "image_kind": "article",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
-    },
-    {
-      "category": "Zoom",
       "source": "Zoom Blog",
       "title": "What is a satisfaction survey?",
       "url": "https://www.zoom.com/en/blog/what-is-a-satisfaction-survey/",
@@ -552,6 +504,42 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/557a2c8374c705a9.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is first contact resolution?",
+      "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
+      "summary": "Discover how first contact resolution (FCR) impacts customer satisfaction, the formula to calculate it, and strategies to boost resolution rates.",
+      "published_at": "2026-11-19T14:32:37Z",
+      "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is agentic orchestration?",
+      "url": "https://www.zoom.com/en/blog/agentic-orchestration/",
+      "summary": "Agentic orchestration coordinates work across AI agents, systems, and contact center teams. Learn how it works and what to evaluate.",
+      "published_at": "2026-11-19T14:01:56Z",
+      "image_url": "https://media.zoom.com/images/assets/agentic-orchestration.webp/Zz1mYzg0MTE1NmU0MjExMWYxOWU4MzZlNzk0MWIzOTQ1OA==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0cca644d60a49e7c.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Zoom in on CX Podcast: The \"Purposeful Friction\" Trick That Builds Customer Trust",
+      "url": "https://www.zoom.com/en/blog/zoom-in-on-cx-episode4-hopewood/",
+      "summary": "AI is changing every customer conversation—but is it building trust or breaking it? Ben Neo sits down with Leigh Hopwood, CEO of the CCMA, to unpack why trust is becoming the defining differentiator in customer…",
+      "published_at": "2026-11-19T11:00:00Z",
+      "image_url": "https://media.zoom.com/images/assets/EP4+Leigh+Hopwood_LP.webp/Zz0wYjRkOWY4YWQ5ZTcxMWYxYWM4ZTA2NmJkYWEyYzI0OQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0c6d8b48733bb445.jpg"
     },
     {
       "category": "Microsoft",
@@ -578,6 +566,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Async meeting best practices: how to run productive meetings without the scheduling chaos",
+      "url": "https://www.zoom.com/en/blog/async-meeting-best-practices/",
+      "summary": "Learn eight async meeting best practices that help remote teams collaborate without scheduling conflicts, using Zoom Clips and Canvas to stay aligned.",
+      "published_at": "2026-11-18T18:58:39Z",
+      "image_url": "https://media.zoom.com/images/assets/async-meeting-best-practices.webp/Zz1kNjQzZDA1MmUzODIxMWYxOWNiYmY2Nzg2ODFiMjljOQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8a36a2c1928019e1.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server - Salesforce Developers",
@@ -590,30 +590,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0g1SzY4TlVTR1VYQVJFU2tqTDlZQ2ZyOElVR1JndFdBZjRUaGc1U0ZGRk0xNVY2djktNWtKMFVqTGtGdTBSUUdfWVFyM2VTX3dmVzVBYVM4bF8zMUlCSFJZY3NwdVdkVWN2Z2xlSXFSOUxxNm1Mc2VEUjVWNDE5V2pKZEZDdkdTOWc0VDd2b0JGczBYbkJWUWo1Wlhud3BQOEZJ?oc=5",
-      "summary": "The 6 Practices of Teams That Won an IIBA Partner Award IIBA",
-      "published_at": "2026-11-17T23:59:49Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Azure Linux 4 is generally available - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1g0cUowcFkyNlFhUmR5TUw2QUUyWU9uQ2I2ZlNDdlpJd1FqRF9qOHE0NHhzMHRWR2w1ZVZDVnF0T0JHVmtpV3M2RDdEOUZ4b2N2ZTRnYTFHT2FqZ1ExdDNMY3NlQlZIbEFuUmhVYjFLTDBlZHYtd0RBZ0FmWFlFR0Q0d2h3RjFsam9UMDU5VkhwWWJWVzdnY3NrZWdiU3hsQ09FQk50ZUtQVnUy?oc=5",
-      "summary": "Azure Linux 4 is generally available Microsoft Community Hub",
-      "published_at": "2026-11-17T21:08:58Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Microsoft Tech Community",
       "title": "Multi-tenant management: Tenants, agents, and AI spend in one place",
@@ -624,18 +600,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/91dd9bd3f61e168e.jpg"
-    },
-    {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Microsoft 365 Copilot and AI Agent readiness and resiliency with SharePoint Content Governance - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSVJNTERjdmpESUhFNHFWSzZVTkhIWG82bG9PZFR6Rms2UXpxb1RIU0d6dXVQbm5nRXFfeG9qamQ4RGRpQkxWTEtuQzBuaVcxSHB3OFR4dEduWDQwLUVDaGVwOXhYaVluZzFoODRydmtDRHdnLXFVR3hUeUJQS0tEZkxUV3VNLWhWWk1oYVRVY29CWUlPaUV2eWRlMkd2eWpxcnNlOG93NXJEQlV4NUlfcE81UWdiQ3RsaDZucEtCdktlcktndUUxOTlRQmZKMXlZYWc?oc=5",
-      "summary": "Microsoft 365 Copilot and AI Agent readiness and resiliency with SharePoint Content Governance Microsoft Community Hub",
-      "published_at": "2026-11-17T17:06:07Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
       "category": "Microsoft",
@@ -676,6 +640,18 @@
     {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
+      "title": "Azure Linux 4 is generally available - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1g0cUowcFkyNlFhUmR5TUw2QUUyWU9uQ2I2ZlNDdlpJd1FqRF9qOHE0NHhzMHRWR2w1ZVZDVnF0T0JHVmtpV3M2RDdEOUZ4b2N2ZTRnYTFHT2FqZ1ExdDNMY3NlQlZIbEFuUmhVYjFLTDBlZHYtd0RBZ0FmWFlFR0Q0d2h3RjFsam9UMDU5VkhwWWJWVzdnY3NrZWdiU3hsQ09FQk50ZUtQVnUy?oc=5",
+      "summary": "Azure Linux 4 is generally available Microsoft Community Hub",
+      "published_at": "2026-11-17T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
       "title": "A verifiable security state with Windows baseline protection - Windows IT Pro Blog - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUpiM3I5T1pGNFl6NXBjTGRMeHJEd2hPRWlqR3hLUDdJMHVnclQwdVJDcE85M0J5Nnl4SHQtSWRybXJ0QV9EN094aDFxd25Maml5cW94c1NOdE5USTZKY21ERXVhOGhfaTlzMXdzbktvekN1MThITVlVbTFDU2pvcnlBRkg3X3RpY1NTU1VZT3BHWGI5TTdOVXlDeFFYc0RHR3RDaWlDUlhRUWxWc2RHcGRSSXRNanktWEl2aDlRR3RYS1JMQWpz?oc=5",
       "summary": "A verifiable security state with Windows baseline protection - Windows IT Pro Blog Microsoft Community Hub",
@@ -684,6 +660,30 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaWpvdjRCWHV5SmRoTmJ4bG5telZaRm95eTZmdk1iRW94VmMtcU1iZ3F3VmprMG5ob2ZOaVNmYXI3TlZEN1lfcDBzUTZpMFhqRmZpcHR1SC1lTWpKVmhDYTBPSGlkMG92N1l1NFBUVVhpVWpTT19hWFZ0aHU5Q2YtTVNadkxYVDFVMFdZQ2R1dFA1ckVFSmdxZEtJUlNHdGZWTElHSGtjcU5RazV2NFdPcDQ3WlhhUkgwQmdwQWtFWF8xdEMyajBJeHlXakRUQXZtZGVaNFNGNHk2U2xzQnp3dE03bU15RFdxYVE?oc=5",
+      "summary": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations Microsoft Community Hub",
+      "published_at": "2026-11-17T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb0g1SzY4TlVTR1VYQVJFU2tqTDlZQ2ZyOElVR1JndFdBZjRUaGc1U0ZGRk0xNVY2djktNWtKMFVqTGtGdTBSUUdfWVFyM2VTX3dmVzVBYVM4bF8zMUlCSFJZY3NwdVdkVWN2Z2xlSXFSOUxxNm1Mc2VEUjVWNDE5V2pKZEZDdkdTOWc0VDd2b0JGczBYbkJWUWo1Wlhud3BQOEZJ?oc=5",
+      "summary": "The 6 Practices of Teams That Won an IIBA Partner Award IIBA",
+      "published_at": "2026-11-17T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -696,6 +696,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/74dbc13da4143893.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Events - IIBA Ottawa-Outaouais",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXVZNTk0OGdCRnEwWVdmZlFTd09VYWJzYW1ETWVsYldlRy1pWmRFRzZtaXgwSXZVVVhLTFNJVU1yc3ppU1hzeEltaVRiM3p0amlZdFJVTFMtdjllczFiU0syN2FjclBFT2Jkc2xBUm9DOVQ0emV0VlYxaFRvQkpfZjBRMWlNQnVURDU5Rzc5ZFdMNnB0dXhmSg?oc=5",
+      "summary": "Events IIBA Ottawa-Outaouais",
+      "published_at": "2026-11-15T19:48:34Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -746,6 +758,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Study and Prepare - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlneHNBNkdmMDVJTFU0V0NIbVFCam5qdFpDaFVRTi0wVFVIdUtZb0RXMkt6THFVX2ZZTjFsWi1IMXkxajhqM0hhbVZ1bDJkazZMYkVGX3VIUDVhMURTbWVjQU9VQVhLTmFxZG5ScTkyUjdIS1IyMF9WTHRNRUtvU0M1eXI1TWMzb0U5U2JZSHNiSGZHU3ZycVM2alpOdmwweHpfOFlRTnFhVEJKT1UtSm45aVl3RmpsVnBQV0E4bXBYMkN4UjJRM09hM0VoZHQzc2V0RXd0UQ?oc=5",
+      "summary": "Study and Prepare IIBA",
+      "published_at": "2026-11-10T19:39:22Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -756,6 +780,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "LOUIS AZEGBA - IIBA Directory",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYW5iamJPLVpCQmxualhTby1sVU1wWTJST2hOdklyVThuRl9RajBObHhXQmZvQm1rTTVjQXVQbGlRZXlxZnM2NU05b1V4NDdrcVdsZEZlSU81Zlk1UzNmR3Jvc3NlYlhzalFTRzVRT3Fsa2ZGREt2WkN4WUtfM1VnUjVXdWdfRnhvclhZUkZpRzZWQ1AwOU5yV3llMkNyMjdqdDRJQXRmbmhDM09ROE1SQ2h6OGJmb1BRUWFrcFZONC1sWnYwbU5UVA?oc=5",
+      "summary": "LOUIS AZEGBA IIBA Directory",
+      "published_at": "2026-11-10T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -828,42 +864,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Three Perspectives From BA Digest Q4 - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
-      "summary": "Three Perspectives From BA Digest Q4 IIBA",
-      "published_at": "2026-11-05T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Adaptive US",
-      "title": "Data Analysis with Microsoft Excel: Guide for Business Analysts",
-      "url": "https://www.adaptiveus.com/blog/data-analysis-in-excel-for-business-analysts/",
-      "summary": "Every year, a new wave of \"Excel killers\" hits the market — Power BI, Tableau, Python, R, and a dozen AI-powered analytics platforms all promise to make the humble spreadsheet obsolete. And yet, walk into almos…",
-      "published_at": "2026-11-04T06:30:00Z",
-      "image_url": "https://www.adaptiveus.com/hubfs/Data%20Analysis%20using%20Excel.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca51e75ce5614bab.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "The Requirement No One Asked For - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY20tR01BT2lSVXhYTHc5RG1Ya3F4Y3ZtNFhkR1RCQnd4NzVQOUpKYmQ3cktWbDByTkhhNWoxb3NkMDhCamhCRGpMdU41aXgweWJacWpwM1hxSnNLSFF2LWFjNEV6OWtyRUFad1k4blBRc2JFM3YtNkw0RzJXbFlXZnJXQkI?oc=5",
-      "summary": "The Requirement No One Asked For IIBA",
-      "published_at": "2026-11-03T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     }
   ],
   "sources_ok": [
