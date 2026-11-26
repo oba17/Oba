@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-11-26T01:49:27Z",
+  "updated_at": "2026-11-26T11:00:35Z",
   "articles": [
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_at": "2026-11-26T09:09:54Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment - Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "summary": "European spacecraft finds chaotic scene after asteroid deflection experiment Ars Technica",
       "published_at": "2026-11-25T22:36:45Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
       "video_url": "",
@@ -16,9 +28,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Google search alternative Kagi launches Gmail rival",
+      "title": "Google search alternative Kagi launches Gmail rival - Ars Technica",
       "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "summary": "Google search alternative Kagi launches Gmail rival Ars Technica",
       "published_at": "2026-11-25T20:57:09Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
       "video_url": "",
@@ -52,9 +64,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Ladybird browser’s first downloadable alpha is surprisingly capable - Ars Technica",
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
       "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "summary": "Ladybird browser’s first downloadable alpha is surprisingly capable Ars Technica",
+      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
       "published_at": "2026-11-25T17:33:30Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
       "video_url": "",
@@ -112,9 +124,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl - Ars Technica",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
       "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "summary": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl Ars Technica",
+      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
       "published_at": "2026-11-25T15:35:17Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/boom-1024x648.jpg",
       "video_url": "",
@@ -182,6 +194,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Codex used less of your allowance than intended - OpenAI Developer Community",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSjZ3S1dDeW5MdWNaZzZQMWtRNGJSTTFXZXZnb1lQVl9wN0dDQ0pZWTFzOFBSZ2gzMGFKeTgxUUlfUXJjdEFyQTVpeE0yeWxUeDBOY1M3NllNN3dkc0k4VVJLVzVyQmZDbUU4QWlkNUt5RE1iV1RUcnpMM2tBbUpDNGZNZUh1T21ScDZfWXFKQQ?oc=5",
+      "summary": "Codex used less of your allowance than intended OpenAI Developer Community",
+      "published_at": "2026-11-25T03:41:50Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "What's New in Excel (November 2026) - Microsoft Community Hub",
@@ -220,9 +244,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
+      "title": "Half of NASA’s aging Mars fleet knocked offline by technical issues - Ars Technica",
       "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
+      "summary": "Half of NASA’s aging Mars fleet knocked offline by technical issues Ars Technica",
       "published_at": "2026-11-24T22:50:11Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PIA26752-1152x648-1795552223.jpg",
       "video_url": "",
@@ -242,18 +266,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/8d04592f2b994fdb.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Bring Salesforce Developer Docs into Your AI Tools - Salesforce Developers",
-      "url": "https://developer.salesforce.com/blogs/2026/11/bring-salesforce-developer-docs-into-your-ai-tools",
-      "summary": "Bring Salesforce Developer Docs into Your AI Tools Salesforce Developers",
-      "published_at": "2026-11-24T20:32:15Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261119121043/Generic-B-9-e1795119054922.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e3b68edb7f9c182c.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "Searching for distant planets with Astra - OpenAI",
@@ -266,16 +278,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/7a2e7fcf8082432b.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_at": "2026-11-24T10:10:12Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Bring Salesforce Developer Docs into Your AI Tools",
+      "url": "https://developer.salesforce.com/blogs/2026/11/bring-salesforce-developer-docs-into-your-ai-tools",
+      "summary": "Bring Salesforce Developer docs into your AI workflow with new page actions. Copy documentation as Markdown, open pages in ChatGPT or Claude, and use llms.txt to help AI agents find the right information. The p…",
+      "published_at": "2026-11-24T16:00:44Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261119121043/Generic-B-9-e1795119054922.png?w=1000",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e3b68edb7f9c182c.jpg"
     },
     {
       "category": "Business Analysis",
@@ -362,18 +374,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/18dedffbeee10c60.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Building security review into your SDLC with Codex Security - OpenAI Developers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3VQVDhFcmhCV3JDUFUxYllxWWlhUzRuUUJLMWVJV0Q5c1V2WkdKWlZfZ3J1QVhkNHQ1VmRIV3pvQVZJbDAzQzNmT1A2bkRQSGlGLW9uY2FGWXJoeElSQV94MWd3Ym5MeEtMT2ZwYlk4eGN6cHJzUU80ZU9ITnBydUJnOHpqU1NDNURmNVdPQnAzczJsYWJnVzBn?oc=5",
-      "summary": "Building security review into your SDLC with Codex Security OpenAI Developers",
-      "published_at": "2026-11-23T19:25:03Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Rotating credentials in Azure API Management - Microsoft Community Hub",
@@ -432,18 +432,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "Salesforce Connect Developer Guide - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0llcTRPenhkSk5RbE9HVF92bVdFU3FlUUhlbF82SzZwWmlHVE1IVWRORjJBLTMtRXlhaDBWYVZGUHEySEV4T3M3Nzl3eVNuX3dUYndDZHV6aE85cU9IaWVhQlpyc2lMakZIWUtRUEgycnJMdEtUYkdQWEsxclRlSi1GLVFqUW51WXhqUFEwN3MwM2dIdVFKUDhrbw?oc=5",
-      "summary": "Salesforce Connect Developer Guide Salesforce Developers",
-      "published_at": "2026-11-20T15:50:45Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
     },
     {
       "category": "Business Analysis",
@@ -578,16 +566,28 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/8a36a2c1928019e1.jpg"
     },
     {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server - Salesforce Developers",
-      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
-      "summary": "Expose HXL Widgets to Slackbot with a Custom MCP Server Salesforce Developers",
-      "published_at": "2026-11-18T00:35:17Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Join us in using AI Workflow Preview Feature in Microsoft Planetary Computer Pro - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa0ZWUUtzVWtiMGJPMDdFUXpteVoxWmFTMUVCT3N5UDFMQTRUN1FYNmNGWHJfVTdocDJ5d2t3TGhHZ1BPUURvckViQzYzQjJ1Mng0SlJ6cE5IQ29JbjZXNVZ0blhHVko3NHdXb2lrdHpqbkVUWC1PcjNrUk5xRGpudFJTYVdJYjJSWVpIQXhQQk1NM2NmR1d1NjBsUk85aGhoVFEyUjB4M2dPR21uUUNleFdnU1ZpYUN1bTFUamFpX2xWQU0ta3BRcTZuRjJGNGRjT3BETjFsRzhUNEdwRkVtcEtzZGdPWEZ1WnJLVzQ4NE00ckNrVmc?oc=5",
+      "summary": "Join us in using AI Workflow Preview Feature in Microsoft Planetary Computer Pro Microsoft Community Hub",
+      "published_at": "2026-11-18T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "IIBA Canberra (Online) - Process Mapping from the Trenches - IIBA Australia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnhDekdyd1FoNmd0SXEwMDM3NXZtX2ZCNDJoVHZ5anRYZEYtSFFGY24ya2I1dnQ4UkdQaWYxR1R6RGczMW44ak1TcC1BQ1IyMVBOdEE4cEFnWHJqYXhjTHlGdFVfNHJGeDJZUkJyX2txNmVDcWVPdmxDWFNZWHBvd1IwUlpMeGZFMDNxNXhNSGc2Sy1XRkE?oc=5",
+      "summary": "IIBA Canberra (Online) - Process Mapping from the Trenches IIBA Australia",
+      "published_at": "2026-11-17T19:37:01Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Microsoft",
@@ -612,6 +612,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/7b7cee64e21e090c.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Expose HXL Widgets to Slackbot with a Custom MCP Server",
+      "url": "https://developer.salesforce.com/blogs/2026/11/expose-hxl-widgets-slackbot-custom-mcp-server",
+      "summary": "Configure Slackbot to render Headless Experience Layer (HXL) widgets from a custom Salesforce MCP server. Org connection setup, tool permissions, and fixes. The post Expose HXL Widgets to Slackbot with a Custom…",
+      "published_at": "2026-11-17T16:00:14Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261111122654/SingleHeadshot-15-e1794428825146.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ea6f6eb684a47961.jpg"
     },
     {
       "category": "Business Analysis",
@@ -662,18 +674,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQaWpvdjRCWHV5SmRoTmJ4bG5telZaRm95eTZmdk1iRW94VmMtcU1iZ3F3VmprMG5ob2ZOaVNmYXI3TlZEN1lfcDBzUTZpMFhqRmZpcHR1SC1lTWpKVmhDYTBPSGlkMG92N1l1NFBUVVhpVWpTT19hWFZ0aHU5Q2YtTVNadkxYVDFVMFdZQ2R1dFA1ckVFSmdxZEtJUlNHdGZWTElHSGtjcU5RazV2NFdPcDQ3WlhhUkgwQmdwQWtFWF8xdEMyajBJeHlXakRUQXZtZGVaNFNGNHk2U2xzQnp3dE03bU15RFdxYVE?oc=5",
-      "summary": "Addressing Java4Shell CVE-2026-114938: upgrade guidance and Azure WAF mitigations Microsoft Community Hub",
-      "published_at": "2026-11-17T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "The 6 Practices of Teams That Won an IIBA Partner Award - IIBA",
@@ -696,18 +696,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/74dbc13da4143893.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Events - IIBA Ottawa-Outaouais",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXVZNTk0OGdCRnEwWVdmZlFTd09VYWJzYW1ETWVsYldlRy1pWmRFRzZtaXgwSXZVVVhLTFNJVU1yc3ppU1hzeEltaVRiM3p0amlZdFJVTFMtdjllczFiU0syN2FjclBFT2Jkc2xBUm9DOVQ0emV0VlYxaFRvQkpfZjBRMWlNQnVURDU5Rzc5ZFdMNnB0dXhmSg?oc=5",
-      "summary": "Events IIBA Ottawa-Outaouais",
-      "published_at": "2026-11-15T19:48:34Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -758,18 +746,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Study and Prepare - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZFlneHNBNkdmMDVJTFU0V0NIbVFCam5qdFpDaFVRTi0wVFVIdUtZb0RXMkt6THFVX2ZZTjFsWi1IMXkxajhqM0hhbVZ1bDJkazZMYkVGX3VIUDVhMURTbWVjQU9VQVhLTmFxZG5ScTkyUjdIS1IyMF9WTHRNRUtvU0M1eXI1TWMzb0U5U2JZSHNiSGZHU3ZycVM2alpOdmwweHpfOFlRTnFhVEJKT1UtSm45aVl3RmpsVnBQV0E4bXBYMkN4UjJRM09hM0VoZHQzc2V0RXd0UQ?oc=5",
-      "summary": "Study and Prepare IIBA",
-      "published_at": "2026-11-10T19:39:22Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -780,18 +756,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "LOUIS AZEGBA - IIBA Directory",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYW5iamJPLVpCQmxualhTby1sVU1wWTJST2hOdklyVThuRl9RajBObHhXQmZvQm1rTTVjQXVQbGlRZXlxZnM2NU05b1V4NDdrcVdsZEZlSU81Zlk1UzNmR3Jvc3NlYlhzalFTRzVRT3Fsa2ZGREt2WkN4WUtfM1VnUjVXdWdfRnhvclhZUkZpRzZWQ1AwOU5yV3llMkNyMjdqdDRJQXRmbmhDM09ROE1SQ2h6OGJmb1BRUWFrcFZONC1sWnYwbU5UVA?oc=5",
-      "summary": "LOUIS AZEGBA IIBA Directory",
-      "published_at": "2026-11-10T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Business Analysis",
@@ -819,11 +783,71 @@
     },
     {
       "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
+      "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
+      "summary": "自分で作った AI エージェントからも、Salesforce Hosted MCP Server 経由で Salesforce のデータを読み書きできます。Amazon Bedrock と Strands Agents のエージェントから、ケースの優先度を判断して書き戻すまでを、コード付きで解説します。 The post Amazon Bedrock から MCP サーバー経由で Salesforce を触る app…",
+      "published_at": "2026-11-06T23:26:57Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261106171448/2026-11-07_10-11-59.jpg?w=1118",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a7b729ec1c537f40.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
+      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
+      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
+      "published_at": "2026-11-05T16:00:55Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Three Perspectives From BA Digest Q4 - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOW0wZ01CS2N2djd5WDZvTUxKTVp0Tzl1b2pNT2dUdGRDWGd5Z2FfZEd3YnA0X0tQWFZTeUN3cVlzQWtDa3M3OUl3dVNaTkF3Qm5wZ09BV2tGY1REMkdlNUlobkJCRmlCdlM1bS1TQmlHOC1mcWJ4aWJEdkdsM1RXOERQeWdYYU1hcVE?oc=5",
+      "summary": "Three Perspectives From BA Digest Q4 IIBA",
+      "published_at": "2026-11-05T08:00:00Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
+      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
+      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
+      "published_at": "2026-11-04T16:00:34Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Adaptive US",
+      "title": "Data Analysis with Microsoft Excel: Guide for Business Analysts",
+      "url": "https://www.adaptiveus.com/blog/data-analysis-in-excel-for-business-analysts/",
+      "summary": "Every year, a new wave of \"Excel killers\" hits the market — Power BI, Tableau, Python, R, and a dozen AI-powered analytics platforms all promise to make the humble spreadsheet obsolete. And yet, walk into almos…",
+      "published_at": "2026-11-04T06:30:00Z",
+      "image_url": "https://www.adaptiveus.com/hubfs/Data%20Analysis%20using%20Excel.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/ca51e75ce5614bab.jpg"
+    },
+    {
+      "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "cgcloud__Visit_Template__c - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDlNdkdyRTNOZ2lzdmlocUZJcEJWMW8ya1lQOWdfM2pjOWZMX1RnTHFNeXlnckZGc1A0U1k2bVFhczl6Q0FHVXBlWFdWYWZlVVFOOVpSMGNSM1I2MG9zWjNEVFlpZ1AzY19PT3duQ3pDMjEwb1dhQ20zVjhjNnRsUGVjSnBqc3FmdUpQZkR4ZTMxS1dpa0RDdV9xZld1RDA1MWVNOHdOZ3lXYmV0QW5id0NjTVo5TUU?oc=5",
-      "summary": "cgcloud__Visit_Template__c Salesforce Developers",
-      "published_at": "2026-11-08T11:55:10Z",
+      "title": "BusinessLicense - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcksxYjdFYm1QNnpmeWs1NHZnOFpjQUhBdDJzMktyUDJYbWNDVHE2YS1VUkxlXzlNT1dTTU9zc01BMXdJN3FOYzFpeG9Jc0xfUmdOc0dseFlmaHRkX0NwaUZudklCVG1kcTd1S2RtZVFobWNQOGh2NTh2MDFXOWdJSzFpa2MzX3lpTkxSbTl5ckMxa0VQeERZSFVLd05KaGlOcFhzQVE2dDhsaElt?oc=5",
+      "summary": "BusinessLicense Salesforce Developers",
+      "published_at": "2026-10-30T13:19:29Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -832,34 +856,10 @@
     {
       "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "MeetingPlaybookDefinition - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pyc2FOVDl6VVhTcW8xVnIyQWZqVnVpS3hfaW4wN1VqNll2UDN6UE1xT3l2RVpibkN6dF9DYjhYN0tiWlFyd3IxUkdRajVKZ25sVGVHLWpDWS1tdEhwck9IaEg3blNkcUp6YjRuTGd1NGkyT1dmaTE2b2N6T3dCSHhvdFNTbHl6UUJHdEhTZENQQzdtV2ZqcWVsWWs4OE03czJoLWVyQWQ0ZmhMeDVTZVpkRQ?oc=5",
-      "summary": "MeetingPlaybookDefinition Salesforce Developers",
-      "published_at": "2026-11-08T00:12:55Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "EducInstitutionOffering - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnhHejNSYVFBSGVJaXQ1ZGM0cFJPU3M5MFhtVmdELUFyTS1zX3UtOGdVTTl3TEVfYlhPVDJwbVJtWUljS2YxdTJheFdNbW9walg2R0s5SDVLRVhmUWRkZjBGRWE4MDRyRERkTUJmSXJLVWk4Tnd6VzlHVFpTRG9wTlFadnJqRU5NSi00R3dmQWJ5RzBMeFNpVXhOczdUQUdWLVRRRFVOdmsxZzBtWDQ2SFk3cnN6YjRMbDJJOE1GRQ?oc=5",
-      "summary": "EducInstitutionOffering Salesforce Developers",
-      "published_at": "2026-11-07T23:09:38Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "MCP Solutions | Welcome to Salesforce Headless Toolkit | Get Started - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWtVc25yVnFQMVloYkdQMWc4OG5LWms3MGFndlRBZGRGdTFoQ090Tm84TXF3S1dXTVpzdGlDMF9TQXA3N3d4WHZNak1JQ3FkR0VIanZMWUZKYTRkVVkxLXFhd1hiWjZqb0FJT2F3VjVuNmhGRFJrUi1FWG1YTTBMRGFoNEo2dmNsTTF0aEVad185cHRubUE?oc=5",
-      "summary": "MCP Solutions | Welcome to Salesforce Headless Toolkit | Get Started Salesforce Developers",
-      "published_at": "2026-11-07T22:08:04Z",
+      "title": "LearningProgram - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
+      "summary": "LearningProgram Salesforce Developers",
+      "published_at": "2026-10-30T13:16:22Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -872,6 +872,7 @@
     "AI",
     "Zoom",
     "Tech",
+    "Business Analysis",
     "Business Analysis",
     "Business Analysis",
     "Salesforce",
