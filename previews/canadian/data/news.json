@@ -1,6 +1,54 @@
 {
-  "updated_at": "2026-11-27T12:40:16Z",
+  "updated_at": "2026-11-27T22:04:30Z",
   "articles": [
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "BrightSign Provisioning Guide - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vN1dtVFQxQ2RFcUc4QXEtejQwRU1qYy1sYUN4N0pKZTBGSUJZS2VleUJ5N2c1MXNpemdsaTFpcG5wM1NLbVRpTVBfYW9aWU1md2dhQWlhRXJzOExlUVVQR3RUM01CM3IwZndrTG1VWEhUSzVDXzloTEZUTjg1QQ?oc=5",
+      "summary": "BrightSign Provisioning Guide Zoom",
+      "published_at": "2026-11-27T21:21:12Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_at": "2026-11-27T18:57:39Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The best Black Friday deals Ars could find",
+      "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "published_at": "2026-11-27T17:05:37Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/43bfb26892ebb593.jpg"
+    },
+    {
+      "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "But We Document Everything: Why Decisions Still Get Lost - IIBA",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTWVCbUY2dTdDenQ2RU9PMXA0SjJNWXlXc3R0M2RVcHdaSUNJX214WHRYaC1TTDVaUjdhX3ZlYzRRYzRrMHBDQXJxU1NTN2V0RlRFQmpIVGtycWoxRjJtUGluQVBtSGJ5cGFyWHRKanh5cDczWlQtV0JkYUtmMk9saFRZa095T1Y3VXg4MTRHYmI2WFl6Y3RGUnZCQ1UzUlJERXptU0NRalhGR2QtTldtTzR4RmdNeTQ?oc=5",
+      "summary": "But We Document Everything: Why Decisions Still Get Lost IIBA",
+      "published_at": "2026-11-27T16:07:32Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
     {
       "category": "Tech",
       "source": "Ars Technica",
@@ -52,18 +100,6 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_at": "2026-11-27T06:47:24Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
       "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors - OpenAI Status",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWWtJdlhoM3hwT3lCbDd2cXZERjlDOFcxVnpzQ2xCOU1ZMmxUa1ZWak8xX3VFVTJYdHlPOHhGMEk0QWlKMGFuMENPRHZUWVduSVhnQ3JRTDdhYzVTQWxzZ3F6U0lHRHNvZ2NUSXpNYw?oc=5",
       "summary": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors OpenAI Status",
@@ -96,6 +132,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/0287e898c3be0376.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+      "summary": "Healthcare model configurations in the OpenAI API OpenAI Help Center",
+      "published_at": "2026-11-26T14:15:35Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Tech",
@@ -160,9 +208,9 @@
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "Backblaze explains why it’s sharing customer information with advertisers - Ars Technica",
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
       "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
-      "summary": "Backblaze explains why it’s sharing customer information with advertisers Ars Technica",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
       "published_at": "2026-11-25T18:38:29Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
       "video_url": "",
@@ -194,18 +242,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/3621d5ef2c334ebb.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Etsy clarifies AI terms after seller backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
-      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
-      "published_at": "2026-11-25T17:12:57Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2289651678-1152x648.jpg",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/bcd01eef4b54de5d.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Elevated errors with Codex GitHub reviews and pull request merges - OpenAI Status",
@@ -220,10 +256,10 @@
     {
       "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "Why context is the missing piece in revenue automation - Zoom",
+      "title": "Why context is the missing piece in revenue automation",
       "url": "https://www.zoom.com/en/blog/zra-webinar-replay-nov18/",
-      "summary": "Why context is the missing piece in revenue automation Zoom",
-      "published_at": "2026-11-25T14:42:58Z",
+      "summary": "Most revenue teams have plenty of automation. What they’re missing is context. Erin Kriese and Jared Wexler share a 4-question test for every automation you run and illustrate how one buyer signal can be carrie…",
+      "published_at": "2026-11-25T15:00:00Z",
       "image_url": "https://media.zoom.com/images/assets/ZRA+Teaser+blog+post+recording+webinar+.webp/Zz0wNWFiZDk5ZWU4ZGMxMWYxYTEzZDMyNGU5NGM5MDg1ZA==",
       "video_url": "",
       "image_kind": "article",
@@ -240,18 +276,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a669e0635407ff50.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Partner Locator - Zoom Partners",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbE1qY0Z2aTdDUVBldWRrX0gybE1yWEJXZXVoQjc4al9kNmFtcF92R1kxWXRRRWJzQU5NbXhranBrTWQ0MHNmSHYzcjNzTDAwaklhMnJiYjhQT25tVTV0YUZGdVNTTHVUWTlIQ2xfZUMwb2JlLWo2c1FwM0ZYU29lVVk0eF9kV1F4ckw4Z1hXTnpKTEtadW9rRWZ2MEs0N0NPR2FXRzBKdEp6UWVGaV9YcnlaYW1xN1k?oc=5",
-      "summary": "Partner Locator Zoom Partners",
-      "published_at": "2026-11-25T12:09:36Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "AI",
@@ -340,18 +364,6 @@
     {
       "category": "AI",
       "source": "Google News · openai.com",
-      "title": "Healthcare model configurations in the OpenAI API - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
-      "summary": "Healthcare model configurations in the OpenAI API OpenAI Help Center",
-      "published_at": "2026-11-24T01:37:18Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
       "title": "GPT-6.2 in ChatGPT System Card - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81dDliQmI0UlpOd25rTjhrSnZmR2Zid200X2p5bG15eVJuT05BYU1JdnZzOC1rT1c1OVNLeDFUd1ZpZXVLWTgtTmstb1FvTE82bnVsdnFTc0M0cGFSSTZiYg?oc=5",
       "summary": "GPT-6.2 in ChatGPT System Card OpenAI",
@@ -398,18 +410,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b5aee8f4defd676c.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "My Notes vs. Granola: Which AI Note Taker Fits You? - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdUpjaVlKcnd2RjVoaXVJbEdIVGRuVkx2b0cwWUFFbzZSRUk5dk51Z0JLVVJYbjZxZzU4LTVTSy1HVGlLRlNpUmJ2YXJwUDdsbWZzRnNIakx5YnFY?oc=5",
-      "summary": "My Notes vs. Granola: Which AI Note Taker Fits You? Zoom",
-      "published_at": "2026-11-23T22:45:27Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Maintenance windows for cloud-managed systems - Windows IT Pro Blog - Microsoft Community Hub",
@@ -436,10 +436,10 @@
     {
       "category": "Zoom",
       "source": "Google News · zoom.com",
-      "title": "chill - Zoom Community",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5adWZDUHp2UkNtbHhkZkcwNWtxMnl4eGR2TUJEamZvRE9FM3IwLTc0OEdMeXpiaWlyRnZZYXZoRkt5TXNYaTYyLXhDb21IVzJ5WkZ5c09xNVZTNFFSM0E?oc=5",
-      "summary": "chill Zoom Community",
-      "published_at": "2026-11-22T04:22:21Z",
+      "title": "30% off Black Friday & Cyber Monday 2026 - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQ1ZIS3JkcXAxalJqVFVKMG9Nc0E3SVRKelp3T3dBMXZIbV9QYVE4WkhtTTZJWVRWdk03NENYMmk4Z0FOUEVUMkRVVWZSZw?oc=5",
+      "summary": "30% off Black Friday & Cyber Monday 2026 Zoom",
+      "published_at": "2026-11-23T10:21:52Z",
       "image_url": "https://zoom.com/apple-touch-icon.png",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -456,6 +456,18 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Google News · zoom.com",
+      "title": "CRM meeting management: a guide for client meetings - Zoom",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iMGFNWUVzMFNYUEdCS3dIaWxWWmVSSmtCQmNHRW5vT2w3SE5yamMxQWMtUDBGbFA3NDhvU2hpNU1FRkhNdG92TEpubHB1amwwaTlV?oc=5",
+      "summary": "CRM meeting management: a guide for client meetings Zoom",
+      "published_at": "2026-11-20T21:30:13Z",
+      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -494,6 +506,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "Salesforce Connect Developer Guide - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0llcTRPenhkSk5RbE9HVF92bVdFU3FlUUhlbF82SzZwWmlHVE1IVWRORjJBLTMtRXlhaDBWYVZGUHEySEV4T3M3Nzl3eVNuX3dUYndDZHV6aE85cU9IaWVhQlpyc2lMakZIWUtRUEgycnJMdEtUYkdQWEsxclRlSi1GLVFqUW51WXhqUFEwN3MwM2dIdVFKUDhrbw?oc=5",
+      "summary": "Salesforce Connect Developer Guide Salesforce Developers",
+      "published_at": "2026-11-20T15:50:45Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "How AI Helps Me Ask Better Questions as a Business Analyst - IIBA",
@@ -504,18 +528,6 @@
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Marketplace featured topics - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kb2p2ZzJ0UHJBZ3dlMm5fUzFqTW9WeVN0MXhwMHU4NGNFQnBZNzhjR2xvLXZMV3VucTNnTFMydnphazRaYURoRDdFcGxEZU8ybzVKUg?oc=5",
-      "summary": "Marketplace featured topics Zoom",
-      "published_at": "2026-11-19T21:39:48Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Zoom",
@@ -567,27 +579,39 @@
     },
     {
       "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Deepfake Risk Detection - Zoom Technical Library",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoQk1mMmwzQ2g1VmttcUdFQ3U5SWN0anFWbXVGUUNCWUlBZGZfeUlWRWZRWGEtS1dJU2F5d3Blc0NHcmtSMGxIZUd4cm1WMUZlRTJwcTZ1cVJjWEZZU2RFTQ?oc=5",
-      "summary": "Deepfake Risk Detection Zoom Technical Library",
-      "published_at": "2026-11-19T15:33:03Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "source": "Zoom Blog",
+      "title": "What is a satisfaction survey?",
+      "url": "https://www.zoom.com/en/blog/what-is-a-satisfaction-survey/",
+      "summary": "Learn what a satisfaction survey is, how it works, and which types to use. See how contact center managers turn customer feedback into better service.",
+      "published_at": "2026-11-19T14:43:37Z",
+      "image_url": "https://media.zoom.com/images/assets/what-is-a-satisfaction-survey.webp/Zz1kOGVjZWE1YWU0MjcxMWYxYmMyNzYyNWE4MzZmYTZjOA==",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/557a2c8374c705a9.jpg"
     },
     {
       "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "What is first contact resolution? - Zoom",
+      "title": "What is first contact resolution?",
       "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
-      "summary": "What is first contact resolution? Zoom",
-      "published_at": "2026-11-19T14:58:49Z",
+      "summary": "Discover how first contact resolution (FCR) impacts customer satisfaction, the formula to calculate it, and strategies to boost resolution rates.",
+      "published_at": "2026-11-19T14:32:37Z",
       "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is agentic orchestration?",
+      "url": "https://www.zoom.com/en/blog/agentic-orchestration/",
+      "summary": "Agentic orchestration coordinates work across AI agents, systems, and contact center teams. Learn how it works and what to evaluate.",
+      "published_at": "2026-11-19T14:01:56Z",
+      "image_url": "https://media.zoom.com/images/assets/agentic-orchestration.webp/Zz1mYzg0MTE1NmU0MjExMWYxOWU4MzZlNzk0MWIzOTQ1OA==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0cca644d60a49e7c.jpg"
     },
     {
       "category": "Microsoft",
@@ -723,6 +747,18 @@
     },
     {
       "category": "Business Analysis",
+      "source": "Google News · iiba.org",
+      "title": "Events - IIBA Ottawa-Outaouais",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLXVZNTk0OGdCRnEwWVdmZlFTd09VYWJzYW1ETWVsYldlRy1pWmRFRzZtaXgwSXZVVVhLTFNJVU1yc3ppU1hzeEltaVRiM3p0amlZdFJVTFMtdjllczFiU0syN2FjclBFT2Jkc2xBUm9DOVQ0emV0VlYxaFRvQkpfZjBRMWlNQnVURDU5Rzc5ZFdMNnB0dXhmSg?oc=5",
+      "summary": "Events IIBA Ottawa-Outaouais",
+      "published_at": "2026-11-15T19:48:34Z",
+      "image_url": "https://iiba.org/favicon.ico",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
+    },
+    {
+      "category": "Business Analysis",
       "source": "Adaptive US",
       "title": "AI Experiments to Business Results: Building a Scalable AI Strategy",
       "url": "https://www.adaptiveus.com/blog/build-scalable-ai-strategy/",
@@ -758,18 +794,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/ca92341efbd43de2.jpg"
     },
     {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Orchestrating Value: Ten Skills for the Future of Business Analysis - IIBA",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmwzeEJBZjFzbjdnREpfRmszSm9GTW9EbUVWaUYycy1ZamFKSnFORkFIa1U4OVNxQ2EtU0tuMWp5Q2ctOHJuTjlSd1JLVzB2dU9DdXZKeDVPVEJIRXJTZTVfVXNKdEZmRVlsSy1WaWtlR0tJSW40WlREYzVTOVZ0ams4eW5XbEVKMTdqSXhzSmRHSjN5ZVVSQV9ERG95czkyN2ozR2xMNA?oc=5",
-      "summary": "Orchestrating Value: Ten Skills for the Future of Business Analysis IIBA",
-      "published_at": "2026-11-11T08:00:00Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
-    },
-    {
       "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Accelerate Agent-Driven Development with the Headless Toolkit",
@@ -780,18 +804,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/571c75c4704f3cac.jpg"
-    },
-    {
-      "category": "Business Analysis",
-      "source": "Google News · iiba.org",
-      "title": "Events - IIBA UK",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGFCbkd1aEtCMjFpU3RTbl9kMnZkb1R2c0dNX1gxRHdIQ3g2aTVfVGVEMm1nMm9ONkIyRE41alV4ZFVWRXYyZU00OEhNVkpaTDRfYmNKQjNaMklQUlVLcHBmTDRvQ1VVUm9jRnZZay1EM0lCTDg4SzFxWVU1SExaLXJFY09UaUdP?oc=5",
-      "summary": "Events IIBA UK",
-      "published_at": "2026-11-09T11:49:22Z",
-      "image_url": "https://iiba.org/favicon.ico",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
       "category": "Salesforce",
@@ -807,6 +819,30 @@
     },
     {
       "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "cgcloud__Visit_Template__c - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDlNdkdyRTNOZ2lzdmlocUZJcEJWMW8ya1lQOWdfM2pjOWZMX1RnTHFNeXlnckZGc1A0U1k2bVFhczl6Q0FHVXBlWFdWYWZlVVFOOVpSMGNSM1I2MG9zWjNEVFlpZ1AzY19PT3duQ3pDMjEwb1dhQ20zVjhjNnRsUGVjSnBqc3FmdUpQZkR4ZTMxS1dpa0RDdV9xZld1RDA1MWVNOHdOZ3lXYmV0QW5id0NjTVo5TUU?oc=5",
+      "summary": "cgcloud__Visit_Template__c Salesforce Developers",
+      "published_at": "2026-11-08T11:55:10Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "MeetingPlaybookDefinition - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pyc2FOVDl6VVhTcW8xVnIyQWZqVnVpS3hfaW4wN1VqNll2UDN6UE1xT3l2RVpibkN6dF9DYjhYN0tiWlFyd3IxUkdRajVKZ25sVGVHLWpDWS1tdEhwck9IaEg3blNkcUp6YjRuTGd1NGkyT1dmaTE2b2N6T3dCSHhvdFNTbHl6UUJHdEhTZENQQzdtV2ZqcWVsWWs4OE03czJoLWVyQWQ0ZmhMeDVTZVpkRQ?oc=5",
+      "summary": "MeetingPlaybookDefinition Salesforce Developers",
+      "published_at": "2026-11-08T00:12:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
       "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
@@ -819,47 +855,11 @@
     },
     {
       "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
-      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
-      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
-      "published_at": "2026-11-05T16:00:55Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
-    },
-    {
-      "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "Find Your Server URL | Connect MCP Clients | Hosted MCP Servers - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG5jZlpwQU9MdDNKbWhyekh4R0E2Z29sOVdVVGtfcWFOd3hITmxTeHo3RmtBWWpXREh6c0VsZjFhRVY0bkdwcmtPSm1MdUM5Ry1Xd3A5N0M1V0ppR2FCN0Zib1lkN1NpNHRBb3AxcUVMV3B2cTNHd0c2YzFkYjlKQVpCYUdTa3VOZ2dtcFM1ZHF1Zw?oc=5",
-      "summary": "Find Your Server URL | Connect MCP Clients | Hosted MCP Servers Salesforce Developers",
-      "published_at": "2026-11-05T06:42:01Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
-      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
-      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
-      "published_at": "2026-11-04T16:00:34Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "LearningProgram - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
-      "summary": "LearningProgram Salesforce Developers",
-      "published_at": "2026-10-30T13:16:22Z",
+      "title": "MessagingConfiguration - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPXzE2Z2txcmJYR3VxM2VWZWdBMnQxR3p0czg1U2NreVdxLWpFcmhfdXMzWHF2SjlKb01iOWhCekZMZVBRM0VoMzJ6WXZSVzFmSXBQVTVSeVJacTgtLVdweVdmRjFEVlpGQXphNHJOcGUyVjRHVF9zTUozZGlNOWNNbXJFbFBtMW9WQmlpbktaQTlfMkpVMXFKdDNaQlZERVBzTzJwMzBwTWJJdXFlR3otX3pVRm1HYnB5ZUtaSGxMZ0dIZU1S?oc=5",
+      "summary": "MessagingConfiguration Salesforce Developers",
+      "published_at": "2026-11-06T09:43:59Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
