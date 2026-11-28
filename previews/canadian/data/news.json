@@ -1,12 +1,48 @@
 {
-  "updated_at": "2026-11-28T03:58:30Z",
+  "updated_at": "2026-11-28T13:11:33Z",
   "articles": [
     {
       "category": "Tech",
       "source": "Ars Technica",
-      "title": "The best Black Friday deals Ars could find",
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "summary": "Kindles are getting costlier faster than they're getting better.",
+      "published_at": "2026-11-28T12:00:20Z",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9931-1152x648-1795408102.jpeg",
+      "video_url": "",
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/f7c3aaa43dd30aa9.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
+      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
+      "published_at": "2026-11-28T10:18:58Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors - OpenAI Status",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWWtJdlhoM3hwT3lCbDd2cXZERjlDOFcxVnpzQ2xCOU1ZMmxUa1ZWak8xX3VFVTJYdHlPOHhGMEk0QWlKMGFuMENPRHZUWVduSVhnQ3JRTDdhYzVTQWxzZ3F6U0lHRHNvZ2NUSXpNYw?oc=5",
+      "summary": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors OpenAI Status",
+      "published_at": "2026-11-28T00:00:05Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
+    },
+    {
+      "category": "Tech",
+      "source": "Ars Technica",
+      "title": "The best Black Friday deals Ars could find - Ars Technica",
       "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
-      "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
+      "summary": "The best Black Friday deals Ars could find Ars Technica",
       "published_at": "2026-11-27T17:05:37Z",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black_friday_matrix-1152x648-1795796083.jpg",
       "video_url": "",
@@ -74,30 +110,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/4d1307061afabb6b.jpg"
     },
     {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center - OpenAI Help Center",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm96THVxRG9rTGtUbFBtN2lpUDJ0RWd3WmI5dHZfeUQ5MWFZdXd0NHQ4YTlMb2otYUxwTUpTMXp4NnRlMmljYmZZSHZydTl3dEl0ZmJMUURVSEl0UXhndFZSWUwwZ0JXRWNiQ3M1OHByWm1yX0FwOTJkNFhRdlFIUVotZDlqT3otXy0xQ0FTeE4yNFdkZW9KazlKbmwyYUpuWmZSeHlLaw?oc=5",
-      "summary": "How to apply to OpenWorks and follow up on your application | OpenAI Help Center OpenAI Help Center",
-      "published_at": "2026-11-27T03:02:43Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors - OpenAI Status",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jWWtJdlhoM3hwT3lCbDd2cXZERjlDOFcxVnpzQ2xCOU1ZMmxUa1ZWak8xX3VFVTJYdHlPOHhGMEk0QWlKMGFuMENPRHZUWVduSVhnQ3JRTDdhYzVTQWxzZ3F6U0lHRHNvZ2NUSXpNYw?oc=5",
-      "summary": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors OpenAI Status",
-      "published_at": "2026-11-27T00:00:05Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "What Hiring Leaders See in Certifications and Upskilling - IIBA",
@@ -120,6 +132,18 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/0287e898c3be0376.jpg"
+    },
+    {
+      "category": "AI",
+      "source": "Google News · openai.com",
+      "title": "Healthcare model configurations in the OpenAI API | OpenAI Help Center - OpenAI Help Center",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpWTkV1Tjh5Z25WNzUwMDl2bTk4QjJCcWhDOUVVVVA1cGxDZk9IX3lsRm1PWXhWTndZN2t1U21EZVF0azJybXp5Z1ZWVHRCdzBBRzVDOFRpdVRXWmExZ05OVm5sSmRRVHVWbWZqRW1PTWN4Q2tfUWpUWEF3MVlDa0xMb3lVdVVCU1JpSlRKaVNfWlhEZXNUczJB?oc=5",
+      "summary": "Healthcare model configurations in the OpenAI API | OpenAI Help Center OpenAI Help Center",
+      "published_at": "2026-11-26T14:15:35Z",
+      "image_url": "https://openai.com/apple-touch-icon.png",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
     },
     {
       "category": "Tech",
@@ -206,18 +230,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c49217ce0571b09e.jpg"
     },
     {
-      "category": "Tech",
-      "source": "Ars Technica",
-      "title": "Ladybird browser’s first downloadable alpha is surprisingly capable - Ars Technica",
-      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-      "summary": "Ladybird browser’s first downloadable alpha is surprisingly capable Ars Technica",
-      "published_at": "2026-11-25T17:33:30Z",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/3621d5ef2c334ebb.jpg"
-    },
-    {
       "category": "AI",
       "source": "Google News · openai.com",
       "title": "Elevated errors with Codex GitHub reviews and pull request merges - OpenAI Status",
@@ -232,10 +244,10 @@
     {
       "category": "Zoom",
       "source": "Zoom Blog",
-      "title": "Why context is the missing piece in revenue automation - Zoom",
+      "title": "Why context is the missing piece in revenue automation",
       "url": "https://www.zoom.com/en/blog/zra-webinar-replay-nov18/",
-      "summary": "Why context is the missing piece in revenue automation Zoom",
-      "published_at": "2026-11-25T14:42:58Z",
+      "summary": "Most revenue teams have plenty of automation. What they’re missing is context. Erin Kriese and Jared Wexler share a 4-question test for every automation you run and illustrate how one buyer signal can be carrie…",
+      "published_at": "2026-11-25T15:00:00Z",
       "image_url": "https://media.zoom.com/images/assets/ZRA+Teaser+blog+post+recording+webinar+.webp/Zz0wNWFiZDk5ZWU4ZGMxMWYxYTEzZDMyNGU5NGM5MDg1ZA==",
       "video_url": "",
       "image_kind": "article",
@@ -252,18 +264,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a669e0635407ff50.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Partner Locator - Zoom Partners",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbE1qY0Z2aTdDUVBldWRrX0gybE1yWEJXZXVoQjc4al9kNmFtcF92R1kxWXRRRWJzQU5NbXhranBrTWQ0MHNmSHYzcjNzTDAwaklhMnJiYjhQT25tVTV0YUZGdVNTTHVUWTlIQ2xfZUMwb2JlLWo2c1FwM0ZYU29lVVk0eF9kV1F4ckw4Z1hXTnpKTEtadW9rRWZ2MEs0N0NPR2FXRzBKdEp6UWVGaV9YcnlaYW1xN1k?oc=5",
-      "summary": "Partner Locator Zoom Partners",
-      "published_at": "2026-11-25T12:09:36Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "AI",
@@ -302,18 +302,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Partner Locator - Zoom Partners",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY3NXT0NUSWxsM29YdS1CRW9UdV9jQ3N0b1BxRFJJNWh1djF2aFZSbk1fQjlZZDdiWDBIbWM0b1I0VEdzb0k4c3JVOVVNN2dvdDRDN0NOTmxGMmZBV0dRc2d4b1VMTUxESE91VE9RclQtS2pTZVN3d3RPS04yQXJFSkdsTzZVX0x2S0ZOeFZTUi1DWHFwNFY3R0lmSmx1clB6dUM4UXFqX3FuRTFYcXdiWTdZOU80UG8?oc=5",
-      "summary": "Partner Locator Zoom Partners",
-      "published_at": "2026-11-24T22:59:25Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "AI",
       "source": "OpenAI News",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities - OpenAI",
@@ -348,18 +336,6 @@
       "video_url": "",
       "image_kind": "",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/e3b68edb7f9c182c.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Customer Story: SharkNinja builds consumer trust with Zoom Contact Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55dXlpMWJrN1pZSG04WXNvLUktaUNFakxScjlFcTB3TUZvMGFZRzFOdUR1N0pETkdTeDlLUG41U1ljWEcwc0ZweUNSbnpWMXRrN1lfelJVSXRXWk5FSFJrMjRR?oc=5",
-      "summary": "Customer Story: SharkNinja builds consumer trust with Zoom Contact Center Zoom",
-      "published_at": "2026-11-24T14:03:44Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Business Analysis",
@@ -422,18 +398,6 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b5aee8f4defd676c.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "My Notes vs. Granola: Which AI Note Taker Fits You? - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TdUpjaVlKcnd2RjVoaXVJbEdIVGRuVkx2b0cwWUFFbzZSRUk5dk51Z0JLVVJYbjZxZzU4LTVTSy1HVGlLRlNpUmJ2YXJwUDdsbWZzRnNIakx5YnFY?oc=5",
-      "summary": "My Notes vs. Granola: Which AI Note Taker Fits You? Zoom",
-      "published_at": "2026-11-23T22:45:27Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Maintenance windows for cloud-managed systems - Windows IT Pro Blog - Microsoft Community Hub",
@@ -456,42 +420,6 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/18dedffbeee10c60.jpg"
-    },
-    {
-      "category": "AI",
-      "source": "Google News · openai.com",
-      "title": "Introducing OpenWorks - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB3dnpudUxOQ0JOd0pNZ1Q3Qm5qM1plZTBTQ1pwZkg4NFVxUlViTmZRd25PVTkwSEdtNmF0dnFUUUxNalk?oc=5",
-      "summary": "Introducing OpenWorks OpenAI",
-      "published_at": "2026-11-23T18:15:12Z",
-      "image_url": "https://openai.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e91ae0b317572bd4.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "30% off Black Friday & Cyber Monday 2026 - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlQ1ZIS3JkcXAxalJqVFVKMG9Nc0E3SVRKelp3T3dBMXZIbV9QYVE4WkhtTTZJWVRWdk03NENYMmk4Z0FOUEVUMkRVVWZSZw?oc=5",
-      "summary": "30% off Black Friday & Cyber Monday 2026 Zoom",
-      "published_at": "2026-11-23T10:21:52Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
-    },
-    {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Official Zoom Support | Help Center - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQMVp5Mkh2V1hRR0tnMVpwcGJja3dpTkFndnBQLVk0N2hJY250cE52d0xzTUVSUmhoUEtWejdIQ2RmNG5yQUVXaW9NUlowcUViS3c5YVN2TDFoSlJUX0JVOF85YTdmekg5UzZwVmt2RnBVemRNVWFtMUcyRVdmR3VxYWNjNjdteTZabXRlM0pWVVRUUTQtazNPRDNzVk15S0JKcEJZb2JublktTzJtTnExcTZ6VG1ZR2dOamppTm5ycWxvaEdVb05GNWJtTm5qYndIWmh6ZE1LMFFMZmdZUmlsTVlCVEZxazFhb1Jrc3ZTLWJmbW45OERXQU1TNEo3R0ppZ1FDVnJfT18xaXU5X0dtcnAteGpXdl9Fd0JnZ2JXa2lvYVltOVVxa3FR?oc=5",
-      "summary": "Official Zoom Support | Help Center Zoom",
-      "published_at": "2026-11-22T06:24:39Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
     },
     {
       "category": "Microsoft",
@@ -542,6 +470,18 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/05c0a6ed5fba1126.jpg"
     },
     {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "Salesforce Connect Developer Guide - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0llcTRPenhkSk5RbE9HVF92bVdFU3FlUUhlbF82SzZwWmlHVE1IVWRORjJBLTMtRXlhaDBWYVZGUHEySEV4T3M3Nzl3eVNuX3dUYndDZHV6aE85cU9IaWVhQlpyc2lMakZIWUtRUEgycnJMdEtUYkdQWEsxclRlSi1GLVFqUW51WXhqUFEwN3MwM2dIdVFKUDhrbw?oc=5",
+      "summary": "Salesforce Connect Developer Guide Salesforce Developers",
+      "published_at": "2026-11-20T15:50:45Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
       "category": "Business Analysis",
       "source": "Google News · iiba.org",
       "title": "How AI Helps Me Ask Better Questions as a Business Analyst - IIBA",
@@ -554,16 +494,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Zoom",
-      "source": "Google News · zoom.com",
-      "title": "Marketplace featured topics - Zoom",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kb2p2ZzJ0UHJBZ3dlMm5fUzFqTW9WeVN0MXhwMHU4NGNFQnBZNzhjR2xvLXZMV3VucTNnTFMydnphazRaYURoRDdFcGxEZU8ybzVKUg?oc=5",
-      "summary": "Marketplace featured topics Zoom",
-      "published_at": "2026-11-19T21:39:48Z",
-      "image_url": "https://zoom.com/apple-touch-icon.png",
+      "category": "Salesforce",
+      "source": "Salesforce Developers",
+      "title": "Headless Development with Metadata Visualizer and Live Preview - Salesforce Developers",
+      "url": "https://developer.salesforce.com/blogs/2026/11/headless-development-with-metadata-visualizer-and-live-preview",
+      "summary": "Headless Development with Metadata Visualizer and Live Preview Salesforce Developers",
+      "published_at": "2026-11-19T17:57:17Z",
+      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261118075858/SingleHeadshot-16-e1795017556230.png?w=1000",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/c225f7da2c5cc128.jpg"
+      "image_kind": "",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/541e6255fb68b4d7.jpg"
     },
     {
       "category": "Zoom",
@@ -578,28 +518,76 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/6287b24719b8d614.jpg"
     },
     {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "4,000 apps and counting: What's new in the Zoom Marketplace",
+      "url": "https://www.zoom.com/en/blog/zoom-marketplace-4000-apps/",
+      "summary": "Welcome to Zoom Marketplace: 4,000 apps, powerful admin controls, and an open platform designed to work the way your business does",
+      "published_at": "2026-11-19T16:47:37Z",
+      "image_url": "https://media.zoom.com/images/assets/4000+apps+marketplace/Zz1jYmIyZGI1NGU0MzgxMWYxYTVhMmQ2Y2M5Nzc3N2M0Yw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/c0fe6d9547006701.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is a satisfaction survey?",
+      "url": "https://www.zoom.com/en/blog/what-is-a-satisfaction-survey/",
+      "summary": "Learn what a satisfaction survey is, how it works, and which types to use. See how contact center managers turn customer feedback into better service.",
+      "published_at": "2026-11-19T14:43:37Z",
+      "image_url": "https://media.zoom.com/images/assets/what-is-a-satisfaction-survey.webp/Zz1kOGVjZWE1YWU0MjcxMWYxYmMyNzYyNWE4MzZmYTZjOA==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/557a2c8374c705a9.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is first contact resolution?",
+      "url": "https://www.zoom.com/en/blog/first-contact-resolution/",
+      "summary": "Discover how first contact resolution (FCR) impacts customer satisfaction, the formula to calculate it, and strategies to boost resolution rates.",
+      "published_at": "2026-11-19T14:32:37Z",
+      "image_url": "https://media.zoom.com/images/assets/first-contact-resolution.webp/Zz03YmIzM2VlNGU0MjYxMWYxYmQ1ODEyNGM2MTg3N2NiYw==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/a2671f94fe094367.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is agentic orchestration?",
+      "url": "https://www.zoom.com/en/blog/agentic-orchestration/",
+      "summary": "Agentic orchestration coordinates work across AI agents, systems, and contact center teams. Learn how it works and what to evaluate.",
+      "published_at": "2026-11-19T14:01:56Z",
+      "image_url": "https://media.zoom.com/images/assets/agentic-orchestration.webp/Zz1mYzg0MTE1NmU0MjExMWYxOWU4MzZlNzk0MWIzOTQ1OA==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0cca644d60a49e7c.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Zoom in on CX Podcast: The \"Purposeful Friction\" Trick That Builds Customer Trust",
+      "url": "https://www.zoom.com/en/blog/zoom-in-on-cx-episode4-hopewood/",
+      "summary": "AI is changing every customer conversation—but is it building trust or breaking it? Ben Neo sits down with Leigh Hopwood, CEO of the CCMA, to unpack why trust is becoming the defining differentiator in customer…",
+      "published_at": "2026-11-19T11:00:00Z",
+      "image_url": "https://media.zoom.com/images/assets/EP4+Leigh+Hopwood_LP.webp/Zz0wYjRkOWY4YWQ5ZTcxMWYxYWM4ZTA2NmJkYWEyYzI0OQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/0c6d8b48733bb445.jpg"
+    },
+    {
       "category": "Microsoft",
       "source": "Google News · techcommunity.microsoft.com",
       "title": "Introducing RDMA over USB4® on Windows: run larger local AI models across PCs - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWFpucFZDdHlvd3ZZTGdEalg1NkRmN0NOaHEwRnk2R01jcU96bnZMRlppLXBZbnA3eFBtWXNyUzFlLVVFbndTTVdWaW1Gd2RmUmh3WDBadlRNSVNnMWtuSmVCRUdqOVByWDcwRERmZEZiM2RJME5paFNPWGp1X3Y3ejdNcXYxTWo1WHk4MnFSVldjUTVTQWFRdlJUSGVpWWJKM2ExeVp3N3hXY2dTYjA5ZERlVUFJMnVBRFNXSUkya3kzMDMyeDB0YXJUOVZCelNPSzRDVmI3WWxmemVmRWdENQ?oc=5",
       "summary": "Introducing RDMA over USB4® on Windows: run larger local AI models across PCs Microsoft Community Hub",
-      "published_at": "2026-11-19T16:30:41Z",
+      "published_at": "2026-11-19T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Headless Development with Metadata Visualizer and Live Preview",
-      "url": "https://developer.salesforce.com/blogs/2026/11/headless-development-with-metadata-visualizer-and-live-preview",
-      "summary": "Learn how to combine the Headless Toolkit with Metadata Visualizer and Live Preview in VS Code. Explore how to visualize Salesforce metadata, preview UI changes, and streamline agent-driven development. The pos…",
-      "published_at": "2026-11-19T16:30:22Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261118075858/SingleHeadshot-16-e1795017556230.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/541e6255fb68b4d7.jpg"
     },
     {
       "category": "Microsoft",
@@ -612,6 +600,18 @@
       "video_url": "",
       "image_kind": "article",
       "local_image_url": "/Oba/previews/canadian/assets/news-images/a62869b7a7fd43c0.jpg"
+    },
+    {
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "Async meeting best practices: how to run productive meetings without the scheduling chaos",
+      "url": "https://www.zoom.com/en/blog/async-meeting-best-practices/",
+      "summary": "Learn eight async meeting best practices that help remote teams collaborate without scheduling conflicts, using Zoom Clips and Canvas to stay aligned.",
+      "published_at": "2026-11-18T18:58:39Z",
+      "image_url": "https://media.zoom.com/images/assets/async-meeting-best-practices.webp/Zz1kNjQzZDA1MmUzODIxMWYxOWNiYmY2Nzg2ODFiMjljOQ==",
+      "video_url": "",
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/8a36a2c1928019e1.jpg"
     },
     {
       "category": "Microsoft",
@@ -631,6 +631,18 @@
       "title": "Introducing unified tasks and plans for Copilot and Microsoft 365 - Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM0luam54dFhGSl9zY0Z4cnlsUVlWdW1Db25ST1gyUVhrcXpQa29kRjVNVEhCMjRqb3BEMjRmeGNJc2lHNkdwVUZXRWJSM2tGMzRvcWNFdzFhQ2xEU1pDRDdwWHNTcjhtRHBDSzN4ZnVzT1hNd0VMTFFXbXk2MzE1TGNXeDBSb0NFMDd1NElLdjJRS0ZQbTRvY21YWHhOSC1YcjJibC1YdXVBWFB4b0QwZTUwYk5QalJSUHlmaXR1SmRJUDJu?oc=5",
       "summary": "Introducing unified tasks and plans for Copilot and Microsoft 365 Microsoft Community Hub",
+      "published_at": "2026-11-18T08:00:00Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+    },
+    {
+      "category": "Microsoft",
+      "source": "Google News · techcommunity.microsoft.com",
+      "title": "Introducing Microsoft-Decision-1.1: Build faster, more efficient AI applications with decision model - Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTzI1eklRa0x5N0dyLTAzZ2dlQTBEY0Zza0JyRjBtLURRSVpiWnJOdkJWdTgyanpLLWZuOVE5QVJkcEVWX3h1aXMxSnZfdzQ2TTFDaWc2LS1mYjFUcXY0MjEtRWVkYUlQbHNsSExSQXZQTDdyM1lMV0REaW5MMUs3b2FnWUtxLUEzd1duQzRDOWVYQWw5MndBTXJwV1hBSlhPTDZFVjcxT3NhOUdrRzd5UmRqQVd6TnJCcVBpazBiLXlXZThPa1M5WkxFMHZxYUdPb3FBM0hsZlQxVGZ1QnlqQW5pOGVaQQ?oc=5",
+      "summary": "Introducing Microsoft-Decision-1.1: Build faster, more efficient AI applications with decision model Microsoft Community Hub",
       "published_at": "2026-11-18T08:00:00Z",
       "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
       "video_url": "",
@@ -710,16 +722,16 @@
       "local_image_url": "/Oba/previews/canadian/assets/news-images/c2d898183103744f.jpg"
     },
     {
-      "category": "Microsoft",
-      "source": "Google News · techcommunity.microsoft.com",
-      "title": "A verifiable security state with Windows baseline protection - Windows IT Pro Blog - Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUpiM3I5T1pGNFl6NXBjTGRMeHJEd2hPRWlqR3hLUDdJMHVnclQwdVJDcE85M0J5Nnl4SHQtSWRybXJ0QV9EN094aDFxd25Maml5cW94c1NOdE5USTZKY21ERXVhOGhfaTlzMXdzbktvekN1MThITVlVbTFDU2pvcnlBRkg3X3RpY1NTU1VZT3BHWGI5TTdOVXlDeFFYc0RHR3RDaWlDUlhRUWxWc2RHcGRSSXRNanktWEl2aDlRR3RYS1JMQWpz?oc=5",
-      "summary": "A verifiable security state with Windows baseline protection - Windows IT Pro Blog Microsoft Community Hub",
-      "published_at": "2026-11-17T08:00:00Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=techcommunity.microsoft.com&sz=256",
+      "category": "Zoom",
+      "source": "Zoom Blog",
+      "title": "What is a marketing campaign? A plain-English guide",
+      "url": "https://www.zoom.com/en/blog/what-is-a-marketing-campaign-a-plain-english-guide/",
+      "summary": "What is a marketing campaign? Learn the definition, key parts, types, and a 7-step plan, plus how webinars can power your next campaign.",
+      "published_at": "2026-11-16T21:10:00Z",
+      "image_url": "https://media.zoom.com/images/assets/getty+marketing+campaign/Zz00N2IwZWI5NmUyMDAxMWYxOTRmYzUyY2Y0MGMxM2M5OA==",
       "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b044c0a7c0a4ae9e.jpg"
+      "image_kind": "article",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/3c2438b35df26269.jpg"
     },
     {
       "category": "Business Analysis",
@@ -807,6 +819,30 @@
     },
     {
       "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "cgcloud__Visit_Template__c - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaDlNdkdyRTNOZ2lzdmlocUZJcEJWMW8ya1lQOWdfM2pjOWZMX1RnTHFNeXlnckZGc1A0U1k2bVFhczl6Q0FHVXBlWFdWYWZlVVFOOVpSMGNSM1I2MG9zWjNEVFlpZ1AzY19PT3duQ3pDMjEwb1dhQ20zVjhjNnRsUGVjSnBqc3FmdUpQZkR4ZTMxS1dpa0RDdV9xZld1RDA1MWVNOHdOZ3lXYmV0QW5id0NjTVo5TUU?oc=5",
+      "summary": "cgcloud__Visit_Template__c Salesforce Developers",
+      "published_at": "2026-11-08T11:55:10Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
+      "source": "Google News · developer.salesforce.com",
+      "title": "MeetingPlaybookDefinition - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2pyc2FOVDl6VVhTcW8xVnIyQWZqVnVpS3hfaW4wN1VqNll2UDN6UE1xT3l2RVpibkN6dF9DYjhYN0tiWlFyd3IxUkdRajVKZ25sVGVHLWpDWS1tdEhwck9IaEg3blNkcUp6YjRuTGd1NGkyT1dmaTE2b2N6T3dCSHhvdFNTbHl6UUJHdEhTZENQQzdtV2ZqcWVsWWs4OE03czJoLWVyQWQ0ZmhMeDVTZVpkRQ?oc=5",
+      "summary": "MeetingPlaybookDefinition Salesforce Developers",
+      "published_at": "2026-11-08T00:12:55Z",
+      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
+      "video_url": "",
+      "image_kind": "publisher_logo",
+      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
+    },
+    {
+      "category": "Salesforce",
       "source": "Salesforce Developers",
       "title": "Amazon Bedrock から MCP サーバー経由で Salesforce を触る",
       "url": "https://developer.salesforce.com/blogs/2026/11/jp-access-salesforce-from-amazon-bedrock-via-mcp-server",
@@ -819,47 +855,11 @@
     },
     {
       "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Metadata Grounding: Let Your Coding Agent Search Your Org by Intent",
-      "url": "https://developer.salesforce.com/blogs/2026/11/metadata-grounding-let-your-coding-agent-search-your-org-by-intent",
-      "summary": "Introducing Metadata Grounding MCP (Beta). Learn how coding agents can search Salesforce org metadata using natural language, discover existing components, and reuse what's already built. The post Metadata Grou…",
-      "published_at": "2026-11-05T16:00:55Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261104084827/Generic-A-11-e1793810926525.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/e6e1f8340cc0ca0e.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Salesforce Developers",
-      "title": "Runtime Behavior Anti-Patterns in Lightning Web Components",
-      "url": "https://developer.salesforce.com/blogs/2026/11/runtime-behavior-anti-patterns-in-lightning-web-components",
-      "summary": "Learn how to avoid the DOM-access, timing, lifecycle, and performance mistakes that make Lightning Web Components behave unpredictably, and why some base components silently fail outside Lightning Experience. T…",
-      "published_at": "2026-11-04T16:00:34Z",
-      "image_url": "https://d259t2jj6zp7qm.cloudfront.net/images/20261029132431/Generic-C-9-e1793305490174.png?w=1000",
-      "video_url": "",
-      "image_kind": "",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/64f3890f2851626e.jpg"
-    },
-    {
-      "category": "Salesforce",
       "source": "Google News · developer.salesforce.com",
-      "title": "BusinessLicense - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcksxYjdFYm1QNnpmeWs1NHZnOFpjQUhBdDJzMktyUDJYbWNDVHE2YS1VUkxlXzlNT1dTTU9zc01BMXdJN3FOYzFpeG9Jc0xfUmdOc0dseFlmaHRkX0NwaUZudklCVG1kcTd1S2RtZVFobWNQOGh2NTh2MDFXOWdJSzFpa2MzX3lpTkxSbTl5ckMxa0VQeERZSFVLd05KaGlOcFhzQVE2dDhsaElt?oc=5",
-      "summary": "BusinessLicense Salesforce Developers",
-      "published_at": "2026-10-30T13:19:29Z",
-      "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
-      "video_url": "",
-      "image_kind": "publisher_logo",
-      "local_image_url": "/Oba/previews/canadian/assets/news-images/b74d6a86ecb3a3a5.jpg"
-    },
-    {
-      "category": "Salesforce",
-      "source": "Google News · developer.salesforce.com",
-      "title": "LearningProgram - Salesforce Developers",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeVBSeVdvQUVXbWVRdU83QmJwaVdCT25ISk5UejhKWXllR3RPam43emZQeWhLcEtseWxYQ2tTSERtVUNaTXBid0NhQmlBRi1IbTJmT2tyZmdEYk9QWE1FbTR5QlU1ZDJPODNCSlJHQ1FIWDBlNXBlMGs5NEN0cV9fLWgyRzh5YVptR3dfTXgwbHBnX3phYTFVc0ZSOHRnWTFhUDIzZzlBbU9BLXpScUZBdi1GMEI?oc=5",
-      "summary": "LearningProgram Salesforce Developers",
-      "published_at": "2026-10-30T13:16:22Z",
+      "title": "DevopsProjectPipeline - Salesforce Developers",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT2ZrbF93M1lxOFk2dEVrQTNfbjFlMFJsTWFBQldlUzlGZzJnYmp4aUdYQjlMTVUxZ19xZURsc0pES3dxS2VEamo0M2ttS2xGMm1NSUEyY0ctTTBpcTBRWHFJNG5xLWZsM1UyVzFkUGRlbzZKTEpteUJxdVVQVlhfNFFoTDlQQzlkRlQwQ1pjTGRpM3A5THliZGpWX0lnNUYzNHZwS25sVEdSdDJQR2lObEdlRXNjV0dvUmFZT013UnRfM2c?oc=5",
+      "summary": "DevopsProjectPipeline Salesforce Developers",
+      "published_at": "2026-11-06T09:44:31Z",
       "image_url": "https://www.google.com/s2/favicons?domain=developer.salesforce.com&sz=256",
       "video_url": "",
       "image_kind": "publisher_logo",
@@ -877,7 +877,6 @@
     "Salesforce",
     "Microsoft",
     "AI",
-    "Zoom",
     "Tech",
     "Business Analysis"
   ]
